@@ -363,6 +363,8 @@ python tools\deploy_all.py --github # 再补 GitHub Pages
    - `ssh-keygen -t ed25519 -f %USERPROFILE%\.ssh\id_ed25519_github -N '""'`
    - 公钥加到 GitHub → Settings → SSH and GPG keys
    - `%USERPROFILE%\.ssh\config` 加 `Host github.com / HostName ssh.github.com / Port 443 / IdentityFile ~/.ssh/id_ed25519_github`
+   - **关键**：Git for Windows 自带的 ssh 在中文用户名下会把 HOME 解析成乱码路径（`/c/Users/汉字/`），导致读不到 known_hosts 和密钥、报 `Host key verification failed`；让 Git 改用系统 OpenSSH：
+     `git config core.sshCommand '"C:/Windows/System32/OpenSSH/ssh.exe" -o StrictHostKeyChecking=accept-new'`
    - `git remote set-url origin git@github.com:beenotfound/supersuper-cet.git`
 2. HTTPS 兜底：`http.version HTTP/1.1`、`http.postBuffer 512MB`、`http.lowSpeedLimit 1000`、`http.lowSpeedTime 60`（卡住快速失败）。
 3. 大提交用 `tools/git_push.ps1`（5 次指数退避）；体检用 `tools/net_check.ps1`。

@@ -89,7 +89,7 @@ node tools\test_engine.mjs           # 校准 / 排期 / 队列的验收测试
 ## 国内网络
 
 - 发布不走 GitHub：`python tools\deploy_all.py` 直接传 Cloudflare（几秒到几十秒）。
-- 访问 GitHub 慢/断时，用 **SSH over 443**（Windows 自带 OpenSSH）：公钥加到 GitHub 后，`~/.ssh/config` 把 `github.com` 指向 `ssh.github.com:443`。
+- 访问 GitHub 慢/断时，用 **SSH over 443**（Windows 自带 OpenSSH）：公钥加到 GitHub 后，`~/.ssh/config` 把 `github.com` 指向 `ssh.github.com:443`；中文用户名下还需 `git config core.sshCommand '"C:/Windows/System32/OpenSSH/ssh.exe"'`（Git 自带 ssh 会把 HOME 解析成乱码路径）。
 - 体检：`powershell -File tools\net_check.ps1`；大提交：`powershell -File tools\git_push.ps1`。
 - 不要用 hosts 把 GitHub 指到美国 IP（实测更慢）；不要用 raw.githubusercontent.com（会挂起）。
 
