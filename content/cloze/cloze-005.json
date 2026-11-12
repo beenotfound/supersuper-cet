@@ -1,0 +1,63 @@
+{
+  "id": "cloze-005",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "Birdsong in the City",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["adaptable", "adjust", "reduce"],
+  "passage": "Early in the morning, before the streets fill, a city can sound almost like a forest. Blackbirds, sparrows, and gulls sing from rooftops and plane trees, and for a few minutes the {{1}} of traffic is drowned out. City dwellers who notice this are often surprised, because the common view is that wildlife belongs to the countryside.\n\nThe truth is more interesting. Cities support fewer species than forests, but the birds that do live there are often remarkably {{2}}. Some have learned to sing at a higher pitch so that their songs can be heard above low engine {{3}}. Others have shifted the hours of their dawn chorus, starting earlier when the background is quieter. Such adjustments happen over decades rather than overnight, yet they show how quickly animals can {{4}} to an artificial environment.\n\nFor humans the benefits run the other way. Many office workers and hospital patients say that a view of greenery, or even a recording of birdsong, can {{5}} recovery and calm the nerves. This may explain why urban planners now {{6}} parks and green roofs not as decoration but as public health measures.\n\nNone of this happens by accident. A city that {{7}} nature needs space for insects, water for drinking, and trees old enough to shelter nests. It also needs residents who will {{8}} the racket their own machinery makes. Several councils have placed a {{9}} on building work during the breeding season, and some have dimmed street lights to help birds rest.\n\nSuch measures are cheap compared with the cost of a city that has {{10}} its birds, where the only sound is the traffic that drove them away.",
+  "bank": ["roar", "fragile", "adjust", "speed", "wander", "adaptable", "lecture", "noise", "fold", "treat", "lost", "reduce", "punish", "welcomes", "ban"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "roar",
+      "explain": "the {{1}} of traffic 需要名词，指车流的“轰鸣声”，与 drowned out 搭配；lecture 不合语义。"
+    },
+    {
+      "n": 2,
+      "answer": "adaptable",
+      "explain": "后文说鸟改变音高、提前鸣唱，说明它们“适应力强”，adaptable 正确；fragile 与这些证据相反。"
+    },
+    {
+      "n": 3,
+      "answer": "noise",
+      "explain": "low engine noise 指发动机的低频“噪音”，与上文 sound、pitch 的话题一致；lecture 不能形容发动机。"
+    },
+    {
+      "n": 4,
+      "answer": "adjust",
+      "explain": "can 后接动词原形，adjust to 表示“适应”，与 such adjustments 呼应；wander、fold 不接 to。"
+    },
+    {
+      "n": 5,
+      "answer": "speed",
+      "explain": "speed 作动词意为“加速”，speed recovery 是固定搭配；punish、fold 与 recovery 不能搭配。"
+    },
+    {
+      "n": 6,
+      "answer": "treat",
+      "explain": "treat...as 表示“把……视为”，与 not as decoration but as public health measures 的结构吻合。"
+    },
+    {
+      "n": 7,
+      "answer": "welcomes",
+      "explain": "主语 A city 为单数，故用第三人称单数 welcomes，意为“接纳自然”；punish 与 needs space... 的语境相反。"
+    },
+    {
+      "n": 8,
+      "answer": "reduce",
+      "explain": "reduce the racket 表示“减少喧闹声”，与后文限制施工、调暗路灯的措施并列。"
+    },
+    {
+      "n": 9,
+      "answer": "ban",
+      "explain": "place a ban on building work 指在繁殖季“禁止”施工，固定搭配且与保护鸟类的目的相符；lecture 与语境无关。"
+    },
+    {
+      "n": 10,
+      "answer": "lost",
+      "explain": "has lost its birds 用现在完成时表示“已经失去”鸟类，与后文“只剩车流声”构成对照。"
+    }
+  ]
+}

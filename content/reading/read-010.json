@@ -1,0 +1,67 @@
+{
+  "id": "read-010",
+  "type": "reading",
+  "level": "cet6",
+  "title": "The Power of Small Habits",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["intention", "automatic", "fragile", "consistency"],
+  "passage": "People who try to change a habit often begin with a large promise. They plan to exercise every morning, read more, or stop checking a phone at night. Such resolutions express genuine intention, yet many collapse within weeks. The failure is usually not a lack of willpower. It is more often a mismatch between the size of the plan and the ordinary conditions of daily life.\n\nResearch on habits suggests that repetition in a stable context is what makes behavior automatic. A habit is not merely a decision repeated; it becomes linked to a cue, such as a time of day, a place, or an action that comes before it. Once the link is strong, the behavior can unfold with little conscious effort. This is why so much advice focuses on designing cues rather than on summoning motivation.\n\nSmall steps have an advantage here. A modest action is easy to repeat, and repetition is what builds the link. Someone who intends to walk for a few minutes after lunch is more likely to do it consistently than someone who plans an hour at a gym. Consistency, in turn, produces the sense of identity that sustains habits: people who see themselves as someone who walks tend to keep walking.\n\nThe environment can quietly help or hinder. Leaving a book where it will be seen, or placing shoes by the door, reduces the effort required at the moment of decision. Conversely, a habit that depends on constant self-control is fragile, because attention and energy vary from day to day. Relying on willpower alone is a plan with a single point of failure.\n\nSetbacks are normal and need not end a habit. The useful response is to resume quickly rather than to treat a missed day as proof of failure. A habit is better understood as a path that is followed most of the time, not as a perfect record. This gentler standard is easier to live with, and therefore easier to maintain.",
+  "questions": [
+    {
+      "q": "Why do many resolutions fail, according to the author?",
+      "options": [
+        "The plans are too large for the ordinary conditions of daily life",
+        "People today lack willpower almost completely",
+        "Habits cannot really be changed once they are formed",
+        "People expect results too slowly to stay interested"
+      ],
+      "answer": 0,
+      "explain": "首段明确说失败通常不是意志力不足，而是计划规模与日常生活条件不匹配，故选第一项。第二项被作者否定，第三项过于绝对，第四项文中未提。"
+    },
+    {
+      "q": "According to paragraph 2, what makes behavior automatic?",
+      "options": [
+        "Strong motivation at the start",
+        "Occasional rewards after success",
+        "Repeated action linked to a stable cue",
+        "Competition with other people"
+      ],
+      "answer": 2,
+      "explain": "第二段说在稳定情境中重复才会使行为自动化，行为与时间、地点等线索建立联系，故选第三项。第一项恰是作者认为不够的观点，第二、四项文中未提。"
+    },
+    {
+      "q": "The word \"fragile\" in paragraph 4 most probably means",
+      "options": [
+        "long-lasting and stable",
+        "easily disturbed and likely to break down",
+        "expensive to maintain",
+        "rarely noticed by other people"
+      ],
+      "answer": 1,
+      "explain": "本句说依赖持续自控的习惯是 fragile 的，因为注意力与精力每天都不同，故指“脆弱、容易被打断”。第一项与语义相反，第三、四项与语境无关。"
+    },
+    {
+      "q": "Why does the author mention placing shoes by the door?",
+      "options": [
+        "To show that exercise requires special equipment",
+        "To suggest that tidy homes support healthy living",
+        "To warn readers against relying on self-control",
+        "To illustrate how reducing effort at decision time helps a habit"
+      ],
+      "answer": 3,
+      "explain": "第四段用“把书放在显眼处、把鞋放在门口”说明减少决策时刻的阻力有助于习惯，故选第四项。第一项并非举例目的，第二项文中未提整洁，第三项虽有相关意思但举例本身意在“减少阻力”。"
+    },
+    {
+      "q": "What does the author recommend after a missed day?",
+      "options": [
+        "Start again with a much larger goal",
+        "Treat the miss as proof that the habit is impossible",
+        "Resume quickly rather than demand a perfect record",
+        "Abandon the habit and choose a different one"
+      ],
+      "answer": 2,
+      "explain": "末段说应尽快恢复，而不是把漏掉的一天当作失败的证据，故选第三项。第一项与“小步更易重复”相反，第二、四项都与作者“挫折很正常”的态度矛盾。"
+    }
+  ]
+}

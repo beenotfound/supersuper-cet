@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-12-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年12月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-2",
+ "paperTitle": "2021年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "P1 With obesity now affecting 29% of the population in England, and expected to rise to 35% by 2030, should we now recognise it as a disease? Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, meets the dictionary definition of disease, argues Professor John Wilding. He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice \"should help reduce the stigma(耻辱) and discrimination experienced by many people with obesity,\" he adds.\n\nP2 Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition. He suggests that most people with obesity will eventually develop complications. \"But unless we accept that obesity is a disease, we are not going to be able to tackle it,\" he concludes.\n\nP3 But Dr. Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.\n\nP4 If labelling obesity as a disease was harmless then it wouldn't really matter, he writes. But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic(内在的) motivation that is such an important enabler of change.\" What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical(制药的) industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns.",
+ "questions": [
+  {
+   "q": "What does Professor John Wilding argue about obesity?",
+   "options": [
+    "Its impact on society is expected to rise.",
+    "It is now too widespread to be neglected.",
+    "It should be regarded as a genetic disease.",
+    "Its dictionary definition should be updated."
+   ],
+   "answer": 2,
+   "explain": "What does Professor John Wilding argue about obesity? 问的是这位教授关于肥胖的** 主张**，答案要在原文的明确表述中找，不需要跨段综合，是典型的细节题。 题干 What does Professor John Wilding argue about obesity? 是标准的 what + 主语 + 动词 + 介词短语 结构，主语「Professor John Wilding」，谓…"
+  },
+  {
+   "q": "What is the popular view of obesity?",
+   "options": [
+    "It is difficult to define.",
+    "It is a modern disease.",
+    "It has much to do with one's genes.",
+    "It results from a lack of self-control."
+   ],
+   "answer": 3,
+   "explain": "What is the popular view of obesity? 问的是「大众对肥胖的看法是什么」，要找的是原 文中对大众观点的客观陈述，属于细节题。 题干 What is the popular view of obesity? 是简单的 what is + 名词短语 结构，「of obesity」是 popular view 的修饰，限定看法的对象；结构简单，无陷阱。 47. What is the popular view…"
+  },
+  {
+   "q": "Why are some people opposed to labelling obesity as a disease?",
+   "options": [
+    "Obese people would not feel responsible to take any action.",
+    "Obese people would not be able to afford the medical costs.",
+    "Obese people would be overwhelmed with anxiety.",
+    "Obese people would be discriminated against."
+   ],
+   "answer": 0,
+   "explain": "Why are some people opposed to labelling obesity as a disease? 问的是反方反对的具 体原因，对应原文反方论据的明确陈述，属于细节题。 题干 Why are some people opposed to labelling obesity as a disease? 主干是 why + be + 主语 + 过去分词作表语 (opposed to)，labelling … as …"
+  },
+  {
+   "q": "What does Dr. Richard Pile think of the dictionary definition of disease?",
+   "options": [
+    "It is of no use in understanding obesity.",
+    "It is too inclusive and thus lacks clarity.",
+    "It helps little to solve patients' problems.",
+    "It matters little to the debate over obesity."
+   ],
+   "answer": 1,
+   "explain": "What does Dr. Richard Pile think of the dictionary definition of disease? 问的是具名人 物对一个具体概念的看法，原文中有他直接的评价句，属于细节题。 题干 What does Dr. Richard Pile think of the dictionary definition of disease? 主干是 what + do/does + 主语 + think…"
+  },
+  {
+   "q": "What is Dr. Richard Pile's concern about classifying obesity as a disease?",
+   "options": [
+    "It may affect obese people's quality of life.",
+    "It may accelerate the spread of obesity.",
+    "It may cause a shortage of doctors.",
+    "It may do little good to patients."
+   ],
+   "answer": 3,
+   "explain": "What is Dr. Richard Pile's concern about classifying obesity as a disease? 问的是 Pile 担忧的具体内容，原文末段有明确陈述，属于细节题。 题干 What is Dr. Richard Pile's concern about classifying obesity as a disease? 主干是 what + be + 主语，「about classif…"
+  }
+ ]
+}

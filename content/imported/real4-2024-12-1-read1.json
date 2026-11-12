@@ -1,0 +1,71 @@
+{
+ "id": "real4-2024-12-1-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2024年12月四级真题 第1套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-12-1",
+ "paperTitle": "2024年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "passage": "P1 The weakening of the human connection to nature might be good for economic growth but is bad for people. A tipping point was reached in 2020 when human-made materials—such as steel, concrete and plastic—were found to weigh more than all life on Earth. Continuing to grow concrete forests rather than real ones is shortsighted. Simply being in the nearest wood has such health benefits that the Woodland Trust successfully lobbied for it to be prescribed by doctors.\n\nP2 Yet slipping from popular culture is the wonder and beauty of the natural world. For every three nature-related words in hit songs of the 1950s, researchers found, there was only slightly more than one 50 years later. It is not a moment too soon that teenagers will be able to take a natural history test, given that for decades children have been able to name more video game characters than wildlife species.\n\nP3 Part of remedying this social disease would be for parliament to pass a \"right to grow\" law, allowing anyone to turn underused public spaces into vegetable and fruit gardens. The idea is for people to get back in touch with the soil—while producing food sustainably.\n\nP4 Vegetable planting has a respectable tradition. In April 1649, locals responded to high prices and food shortages by cultivating vegetables on common land in Southern England. The practice of throwing seed bombs to turn vacant plots of land green took off in 1970s New York, and has been revived(使复活) by green-thumbed(有园艺才能的) social media influencers who defy local US regulations in a war on ugly spots in cities.\n\nP5 Apart from the urgent task of providing more healthy nutrients to those who increasingly can't afford them, publicly accessible fruit and vegetable gardens connect what we eat to where it comes from —the means of production, if you will. They can make unlovely spaces lovely, and marry use and beauty as well as help promote a sense of community. Plants are also, of course, our first defence against species loss and climate change. Such planting is a small step for humanity—in the right direction.",
+ "questions": [
+  {
+   "q": "What does the author want to emphasise in the first paragraph?",
+   "options": [
+    "The year 2020 was a big turning point in human history.",
+    "Economic growth benefits people little in the long run.",
+    "It is unwise to weaken the human connection to nature.",
+    "It is harmful to mankind to use human-made materials."
+   ],
+   "answer": 2,
+   "explain": "What does the author want to emphasise in the first paragraph? 问的是首段作者想强 调什么，是段落主旨而非局部细节。 What does the author want to emphasise in the first paragraph? 是 What 引导的特殊 疑问句，want to emphasise 是一个简单的动词短语，无从句无否定，结构清爽，无陷阱。 46. …"
+  },
+  {
+   "q": "What did researchers find about popular culture?",
+   "options": [
+    "It is increasingly detached from the natural world.",
+    "It is filled with all kinds of video game characters.",
+    "It is especially appealing to the taste of teenagers.",
+    "It is still impacted by the hit songs of the 1950s."
+   ],
+   "answer": 0,
+   "explain": "What did researchers find about popular culture? 直接问研究者发现了什么客观事实， 属于细节题。 What did researchers find about popular culture? 是 What 引导的特殊疑问句，主谓 researchers find，about popular culture 限定 find 的对象，结构平铺，无陷阱。 For every three na…"
+  },
+  {
+   "q": "What does the author propose people do?",
+   "options": [
+    "Take measures to ensure sustainable food development.",
+    "Reconnect with nature through the right to grow.",
+    "Stand by the parliament in fighting social diseases.",
+    "Cover public spaces with fruit trees and vegetable plants."
+   ],
+   "answer": 1,
+   "explain": "What does the author propose people do? 问作者具体提议人们做什么，定位到对应主 张句即可作答，属于细节题。 What does the author propose people do? 是 What 引导的特殊疑问句，propose 后 接\"people do\"是\"propose sb do sth\"句型省略了 that 与情态的简略问法，相当于问\"作者 建议人们做什么\"，无陷阱。 48. Wh…"
+  },
+  {
+   "q": "What do we learn from the passage about vegetable planting?",
+   "options": [
+    "It all started in 1649 in Southern England.",
+    "It is protected by US government regulations.",
+    "It has long been used to increase food supply and improve urban landscape.",
+    "It has been popularised worldwide with the increasing influence of social media."
+   ],
+   "answer": 2,
+   "explain": "What do we learn from the passage about vegetable planting? 问从文章中获取的事实 信息，属于细节题。 49. What do we learn from the passage about vegetable planting? A) It all started in 1649 in Southern England. B) It is protected by US gov…"
+  },
+  {
+   "q": "What can publicly accessible fruit and vegetable gardens do apart from their practical functions?",
+   "options": [
+    "Raise people's environmental awareness.",
+    "Add to the great variety of plant species.",
+    "Act as the first defence against natural disasters.",
+    "Enhance people's community spirit."
+   ],
+   "answer": 3,
+   "explain": "What can publicly accessible fruit and vegetable gardens do apart from their practical functions? 问的是除实用功能之外这些菜园还能做什么，是对应原文并列项的细 节题。 What can publicly accessible fruit and vegetable gardens do apart from their practical …"
+  }
+ ]
+}

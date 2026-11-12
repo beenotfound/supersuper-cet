@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-12-1-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年12月四级真题 第1套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-1",
+ "paperTitle": "2021年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "P1 As many office workers adapt to remote work, cities may undergo fundamental change if offices remain under-utilized. Who will benefit if working from home becomes the norm?\n\nP2 Employers argue they make considerable savings on real estate when workers shift from office to home work. However, these savings result from passing costs on to workers.\n\nP3 Unless employees are fully compensated, this could become a variant of parasitic( 寄生的) capitalism, whereby corporate profits increasingly rely on extracting value from the public—and now personal—realm, rather than on generating new value.\n\nP4 Though employers are backed by a chorus of remote work advocates, others note the loneliness, reduced productivity and inefficiencies of extended remote work.\n\nP5 If working from home becomes permanent, employees will have to dedicate part of their private space to work. This requires purchasing desks, chairs and office equipment.\n\nP6 It also means having private space dedicated to work: the space must be heated, cleaned, maintained and paid for. That depends on many things, but for purposes of illustration, I have run some estimates for Montreal. The exercise is simple but important, since it brings these costs out of the realm of speculation into the realm of meaningful discussion.\n\nP7 Rough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home.\n\nP8 What does this mean for offices in cities? One of two things may happen: Employers pass these costs onto employees. This would be a form of expropriation( 侵占), with employees absorbing production costs that have traditionally been paid by the employer. This represents a considerable transfer of value from employees to employers.\n\nP9 When employees are properly compensated, employers' real estate savings will be modest. If savings are modest, then the many advantages of working in offices—such as lively atmosphere, rapidity of communication, team-building and acclimatization( 适应环境) of new employees—will encourage employers to shelve the idea of remote work and, like Yahoo in 2013, encourage employees to work most of the time from corporate office space.",
+ "questions": [
+  {
+   "q": "What does the author say about working from home?",
+   "options": [
+    "It will become the norm sooner or later.",
+    "It requires employees to adapt promptly.",
+    "It benefits employers at the expense of employees.",
+    "It will force cities to transform their infrastructure."
+   ],
+   "answer": 2,
+   "explain": "What does the author say about working from home? 没有 infer/imply/mainly about，而是问作者就 working from home 这一具体话题说了什么，落点在一处可定位的 判断句，因此按细节题处理。 题干 What does the author say about working from home? 主干是 What does the author say，…"
+  },
+  {
+   "q": "Why do some people oppose working from home?",
+   "options": [
+    "It discourages team spirit.",
+    "It invades employees' privacy.",
+    "It undermines traditional values.",
+    "It negatively impacts productivity."
+   ],
+   "answer": 3,
+   "explain": "Why do some people oppose working from home? 用 why 直接问反对原因，答案是文 中明确列举的事实理由，可在一句话里找到，按细节题处理。 47. Why do some people oppose working from home? A) It discourages team spirit. B) It invades employees' privacy. C) It undermin…"
+  },
+  {
+   "q": "Why did the author run the estimates for Montreal?",
+   "options": [
+    "To provide convincing data for serious discussion.",
+    "To illustrate the ongoing change in working patterns.",
+    "To show the impact of remote working on productivity.",
+    "To exemplify how remote working affects the economy."
+   ],
+   "answer": 0,
+   "explain": "Why did the author run the estimates for Montreal? 问的是作者具体动作的目的，原文 一般在动作句的同一句或紧邻句用 since/so as to/in order to 直接给出，按细节题处理。 题干 Why did the author run the estimates for Montreal? 是 why 引导的一般疑问句过 去时，for Montreal 作 estimates…"
+  },
+  {
+   "q": "What can we conclude from the author's calculations?",
+   "options": [
+    "There is no point in transferring office work to working from home.",
+    "Employees can benefit as much from remote working as their employers.",
+    "Employers' gain from remote working should go to employees as compensation.",
+    "Effective measures should be taken to motivate employees to set up offices at home."
+   ],
+   "answer": 2,
+   "explain": "What can we conclude from the author's calculations? 用 conclude，要求由文内信息 推出一个未直接写出的结论，但只能一步延伸，属于轻推断题。 题干 What can we conclude from the author's calculations? 是 wh-疑问句，from the author's calculations 是 conclude 的来源状语，结构简单，无…"
+  },
+  {
+   "q": "What is the author's opinion on working from home?",
+   "options": [
+    "It should be avoided if possible.",
+    "It is only a temporary measure.",
+    "It can reduce companies' real estate costs.",
+    "It may affect employees' corporate loyalty."
+   ],
+   "answer": 0,
+   "explain": "What is the author's opinion on working from home? 直接用 opinion 询问作者态度， 需要聚合全文极性词，按态度题特殊路径处理。 50. What is the author's opinion on working from home? A) It should be avoided if possible. B) It is only a temporary measure. …"
+  }
+ ]
+}

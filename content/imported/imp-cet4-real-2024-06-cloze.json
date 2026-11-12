@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-real-2024-06-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-06",
+ "paperTitle": "2024年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "sectionOrder": 2,
+ "passage": "短文：\nFor many years the street market seemed to belong to the past. Supermarkets were bigger, cheaper and open every day, and by 2015 hundreds of town-centre markets had shut. Recently the picture has changed: in several cities a market building that had been left {{1}}for years now opens four days a week. What explains the change? Prices help. A stall has low rents, so fruit and bread are often {{2}}than in a large shop. Choice helps too: a market can {{3}}vegetables from growers within thirty kilometres that supermarkets refuse to stock. Perhaps the strongest reason, though, is social. A market fills the space where shops have {{4}}, and it turns a street into a place where people talk. One survey found that shoppers stayed three times longer when a market was running. Councils have noticed. Some now offer a year of {{5}}rent, charged at half the usual rate, and {{6}}advice for new traders. The project is not without risk, since a market needs {{7}}management of stock, money and people, and one unsuccessful season can frighten traders away. But where the plan works, the effect is {{8}}: residents stop driving to the supermarket outside town, and shops nearby sell more. Above all, a street that felt {{9}}begins to look alive, and people who had {{10}}met now greet each other by name.",
+ "bank": [
+  "casual",
+  "careful",
+  "cheaper",
+  "closed",
+  "dramatic",
+  "flexible",
+  "never",
+  "offer",
+  "practical",
+  "quiet",
+  "reduced",
+  "similar",
+  "spacious",
+  "vacant",
+  "vividly"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "vacant",
+   "explain": "选 N. vacant。leave a building vacant 意为「使建筑空置」，与后文「如今每周开放四天」形成对比。"
+  },
+  {
+   "n": 2,
+   "answer": "cheaper",
+   "explain": "选 C. cheaper。空格后为 than，需用比较级；形容摊位租金低因而果蔬更便宜，cheaper 最贴切。"
+  },
+  {
+   "n": 3,
+   "answer": "offer",
+   "explain": "选 H. offer。offer sth from growers 意为「提供来自种植者的某物」，主语是市场，与 supermarkets refuse to stock 形成对照。"
+  },
+  {
+   "n": 4,
+   "answer": "closed",
+   "explain": "选 D. closed。where shops have closed 意为「在商店已经关闭的地方」，说明集市填补了空铺面，用现在完成时的过去分词 closed。"
+  },
+  {
+   "n": 5,
+   "answer": "reduced",
+   "explain": "选 K. reduced。reduced rent 意为「减免后的租金」，与后半句 charged at half the usual rate（按通常租金的一半收取）直接呼应。"
+  },
+  {
+   "n": 6,
+   "answer": "practical",
+   "explain": "选 I. practical。practical advice 意为「实用的建议」，与减免租金同为地方政府扶持新摊主的措施。"
+  },
+  {
+   "n": 7,
+   "answer": "careful",
+   "explain": "选 B. careful。careful management of stock, money and people 意为「对货物、资金和人员的细致管理」，与后半句「一个失败的季节就会吓跑摊主」的风险形成因果；flexible 侧重「灵活」，无法体现对细节的谨慎。"
+  },
+  {
+   "n": 8,
+   "answer": "dramatic",
+   "explain": "选 E. dramatic。the effect is dramatic 意为「效果显著」，冒号后的具体变化（居民不再开车去郊外超市）正是对这一判断的解释。"
+  },
+  {
+   "n": 9,
+   "answer": "quiet",
+   "explain": "选 J. quiet。felt quiet 与 look alive 构成反义对照，说明街道从冷清变得有生气；spacious 指空间宽敞，不合句意。"
+  },
+  {
+   "n": 10,
+   "answer": "never",
+   "explain": "选 G. never。had never met 意为「此前从未见过面」，与 now greet each other by name 形成前后转折。"
+  }
+ ]
+}

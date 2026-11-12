@@ -1,0 +1,83 @@
+{
+ "id": "real4-2023-12-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2023年12月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-12-3",
+ "paperTitle": "2023年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "passage": "When people set out to improve their health, they usually take a familiar path: starting a healthy diet, getting better sleep, and doing regular exercise. Each of these behaviors is important, of course, but they all  {{1}} on physical health—and a growing body of research suggests that social health is just as, if not more, important to {{2}}  well-being. One recent study published in the journal PLOS ONE, for example, found that the strength of a person's social circle was a better {{3}}  of self-reported stress, happiness and well-being levels than fitness tracker data on physical activity, heart rate and sleep. That finding suggests that the \"  {{4}} self\" represented by endless amounts of health data doesn't tell the whole {{5}}  . There's also a qualified self, which is who I am, what are my activities, my social network, and all of these aspects are not {{6}}  in any of these measurements. This idea is supported by plenty of {{7}}  research. Studies have shown that social support— whether it comes from friends, family members or a spouse—is {{8}}  associated with better mental and physical health. A rich social life, these studies suggest, can lower stress levels, improve mood, encourage positive health behaviors and discourage damaging ones, boost heart health and improve illness {{9}}  rates. Social isolation, meanwhile, is linked to higher rates of physical diseases and mental health conditions. It's a significant problem,  {{10}} since loneliness is emerging as a widespread public health problem in many countries.",
+ "bank": [
+  "base",
+  "eagerly",
+  "especially",
+  "focus",
+  "indicator",
+  "overall",
+  "preached",
+  "prior",
+  "prompt",
+  "puzzle",
+  "quantified",
+  "recovery",
+  "reflected",
+  "story",
+  "strongly"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "focus",
+   "explain": "they 后缺谓语动词，且空后紧跟介词 on focus on 表「关注/聚焦于」，贴合「这些行为都只关注身体健康」 上文列举饮食、睡眠、运动后转折说 they all __(26)__ on physical health，意思是这些 做法都「聚焦于」身体健康，引出下文「但社交健康同样重要」的转折，focus on 语义 最顺。 A) base 搭配语义反了 base on 是「把……建立在……之上」，需要「A base B on C…"
+  },
+  {
+   "n": 2,
+   "answer": "overall",
+   "explain": "空处在介词 to 后、名词 well-being 前，作定语，要形容词 overall well-being「整体健康/总体幸福」搭配自然且切题 social health is just as, if not more, important to __(27)__ well-being 强调社交健康对 「总体」的健康/幸福很重要，overall well-being 正是与前文 physical health（局部）相 对的「整体福祉…"
+  },
+  {
+   "n": 3,
+   "answer": "indicator",
+   "explain": "空处在 a better 后、of 前，作中心名词 a better indicator of「更好的……指标」契合「社交圈强度比体测数据更能预示压力 幸福」 the strength of a person's social circle was a better __(28)__ of self-reported stress, happiness and well-being levels than fitness tracker…"
+  },
+  {
+   "n": 4,
+   "answer": "quantified",
+   "explain": "空处在冠词 the 与名词 self 之间（带引号），作定语，要形容词 quantified self「量化自我」呼应「海量健康数据」，并与下段 qualified self 形成对照 the \"__(29)__ self\" represented by endless amounts of health data 指「被海量数据量 化出来的自我」，即 quantified self；下一段 There's also a qualifi…"
+  },
+  {
+   "n": 5,
+   "answer": "story",
+   "explain": "形容词 whole 后、动词 tell 的宾语位置，需要名词 the whole story 是固定说法，意为「全部真相/全貌」 the \"quantified self\" represented by endless amounts of health data doesn't tell the whole __(30)__ 说海量健康数据「说不出全貌」，tell the whole story 正是「道出全部真 相」的固定表达。 E…"
+  },
+  {
+   "n": 6,
+   "answer": "reflected",
+   "explain": "空处在 are not 后、介词 in 前，作系表/被动的核心，是动词（过去分词） are not reflected in「未被反映在……中」契合「这些方面没体现在测量数据里」 my social network, and all of these aspects are not __(31)__ in any of these measurements，说「我的社交网络等方面都没被这些测量反映出来」，be reflected in …"
+  },
+  {
+   "n": 7,
+   "answer": "prior",
+   "explain": "空处在 plenty of 与名词 research 之间，作定语，要形容词 prior research「先前/已有的研究」契合「这一想法得到大量已有研究支持」 This idea is supported by plenty of __(32)__ research，本段承接前文观点并用研究背 书，prior research（已有研究）语义最顺。 K) quantified 语义被占且不切此处 quantified「被量化的」修饰…"
+  },
+  {
+   "n": 8,
+   "answer": "strongly",
+   "explain": "空处在 is 与过去分词 associated 之间，修饰形容词性成分，要副词 strongly associated「密切相关」是固定搭配 is __(33)__ associated with better mental and physical health 要表达「社会支持与更好 的身心健康密切相关」，strongly associated with 是论文里描述相关性的标准说法。 B) eagerly 感情色彩不搭 eager…"
+  },
+  {
+   "n": 9,
+   "answer": "recovery",
+   "explain": "空处在名词 illness 与名词 rates 之间，构成复合名词修饰语，要名词 illness recovery rates「疾病康复率」契合「丰富社交能改善健康结果」 boost heart health and improve illness __(34)__ rates 与前面 lower stress、improve mood、boost heart health 并列，都是积极结果，improve illness recov…"
+  },
+  {
+   "n": 10,
+   "answer": "especially",
+   "explain": "空处在逗号后、引导 since 从句前，作状语，要副词 especially since「尤其是因为」引出强化原因 It's a significant problem, __(35)__ since loneliness is emerging as a widespread public health problem，especially since 是常见连用，表「这问题很严重，尤其因为孤独 正成为普遍的公共健康问题」。 B) e…"
+  }
+ ]
+}

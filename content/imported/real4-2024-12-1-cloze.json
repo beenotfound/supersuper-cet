@@ -1,0 +1,83 @@
+{
+ "id": "real4-2024-12-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2024年12月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-12-1",
+ "paperTitle": "2024年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "passage": "When Toni Morrison died in 2019, the world lost one of its most influential authors. But Morrison was not an early success. Her first novel was not published until she was 39, and her last appeared when she was 84. And Morrison was not {{1}}  in this regard. Numerous writers produce masterpieces well into their 70s and beyond. Such  {{2}} accomplishments highlight an important point. Our capacity to speak, write and learn new vocabulary does not seem to {{3}}  with age. Our eyesight may dim and our recall may weaken, but, by comparison, our ability to produce and to  {{4}} language is well preserved into older adulthood. Indeed, the latest research that has emerged on language and aging shows that language mastery is a  {{5}} that we begin as infants and continue on for the rest of our lives. Some aspects of our language abilities, such as our knowledge of word meanings {{6}} , improve during middle and late adulthood. One study, for example, found that adults over sixty had an average vocabulary size of over 21,000 words. The researchers also studied a {{7}}  of college students and found that their average vocabulary contained {{8}}  16,000 words. In another study, older adults, with an average age of 75,  {{9}} better than participants in their youth or middle years on tasks that required them to determine the meaning of words. Thus, language seems to be a skill that, contrary to what many might {{10}}  , does not weaken with age.",
+ "bank": [
+  "actually",
+  "approximately",
+  "assume",
+  "component",
+  "comprehend",
+  "deteriorate",
+  "equivalent",
+  "journey",
+  "literary",
+  "performed",
+  "rarely",
+  "sample",
+  "undermined",
+  "unique",
+  "unit"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "unique",
+   "explain": "be 动词 was 后作表语 下一句正解释「并不罕见」 Numerous writers produce masterpieces well into their 70s and beyond. 紧跟其后说 明「许多作家年逾古稀仍出杰作」，正是在否定 Morrison 在大器晚成上的「独一无二 性」，因此 And Morrison was not __(26)__ in this regard. 应为「并非独一无二的」。 G) equi…"
+  },
+  {
+   "n": 2,
+   "answer": "literary",
+   "explain": "形容词修饰名词 accomplishments 上文全在谈作家与小说 前文反复提到 When Toni Morrison died in 2019, the world lost one of its most influential authors. 与 Her first novel was not published until she was 39， accomplishments 指的就是「文学成就」，所以 literary …"
+  },
+  {
+   "n": 3,
+   "answer": "deteriorate",
+   "explain": "to 后接动词原形 deteriorate with age 固定搭配 deteriorate with age「随年龄退化」是英语中描述衰老的标准表达；Our capacity to speak, write and learn new vocabulary does not seem to __(28)__ with age.「我们的 语言能力似乎并不随年龄退化」精准契合全文主旨。 E) comprehend 语义与 with ag…"
+  },
+  {
+   "n": 4,
+   "answer": "comprehend",
+   "explain": "to produce and to ___ 并列结构 produce 与 comprehend 对仗 produce language（产出语言）与 comprehend language（理解语言）构成语言能力的 「输出—输入」标准对子，是语言学领域常用搭配；our ability to produce and to __(29)__ language is well preserved into older adulthood. 顺…"
+  },
+  {
+   "n": 5,
+   "answer": "journey",
+   "explain": "is a ___ that 主表结构 把语言习得比作终身旅程 language mastery is a __(30)__ that we begin as infants and continue on for the rest of our lives.，begin... continue... for the rest of our lives 正是 journey 的典型语境（人 生/学习的「旅程」），与「终身学习」的喻体完全匹…"
+  },
+  {
+   "n": 6,
+   "answer": "actually",
+   "explain": "情态结构里修饰动词 强调「与预期相反」 全文核心论点是「语言能力不随年龄衰退」，本句进一步给出强例证：词义知识在中老年还 会提高，与「人老智衰」的常识相反，正好用 actually「实际上」来强调反预期；与下一句 One study, for example, found that adults over sixty had an average vocabulary size of over 21,000 words. 的举例链衔接通…"
+  },
+  {
+   "n": 7,
+   "answer": "sample",
+   "explain": "studied 的宾语 a ___ of... 研究语境的「样本」 上下文是 The researchers also studied a __(32)__ of college students，researcher + studied 已经标明这是科研场景，a sample of college students「一份大学生样本」是研 究文献的固定表达。 D) component 搭配不成立 component 指「组成部分」，常说…"
+  },
+  {
+   "n": 8,
+   "answer": "approximately",
+   "explain": "数字 16,000 前需副词修饰 approximately + 数字是常用搭配 contained __(33)__ 16,000 words，「大约 16,000 个单词」对应研究里给出的平均值估 算，搭配自然、语义合理。"
+  },
+  {
+   "n": 9,
+   "answer": "performed",
+   "explain": "主语后缺谓语动词 performed better 是典型搭配 perform 在科研语境中常表「在测试/任务中的表现」，performed better than participants in their youth or middle years on tasks 是英语固定搭配 perform better on tasks「在任务上表现更好」，语义、时态均贴合。"
+  },
+  {
+   "n": 10,
+   "answer": "assume",
+   "explain": "情态动词 might 后接动词原形 contrary to what people assume 固定逻辑 contrary to what many might __(35)__ 是英语经典「与人们想当然的看法相反」句式， assume 表「想当然地以为」最贴合；与后面 does not weaken with age 形成「常识 vs 事实」对照，呼应 overview 反预期立意。 E) comprehend 要留给 29 题 c…"
+  }
+ ]
+}

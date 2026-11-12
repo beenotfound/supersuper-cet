@@ -1,0 +1,83 @@
+{
+ "id": "real4-2025-06-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2025年6月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-06-2",
+ "paperTitle": "2025年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "passage": "Sir Alfred Hitchcock was an English movie director and producer. Famously  {{1}} to as 'The Master of Suspense,' Hitchcock is one of the most influential filmmakers in the history of {{2}}  . He was an extraordinary director who entertained his audience with {{3}}  and gripping suspense movies. His fascination with crime began at an early age when he was  {{4}} by his father who made him spend a few minutes inside a prison for his misconduct. Hence, his movies are  {{5}} of the guilt and innocence of the wrongdoer and the victim. He had a gift for creating stories that consisted of deceit, robbery, murder, corruption, and other criminal {{6}}  with incredible plot twists in the storyline. The principal characters in his movies were often ordinary people {{7}}  in unwanted and unavoidable situations. He was  {{8}} productive and his amazing body of work is considered fascinating by the critics. Most of his movies have {{9}}  the test of time and are considered to be masterpieces. He is also remembered by other filmmakers, for he continues to inspire them to be passionate about their work. He is also  {{10}} by people around the world for his entertaining and exciting stories.",
+ "bank": [
+  "caught",
+  "cinema",
+  "engaging",
+  "graphically",
+  "highly",
+  "incentive",
+  "instincts",
+  "offences",
+  "punished",
+  "referred",
+  "stood",
+  "symbolic",
+  "tuned",
+  "visually",
+  "worshipped"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "referred",
+   "explain": "Famously ___ to as 是过去分词作状语 be referred to as 是\"被称为\"的固定搭配 Famously __(26)__ to as 'The Master of Suspense' 中 to as 紧贴空后，这是经典短语 refer to A as B = 把 A 称作 B 的被动式 be referred to as = 被称为。代入即 \"以\"悬疑 大师\"之名广为人知\"，与后文 one of the m…"
+  },
+  {
+   "n": 2,
+   "answer": "cinema",
+   "explain": "the history of ___ 介词宾语位 话题是电影业的历史 上文已说他是 an English movie director and producer，又称他 one of the most influential filmmakers in the history of __(27)__，话题主线是\"电影行业\"，filmmakers in the history of cinema = 电影史上最有影响力的导演之一，是地道表…"
+  },
+  {
+   "n": 3,
+   "answer": "engaging",
+   "explain": "with ___ and gripping suspense movies 形容词作定语 与 gripping 同义并列，描述电影吸引人 gripping = 扣人心弦的，与 engaging = 引人入胜的 属同义并列，二者都是描述电影本身 的积极特质，与 entertained his audience 的动词\"使观众尽兴\"高度自洽。 L) symbolic 语义错位 symbolic = 象征性的，描述\"代表某种意义\"的属性，不直…"
+  },
+  {
+   "n": 4,
+   "answer": "punished",
+   "explain": "was ___ by his father 被动语态 因小过失被父亲惩罚 句中 made him spend a few minutes inside a prison for his misconduct = 因为他不当 行为而让他在监狱里待几分钟，明确是父亲对他施加的**惩罚**性教训，be punished by 完全贴合。 A) caught 义偏 be caught by 意为\"被……抓到\"，但下文重点是父亲让他蹲监狱的\"教训…"
+  },
+  {
+   "n": 5,
+   "answer": "symbolic",
+   "explain": "are ___ of the guilt 系表结构 be symbolic of 表象征着 be symbolic of = 象征着、代表着，与 the guilt and innocence of the wrongdoer and the victim 形成的抽象主题(罪与无辜/施害者与受害者)高度匹配——希区柯克的电影在象征 意义上探讨这些命题。"
+  },
+  {
+   "n": 6,
+   "answer": "offences",
+   "explain": "other criminal ___ 形容词修饰的并列名词 criminal offences 是固定搭配 criminal offences = 刑事罪行，是英语里高度固定的搭配；同时它正是 deceit/robbery/murder/corruption 这一串犯罪类名词的总括，逻辑完全闭环。 F) incentive 义反 incentive = 激励/动机，是褒义或中性，与\"犯罪\"语境冲突；且 criminal incentiv…"
+  },
+  {
+   "n": 7,
+   "answer": "caught",
+   "explain": "ordinary people ___ in… 后置定语 be caught in 表\"陷入……处境\" be caught in + 情境名词 是固定搭配，意为\"被困在/陷入……中\"。in unwanted and unavoidable situations 译作\"困于自己不想要、也无法回避的境地\"，正是希区柯克电影里 普通人卷入险境的典型情节。 K) stood 搭配错 stood in 多指\"站在……里\"或\"代替……\"，无\"陷入境…"
+  },
+  {
+   "n": 8,
+   "answer": "highly",
+   "explain": "He was ___ productive 副词修饰形容词 highly + 形容词表程度强烈 highly productive 是英语里极高频的搭配，表\"高度多产/极为多产\"，与后文 his amazing body of work is considered fascinating 即\"作品体量庞大且令人惊叹\"完全自洽。 D) graphically 搭配错位 graphically(生动地)多修饰描述类动词(graphicall…"
+  },
+  {
+   "n": 9,
+   "answer": "stood",
+   "explain": "have ___ the test of time 完成时谓语 stand the test of time 经受住时间考验 stand the test of time 是英语里\"经得起时间考验/历久弥新\"的死搭配，与下文 are considered to be masterpieces 完全呼应——只有经得起时间考验的作品才会被视为 杰作。 M) tuned 搭配不成立 tune the test of time 在英语里不存在，…"
+  },
+  {
+   "n": 10,
+   "answer": "worshipped",
+   "explain": "is also ___ by people 被动语态 全球敬仰与娱乐故事的赞誉 by people around the world for his entertaining and exciting stories 给出的是\"全世界 因他精彩的故事而……他\"，褒义、强烈情感，worshipped(被敬仰、被崇拜)与上文 he continues to inspire them to be passionate about their …"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "trans-020",
+  "type": "translation",
+  "level": "cet6",
+  "title": "汉语的魅力",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["character", "tone", "idiom", "evolve"],
+  "prompt": "汉语是世界上使用人数最多的语言之一。汉字由象形发展而来，笔画里包含着古人对世界的观察。同一个字声调不同，意思可能完全不同，这让初学者感到困难。汉语中有大量成语，四个字往往包含一个故事或一条道理，言简意赅。随着中国与世界的交流增多，越来越多外国人开始学习汉语，有人为了工作，有人出于兴趣。学习汉语并不容易，但每掌握一个新的表达，都会让人更接近这种语言背后的思维方式。",
+  "reference": "Chinese is one of the most widely spoken languages in the world. Its characters developed from pictographs, and every stroke reflects how ancient people observed the world around them. The same character may mean something completely different when its tone changes, which makes learning hard for beginners. Chinese contains a large number of idioms: four characters often hold a story or a piece of wisdom, saying much in very few words. As exchanges between China and the rest of the world increase, more and more foreigners are beginning to learn Chinese, some for work and some out of interest. Characters are also a link to history: a single word can open a window onto how people lived and thought centuries ago. Learning Chinese is not easy, but every new expression mastered brings a learner closer to the way of thinking behind the language. Perhaps that is why so many learners say the language changes the way they see the world.",
+  "keyPoints": [
+    "“使用人数最多”用 widely spoken，避免直译 most people use。",
+    "“象形”可译为 pictographs。",
+    "“声调”用 tone，注意与 intonation 区分。",
+    "“言简意赅”意译为 saying much in very few words。",
+    "“语言背后的思维方式”译为 the way of thinking behind the language。"
+  ]
+}

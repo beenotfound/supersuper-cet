@@ -1,0 +1,63 @@
+{
+  "id": "match-003",
+  "type": "matching",
+  "level": "cet6",
+  "title": "Bridges for Wildlife",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["fragmentation", "corridor", "monitor"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Roads and railways cut the landscape into pieces. For an animal that needs a large territory, a motorway is not a line on a map but an impassable wall. Populations on one side become isolated, and over time they lose the genetic variety that helps them survive disease and climate stress. Fragmentation is a quieter threat than hunting or pollution, yet it may be the one that empties a forest of its larger inhabitants. The damage is done not by a single road but by the network that grows around it."
+    },
+    {
+      "label": "B",
+      "text": "Engineers have responded with structures that let animals cross without meeting traffic. The best known are wide bridges covered with soil and planted with shrubs, which deer and foxes use without appearing to notice the road beneath. Underpasses serve smaller species, and tunnels built for drainage can be adapted for amphibians. Design matters: an opening that looks dark and narrow may be avoided even when it is perfectly safe. A crossing that animals refuse to use is an expensive decoration."
+    },
+    {
+      "label": "C",
+      "text": "The evidence that such crossings work comes from cameras, footprints and tracking collars. Recordings show badgers, wild cats and even insects using the same routes night after night. Where a crossing has been placed badly, the data show that too, which allows the design to be corrected. Monitoring is unglamorous, but it turns a hopeful construction project into a measurable one. Without it, nobody can say whether the money was well spent."
+    },
+    {
+      "label": "D",
+      "text": "Money and politics are the obvious obstacles. A wildlife bridge can cost as much as a small road, and the benefit is hard to demonstrate within a single political term. Supporters therefore emphasise the benefits to people: fewer collisions, safer journeys and, in some places, a tourist attraction. When a crossing is framed as a road-safety measure rather than an act of charity towards animals, it attracts a broader coalition. A project with a human justification is harder for a council to cut."
+    },
+    {
+      "label": "E",
+      "text": "Large mammals attract the attention, but the smaller travellers matter just as much. Frogs, newts and beetles need connected patches of habitat, and a single busy road can wipe out a local population. Culverts, hedges and strips of rough grass allow these species to move between ponds and meadows. Because they are cheap to build and quick to establish, such measures are often the first step in a larger plan. A modest pipe under a lane can be as useful as a famous bridge."
+    },
+    {
+      "label": "F",
+      "text": "Planting is part of the design, not a decoration added later. A corridor lined with native shrubs offers food and shelter, while a strip of mown grass offers neither. Species that evolved together with local plants are more likely to use a route that contains them. Ecologists therefore advise using seeds from nearby sources and avoiding ornamental species that may spread into the surrounding countryside. What looks green on a plan is not necessarily what an animal needs."
+    },
+    {
+      "label": "G",
+      "text": "Drivers gain from these projects as well. A deer that crosses safely at a bridge is a deer that does not appear suddenly in headlights, and the reduction in collisions is felt in insurance claims and hospital admissions. Road authorities increasingly count wildlife crossings as part of their safety budget rather than their environmental one. For the public, the appeal is simple: a dangerous stretch of road becomes slightly less dangerous. Safety is easier to sell than ecology."
+    },
+    {
+      "label": "H",
+      "text": "Maintenance is the part nobody photographs. Fences must be repaired, vegetation must be cut back, and drainage must be cleared, or the crossing slowly stops being used. A structure that is opened with speeches can become a trap if rubbish blocks the entrance. Long-term funding is therefore as important as the original design, and some projects now include a maintenance plan before construction begins. A bridge without a budget for upkeep is a temporary gesture."
+    },
+    {
+      "label": "I",
+      "text": "Cities have their own version of the problem. Parks and gardens are often too small and too isolated to support much wildlife, but a network of green roofs, balconies and planted streets can act as stepping stones. A bee may travel from one window box to the next without crossing a desert of concrete. Small interventions, repeated across a neighbourhood, can add up to a habitat that a single park could never provide. The scale is different, but the principle is the same."
+    },
+    {
+      "label": "J",
+      "text": "The scale of the challenge crosses boundaries. An animal does not stop at the edge of a county, and a corridor that ends at a border is only half a corridor. Successful programmes therefore involve several authorities, landowners and conservation groups working to a shared plan. Where coordination fails, money is spent on fragments that connect nothing, and the map of safe routes remains full of gaps. Nature does not read the administrative map. Nor does it wait for agreements to be signed."
+    }
+  ],
+  "statements": [
+    { "text": "Isolated groups lose the variation they need to cope with disease and environmental change.", "answer": "A" },
+    { "text": "Crossings must be designed carefully, because animals avoid openings that feel unsafe.", "answer": "B" },
+    { "text": "Cameras and tracking show whether a crossing is used and how to improve it.", "answer": "C" },
+    { "text": "Presenting crossings as safety measures helps win support and funding.", "answer": "D" },
+    { "text": "Small creatures also need connections, and cheap culverts and hedges can help them.", "answer": "E" },
+    { "text": "Native planting is essential to make a corridor useful rather than merely green.", "answer": "F" },
+    { "text": "Fewer collisions bring financial and medical benefits that road authorities recognise.", "answer": "G" },
+    { "text": "Without continuing upkeep, a crossing can fall into disuse and even become harmful.", "answer": "H" },
+    { "text": "In cities, many small green features can combine into a usable network.", "answer": "I" },
+    { "text": "Corridors only work when neighbouring authorities and owners plan together.", "answer": "J" }
+  ]
+}

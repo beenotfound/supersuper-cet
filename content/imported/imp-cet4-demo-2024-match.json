@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-demo-2024-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-demo-2024",
+ "paperTitle": "2024年12月大学英语四级（模拟节选）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "A change in attitudes Ten years ago, buying second-hand clothes was something many young people did quietly, if at all. Today the same shoppers post pictures of their finds online and discuss them openly. The stigma that once surrounded used goods has largely disappeared, and a generation that grew up with recycling at school seems to see resale as a sensible habit rather than a sign of poverty."
+  },
+  {
+   "label": "B",
+   "text": "Cheaper than buying new The most obvious attraction is price. A coat that costs eighty pounds in a shop may sell for fifteen on a resale platform, and popular brands keep a surprisingly high share of their value. For students and young families in particular, this makes a wider range of clothing affordable, and many users say they now buy more thoughtfully because they know an item can be sold on later."
+  },
+  {
+   "label": "C",
+   "text": "Better for the planet Every garment that is worn for a second time means one fewer new item produced, and clothing production is a significant source of carbon emissions and water use. Environmental groups have been quick to point this out, and several platforms now calculate the estimated savings for each sale. Critics note, however, that the overall volume of clothing bought continues to rise, which may cancel out some of the benefit."
+  },
+  {
+   "label": "D",
+   "text": "A social experience For many users, the appeal goes beyond money and the environment. Buyers and sellers exchange messages, negotiate prices and often meet in person to hand over the goods. These small conversations turn a transaction into something closer to a community activity, and friendships have been known to start over a pair of boots."
+  },
+  {
+   "label": "E",
+   "text": "Problems for traditional shops The shift has not been welcomed everywhere. Several high-street chains have reported declining sales among younger customers, and some have responded by launching their own resale schemes. Shop owners argue that the platforms enjoy an unfair advantage because they carry no stock, though others insist that the two ways of shopping can coexist."
+  },
+  {
+   "label": "F",
+   "text": "What the future may bring Analysts expect the second-hand market to keep expanding, possibly overtaking fast fashion within a decade. Growth brings its own questions: how to keep counterfeits off the platforms, how to protect sellers' personal data, and whether resale income should be taxed. Most observers agree that some form of regulation is now likely, and the platforms themselves say clearer rules would help."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Platforms let users chat and arrange to meet in person, so shopping becomes a social activity rather than a lonely one.",
+   "answer": "D"
+  },
+  {
+   "text": "Young consumers no longer regard used goods as something to be ashamed of.",
+   "answer": "A"
+  },
+  {
+   "text": "By extending the life of clothing, the trend helps to cut carbon emissions.",
+   "answer": "C"
+  },
+  {
+   "text": "Some traditional high-street retailers have reported falling sales as a result.",
+   "answer": "E"
+  },
+  {
+   "text": "Experts expect the market to keep growing, although regulation may be needed.",
+   "answer": "F"
+  }
+ ]
+}

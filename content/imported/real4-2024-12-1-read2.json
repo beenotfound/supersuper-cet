@@ -1,0 +1,71 @@
+{
+ "id": "real4-2024-12-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2024年12月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-12-1",
+ "paperTitle": "2024年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "passage": "P1 Engineering in the U.S. has long been a male-dominated profession. Fifty years ago, it looked like that might change.\n\nP2 In 1970, the percentage of women majoring in engineering was less than 1%. In 1979, that number was 9%. Many hoped women would continue to enter the field at the same rate. But that's not what happened. Today, only 21% of engineering majors are women, a number largely unchanged since 2000.\n\nP3 I am a historian who, along with my colleagues, surveyed 251 women engineers who graduated from college in the 1970s. These pioneers reflected on the challenges they faced—and had advice for women entering the field today.\n\nP4 One survey taker explained, \"The greatest challenge for me was continuing to believe in myself, when all the messages I was getting were that I would never be taken seriously or promoted or given raises at the same rate as men, who were clearly less qualified and not as smart as I was.\"\n\nP5 A chemical engineer who worked in manufacturing agreed, \"You have to prove yourself just because you are female. And you have to work twice as hard!\"\n\nP6 A civil engineer said, \"We are 'women engineers.' People don't refer to a man as a 'man engineer'—he's an engineer. We are constantly reminded that we don't truly belong.\" Another civil engineer stated, \"On many levels, you're never quite one of the groups.\"\n\nP7 Women also talked about family caregiving responsibilities. A retired vice president from a major chemical company stated, \"Young women engineers are on an equal footing until they have children, then they struggle to balance work and family—and compete with men who don't have the same household responsibilities.\"\n\nP8 But over the years things have changed a lot. Young women engineers are more accepted mostly because there are just more of them.\n\nP9 Many women engineers hailed the benefits of their chosen career. A program manager in manufacturing stated that engineering is the best degree. A mechanical engineer said, \"It will give you the flexibility to do almost anything. It is also satisfying to see the effects of what you have done.\"",
+ "questions": [
+  {
+   "q": "What does the passage say about the engineering profession in the United States?",
+   "options": [
+    "It has seen a change in attitude towards women engineers since 1979.",
+    "It witnessed a significant increase in women engineers in the 1970s.",
+    "It has experienced the gradual weakening of male dominance.",
+    "It boasted the largest number of engineering majors in 2000."
+   ],
+   "answer": 1,
+   "explain": "What does the passage say about the engineering profession in the United States 没 有 infer/imply/mainly about 等推断或主旨标志，问 \"the passage say\"，是对原文已陈述 事实的核对，属四级最高频的细节题。 题干主干是 What does the passage say about ...，是 say about 后接…"
+  },
+  {
+   "q": "What does one survey taker say was her greatest challenge?",
+   "options": [
+    "Not to feel superior to less qualified male engineers.",
+    "Not to take seriously all the messages she was getting.",
+    "Not to think highly of her qualifications when promoted or given a pay raise.",
+    "Not to lose self-confidence though constantly discouraged or unfairly treated."
+   ],
+   "answer": 3,
+   "explain": "What does one survey taker say was her greatest challenge 是对原文一句引语的客观 还原，属细节题。 What does one survey taker say was her greatest challenge 是个嵌套问句，say 后面 接的是 \"(that) her greatest challenge was ____\"，疑问词 What 提到了句首，回原文找 \"挑战是…"
+  },
+  {
+   "q": "How do women engineers frequently feel according to the two civil engineers?",
+   "options": [
+    "Disqualified on many levels.",
+    "Excluded from the group.",
+    "Overworked by their organizations.",
+    "Looked down upon by male colleagues."
+   ],
+   "answer": 1,
+   "explain": "How do women engineers frequently feel according to the two civil engineers 问的 是\"她们感觉如何\"，依据 according to 直接锁定原文两位 civil engineer 的话，是细节归 纳题。 How do women engineers frequently feel according to the two civil engineers 主干 …"
+  },
+  {
+   "q": "What probably makes young women engineers more accepted nowadays?",
+   "options": [
+    "Their success in gaining an equal footing.",
+    "Their ability to balance work and family.",
+    "The change in their responsibilities.",
+    "The increase in their number."
+   ],
+   "answer": 3,
+   "explain": "What probably makes young women engineers more accepted nowadays 看似含 probably 像推断，实质问\"原文里给出的原因是什么\"，原文已经直说理由，仍是细节题。 What probably makes young women engineers more accepted nowadays 是 What makes sb. + 形容词 的使役结构，What 作主语，ma…"
+  },
+  {
+   "q": "What can we conclude about many female engineers from the statement of a mechanical engineer?",
+   "options": [
+    "They take great pride in their chosen career.",
+    "They have reaped the benefits of being flexible.",
+    "They enjoy doing engineering to the best degree.",
+    "They have proved capable of doing almost anything."
+   ],
+   "answer": 0,
+   "explain": "What can we conclude about many female engineers from the statement of a mechanical engineer 中的 conclude+from 是典型推断题信号，需要从一位受访者的具体 话语得出\"许多女工程师\"层面的结论。 55. What can we conclude about many female engineers from the statemen…"
+  }
+ ]
+}

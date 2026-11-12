@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-06-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年6月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-06-2",
+ "paperTitle": "2025年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "passage": "P1 We all take a little extra effort to look nice for special occasions. But most of us have conflicting feelings about dressing up and feel guilty about taking the time to focus on clothes. Science now suggests the right dress may give ourselves the extra edge in our professional and personal lives.\n\nP2 We hear sayings like \"dress for the job you want; not the job you have\". Most people don't really believe in them, but research into the impact of clothes on behavior now suggests that there may actually be a grain of truth in these sayings. Science says that the clothes we wear affect our behavior, our mood and even the way we interact with others because of the symbolic meaning that we assign to different types of clothing.\n\nP3 We consider some clothes to be powerful, some to be fun, and so on. We even evaluate people whom we have just met based on their clothes. We also evaluate ourselves based on what we are wearing because of the way they make us feel. This means that the experience of wearing something affects our attitudes and our choice of behavior.\n\nP4 There's a reason tailored jackets are associated with being 'dressed for success'. It seems that wearing formal office wear puts us in the right frame of mind to conduct business. Wearing power clothing makes us feel more confident and even increases hormones needed for displaying dominance. This in turn helps us become better negotiators and abstract thinkers.\n\nP5 While a good suit works wonders for our performance in the boardroom, wearing formal wear isn't a great idea when we want to socialize. Studies have found that people tend to be less open and less able to relax when they wear formal clothes.\n\nP6 On the other hand, a casual dress helps us become more friendly and creative. These findings support the idea of wearing business casuals on a Friday; since colleagues are most likely to take out time to socialize on the last work day of the week. I mean, who wants to hang out with people in their suits?",
+ "questions": [
+  {
+   "q": "What does science suggest the right dress may do?",
+   "options": [
+    "Add to our advantage in work and life.",
+    "Enable us to look a lot more attractive.",
+    "Help us to enjoy a fuller personal life.",
+    "Provide extra energy for what we do."
+   ],
+   "answer": 0,
+   "explain": "题干 What does science suggest the right dress may do? 直接问 science 提出 dress 会 做什么，属于针对原文某句客观事实的复述。 46. What does science suggest the right dress may do? A) Add to our advantage in work and life. B) Enable us to look a lot …"
+  },
+  {
+   "q": "Why does science say the clothes one wears may affect their interaction with others?",
+   "options": [
+    "Clothes usually represent one's social and economic status.",
+    "Clothes largely determine one's likability by people around.",
+    "Different types of clothing markedly reflect different personalities.",
+    "Different types of clothing convey different messages symbolically."
+   ],
+   "answer": 3,
+   "explain": "题干 Why does science say the clothes one wears may affect their interaction with others? 问的是原因，原文应有 because/due to 等显式因果标志。 主干为 Why does science say … ；say 后是省略 that 的宾语从句 the clothes one wears may affect their interactio…"
+  },
+  {
+   "q": "How do the clothes we wear sway our evaluation of ourselves?",
+   "options": [
+    "By exerting an effect on our power of judgment.",
+    "By impacting how we feel about ourselves.",
+    "By affecting what we take as the basis for assessment.",
+    "By influencing our interpretation of symbolic messages."
+   ],
+   "answer": 1,
+   "explain": "题干 How do the clothes we wear sway our evaluation of ourselves? 问的是「通过什 么方式」，答案对应原文一句解释机制的话。 题干主干 the clothes … sway our evaluation of ourselves；the clothes 后省略了 that， 跟着定语从句 we wear，整体读作「我们所穿的衣服如何影响我们对自己的评价」。 48. How do…"
+  },
+  {
+   "q": "Why does the author say tailored jackets are associated with being 'dressed for success'?",
+   "options": [
+    "They are necessary for formal business dealings.",
+    "They may help people concentrate on their business.",
+    "They are vital to keeping a dominant position in business transactions.",
+    "They may enable people to have the right mentality for doing business."
+   ],
+   "answer": 3,
+   "explain": "Why does the author say tailored jackets are associated with being 'dressed for success'? 问作者为何这么说，正是细节原因题的典型表述。 主干 Why does the author say + 宾语从句 tailored jackets are associated with being 'dressed for success'；be assoc…"
+  },
+  {
+   "q": "What are people advised to do when they want to socialize?",
+   "options": [
+    "Focus on clothing.",
+    "Wear a good suit.",
+    "Dress casually.",
+    "Look unusual."
+   ],
+   "answer": 2,
+   "explain": "What are people advised to do when they want to socialize? 询问具体建议行为，是典 型的细节复述。 主干 What are people advised to do；when 引导时间状语从句 they want to socialize，整体读作「当人们想社交时，建议穿什么」。被动语态 are advised 隐含「文章 作者建议」。 On the other hand, a …"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "real4-2025-06-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2025年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-06-1",
+ "paperTitle": "2025年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "passage": "Psychologists have long been interested in how we construct our identities and the sorts of strategies that we use to present ourselves in society. New findings suggest that the kinds of  {{1}} and strategic self-presentation behaviour we see in adults appear at a much younger age than {{2}}  known. Research shows that a child's awareness of social standing comes from adults. Like grown-ups, kids want to be  {{3}} by those they admire. Interactive experiences may provide opportunities for children to learn about what {{4}}  a desirable reputation and the kinds of strategies that are effective for {{5}}  a good reputation in their social environment. Five-year-olds aren't just aware of their reputations, they also behave strategically to alter their outward image. They will  {{6}} their behaviour in order to appear moral or socially good in the eyes of key observers. While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children {{7}}  and use the fact that different attributes are valuable at different times to different {{8}}  . It's important for us to further consider where in this process children succeed in controlling their reputation and where they {{9}}  . A question to think about is, \"What happens even earlier than age five?\" Children don't just show up to the first day of kindergarten and have the idea of reputation pop {{10}}  into existence. The logical question to ask is, \"What happens even earlier?\"",
+ "bank": [
+  "accepted",
+  "audiences",
+  "building",
+  "complex",
+  "constitutes",
+  "deputies",
+  "previously",
+  "revolving",
+  "samples",
+  "selected",
+  "solemn",
+  "struggle",
+  "suddenly",
+  "understand",
+  "vary"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "complex",
+   "explain": "the kinds of 后接名词，空与 strategic 并列修饰名词 与 strategic 同属「高级心智」语义场 the kinds of __(26)__ and strategic self-presentation behaviour we see in adults：作 者强调成年人的自我呈现是「复杂的、有策略的」，complex（复杂的）与 strategic（策 略性的）语义并列、相互呼应。 K) solemn 感…"
+  },
+  {
+   "n": 2,
+   "answer": "previously",
+   "explain": "than 后修饰过去分词 known 与 New findings 形成「新 vs 旧」对照 New findings suggest that ... appear at a much younger age than __(27)__ known. 强 调「新发现」与「以往所知」对比，previously known = 此前所知，正好把「新发现 vs 旧 认知」对照起来。 M) suddenly 语义和逻辑都不通 suddenly…"
+  },
+  {
+   "n": 3,
+   "answer": "accepted",
+   "explain": "be 动词后接过去分词作被动谓语 符合「被认同/接纳」的社会心理语境 kids want to be __(28)__ by those they admire 谈孩子希望「被自己崇拜的人认可、接 纳」，accepted by 是地道搭配，对应「获得社会认同」这个本段的主线。 J) selected 选拔语义与「被仰慕者接纳」不匹配 selected by 多指「被挑中」（比赛、选拔），带筛选意味，而孩子对「自己崇拜的人」的需求 是被接…"
+  },
+  {
+   "n": 4,
+   "answer": "constitutes",
+   "explain": "what 引导从句需要谓语动词 what constitutes X = 何为 X 的构成 learn about what __(29)__ a desirable reputation 即「了解什么构成了好名声」， constitute 在学术英语里恰好用作「构成、等同于」，是描述抽象概念边界的常用动词。"
+  },
+  {
+   "n": 5,
+   "answer": "building",
+   "explain": "介词 for 后接动名词作宾语 build a reputation 是固定搭配 strategies that are effective for __(30)__ a good reputation，build a good reputation （建立好名声）是英语里的高频固定搭配，对应「塑造形象」的本段主题。"
+  },
+  {
+   "n": 6,
+   "answer": "vary",
+   "explain": "情态动词 will 后接动词原形 vary one's behaviour = 改变/调整自己的行为 They will __(31)__ their behaviour in order to appear moral or socially good in the eyes of key observers. 主题是「为博得好印象而调整行为」，vary 作及物动词意为 「使……变化、改变」，vary their behaviour …"
+  },
+  {
+   "n": 7,
+   "answer": "understand",
+   "explain": "whether children ___ and use ... 谓语动词 和 use 构成「理解并运用」的递进 whether children __(32)__ and use the fact that different attributes are valuable at different times：understand and use a fact 是英语里「先理解、再运用」的常见递进， 正对应「是否懂得并利用不同属性的…"
+  },
+  {
+   "n": 8,
+   "answer": "audiences",
+   "explain": "different 后 + to 介词宾语的复数名词 与「印象管理对象」的语境直接对应 adults use a large variety of attributes to manage and create impressions 与 different attributes are valuable at different times to different __(33)__ 谈的都是「在 不同观察者面前营造印象」，audie…"
+  },
+  {
+   "n": 9,
+   "answer": "struggle",
+   "explain": "where 从句缺谓语动词，与 succeed 对照 struggle 与 succeed 形成对照 where ... children succeed in controlling their reputation and where they __(34)__： struggle（挣扎、感到吃力）正是 succeed（成功）的反面，「在哪里成功、在哪里受挫」 是典型的研究问题表述。"
+  },
+  {
+   "n": 10,
+   "answer": "suddenly",
+   "explain": "动词 pop 后修饰其方式的成分 强调「凭空冒出」的反逻辑 Children don't just show up to the first day of kindergarten and have the idea of reputation pop __(35)__ into existence. 作者要否定的正是「名声观念会突然蹦出来」这 种说法，suddenly 精准对应「突然冒出」。"
+  }
+ ]
+}

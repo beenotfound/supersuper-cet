@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2025dec1-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2025年12月六级第一套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025dec1",
+ "paperTitle": "2025年12月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-12",
+ "passage": "By now, it is generally accepted that regular exercise comes with an assortment of health benefits for people who maintain the habit over time. But is it {{1}} too late to start? when they were younger and those individuals showed declines in their risk of early {{2}} which were similar to those of people who exercised consistently throughout their lives. This was a {{3}} of 32% to 35% compared to people who did not exercise. Those who began exercising in middle age also saw reductions in their incidence of {{4}} diseases, such as heart disease and cancer, which were similar to the steady exercisers. So why bother exercising consistently throughout your life? The authors of the study {{5}} that some might interpret the study’s findings to mean that they can delay starting an exercise program but this would be a mistake. {{6}} . These real health benefits include better {{7}} functioning and lowered risk of gaining weight. The latter is {{8}} important given the global obesity epidemic. In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those {{9}} later in life. It is ideal, then, for people to start exercising when they are children or {{10}} , and it is good to maintain an active, you can still benefit if you start becoming active in your 40s and 50s.",
+ "bank": [
+  "A. adolescents",
+  "B. arbitrarily",
+  "C. chronic",
+  "D. cognitive",
+  "E. concede",
+  "F. disregard",
+  "G. drop",
+  "H. ever",
+  "I. maneuver",
+  "J. mortality",
+  "K. particularly",
+  "L. patterns",
+  "M. refute",
+  "N. stereotype",
+  "O. vocal"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "H. ever",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "J. mortality",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "G. drop",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "C. chronic",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "E. concede",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "F. disregard",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "D. cognitive",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "K. particularly",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "L. patterns",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "A. adolescents",
+   "explain": ""
+  }
+ ]
+}

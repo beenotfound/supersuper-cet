@@ -1,0 +1,17 @@
+{
+  "id": "write-010",
+  "type": "writing",
+  "level": "cet6",
+  "title": "A Shorter Working Week?",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["workforce", "productivity", "exhaustion"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on whether a shorter working week would benefit both employees and employers. You should write at least 150 words but no more than 200 words.",
+  "reference": "Proposals for a four-day working week have attracted attention in many countries. I believe a shorter week could benefit both sides, provided that pay and productivity are handled thoughtfully.\n\nFor employees, the gain is obvious. Less time at work means more time for family, rest and personal interests, and a well-rested worker is usually healthier and more focused. Experience in some companies suggests that people waste less time when working hours are reduced, because they plan their tasks more carefully. For employers, the reward is a more loyal and energetic workforce, and fewer days of sick leave caused by exhaustion.\n\nThe risks, however, are real. Some businesses depend on continuous service and cannot simply close an extra day. Others may try to compress five days of work into four, which would leave employees exhausted rather than refreshed. Small firms, in particular, may struggle to hire additional staff to cover the gap.\n\nIn my view, the shorter week is worth trying, but it should be introduced gradually and evaluated honestly. It works best when the goal is better work, not merely less work.",
+  "keyPoints": [
+    "首段亮明立场：有条件地支持缩短工作周。",
+    "第二段分别从员工和雇主角度说明收益，注意 provided that 的用法。",
+    "第三段指出真实风险，尤其是小企业的用人压力。",
+    "结论强调“逐步推行、认真评估”，避免空喊口号。"
+  ]
+}

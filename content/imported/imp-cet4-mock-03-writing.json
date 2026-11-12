@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-03-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-03",
+ "paperTitle": "大学英语四级标准模拟卷 03",
+ "paperLevel": "cet4",
+ "paperYear": "mock-03",
+ "sectionOrder": 0,
+ "prompt": "Directions: Suppose the Students' Union is launching an environmental campaign on campus. Write a proposal to all students, explaining how students can take part in environmental protection in their daily life. In your proposal you should: 1) state the purpose of the campaign; 2) give three practical suggestions; 3) call on students to act. You should write at least 120 words but no more than 180 words.",
+ "reference": "Dear fellow students,\n\nOur Students' Union is launching a month-long environmental campaign, and we need your help. The aim is simple: to show that protecting the planet begins with the small choices we make every day on this campus.\n\nHere are three suggestions. First, sort your waste properly. It takes ten seconds to put a bottle in the yellow bin instead of the grey one. Second, bring your own cup and bag to the canteen; campus figures show that thousands of paper cups are thrown away every week. Third, take the stairs when you are only going up two floors, which is better for your health and for energy use.\n\nWe are not asking for a perfect lifestyle, only for one new habit each. Join us this Friday in front of the library and let us make our campus greener together.\n\nYours,\nThe Students' Union",
+ "keyPoints": []
+}

@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2024dec2-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2024年12月六级第二套 阅读2",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024dec2",
+ "paperTitle": "2024年12月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "passage": "Statements, like “beauty is in the eye of the beholder (观看者)”, are rarely questioned. They’ve become so embedded in our consciousness that people think it’s absurd to think otherwise. It might be useful, however, to at least push back on this assumption because people evaluate environment, situations, and people aesthetically. We may find that we still believe it is correct, but we may also find that there is a lot more to the situation than you A recent study exploring aesthetic taste was published in Cognition. The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects. symmetry, are at work. Preferences for natural scenes might be learned through life experiences. Factors like habitability, safety, and openness might be preferred as people develop. Some of the details of landscapes change, but the basics are more common, e.g., water, open spaces, and signs of care. Art and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have the same level of shared taste. It’s possible that the lower amount of agreement in the shared taste of artifacts has to do more with elements of style, rather than “behavioral consequences”. preferences or evaluations. I am not saying this would mean beauty is completely objective, just that there could possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder. Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world. It’s not exactly the same everywhere, but it is common. For example, a sunset is similar enough in different places to warrant almost universal appeal. Possible universal principles of beauty — such as proportion, fittingness, radiance, and others — are general architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal. This is why it’s important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty. And it is always good to question our assumptions.",
+ "questions": [
+  {
+   "q": "What does the passage say about the statement “beauty is in the eye of the beholder”?",
+   "options": [
+    "It has hardly ever been disputed.",
+    "Many people have found it absurd.",
+    "It can be interpreted aesthetically.",
+    "People have long been misled by it."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What does a recent study exploring aesthetic taste show?",
+   "options": [
+    "Aesthetic tastes tend to differ from person to person.",
+    "Natural beauty is rarely surpassed by artificial beauty.",
+    "There is less consensus on objects shaped by human craft.",
+    "There is general agreement on what is pleasing to the eye."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "Why do people differ in their aesthetic appraisal of artifacts?",
+   "options": [
+    "They come out in a great variety of designs.",
+    "They lead to varying behavioral consequences.",
+    "They take up much less natural space than landscapes.",
+    "They come into people’s view less often than natural spaces."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What does the example of sunset tell about nature?",
+   "options": [
+    "It creates a powerful appeal through its brilliant radiance.",
+    "It displays aesthetic traits in a similar way the world over.",
+    "It embodies beauty with a wide array of aesthetic features.",
+    "It establishes the principles of beauty in a number of ways."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "Why do artifacts not always hold universal appeal?",
+   "options": [
+    "The appreciation of their beauty is not subject to objective standards.",
+    "The universal principle of beauty prevents a wide array of embodiments.",
+    "The way their creators apply the principle of beauty may not be pleasing to everybody.",
+    "Their creators interpret the universal principle of beauty each in their preferred way."
+   ],
+   "answer": 0,
+   "explain": ""
+  }
+ ]
+}

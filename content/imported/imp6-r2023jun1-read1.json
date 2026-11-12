@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2023jun1-read1",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2023年6月六级第一套 阅读1",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023jun1",
+ "paperTitle": "2023年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-06",
+ "passage": "people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity. While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, particularly judgments that have moral implications. Aristotle argued that the capacity for making practical judgments depends on regularly making them — on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves. judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will. Recommendation engines, which are increasingly prevalent intermediaries in people’s consumption algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own. At the same time, though, this selection is optimizing for what people are likely to prefer based on what they’ve preferred in the past. We think there is some risk that people’s options will be constrained by their past in a new and unanticipated way. As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant. Algorithms could soon — if they don’t already — have a better idea about which show you’d like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display. But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us.",
+ "questions": [
+  {
+   "q": "What do we learn about the deeper implications of Al?",
+   "options": [
+    "It is causing catastrophic levels of unemployment.",
+    "It is doing physical harm to human operators.",
+    "It is altering moral judgments.",
+    "It is reshaping humanity."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "What is the consequence of algorithmic prescription replacing human judgment?",
+   "options": [
+    "People lose the chance to cultivate the ability to make practical judgments.",
+    "People are prevented from participating in making major decisions in the workplace.",
+    "Managers no longer have the chance to decide which loan to approve.",
+    "Managers do not need to take the trouble to determine who to hire or fire."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What may result from increasing application of recommendation engines in our consumption of culture?",
+   "options": [
+    "Consumers will have much limited choice.",
+    "Consumers will actually enjoy better luck.",
+    "It will be easier to decide on what to enjoy.",
+    "Humans will develop tastes similar to machines’."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+   "options": [
+    "They will turn out to be more pleasant.",
+    "They will repeat our past experience.",
+    "They can be completely anticipated.",
+    "They may become better and better."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "Why does the author say the creatures living in the more and more AI-mediated world will become increasingly unlike us?",
+   "options": [
+    "They will have lost the most significant human element of being intelligent.",
+    "They will no longer possess the human characteristic of being unpredictable.",
+    "They will not be able to understand themselves as we can do today.",
+    "They will be deprived of what their predecessors were proud of about themselves."
+   ],
+   "answer": 1,
+   "explain": ""
+  }
+ ]
+}

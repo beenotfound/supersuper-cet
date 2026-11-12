@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-demo-2024",
+      "title": "2024年12月大学英语四级（模拟节选）",
+      "level": "CET4",
+      "year": "2024-12",
+      "durationMinutes": 125,
+      "tags": ["真题改编", "四级", "综合训练"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Suppose your university is selecting volunteers for a reading programme at the local community library. Write a letter of application to the programme coordinator, Mr. Wang. In your letter you should: 1) state your interest in the programme; 2) describe your relevant experience; 3) explain what you can contribute. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "假定你校正在为社区图书馆的阅读推广项目招募志愿者。请给项目负责人王先生写一封申请信，内容包括：1）你对项目的兴趣；2）你的相关经历；3）你能做出的贡献。词数 120–180 词。",
+          "reference": "Dear Mr. Wang,\n\nI am writing to apply for the volunteer position in your reading programme at the City Community Library. As a sophomore majoring in English, I have always loved reading, and I would be delighted to help more people discover that pleasure.\n\nLast year I worked as a volunteer in our university library, where I sorted returned books and helped new students find materials. That experience taught me to be patient and organized. I also took part in a weekend story-telling activity for children, which made me realize how much difference a good book can make.\n\nIf I am chosen, I would be glad to help with book sorting, reading guidance and the children's story sessions. I could also design simple posters and promote the programme on social media.\n\nThank you for considering my application. I look forward to hearing from you.\n\nYours sincerely,\nLi Ming",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题；文字稿见各题的 transcript 字段。",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What was the man doing until midnight?",
+              "transcript": "Woman: Hi, Mark. You look exhausted. Have you been working on the group presentation all night?\nMan: Not exactly. I was at the campus gym until midnight. I have signed up for a half-marathon in May, so I train almost every evening.\nWoman: A half-marathon? That is over twenty-one kilometres. I did not know you were a runner.\nMan: Neither did I, to be honest. My roommate persuaded me to try it. The first week was terrible, but now I actually enjoy it.\nWoman: That is encouraging. I have been thinking about getting more exercise, but I always find an excuse to stay on the sofa.\nMan: You could start with a fifteen-minute walk after dinner. There is also a beginners' running club on campus. It meets on Tuesday and Thursday evenings.\nWoman: Do I need any special equipment?\nMan: Just a pair of comfortable shoes. The club provides everything else, and the coach is patient with beginners.\nWoman: That sounds perfect. I will drop by this Thursday and see how it goes.\nMan: Good luck! If you sign up for the race, we can train together.",
+              "options": [
+                "A. Preparing a group presentation.",
+                "B. Training at the campus gym.",
+                "C. Working in the library.",
+                "D. Buying running shoes."
+              ],
+              "answer": "B",
+              "explanation": "女士问男士是否通宵准备小组展示，男士回答 Not exactly，并解释自己昨晚在校园健身房待到午夜，为五月的半程马拉松训练。故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "Why did the man sign up for a half-marathon?",
+              "transcript": "Woman: Hi, Mark. You look exhausted. Have you been working on the group presentation all night?\nMan: Not exactly. I was at the campus gym until midnight. I have signed up for a half-marathon in May, so I train almost every evening.\nWoman: A half-marathon? That is over twenty-one kilometres. I did not know you were a runner.\nMan: Neither did I, to be honest. My roommate persuaded me to try it. The first week was terrible, but now I actually enjoy it.\nWoman: That is encouraging. I have been thinking about getting more exercise, but I always find an excuse to stay on the sofa.\nMan: You could start with a fifteen-minute walk after dinner. There is also a beginners' running club on campus. It meets on Tuesday and Thursday evenings.\nWoman: Do I need any special equipment?\nMan: Just a pair of comfortable shoes. The club provides everything else, and the coach is patient with beginners.\nWoman: That sounds perfect. I will drop by this Thursday and see how it goes.\nMan: Good luck! If you sign up for the race, we can train together.",
+              "options": [
+                "A. His roommate encouraged him to.",
+                "B. His doctor advised him to.",
+                "C. He wanted to lose weight.",
+                "D. He joined a university course."
+              ],
+              "answer": "A",
+              "explanation": "男士说 My roommate persuaded me to try it，即室友劝他尝试半程马拉松，故选 A。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What does the man suggest the woman do first?",
+              "transcript": "Woman: Hi, Mark. You look exhausted. Have you been working on the group presentation all night?\nMan: Not exactly. I was at the campus gym until midnight. I have signed up for a half-marathon in May, so I train almost every evening.\nWoman: A half-marathon? That is over twenty-one kilometres. I did not know you were a runner.\nMan: Neither did I, to be honest. My roommate persuaded me to try it. The first week was terrible, but now I actually enjoy it.\nWoman: That is encouraging. I have been thinking about getting more exercise, but I always find an excuse to stay on the sofa.\nMan: You could start with a fifteen-minute walk after dinner. There is also a beginners' running club on campus. It meets on Tuesday and Thursday evenings.\nWoman: Do I need any special equipment?\nMan: Just a pair of comfortable shoes. The club provides everything else, and the coach is patient with beginners.\nWoman: That sounds perfect. I will drop by this Thursday and see how it goes.\nMan: Good luck! If you sign up for the race, we can train together.",
+              "options": [
+                "A. Buy a new pair of shoes.",
+                "B. Join a university course.",
+                "C. Take a short walk after dinner.",
+                "D. Run with him every evening."
+              ],
+              "answer": "C",
+              "explanation": "针对女士抱怨自己总找借口不运动，男士建议 You could start with a fifteen-minute walk after dinner，即先从晚饭后散步十五分钟开始，故选 C。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What will the woman probably do this Thursday?",
+              "transcript": "Woman: Hi, Mark. You look exhausted. Have you been working on the group presentation all night?\nMan: Not exactly. I was at the campus gym until midnight. I have signed up for a half-marathon in May, so I train almost every evening.\nWoman: A half-marathon? That is over twenty-one kilometres. I did not know you were a runner.\nMan: Neither did I, to be honest. My roommate persuaded me to try it. The first week was terrible, but now I actually enjoy it.\nWoman: That is encouraging. I have been thinking about getting more exercise, but I always find an excuse to stay on the sofa.\nMan: You could start with a fifteen-minute walk after dinner. There is also a beginners' running club on campus. It meets on Tuesday and Thursday evenings.\nWoman: Do I need any special equipment?\nMan: Just a pair of comfortable shoes. The club provides everything else, and the coach is patient with beginners.\nWoman: That sounds perfect. I will drop by this Thursday and see how it goes.\nMan: Good luck! If you sign up for the race, we can train together.",
+              "options": [
+                "A. Visit the beginners' running club.",
+                "B. Buy a pair of comfortable shoes.",
+                "C. Sign up for the half-marathon.",
+                "D. Meet the man in the library."
+              ],
+              "answer": "A",
+              "explanation": "男士介绍校园初学者跑步俱乐部每周二、周四晚上活动，女士说 I will drop by this Thursday and see how it goes，说明她周四会去看看这个俱乐部，故选 A。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What did the Canadian researchers track?",
+              "transcript": "Many university students believe that staying up late is a sign of hard work, but recent research suggests the opposite. Researchers at a Canadian university tracked the sleep habits of more than five hundred students over two semesters. Those who went to bed after two in the morning scored, on average, ten per cent lower in their final exams than those who slept before midnight. The researchers explain that memory is consolidated during deep sleep, especially in the first few hours after we fall asleep. Students who stay up late may read the same chapter twice and still forget most of it. The study also found that students who used their phones in bed took about thirty minutes longer to fall asleep. The team therefore recommends putting phones away an hour before bedtime and keeping a regular schedule, even at weekends. According to the lead researcher, no amount of coffee can replace the memory benefits of a good night's sleep.",
+              "options": [
+                "A. Students' coffee consumption.",
+                "B. The sleep habits of over 500 students.",
+                "C. Students' final exam papers.",
+                "D. The prices of mobile phones."
+              ],
+              "answer": "B",
+              "explanation": "短文开头提到 Researchers at a Canadian university tracked the sleep habits of more than five hundred students，即研究者追踪了五百多名学生的睡眠习惯，故选 B。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What happens during deep sleep according to the passage?",
+              "transcript": "Many university students believe that staying up late is a sign of hard work, but recent research suggests the opposite. Researchers at a Canadian university tracked the sleep habits of more than five hundred students over two semesters. Those who went to bed after two in the morning scored, on average, ten per cent lower in their final exams than those who slept before midnight. The researchers explain that memory is consolidated during deep sleep, especially in the first few hours after we fall asleep. Students who stay up late may read the same chapter twice and still forget most of it. The study also found that students who used their phones in bed took about thirty minutes longer to fall asleep. The team therefore recommends putting phones away an hour before bedtime and keeping a regular schedule, even at weekends. According to the lead researcher, no amount of coffee can replace the memory benefits of a good night's sleep.",
+              "options": [
+                "A. Memory is consolidated.",
+                "B. Body temperature rises.",
+                "C. Students become less alert.",
+                "D. New ideas are forgotten."
+              ],
+              "answer": "A",
+              "explanation": "文中说 memory is consolidated during deep sleep，即深度睡眠期间记忆会得到巩固，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What did the study find about phone use in bed?",
+              "transcript": "Many university students believe that staying up late is a sign of hard work, but recent research suggests the opposite. Researchers at a Canadian university tracked the sleep habits of more than five hundred students over two semesters. Those who went to bed after two in the morning scored, on average, ten per cent lower in their final exams than those who slept before midnight. The researchers explain that memory is consolidated during deep sleep, especially in the first few hours after we fall asleep. Students who stay up late may read the same chapter twice and still forget most of it. The study also found that students who used their phones in bed took about thirty minutes longer to fall asleep. The team therefore recommends putting phones away an hour before bedtime and keeping a regular schedule, even at weekends. According to the lead researcher, no amount of coffee can replace the memory benefits of a good night's sleep.",
+              "options": [
+                "A. It helped students relax.",
+                "B. It delayed falling asleep by about 30 minutes.",
+                "C. It caused students to wake at midnight.",
+                "D. It had no effect on sleep."
+              ],
+              "answer": "B",
+              "explanation": "研究发现 students who used their phones in bed took about thirty minutes longer to fall asleep，即睡前玩手机会使入睡时间延长约三十分钟，故选 B。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the team recommend students do?",
+              "transcript": "Many university students believe that staying up late is a sign of hard work, but recent research suggests the opposite. Researchers at a Canadian university tracked the sleep habits of more than five hundred students over two semesters. Those who went to bed after two in the morning scored, on average, ten per cent lower in their final exams than those who slept before midnight. The researchers explain that memory is consolidated during deep sleep, especially in the first few hours after we fall asleep. Students who stay up late may read the same chapter twice and still forget most of it. The study also found that students who used their phones in bed took about thirty minutes longer to fall asleep. The team therefore recommends putting phones away an hour before bedtime and keeping a regular schedule, even at weekends. According to the lead researcher, no amount of coffee can replace the memory benefits of a good night's sleep.",
+              "options": [
+                "A. Drink coffee before exams.",
+                "B. Study late for two semesters.",
+                "C. Put phones away before bedtime and keep a regular schedule.",
+                "D. Sleep less at weekends."
+              ],
+              "answer": "C",
+              "explanation": "研究团队建议 putting phones away an hour before bedtime and keeping a regular schedule, even at weekends，即睡前把手机收起来并保持规律作息，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "词库（A–O，共 15 个词，从中选出 10 个填入下列空白，每个词只能使用一次）：\nA. absorb\nB. affordable\nC. average\nD. balance\nE. currently\nF. dramatically\nG. essential\nH. exposed\nI. gradually\nJ. largely\nK. likely\nL. prevent\nM. release\nN. survive\nO. reduce\n\n说明：每题给出一个含空白的句子，请从词库中选择最恰当的单词填入空白处，答案填写单词本身。",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "Trees are often called the lungs of a city because they ____ carbon dioxide from the air and give off oxygen.",
+              "answer": "absorb",
+              "explanation": "选 A. absorb。句意为‘树木常被称为城市的肺，因为它们从空气中吸收二氧化碳并释放氧气’，absorb carbon dioxide 为常见搭配；balance 意为‘平衡’，不能与 carbon dioxide 搭配。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "On a hot day, a single large tree can ____ hundreds of litres of water vapour, making the streets around it cooler.",
+              "answer": "release",
+              "explanation": "选 M. release。空格需要表示‘释放’的动词，与 water vapour 搭配；release 指树木通过蒸腾作用释放水汽，从而使周围变凉。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "Measurements in several European cities show that shaded streets are ____ cooler than unshaded ones in summer.",
+              "answer": "dramatically",
+              "explanation": "选 F. dramatically。空格修饰比较级 cooler，需要程度副词；dramatically 意为‘显著地’，表示有树荫的街道明显更凉爽。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "Trees can also ____ traffic noise, which makes busy roads more pleasant for the people living beside them.",
+              "answer": "reduce",
+              "explanation": "选 O. reduce。reduce noise 意为‘降低噪音’，是固定搭配，说明树木能减轻交通噪音对沿街居民的影响。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "Yet the trees themselves are constantly ____ to air pollution, drought and disease.",
+              "answer": "exposed",
+              "explanation": "选 H. exposed。be exposed to 意为‘暴露于、受到……的影响’，为固定搭配；此处说树木自身也常受空气污染、干旱和疾病的威胁。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "Some species can hardly ____ in narrow roadside spaces where the soil is poor and dry.",
+              "answer": "survive",
+              "explanation": "选 N. survive。空格需要不及物动词表示‘存活’，survive in ... spaces 指在条件恶劣的狭小路边空间里难以存活。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "For city planners, therefore, choosing the right species is ____ to the success of any green project.",
+              "answer": "essential",
+              "explanation": "选 G. essential。be essential to 意为‘对……至关重要’，符合‘选对树种对绿化项目成功至关重要’的句意。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "Planting and caring for trees is a relatively ____ way to improve air quality in crowded neighbourhoods.",
+              "answer": "affordable",
+              "explanation": "选 B. affordable。句意强调成本较低，affordable 意为‘负担得起的、经济上可行的’，修饰 way 最贴切。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "A recent survey found that the ____ summer temperature in tree-lined streets was about two degrees lower than in streets without trees.",
+              "answer": "average",
+              "explanation": "选 C. average。average 作形容词意为‘平均的’，the average summer temperature 即‘夏季平均气温’，与后文‘低约两度’呼应。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "The real challenge for city governments is to ____ the need for new housing with the need for green space.",
+              "answer": "balance",
+              "explanation": "选 D. balance。balance A with B 意为‘在 A 与 B 之间取得平衡’，此处指在住房需求与绿地需求之间进行权衡。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，每个段落前给出该段落的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nA. A change in attitudes\nTen years ago, buying second-hand clothes was something many young people did quietly, if at all. Today the same shoppers post pictures of their finds online and discuss them openly. The stigma that once surrounded used goods has largely disappeared, and a generation that grew up with recycling at school seems to see resale as a sensible habit rather than a sign of poverty.\n\nB. Cheaper than buying new\nThe most obvious attraction is price. A coat that costs eighty pounds in a shop may sell for fifteen on a resale platform, and popular brands keep a surprisingly high share of their value. For students and young families in particular, this makes a wider range of clothing affordable, and many users say they now buy more thoughtfully because they know an item can be sold on later.\n\nC. Better for the planet\nEvery garment that is worn for a second time means one fewer new item produced, and clothing production is a significant source of carbon emissions and water use. Environmental groups have been quick to point this out, and several platforms now calculate the estimated savings for each sale. Critics note, however, that the overall volume of clothing bought continues to rise, which may cancel out some of the benefit.\n\nD. A social experience\nFor many users, the appeal goes beyond money and the environment. Buyers and sellers exchange messages, negotiate prices and often meet in person to hand over the goods. These small conversations turn a transaction into something closer to a community activity, and friendships have been known to start over a pair of boots.\n\nE. Problems for traditional shops\nThe shift has not been welcomed everywhere. Several high-street chains have reported declining sales among younger customers, and some have responded by launching their own resale schemes. Shop owners argue that the platforms enjoy an unfair advantage because they carry no stock, though others insist that the two ways of shopping can coexist.\n\nF. What the future may bring\nAnalysts expect the second-hand market to keep expanding, possibly overtaking fast fashion within a decade. Growth brings its own questions: how to keep counterfeits off the platforms, how to protect sellers' personal data, and whether resale income should be taxed. Most observers agree that some form of regulation is now likely, and the platforms themselves say clearer rules would help.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Platforms let users chat and arrange to meet in person, so shopping becomes a social activity rather than a lonely one.",
+              "options": [
+                "A. A change in attitudes",
+                "B. Cheaper than buying new",
+                "C. Better for the planet",
+                "D. A social experience",
+                "E. Problems for traditional shops",
+                "F. What the future may bring"
+              ],
+              "answer": "D",
+              "explanation": "D 段提到 Buyers and sellers exchange messages, negotiate prices and often meet in person，并说 friendships have been known to start，说明二手交易带有社交属性，故选 D。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Young consumers no longer regard used goods as something to be ashamed of.",
+              "options": [
+                "A. A change in attitudes",
+                "B. Cheaper than buying new",
+                "C. Better for the planet",
+                "D. A social experience",
+                "E. Problems for traditional shops",
+                "F. What the future may bring"
+              ],
+              "answer": "A",
+              "explanation": "A 段指出 The stigma that once surrounded used goods has largely disappeared，即围绕二手商品的羞耻感基本消失，与题干同义，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "By extending the life of clothing, the trend helps to cut carbon emissions.",
+              "options": [
+                "A. A change in attitudes",
+                "B. Cheaper than buying new",
+                "C. Better for the planet",
+                "D. A social experience",
+                "E. Problems for traditional shops",
+                "F. What the future may bring"
+              ],
+              "answer": "C",
+              "explanation": "C 段说明 Every garment that is worn for a second time means one fewer new item produced，并提到服装生产是碳排放的重要来源，即延长衣物使用寿命有助于减排，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Some traditional high-street retailers have reported falling sales as a result.",
+              "options": [
+                "A. A change in attitudes",
+                "B. Cheaper than buying new",
+                "C. Better for the planet",
+                "D. A social experience",
+                "E. Problems for traditional shops",
+                "F. What the future may bring"
+              ],
+              "answer": "E",
+              "explanation": "E 段开头即说 Several high-street chains have reported declining sales among younger customers，与题干‘部分传统实体零售商销量下滑’直接对应，故选 E。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Experts expect the market to keep growing, although regulation may be needed.",
+              "options": [
+                "A. A change in attitudes",
+                "B. Cheaper than buying new",
+                "C. Better for the planet",
+                "D. A social experience",
+                "E. Problems for traditional shops",
+                "F. What the future may bring"
+              ],
+              "answer": "F",
+              "explanation": "F 段提到 Analysts expect the second-hand market to keep expanding，以及 Most observers agree that some form of regulation is now likely，故选 F。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: When Mark Stevenson became head of a small design company in Bristol, he noticed that his team spent nearly two hours a day in meetings. Most of them were held in a windowless room and, according to Stevenson, half the people were checking their phones. He decided to try something different: walking meetings. Once a week, the eight members of the team leave their desks, walk to a nearby park and discuss one project while they move. Stevenson says the change has been surprisingly effective. People talk more freely outdoors, and because there are no screens, they listen to each other. The meetings also finish on time, since nobody wants to walk for more than forty minutes. Not every topic suits a walk, he admits; confidential financial discussions still take place indoors. But for creative work, he believes the streets and parks of the city are better than any meeting room. Some researchers agree, noting that light exercise increases blood flow to the brain and helps ideas connect.\n\nPassage 2: Every Saturday morning, volunteers gather in a community centre in south London to fix broken things. The event is called a repair cafe, and it is part of a movement that began in the Netherlands in 2009 and has since spread to more than thirty countries. Visitors bring lamps, kettles, bicycles and even clothes, and volunteers with practical skills show them how to repair the items rather than throw them away. The service is free, although visitors are encouraged to buy a coffee or leave a small donation. Organizers say the repair cafes have two aims: reducing waste and passing on practical skills that many people have lost. In a typical morning, about twenty items are repaired, and nearly all of them would otherwise have gone into the rubbish. Some visitors simply come for the company. 'You learn something, you meet your neighbours, and you go home with a working toaster,' one volunteer explains.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What problem did Mark Stevenson notice about his team's meetings?",
+              "options": [
+                "A. They were held in a park.",
+                "B. People often checked their phones.",
+                "C. They lasted less than an hour.",
+                "D. Only eight people attended."
+              ],
+              "answer": "B",
+              "explanation": "第一段说 Most of them were held in a windowless room and, according to Stevenson, half the people were checking their phones，即他注意到开会时很多人看手机，故选 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What is one advantage of walking meetings mentioned in the passage?",
+              "options": [
+                "A. People talk more freely outdoors.",
+                "B. They cost the company nothing.",
+                "C. They help staff finish more projects.",
+                "D. They are held every morning."
+              ],
+              "answer": "A",
+              "explanation": "第三段指出 People talk more freely outdoors, and because there are no screens, they listen to each other，故选 A。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) Why do walking meetings usually finish on time?",
+              "options": [
+                "A. Participants have to return to their desks.",
+                "B. The park closes in the early afternoon.",
+                "C. Nobody wants to walk for over forty minutes.",
+                "D. The manager sets an alarm."
+              ],
+              "answer": "C",
+              "explanation": "文中说 The meetings also finish on time, since nobody wants to walk for more than forty minutes，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) Which kind of discussion is still held indoors?",
+              "options": [
+                "A. Creative design work.",
+                "B. Confidential financial matters.",
+                "C. Weekly team planning.",
+                "D. Discussions with clients."
+              ],
+              "answer": "B",
+              "explanation": "第四段说 confidential financial discussions still take place indoors，即涉及机密的财务讨论仍在室内进行，故选 B。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) Where did the repair cafe movement begin?",
+              "options": [
+                "A. In south London.",
+                "B. In the Netherlands.",
+                "C. In thirty countries.",
+                "D. In a bicycle shop."
+              ],
+              "answer": "B",
+              "explanation": "Passage 2 第一段说 it is part of a movement that began in the Netherlands in 2009，故选 B。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What are the two aims of the repair cafes?",
+              "options": [
+                "A. Selling coffee and collecting donations.",
+                "B. Reducing waste and passing on practical skills.",
+                "C. Repairing goods and reselling them.",
+                "D. Meeting neighbours and opening shops."
+              ],
+              "answer": "B",
+              "explanation": "Passage 2 明确说 the repair cafes have two aims: reducing waste and passing on practical skills，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What do we learn about the items repaired at the cafes?",
+              "options": [
+                "A. Most of them are electrical goods.",
+                "B. Nearly all of them would otherwise have been thrown away.",
+                "C. They are sold to raise money.",
+                "D. They are given to local schools."
+              ],
+              "answer": "B",
+              "explanation": "Passage 2 说 about twenty items are repaired, and nearly all of them would otherwise have gone into the rubbish，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "中国的移动支付近年来发展迅速。如今，无论是在城市还是乡村，人们只需用手机扫一扫二维码，就可以购买商品、乘坐公交，甚至缴纳水电费。移动支付不仅节省了时间，还减少了人们对现金的依赖。许多外国游客对此感到惊讶，认为这是中国日常生活中最方便的发明之一。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "Mobile payment has developed rapidly in China in recent years. Today, whether in cities or in the countryside, people can simply scan a QR code with their mobile phones to buy goods, take a bus, or even pay their water and electricity bills. Mobile payment not only saves time but also reduces people's reliance on cash. Many foreign visitors are surprised by it and regard it as one of the most convenient inventions in daily life in China.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

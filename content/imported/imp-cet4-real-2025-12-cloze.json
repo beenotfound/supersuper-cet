@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-real-2025-12-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-12",
+ "paperTitle": "2025年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "sectionOrder": 2,
+ "passage": "Most students now bring a laptop to lectures, and typing looks like an efficient way to capture everything the lecturer says. A {{1}} number of studies, however, suggests that writing notes by hand may help learners understand better. In one experiment, students watched the same short lecture in two groups: one typed their notes, the other wrote them on paper. The typed notes were almost {{2}}, because students could type faster. Yet when everyone took a test a week later, the handwritten group performed {{3}}, remembering more of the {{4}} points.\n\nOne explanation is that writing by hand is slower, so students must {{5}} what matters. They cannot copy every word, which forces them to {{6}} the information in their own words. This processing supports memory. Typing, by contrast, encourages a {{7}} of transcription: the words pass from the lecturer's mouth into the notebook without ever being {{8}}.\n\nThe lesson is not that laptops are useless. They are helpful for searching for resources or for group work. For lectures, though, students may {{9}} more if they put the keyboard away and {{10}} a pen instead.",
+ "bank": [
+  "benefit",
+  "better",
+  "complete",
+  "decide",
+  "growing",
+  "kind",
+  "key",
+  "understood",
+  "use",
+  "summarise",
+  "process",
+  "repeat",
+  "simply",
+  "therefore",
+  "widely"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "growing",
+   "explain": "a growing number of 是常用搭配，意为越来越多的，说明相关研究不断增多。"
+  },
+  {
+   "n": 2,
+   "answer": "complete",
+   "explain": "此处需要形容词作表语，complete 意为完整的；打字快，所以记录几乎不遗漏。"
+  },
+  {
+   "n": 3,
+   "answer": "better",
+   "explain": "Yet 引出转折：虽然打字的笔记更完整，一周后测试中手写组却表现更好；better 作副词修饰 performed。"
+  },
+  {
+   "n": 4,
+   "answer": "key",
+   "explain": "key points 表示要点，与上文 must decide what matters 相呼应。"
+  },
+  {
+   "n": 5,
+   "answer": "decide",
+   "explain": "情态动词 must 后接动词原形，decide 意为决定，说明手写要求判断哪些内容重要。"
+  },
+  {
+   "n": 6,
+   "answer": "summarise",
+   "explain": "summarise 意为概括；把听到的内容用自己的话概括，与 cannot copy every word 构成因果。"
+  },
+  {
+   "n": 7,
+   "answer": "kind",
+   "explain": "a kind of 表示一种，此处指打字容易变成一种不加思考的照抄。"
+  },
+  {
+   "n": 8,
+   "answer": "understood",
+   "explain": "being 后接过去分词构成被动，understood 意为被理解，说明照抄时信息未经加工。"
+  },
+  {
+   "n": 9,
+   "answer": "benefit",
+   "explain": "may 后接动词原形，benefit 意为受益，与后文 use a pen instead 的建议一致。"
+  },
+  {
+   "n": 10,
+   "answer": "use",
+   "explain": "此处需要动词原形，use a pen 与 instead of a keyboard 形成对比，建议学生改用纸笔。"
+  }
+ ]
+}

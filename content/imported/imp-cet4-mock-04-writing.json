@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-04-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-04",
+ "paperTitle": "大学英语四级标准模拟卷 04",
+ "paperLevel": "cet4",
+ "paperYear": "mock-04",
+ "sectionOrder": 0,
+ "prompt": "Directions: Some people believe that every university student should take a compulsory course in traditional culture, while others argue that such knowledge should be left to personal choice. Write an essay of 120 to 150 words on this issue. In your essay you should: 1) state your own view; 2) give two reasons for your view; 3) suggest how such a course could be taught well.",
+ "reference": "Should traditional culture be a compulsory course at university? I believe it should, as long as the course is well designed.\n\nFirst, tradition gives students a shared frame of reference. A young person who has never read a classical poem or thought about the origin of a festival can hardly understand the literature, films and even the jokes that surround them. Second, a compulsory course reaches everybody, not only the students who are already curious. Elective classes tend to attract the same small group, while a required class gives future engineers and doctors the same starting point.\n\nThe key lies in good teaching. Instead of testing names and dates, the course should ask students to discuss why old ideas still matter today. Taught in this way, it becomes a conversation between past and present rather than a list to be memorised.",
+ "keyPoints": []
+}

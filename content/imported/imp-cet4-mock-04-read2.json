@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-04-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-04",
+ "paperTitle": "大学英语四级标准模拟卷 04",
+ "paperLevel": "cet4",
+ "paperYear": "mock-04",
+ "sectionOrder": 4,
+ "passage": "When Zhou Lan told her parents that she wanted to become a book restorer, they imagined a quiet job in a library. In reality she spends her days in a workshop in Nanjing, bent over a fragile volume with a fine brush, wheat paste and paper of a dozen different weights. One torn sheet may take three hours to mend, and a badly damaged book can keep her busy for a month.\n\nTraditional book repair was once a small trade, passed from master to apprentice inside a few families. For years, young people showed little interest: the pay was low, the work was slow, and success was invisible. The turning point came when a documentary about restorers became unexpectedly popular online. Applications to the national training programme rose from a handful to several hundred, and the average age of the students fell from forty to twenty-six.\n\nZhou Lan says the appeal is partly the silence. 'Everything around us moves fast,' she explains. 'Here, if you hurry, you tear the paper.' She also enjoys the moment when an object returns to use. Recently she spent five weeks repairing an eighteenth-century dictionary that a village school had owned for two hundred years, and she refused to accept payment from the school.\n\nNot everyone is comfortable with the attention. Some older craftspeople complain that television crews now visit the workshop in search of beautiful pictures rather than asking about technique, and that a short film cannot show the ten years needed to train an eye. Zhou Lan understands the complaint, but she thinks the interest is a beginning. 'People come for the pictures,' she says. 'Some of them stay for the paper.'",
+ "questions": [
+  {
+   "q": "Why did few young people want to learn book repair in the past?",
+   "options": [
+    "The work was too physically demanding.",
+    "The training programme was too short.",
+    "The pay was low and progress was invisible.",
+    "The materials were impossible to find."
+   ],
+   "answer": 2,
+   "explain": "第二段说 the pay was low, the work was slow, and success was invisible，故选 C。"
+  },
+  {
+   "q": "What brought hundreds of new applicants to the training programme?",
+   "options": [
+    "A documentary that became popular online.",
+    "A large rise in the salary of restorers.",
+    "A new law protecting old books.",
+    "An article in a school textbook."
+   ],
+   "answer": 0,
+   "explain": "第二段说 The turning point came when a documentary about restorers became unexpectedly popular online，随后报名人数大增，故选 A。"
+  },
+  {
+   "q": "How does Zhou Lan view the sudden public interest in her trade?",
+   "options": [
+    "She thinks short films describe the work accurately.",
+    "She regards it as a useful starting point.",
+    "She believes it wastes the restorers' time.",
+    "She feels that payment should not be discussed."
+   ],
+   "answer": 1,
+   "explain": "最后一段说 she thinks the interest is a beginning，并说 People come for the pictures... Some of them stay for the paper，故选 B。"
+  }
+ ]
+}

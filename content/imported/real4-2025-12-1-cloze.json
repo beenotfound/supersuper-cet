@@ -1,0 +1,83 @@
+{
+ "id": "real4-2025-12-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2025年12月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-1",
+ "paperTitle": "2025年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "passage": "People tend to want as many choices as possible. They believe this will maximize their {{1}}  of making the best decision. But research shows that, when it comes to actually making a  {{2}} from all of these choices, people can become  {{3}} and avoid making a decision altogether. Even worse, when people finally do decide, they are generally less satisfied with their decision and feel more regretful over whatever choice they made. Why does this happen? Research shows that when people choose from many options, they  {{4}} more in the decision, but feel less confident in their ability to decide well. In other words, when we are  {{5}} with more choices, making the \"right\" or \"correct\" decision begins to feel more {{6}}  and, at the same time, more difficult to do. This may contribute to the deep fear that we will make the wrong decision. How can we solve this problem? I believe this fear could be tempered by putting decisions into perspective. It might help to remember that many of the choices you make, such as what to have for lunch, will not {{7}}  much in the future and that, even more important choices, like accepting a new job, can {{8}}  be changed. It could also help to  {{9}} these situations with clear guidelines and ideas of what you want from the {{10}}  of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision.",
+ "bank": [
+  "approximately",
+  "case",
+  "chance",
+  "confused",
+  "crucial",
+  "deposited",
+  "enter",
+  "invest",
+  "matter",
+  "presented",
+  "range",
+  "regular",
+  "seize",
+  "selection",
+  "ultimately"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "chance",
+   "explain": "形容词 their 物主代词后 + of 短语，名词性短语中心词 chance of doing sth = 做……的可能性 原句意为「他们相信这样能最大化做出最佳决定的可能性」，maximize the chance of doing sth 是非常稳定的搭配，C 完美契合。 B) case case of doing 不是「可能性」 case 表示「案例、情况」，maximize their case of making 既不成搭配…"
+  },
+  {
+   "n": 2,
+   "answer": "selection",
+   "explain": "不定冠词 a 后 + from 短语前，名词作宾语 make a selection from = 从……中做出选择 make a selection 是英语里表「做出一次选择」的高频搭配，from all of these choices 表 「从所有这些选项中」，正好契合 when it comes to actually making a __(27)__ from all of these choices 想表达的「真要在这些选…"
+  },
+  {
+   "n": 3,
+   "answer": "confused",
+   "explain": "become 后接形容词/过去分词作表语 confused = 困惑、不知所措，正好引出「干脆不决定」 people can become __(28)__ and avoid making a decision altogether，「变得困惑 → 索性不做决定」是顺承的因果，confused 描述心理状态贴合上文 when it comes to actually making a __(27)__ from all of thes…"
+  },
+  {
+   "n": 4,
+   "answer": "invest",
+   "explain": "主语 people 后缺谓语，且与 feel less confident 并列 invest more in sth = 在……上投入更多 they __(29)__ more in the decision 想说「在这个决定上投入更多（精力/心思）」， invest more in sth 是固定搭配，与下文 but feel less confident 形成「投入更多 → 反而 更没信心」的转折，是文章解释「选择悖论」的关键句。…"
+  },
+  {
+   "n": 5,
+   "answer": "presented",
+   "explain": "be 动词 are 后 + 介词 with，典型「be + 形容词 + with」结构 be presented with 是固定搭配，表「被给予/面对……」 when we are __(30)__ with more choices 要表达「当我们被给予/面对更多选择时」，be presented with sth 正是英语里表「被呈上/面对某物」的标准搭配，与下文 making the \"right\" or \"correct\" d…"
+  },
+  {
+   "n": 6,
+   "answer": "crucial",
+   "explain": "feel + more + 空，feel 后接形容词作表语 和 difficult 并列：决定既「显得更重要」又「更难做」 feel more __(31)__ and, at the same time, more difficult to do 用 and 连接两个并列形 容词，crucial（重要的）与 difficult（困难的）一起描绘「正确决定变得既重要又难做」， 正好引出下文 the deep fear that we w…"
+  },
+  {
+   "n": 7,
+   "answer": "matter",
+   "explain": "助动词 not 后 + 副词 much，需要动词原形 matter much = 关系重大、要紧 many of the choices you make, such as what to have for lunch, will not __(32)__ much in the future 想说「你做的很多选择，比如午餐吃什么，将来不会有什么要紧的」， will not matter much 是常见表达，与作者主张「把选择放进合适…"
+  },
+  {
+   "n": 8,
+   "answer": "ultimately",
+   "explain": "情态动词 can 后 + 被动语态 be changed 前，副词作状语 ultimately 表「最终归根到底」，弱化决定的不可逆感 even more important choices, like accepting a new job, can __(33)__ be changed 想 说「就算是接受新工作这种更重要的选择，归根到底也是可以变的」，与上句 will not __(32)__ much in the future…"
+  },
+  {
+   "n": 9,
+   "answer": "enter",
+   "explain": "并列 to + 空，需动词原形；与上句 to remember 并列 enter these situations with ... = 带着……进入这些情境 to __(34)__ these situations with clear guidelines and ideas of what you want，「带着 清晰的指引和想法去进入/着手这些情境」，enter a situation with sth 是地道说法，表 「以某…"
+  },
+  {
+   "n": 10,
+   "answer": "range",
+   "explain": "定冠词 the 后 + of 短语，典型「冠词+名词+of...」结构 a range of / the range of options 是固定搭配，意为「一系列选项」 原句 from the __(35)__ of options 想表达「从这一系列选项中挑出你想要的」，range of options 是英语里非常稳定的搭配，正好对应。这也呼应了第一段 as many choices as possible 所说的「众多选项」。 …"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-05-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-05",
+ "paperTitle": "大学英语四级标准模拟卷 05",
+ "paperLevel": "cet4",
+ "paperYear": "mock-05",
+ "sectionOrder": 4,
+ "passage": "When universities advertise volunteering, they usually stress what students can do for the community. A growing number of careers advisers are more interested in the opposite question: what the community does for students.\n\nThe evidence suggests that this second effect is larger than students expect. A study following two hundred undergraduates over a year found that those who volunteered for two hours a week were more likely to say they could cope with difficult people and unexpected problems. The improvement did not depend on the sort of work they did. Sorting clothes in a charity shop and teaching children to swim produced similar changes, possibly because both require turning up, paying attention and being useful to someone who does not care about your grades.\n\nEmployers seem to notice. In a survey of graduate recruiters, more than half said that volunteering was useful evidence of qualities that interviews cannot easily reveal, such as reliability. One recruiter admitted that a student who had run a weekend football club for three years told her more about commitment than any number of prizes.\n\nThere is a risk of exaggeration. Students who volunteer mainly to fill a line on their CV often stop after a few weeks, and a single afternoon of painting a wall proves very little. Advisers therefore suggest choosing one organisation and staying with it for a year. They also warn against letting hours push aside sleep, study or paid work, since a student who is exhausted helps nobody.\n\nThe most lasting benefit may be quieter than any of these. Volunteers meet people whose lives they would otherwise never enter, and they learn that a community is not managed by officials alone. That lesson is hard to test, which may be why it is so rarely advertised.",
+ "questions": [
+  {
+   "q": "What are some careers advisers more interested in?",
+   "options": [
+    "What students gain from the community.",
+    "How much money volunteering raises.",
+    "Why charities refuse student helpers.",
+    "Which subjects volunteers should study."
+   ],
+   "answer": 0,
+   "explain": "第一段说 careers advisers are more interested in the opposite question: what the community does for students，即关注学生从社区得到什么，故选 A。"
+  },
+  {
+   "q": "What did the study find about the improvement in students?",
+   "options": [
+    "It only appeared in students of medicine.",
+    "It disappeared when the volunteering stopped.",
+    "It did not depend on the type of work done.",
+    "It was greater for those who worked longer hours."
+   ],
+   "answer": 2,
+   "explain": "第二段说 The improvement did not depend on the sort of work they did，并举例说整理旧衣物与教孩子游泳效果相似，故选 C。"
+  },
+  {
+   "q": "What did the survey of graduate recruiters show?",
+   "options": [
+    "Most recruiters ignore volunteering completely.",
+    "Recruiters prefer students with high grades.",
+    "Recruiters doubt whether volunteering is real work.",
+    "Over half of them linked volunteering with qualities such as reliability."
+   ],
+   "answer": 3,
+   "explain": "第三段说 more than half said that volunteering was useful evidence of qualities... such as reliability，故选 D。"
+  },
+  {
+   "q": "What do advisers warn students against?",
+   "options": [
+    "Choosing more than one organisation.",
+    "Letting volunteering push aside sleep and study.",
+    "Working with children without training.",
+    "Taking part in activities that last a year."
+   ],
+   "answer": 1,
+   "explain": "第四段说 They also warn against letting hours push aside sleep, study or paid work，故选 B；A 恰恰相反，顾问建议只选一家机构。"
+  }
+ ]
+}

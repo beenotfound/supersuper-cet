@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-06-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年6月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-06-2",
+ "paperTitle": "2023年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-06",
+ "passage": "P1 The traditional school year, with three months of vacation every summer, was first implemented when America was an agricultural society and the summer months were needed for farm work. Since then, we've completely changed as a nation. Students no longer spend summers farming, but they aren't in school, either. The average American student receives 13 weeks off from school each calendar year- with about 11 of those during the summer. Few other countries have more than seven weeks off in a school calendar.\n\nP2 With the U.S. lagging behind other countries in academics, it's time to consider year-round schooling. One benefit of this change is that students will not fall victim to the \"summer slide,\" or the well-documented phenomenon where students forget some of the knowledge they have acquired when too much time is taken off from school. Decades of research shows that it can take from 8 to 13 weeks at the beginning of every school year for students to get back to where they were before the summer holiday.\n\nP3 But year-round schooling isn't just about academics. Teachers and students experience a closer relationship in year-round schools than they do in traditional schools and, in the absence of any long- term break, students do not feel detached from the school environment. These closer bonds and greater attachment pay off. Research shows that students in year-round schools are more self-confident and feel more positive about their schooling experience.\n\nP4 But don't kids need time to relax? Some childhood development experts believe that time off from school is vital to healthy development as kids are not designed to spend so much of their time inside classrooms and the summer break provides a perfect opportunity to get outside. The problem with this argument is that most children aren't playing outside or even spending time with other kids. While some children visit summer camps, most stay at home, watching TV or playing games on electronic devices, which hardly benefits them.\n\nP5 The U.S. has changed from a farming economy to a knowledge- and innovation-based economy, so it makes sense for the school year to change as well.",
+ "questions": [
+  {
+   "q": "Why did America's traditional school year have a three-month summer vacation?",
+   "options": [
+    "Students needed to help with farm work.",
+    "Students needed time to learn necessary farming skills.",
+    "The agricultural society then attached less importance to academics.",
+    "America lagged behind other countries in making a scientific school calendar."
+   ],
+   "answer": 0,
+   "explain": "Why did America's traditional school year have a three-month summer vacation? 问 一个写在文中的具体事实原因，答案应能在原文直接找到。 Q51 是一个 Why 引导的特殊疑问句，主干就是 school year have a three-month summer vacation，没有从句也没有否定，结构平铺直叙、无陷阱。 51. Why did Americ…"
+  },
+  {
+   "q": "What benefit will year-round schooling bring students in addition to improving their learning?",
+   "options": [
+    "It will help them get back to where their lessons started.",
+    "It will enable them to absorb what they have learned.",
+    "It will familiarize them with the school environment.",
+    "It will strengthen their relationship with teachers."
+   ],
+   "answer": 3,
+   "explain": "What benefit will year-round schooling bring students in addition to improving their learning? 问一项写在文中的具体好处，属可直接核对的事实。 Q52 主干是 What benefit will year-round schooling bring students，后接介词短语 in addition to improving their l…"
+  },
+  {
+   "q": "What do some childhood development experts believe about the long summer vacation?",
+   "options": [
+    "It meets students' need to study on their own.",
+    "It enables students to learn about the outside world.",
+    "It satisfies students' desire to stay longer at home.",
+    "It contributes to students' healthy growth."
+   ],
+   "answer": 3,
+   "explain": "What do some childhood development experts believe about the long summer vacation? 问的是专家在文中直接表述的观点，可逐字核对，不需要读者推断。 Q53 主干 What do some childhood development experts believe，后接 about the long summer vacation 点明评论对象；注意主语是 e…"
+  },
+  {
+   "q": "What is the argument against the experts' idea of a long summer vacation?",
+   "options": [
+    "It does little good to most students.",
+    "It benefits few students playing outside.",
+    "It leads students to neglect their studies.",
+    "It makes students addicted to computer games."
+   ],
+   "answer": 0,
+   "explain": "What is the argument against the experts' idea of a long summer vacation? 问一个写 在文中的具体反驳理由，可直接核对。 Q54 主干 What is the argument against the experts' idea，介词 against 决定方向 是\"反对专家\"；读懂 against 才不会把专家自己的话误当反驳，是理解关键。 54. What is …"
+  },
+  {
+   "q": "What does the author think of the traditional school year in the U.S. today?",
+   "options": [
+    "Well-grounded.",
+    "Culture-bound.",
+    "Outdated.",
+    "Welcomed."
+   ],
+   "answer": 2,
+   "explain": "What does the author think of the traditional school year in the U.S. today? 问的是作 者对旧学制的整体评价，需通览全文立场而非某句。 Q55 主干 What does the author think of the traditional school year，关键是 today ——问的是\"在今天看来\"旧学制如何，提示要结合文章\"时代已变\"的论调判断，是解…"
+  }
+ ]
+}

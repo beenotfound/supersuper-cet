@@ -1,0 +1,17 @@
+{
+  "id": "write-011",
+  "type": "writing",
+  "level": "cet6",
+  "title": "Second-Hand Shopping",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["transaction", "consumption", "sustainable"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the chart below, which shows that the value of second-hand goods traded online in China has risen sharply over the past six years. You should write at least 150 words but no more than 200 words.",
+  "reference": "The chart shows a sharp rise in the value of second-hand goods traded online in China over the past six years. This trend tells us something interesting about how young consumers think.\n\nSeveral forces are at work. Online platforms have made it much easier to photograph an unwanted item, set a price and reach buyers in other cities. Attitudes have changed: owning second-hand things is no longer regarded as a sign of poverty but as a sensible and even fashionable choice. Young people in particular care about value for money and about waste, and a used laptop or a nearly new coat fits both. Rising prices for new goods push many households the same way.\n\nThe effects go beyond individual wallets. Every second-hand transaction keeps a product in use for longer, cutting demand for new materials and the waste that follows. It also encourages people to look after their possessions, because an object that can be sold still has value.\n\nOf course, second-hand trade needs trust. Sellers must describe goods honestly, and platforms must protect buyers. With clear rules, this quiet change in shopping habits can benefit consumers and the environment at the same time.",
+  "keyPoints": [
+    "第一段概括图表趋势，并指出其反映消费观念变化。",
+    "第二段分析技术与观念两方面的原因，用 be no longer regarded as 结构。",
+    "第三段把话题从个人省钱提升到资源与环境层面。",
+    "结尾补充“信任”这一前提，使论证更完整。"
+  ]
+}

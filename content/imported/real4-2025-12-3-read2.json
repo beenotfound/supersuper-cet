@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-12-3-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年12月四级真题 第3套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-3",
+ "paperTitle": "2025年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "passage": "P1 With genetic testing becoming increasingly popular, many people are left wondering exactly how accurate it is. Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn( 先天的) health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon.\n\nP2 How accurate DNA tests are relies greatly upon the kind of test being taken, on the specific question you ask, and on how complex the genetics behind a trait(特征) is. For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease- causing trait is present.\n\nP3 Ancestry tests claim to reveal our genetic identities. But saying you are 30 percent East Asian or American hardly reflects your real ancestry.\n\nP4 What about using DNA tests to discover distant family members? There are tools to compare one's DNA with others' to find distant relatives based on their genetic identification. These kinds of applications are generally accurate. It's relatively easy to tell whether two DNA samples belong to close relatives. With distant relatives, results become hazier.\n\nP5 Genetic health tests claim to be able to detect certain hereditary( 遗传的) diseases, or other health conditions. While certain rare diseases can be easily identified, most potential health conditions cannot be identified by genetic testing alone. The large majority of our traits and diseases also depend upon non-genetic factors, such as lifestyle, the environment, and many others.\n\nP6 Genetic tests for multi-factorial traits are often very tricky to interpret. Height, for example, depends on hundreds of genes, each contributing a little to the outcome, together with a bunch of environmental factors. A test can look at many genes at once, but it's difficult to predict how they will play together. Then you should also account for non-genetic factors that are not written in the DNA.\n\nP7 Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense. At the moment, the scientific bases for these applications are non-existent or incredibly weak.",
+ "questions": [
+  {
+   "q": "What does the passage say is of importance regarding genetic tests?",
+   "options": [
+    "Knowing their accuracy.",
+    "Evaluating their applicability.",
+    "Utilizing the information they provide.",
+    "Weighing the consequences they have."
+   ],
+   "answer": 0,
+   "explain": "What does the passage say is of importance regarding genetic tests 直接问文章\"说了 什么\"，没有 infer/imply 这种推断信号词，是查找型细节题。 51. What does the passage say is of importance regarding genetic tests? A) Knowing their accuracy. B) Evalua…"
+  },
+  {
+   "q": "What kind of genetic tests tend to be comparatively reliable?",
+   "options": [
+    "Those complex enough to reveal the genetics behind a trait.",
+    "Those looking for traits responsible for certain diseases.",
+    "Those focusing on the specific questions being asked.",
+    "Those looking for traits determined by a single gene."
+   ],
+   "answer": 3,
+   "explain": "What kind of genetic tests tend to be comparatively reliable 是查询事实性比较，找到 原文那句 \"X 更可靠\" 即可对答案。 What kind of genetic tests tend to be comparatively reliable 中 \"tend to be\" 是\"倾向 于、往往是\"的弱化系动词结构，相当于 are usually；comparatively 修…"
+  },
+  {
+   "q": "What do we learn about genetic health tests from the passage?",
+   "options": [
+    "They are unable to identify certain hereditary diseases by themselves.",
+    "They are generally unable to separate genetic and non-genetic factors.",
+    "They cannot independently identify the majority of potential diseases.",
+    "They cannot tell apart the impact of lifestyle and that of the environment."
+   ],
+   "answer": 2,
+   "explain": "What do we learn about genetic health tests from the passage 问的是文章\"告诉我们 什么\"，属于事实查询，不是推断。 What do we learn about genetic health tests from the passage 句式为 \"learn about X from Y\"——从 Y 中了解到关于 X 的什么；about 后是话题，from 后是来源。结构平铺…"
+  },
+  {
+   "q": "What makes genetic tests for multi-factorial traits tricky to interpret?",
+   "options": [
+    "The challenge in determining the role of each individual gene.",
+    "The difficulty of foretelling how the various genes will interact.",
+    "The difficulty of telling genetic factors from environmental ones.",
+    "The enormous work to identify the hundreds of genes involved."
+   ],
+   "answer": 1,
+   "explain": "What makes genetic tests for multi-factorial traits tricky to interpret 是 What makes X Y 的句式，问的是事实层面的原因，原文里有现成原因句。 What makes genetic tests for multi-factorial traits tricky to interpret 结构是 \"make + 宾语 + 形容词\"——\"使...变得难以解…"
+  },
+  {
+   "q": "What does the passage say about DNA tests to predict personality or talents?",
+   "options": [
+    "They are solid scientific bases for application.",
+    "They are helpful in finding a romantic match.",
+    "They do not look promising at the moment.",
+    "They do not make any sense at present."
+   ],
+   "answer": 3,
+   "explain": "What does the passage say about DNA tests to predict personality or talents——配 合选项里 do not look promising、do not make any sense 这种全是态度评价的格局，本 质是问作者对这件事的态度。 What does the passage say about DNA tests to predict personality…"
+  }
+ ]
+}

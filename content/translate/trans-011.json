@@ -1,0 +1,18 @@
+{
+  "id": "trans-011",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国武术",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["martial", "discipline", "posture", "flexibility"],
+  "prompt": "武术是中国传统的体育项目，既有实战技巧，也有强身健体的作用。练武的人讲究基本功，站桩、压腿这些动作看似枯燥，却要反复练习很多年。武术不只是打斗的技术，更强调武德，习武者要懂得克制和尊重对手。清晨的公园里，常能看到老人打太极拳，动作缓慢而连贯，呼吸与动作配合。如今，一些学校把武术列入体育课程，希望孩子在锻炼身体的同时学会专注和坚持。武术正以新的方式走进普通人的生活。",
+  "reference": "Martial arts are a traditional Chinese sport that combines fighting skills with the building of physical strength. Practitioners pay great attention to basic skills: standing postures and leg stretches may look dull, yet they have to be repeated for years. Martial arts are not merely techniques of combat; they stress martial virtue, and a learner is expected to show restraint and respect for the opponent. In parks in the early morning, elderly people can often be seen practising tai chi, their movements slow and continuous as their breathing keeps pace with their bodies. Today some schools have added martial arts to their physical education courses, hoping that children will learn concentration and persistence while exercising. Some young people take it up for fitness, others for the calm it brings, and a few simply love the beauty of its forms. In this way martial arts are entering ordinary people's lives in new forms.",
+  "keyPoints": [
+    "“强身健体”可译为 building physical strength。",
+    "“基本功”用 basic skills。",
+    "“武德”译为 martial virtue。",
+    "“克制和尊重对手”译为 show restraint and respect for the opponent。",
+    "“呼吸与动作配合”可用 as their breathing keeps pace with their bodies。"
+  ]
+}

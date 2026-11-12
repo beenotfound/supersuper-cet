@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2025jun1-read1",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2025年6月六级第一套 阅读1",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025jun1",
+ "paperTitle": "2025年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-06",
+ "passage": "Nationally, one in six children miss 15 or more days of school in a year. Education officials have deplored all this missed instruction. These chronically absent students suffer academically because of all the classroom instruction they miss out on. In every day and be successful in school. His open letter stated that missing 10% of school days in a year for any reason — excused or unexcused — is a primary cause of low academic achievement. Worrying about whether children attend school makes sense. After all, if students don’t show up, teachers can’t teach them. But what if America’s attendance crisis is about much more than students missing class? What if, instead, it is a fearing for their safety in their neighborhood or suffering an illness? We find that absences excused by a parent do little to harm children’s learning. In fact, children with no unexcused absences — but 15 to 18 excused absences — have test scores equal to their peers who have no absences. with none. economic and medical hardships. Unexcused absences can be a powerful signal of how those out-of-school challenges affect children’s academic progress. Absence from school, and especially unexcused absence, matters mainly as a signal of many crises children and their families may be facing. It matters less as a cause of lower student achievement due to missed instruction. matters for policy. School hold schools and families accountable for the days children miss, regardless of whether they were excused or unexcused These policies assume that missing school for any reason harms children academically because they are missing classroom instruction. They also assume that schools will be able to effectively intervene by reducing student absences. We find neither to be the case. disproportionately crises in their lives and pressuring schools who serve them to get students to school more often. families who need them most.",
+ "questions": [
+  {
+   "q": "What does the US secretary of education say in his open letter?",
+   "options": [
+    "It is of vital importance to respond promptly to the school absence crisis.",
+    "The academic performance of chronically absent students is deplorable.",
+    "Low academic achievement is mainly attributed to school absences.",
+    "The effect of school absences on American education is worrisome."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What do the authors find about school absences?",
+   "options": [
+    "Excused school absences have little impact on children’s learning.",
+    "There is little difference between unexcused and excused absences.",
+    "Excused absences lead to comparatively better school performance.",
+    "Unexcused absences are a big challenge to both schools and families."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What do the authors believe concerning unexcused school absences?",
+   "options": [
+    "They are likely to cause a decrease in students’ academic achievements due to missed instruction.",
+    "They point directly to many of the out-of-school challenges confronting children and their families.",
+    "They are matters the American government typically ignores when formulating educational policies.",
+    "They give a clear signal to children and their families of the crises they are likely to face in the future."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What is the assumption underlying education policies in the US?",
+   "options": [
+    "Children’s academic performance depends on reducing the number of absences.",
+    "Schools can boost children’s academic performance by effective intervention.",
+    "Schools as well as families should be held responsible for out-of-school crises.",
+    "Children’s academic performance is closely related to the quality of instruction."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What do the authors suggest doing regarding school absences?",
+   "options": [
+    "Identifying their underlying causes.",
+    "Directing resources to helping needy children.",
+    "Reframing school attendance policies.",
+    "Pressuring schools to reduce unexcused ones."
+   ],
+   "answer": 2,
+   "explain": ""
+  }
+ ]
+}

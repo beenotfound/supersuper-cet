@@ -1,0 +1,83 @@
+{
+ "id": "real4-2026-06-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2026年6月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-3",
+ "paperTitle": "2026年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "passage": "Junk-food lovers who try to cut back on fries or chocolate may experience symptoms similar to drug withdrawal, a new study suggests. Researchers found that people attempting to cut down on eating highly processed foods experience some of the same {{1}}  and psychological symptoms—such as mood swings, anxiety, headaches and poor sleep—as those  {{2}} smoking cigarettes or using drugs, according to the study. The new study  {{3}} the first evidence that these withdrawal-like symptoms can occur when people cut down on highly processed foods, said lead study author Erica Schulte. Based on the participants' self-reported symptoms, withdrawal symptoms were  {{4}} more intense between the second and fifth days after attempting to reduce junk-food consumption, which  {{5}} the time span people live through during drug withdrawal. The idea that food may be addictive after \"heavy\" use by some individuals is a {{6}}  subject, Schulte said. Although prior studies in animals and humans have shown some biological and behavioral similarities between substance-use disorders and addictive-like consumption of highly processed foods, no studies have looked at whether reducing junk food can {{7}}  withdrawal symptoms in people, she noted. Raising  {{8}} that people may experience irritability(烦躁) or headaches when cutting down on junk food can help individuals  {{9}} coping strategies in advance, Schulte noted. The findings may also  {{10}} light on the barriers people face when changing eating habits—barriers that may play a role in people dropping out of treatments, she said.",
+ "bank": [
+  "awareness",
+  "canceling",
+  "controversial",
+  "emptiness",
+  "monstrous",
+  "offers",
+  "parallels",
+  "permanently",
+  "physical",
+  "prepare",
+  "prospects",
+  "quitting",
+  "shed",
+  "significantly",
+  "trigger"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "physical",
+   "explain": "与 psychological 并列修饰 symptoms，需形容词 physical 与 psychological 构成「身与心」对举 physical（身体的）与 psychological symptoms（心理症状）正是「身心」对举；且空后 例证 such as mood swings, anxiety, headaches and poor sleep 中的 headaches、 poor sleep 就是身体症状，例证直接…"
+  },
+  {
+   "n": 2,
+   "answer": "quitting",
+   "explain": "those 的后置定语，与 using 并列的现在分词 quit smoking 戒烟，固定搭配 quitting 与空后 smoking cigarettes 构成 quit smoking（戒烟）这一近乎绑死的搭配： those __(27)__ smoking cigarettes or using drugs 指「戒烟或戒毒的人」，正好对应全 文「戒断」主题。 B) canceling cancel 接「安排」不接「习惯」 ca…"
+  },
+  {
+   "n": 3,
+   "answer": "offers",
+   "explain": "单数主语后缺谓语，需三单动词 offer evidence 提供证据，研究报道标配 offers 意为「提供」：The new study __(28)__ the first evidence 句意「这项新研究提 供了首个证据」，study + offer + evidence 是学术报道高频搭配，that 从句正是证据的 内容。 G) parallels 「研究平行于证据」主宾逻辑不成立 parallels 作动词意为「与……相似/…"
+  },
+  {
+   "n": 4,
+   "answer": "significantly",
+   "explain": "空在比较级 more intense 前，修饰程度，只能副词 significantly more 表「显著更」，研究报告程度的标准语气 significantly（显著地）修饰 more intense，正是研究报告里描述程度差异的标配表达： withdrawal symptoms were __(29)__ more intense between the second and fifth days 句意「戒断症状在第 2 到第 5…"
+  },
+  {
+   "n": 5,
+   "answer": "parallels",
+   "explain": "which 定语从句缺谓语，需三单动词 parallels 表「与……相平行/对应」，是 similar to 的动词版 parallels 句意「（第 2~5 天最强）这与人们戒毒时熬过来的时间跨度相平行/对应」，呼应 首段 symptoms similar to drug withdrawal 的「相似于戒毒」主线——parallels 正是 similar to 的动词说法。"
+  },
+  {
+   "n": 6,
+   "answer": "controversial",
+   "explain": "冠词 a 后、名词 subject 前，典型定语位需形容词 「有争议的话题」，与 Although 让步转折呼应 controversial 修饰 subject（话题）：后文 Although prior studies in animals and humans have shown some biological and behavioral similarities between substance- use disorder…"
+  },
+  {
+   "n": 7,
+   "answer": "trigger",
+   "explain": "情态动词 can 后接原形及物动词 trigger withdrawal symptoms 引发戒断症状 trigger 意为「引发、触发」，trigger + 症状是医学心理语境的常见搭配：whether reducing junk food can __(32)__ withdrawal symptoms in people 句意「减少吃垃圾食 品是否会引发戒断症状」，正是首段 experience symptoms similar…"
+  },
+  {
+   "n": 8,
+   "answer": "awareness",
+   "explain": "及物动词 Raising 后缺宾语，且带 that 同位语从句，需名词 raise awareness 提高认识，固定搭配 awareness 与句首 Raising 构成 raise awareness（提高认识）这一高频固定搭配，that 从 句正是「认识」的内容：人们戒掉垃圾食品时可能烦躁或头痛——提高这种认识，才能帮助 下文的 prepare coping strategies。 D) emptiness 「提高空虚」语义荒谬 …"
+  },
+  {
+   "n": 9,
+   "answer": "prepare",
+   "explain": "help sb (to) do 结构中接原形动词 prepare coping strategies 提前准备应对策略 prepare 与宾语 coping strategies 搭配自然：help individuals __(34)__ coping strategies in advance 句意「帮助人们提前准备好应对策略」，句末的 in advance 与 prepare 的「提前」语义恰好呼应。"
+  },
+  {
+   "n": 10,
+   "answer": "shed",
+   "explain": "情态动词 may 后接原形动词，且与 light on 构成动宾框架 shed light on 是固定搭配「阐明」 shed 与空后的 light on the barriers 构成固定短语 shed light on（阐明、使清楚）：「这 些发现也可以阐明人们改变饮食习惯时面对的障碍」，与全文「戒断症状是改变饮食习惯的 障碍」的主旨完全贴合。 J) prepare prepare light on 搭配不成立 prepare 后接…"
+  }
+ ]
+}

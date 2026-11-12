@@ -1,0 +1,63 @@
+{
+  "id": "cloze-006",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "Gardens Above the Street",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["absorbed", "available", "resist"],
+  "passage": "Look down on a modern city from a high window and you will see a grey landscape of roofs. Look again in a few years and some of those roofs may have turned green. Rooftop gardens, once a novelty on expensive apartment blocks, are spreading to schools, offices, and public housing, and they are changing the way cities {{1}} heat, water, and food.\n\nThe environmental case is easy to {{2}}. A layer of soil and plants absorbs sunlight that would otherwise be {{3}} by concrete, so the building below stays cooler in summer. The plants also slow rainwater, which {{4}} the pressure on drains during storms. In dense neighbourhoods where ground space is scarce, a roof may be the only {{5}} place to grow vegetables.\n\nThe social case is less obvious but just as {{6}}. A shared garden gives neighbours a reason to talk, and a school roof can become an outdoor classroom where children learn where food comes from. Tenants who have never met may find themselves {{7}} tomatoes together on a Saturday morning.\n\nRooftop gardens are not {{8}}, however. The structure must carry the weight of wet soil, the waterproofing must be perfect, and someone must water the plants in dry spells. Costs can {{9}} quickly, and a poorly planned garden may be abandoned within a season.\n\nCities that have made the gardens work usually started small. A single pilot roof allowed engineers to test the load, gardeners to learn which plants {{10}} the wind, and residents to see the benefit for themselves. Success then spread by example rather than by rule.",
+  "bank": ["manage", "fragile", "reduces", "publish", "available", "absorbed", "wander", "strong", "simple", "planting", "sudden", "rise", "resist", "punish", "make"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "manage",
+      "explain": "the way cities manage heat, water, and food 指城市“管理”热、水和食物的方式；publish、punish 语义不合。"
+    },
+    {
+      "n": 2,
+      "answer": "make",
+      "explain": "make the case 意为“提出理由、论证”，与 the environmental case 搭配；wander、publish 不合。"
+    },
+    {
+      "n": 3,
+      "answer": "absorbed",
+      "explain": "would otherwise be absorbed by concrete 指阳光本会被混凝土“吸收”，被动语态需过去分词。"
+    },
+    {
+      "n": 4,
+      "answer": "reduces",
+      "explain": "which 指代前面的做法，从句谓语用第三人称单数 reduces，表示“减轻”排水压力。"
+    },
+    {
+      "n": 5,
+      "answer": "available",
+      "explain": "the only available place 指“唯一可用的地方”，与 ground space is scarce 呼应；fragile、sudden 不合。"
+    },
+    {
+      "n": 6,
+      "answer": "strong",
+      "explain": "just as strong 与 less obvious 形成转折，指社会层面的理由“同样有力”；fragile 语义相反。"
+    },
+    {
+      "n": 7,
+      "answer": "planting",
+      "explain": "find themselves planting tomatoes 表示“发现自己正在种西红柿”，需现在分词；publish 不合。"
+    },
+    {
+      "n": 8,
+      "answer": "simple",
+      "explain": "not simple 后列举承重、防水、浇水等难题，说明屋顶花园并不“简单”；sudden 不合。"
+    },
+    {
+      "n": 9,
+      "answer": "rise",
+      "explain": "costs can rise 表示“成本会上升”，与后文花园被弃用形成因果；publish、wander 不合。"
+    },
+    {
+      "n": 10,
+      "answer": "resist",
+      "explain": "plants resist the wind 指植物“抵御”风力，作定语从句谓语；punish、publish 不合。"
+    }
+  ]
+}

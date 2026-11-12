@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet6-demo-2024-match",
+ "type": "matching",
+ "level": "cet6",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet6-demo-2024",
+ "paperTitle": "2024年12月大学英语六级（模拟节选）",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "A vanishing experience Waiting used to be unavoidable. People queued at bus stops, sat in waiting rooms and stared out of train windows with nothing but their own thoughts for company. Smartphones have changed that. Today the average person reaches for a screen within seconds of being left alone, and the small gaps in the day that once invited reflection have almost disappeared."
+  },
+  {
+   "label": "B",
+   "text": "What the brain does when idle For a long time, idleness was treated as wasted time. Brain imaging has challenged that assumption. When a person stops concentrating on a task, a network of regions becomes unusually active, linking memories and rehearsing possible futures. This activity appears to help people make sense of their experience, and it may partly explain why good ideas often arrive in the shower rather than at the desk."
+  },
+  {
+   "label": "C",
+   "text": "Creativity needs empty space Writers and scientists have often reported that their best ideas came during dull moments: on a walk, in a queue, while washing the dishes. The common factor is not the activity itself but the absence of a demanding task. When the mind is left to wander, it can combine fragments of knowledge in ways that a tightly scheduled day never allows. Some studios have even installed quiet rooms for exactly this purpose."
+  },
+  {
+   "label": "D",
+   "text": "A generation hooked on screens Teachers report that students now find it harder to sit quietly for even a few minutes. One survey of undergraduates found that those who spent more than four hours a day on social media were the least comfortable with silence, and the most likely to describe an unplanned hour as boring. The habit is not simply a matter of discipline; the devices are designed to reward constant attention."
+  },
+  {
+   "label": "E",
+   "text": "How schools and offices respond Some schools have introduced quiet minutes before lessons, when children are asked to do nothing but look out of the window. A few companies are experimenting with meeting-free mornings and walking breaks, and one firm in Sweden has replaced its weekly status meeting with a silent hour in which staff simply think. Early reports suggest that the changes are welcome, although hard evidence is still thin."
+  },
+  {
+   "label": "F",
+   "text": "A balance to be struck None of this means that boredom should be romanticized. Chronic boredom is linked to low mood and risky behaviour, especially among teenagers, and few people would choose an empty day over a fulfilling one. The aim is not to fill every moment, nor to empty it completely, but to notice when our discomfort with stillness is doing us harm."
+  }
+ ],
+ "statements": [
+  {
+   "text": "When the mind is not occupied with a task, it begins to link ideas in unexpected ways.",
+   "answer": "B"
+  },
+  {
+   "text": "Constant access to entertainment has made waiting almost disappear from everyday life.",
+   "answer": "A"
+  },
+  {
+   "text": "Some employers now deliberately build gaps into the working day.",
+   "answer": "E"
+  },
+  {
+   "text": "Boredom is useful, but too much of it may damage our well-being.",
+   "answer": "F"
+  },
+  {
+   "text": "For young people in particular, empty time has become hard to tolerate.",
+   "answer": "D"
+  }
+ ]
+}

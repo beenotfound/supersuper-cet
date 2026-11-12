@@ -1,0 +1,17 @@
+{
+  "id": "write-015",
+  "type": "writing",
+  "level": "cet6",
+  "title": "Creating the Future",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["prediction", "initiative", "uncertainty"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the saying 'The best way to predict the future is to create it.' You should write at least 150 words but no more than 200 words.",
+  "reference": "The remark that the best way to predict the future is to create it challenges a habit many of us share: waiting for events to unfold and then reacting to them. It suggests that the future is not simply discovered but made.\n\nNo one can control every circumstance, and plans often fail. What the remark recommends is a shift of attention from prediction to action. Instead of asking what will happen, we can ask what we want to happen and what small step would move us towards it. A student who spends months worrying about the job market gains little; one who learns a practical skill begins to shape his own chances. A community that complains about a neglected park changes nothing, while neighbours who plant a few trees change the place they live in.\n\nThe idea also offers comfort. When the future looks uncertain, action is a better remedy than anxiety: it gives us something to do and often reveals possibilities that planning alone could not see. We cannot know what the coming years will bring, but we can decide what part of them we help to build.",
+  "keyPoints": [
+    "开头改写名言并指出其针对“等待型”心态，论点清晰。",
+    "用学生求职与社区种树两个例子，兼顾个人与集体层面。",
+    "第三段补充心理层面的价值：行动缓解焦虑。",
+    "结尾用 we can decide what part of them we help to build 呼应标题。"
+  ]
+}

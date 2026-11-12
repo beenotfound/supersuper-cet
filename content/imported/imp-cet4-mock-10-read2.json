@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-10-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-10",
+ "paperTitle": "大学英语四级标准模拟卷 10",
+ "paperLevel": "cet4",
+ "paperYear": "mock-10",
+ "sectionOrder": 4,
+ "passage": "For most of the twentieth century, the phrase learning a trade meant learning one skill well and using it for thirty years. Automation has made that model much less reliable. A machine can now handle the filing, the calculations and even some of the writing that once filled a working day, and the tasks it cannot yet handle change faster than any syllabus can be rewritten. The result is a quiet shift in what employers say they need.\n\nA survey of two thousand companies in Asia and Europe found that the three abilities most often named in job advertisements were not technical at all. They were the ability to communicate clearly, to solve unfamiliar problems and to learn something new quickly. Technical skills still matter, the report says, but they are no longer a guarantee of security; they are the entry ticket. What keeps a person employed is the capacity to add a second, related skill: a driver who learns to service electric vehicles, a nurse who learns to manage health data, a warehouse worker who becomes a robot maintenance assistant.\n\nSome governments have begun to design training around this idea. Instead of funding short courses in one occupation, they offer workers paid time to study for a certificate in a nearby field, and some companies have copied the scheme. The early results are encouraging but modest. In one programme, about sixty per cent of participants finished the course, and three quarters of those who finished were still in work a year later. The researchers who evaluated the programme noted one unexpected detail: workers who studied with a colleague were twice as likely to finish. The deeper lesson may be about schools rather than factories. Students who have learned how to learn, and who are not afraid of being beginners, adapt most easily. A curriculum that rewards the right answer above the honest question may be training people for a world that is already disappearing.",
+ "questions": [
+  {
+   "q": "What has made the old model of learning a trade unreliable?",
+   "options": [
+    "Fewer young people want to work in factories.",
+    "Automation now does tasks that once filled a working day.",
+    "Companies have stopped offering training.",
+    "Trade schools have closed down."
+   ],
+   "answer": 1,
+   "explain": "Passage 2 首段说 Automation has made that model much less reliable，并说明机器已能处理归档、计算乃至部分写作，「曾占满工作日」的任务被机器接手，故选 B。"
+  },
+  {
+   "q": "Which abilities did the survey find most often named in job advertisements?",
+   "options": [
+    "Programming and bookkeeping.",
+    "Driving and operating machines.",
+    "Clear communication, problem solving and quick learning.",
+    "Foreign languages and public speaking."
+   ],
+   "answer": 2,
+   "explain": "第二段列出招聘广告中最常提到的三项能力：communicate clearly, solve unfamiliar problems, learn something new quickly，故选 C。"
+  },
+  {
+   "q": "What unexpected detail did the researchers note about the training programme?",
+   "options": [
+    "Older workers finished faster than young ones.",
+    "The courses were too expensive to continue.",
+    "Most participants left their jobs afterwards.",
+    "Workers who studied with a colleague were twice as likely to finish."
+   ],
+   "answer": 3,
+   "explain": "第三段说 the researchers noted one unexpected detail: workers who studied with a colleague were twice as likely to finish，故选 D。"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": "imp6-tr2024dec2-trans",
+ "type": "translation",
+ "level": "cet6",
+ "title": "2024年12月六级翻译：洋山港",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024dec2",
+ "paperTitle": "2024年12月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "prompt": "洋山港（Yangshan Port）是上海航运中心的重要组成部分，是中国第一个深水港，也是世界上规模最大的深水港之一。经过近20年的发展，洋山港已实现高度自动化。数字技术和人工智能的使用大大减少了用工成本和碳排放。自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山港看上去一片繁忙，现场却见不到人工操作，而且能够24小时不间断运作。洋山港将不断发展，为把上海建成一个全球航运中心做出更大贡献。",
+ "reference": "Yangshan Port is an important component of Shanghai's shipping center, China's first deep-water port, and one of the largest deep-water ports in the world. After nearly 20 years of development, Yangshan Port has achieved a high degree of automation. The use of digital technology and artificial intelligence has greatly reduced labor costs and carbon emissions. The independently developed terminal management system can remotely control large equipment from hundreds of kilometers away. Yangshan Port appears to be bustling with activity, yet no manual operations can be seen on site, and it can operate continuously 24 hours a day. Yangshan Port will continue to develop and make greater contributions to building Shanghai into a global shipping center.",
+ "keyPoints": [
+  "深水港 → deep-water port",
+  "高度自动化 → high degree of automation",
+  "碳排放 → carbon emissions",
+  "码头管理系统 → terminal management system",
+  "远程操控 → remote control",
+  "全球航运中心 → global shipping center"
+ ]
+}

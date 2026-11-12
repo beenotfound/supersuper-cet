@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-08-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-08",
+ "paperTitle": "大学英语四级标准模拟卷 08",
+ "paperLevel": "cet4",
+ "paperYear": "mock-08",
+ "sectionOrder": 4,
+ "passage": "Every January, gyms fill with new members, and by March many of them have quietly disappeared. The pattern is so familiar that fitness staff call it the resolution curve. But a small group of researchers who study habit formation believe the problem is not motivation. It is the way people design their plans.\n\nIn one study, participants were asked to exercise three times a week for twelve weeks. Half of them were told to choose any time and place that suited them; the other half were asked to link the exercise to an existing daily routine, such as walking straight to the gym after a morning lecture. The second group attended about twice as many sessions. The explanation is simple: a new behaviour needs a reliable signal, and an existing routine provides one.\n\nThe researchers also found that starting very small helped. People who began with ten minutes on a bicycle were more likely to still be exercising after a month than those who began with an hour. Ten minutes feels too easy to skip, and once the habit exists it can be lengthened. A failed attempt at an ambitious plan, by contrast, often ends all attempts.\n\nSocial surroundings matter as well. Students who exercised with a friend attended more regularly, and those who told their roommates about their plan were less likely to give up. None of this requires money or special equipment. It requires a fixed moment, a small first step and someone who notices whether you turn up. That is probably why the oldest advice remains the best: put your sports shoes where you will see them in the morning.",
+ "questions": [
+  {
+   "q": "What is the resolution curve?",
+   "options": [
+    "A kind of gym equipment.",
+    "A twelve-week training programme.",
+    "A method of measuring fitness.",
+    "The pattern of new members dropping out."
+   ],
+   "answer": 3,
+   "explain": "Passage 2 开头说健身房一月人满为患，三月许多人悄然消失，staff call it the resolution curve，即新会员退出的规律，故选 D。"
+  },
+  {
+   "q": "What made the second group in the study more successful?",
+   "options": [
+    "They had more free time.",
+    "They linked exercise to an existing routine.",
+    "They exercised alone.",
+    "They chose expensive gyms."
+   ],
+   "answer": 1,
+   "explain": "第二组被要求把锻炼与既有日常安排联系起来，如早上听完课直接去健身房，出勤次数约为第一组的两倍，故选 B。"
+  },
+  {
+   "q": "What does the passage say about starting small?",
+   "options": [
+    "It makes people more likely to keep exercising.",
+    "It wastes the first month.",
+    "It is suitable only for children.",
+    "It requires a personal trainer."
+   ],
+   "answer": 0,
+   "explain": "研究发现从每天十分钟开始的人一个月后仍在锻炼的比例更高，因为十分钟很容易做到，不会让人想跳过，故选 A。"
+  }
+ ]
+}

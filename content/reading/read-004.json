@@ -1,0 +1,67 @@
+{
+  "id": "read-004",
+  "type": "reading",
+  "level": "cet6",
+  "title": "The Hidden Cost of Sitting Still",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["idle", "subtle", "sustain", "endurance"],
+  "passage": "For most of human history, physical activity was not something people scheduled. It was built into the shape of daily life: walking to collect water, carrying firewood, working land. Modern routines are different. Many people can now pass an entire working day without standing for more than a few minutes, and the body was never designed for that kind of stillness.\n\nThe problem is not simply a lack of formal exercise. Someone may run in the morning and still spend most of the day seated, and researchers increasingly argue that long, uninterrupted sitting has effects of its own. Muscles that remain idle for hours process fuel differently, and the circulation of blood slows. These changes are subtle, which is exactly why they are easy to ignore.\n\nThe encouraging news is that small interruptions appear to matter. Getting up to fill a glass of water, taking a short walk during a phone call, or simply standing while reading can break up long periods of stillness. The goal is not a workout; it is to reset the body's pattern. Individuals who build such moments into their routines often report that the habit is easier to sustain than a formal exercise plan.\n\nWorkplaces shape this behavior more than willpower does. When stairs are more visible than lifts, when meetings are sometimes held on foot, and when short breaks are treated as normal rather than as laziness, movement becomes the path of least resistance. Culture matters too: employees who leave their desks may be judged as uncommitted unless the organization makes clear that it expects them to move.\n\nNone of this dismisses the value of planned exercise, which remains important for strength, endurance, and mood. But it does suggest that the question \"Did I work out today?\" is too narrow. How long we sit without interruption, and how readily our surroundings let us move, may matter as much as the hours we spend in a gym. The remedy is partly personal and partly collective.",
+  "questions": [
+    {
+      "q": "What does the author say about physical activity in the past?",
+      "options": [
+        "It was something people deliberately scheduled each week",
+        "It was built into the ordinary pattern of daily life",
+        "It was rare because most work required little movement",
+        "It was mainly performed in dedicated exercise spaces"
+      ],
+      "answer": 1,
+      "explain": "首段说过去的体力活动并非刻意安排，而是融入日常：取水、搬柴、耕地，故选第二项。第一项与原文相反，第三项无据，第四项是现代健身房的模式而非过去。"
+    },
+    {
+      "q": "The word \"subtle\" in paragraph 2 most probably means",
+      "options": [
+        "immediately visible to anyone",
+        "medically serious and painful",
+        "slight and easily overlooked",
+        "temporary and self-correcting"
+      ],
+      "answer": 2,
+      "explain": "下文说这些变化“正因为细微才容易被忽视”，故指“轻微而不易察觉”。第一项与“易被忽略”矛盾，第二项文中未提疼痛，第四项无依据。"
+    },
+    {
+      "q": "What are the small interruptions in paragraph 3 meant to do?",
+      "options": [
+        "Break up long periods of inactivity",
+        "Replace a formal exercise plan completely",
+        "Build strength and muscle quickly",
+        "Increase the length of the working day"
+      ],
+      "answer": 0,
+      "explain": "第三段说明这些小动作的目的是“打断长时间的静止”，而非进行锻炼，故选第一项。第二项与“目标不是锻炼”不符，第三项属于有计划的运动，第四项文中未提。"
+    },
+    {
+      "q": "In the author's view, what largely shapes whether people move at work?",
+      "options": [
+        "The strength of individual willpower",
+        "The length of the working day",
+        "Personal fitness levels before employment",
+        "Whether the environment and the culture make movement easy and accepted"
+      ],
+      "answer": 3,
+      "explain": "第四段开头即说工作场所对行为的影响大于意志力，并列举楼梯可见、步行开会、不把短休视为偷懒等，故第四项正确。第一项被原文直接否定，第二、三项文中未论及。"
+    },
+    {
+      "q": "What can be inferred from the last paragraph?",
+      "options": [
+        "Gym exercise is no longer necessary for healthy adults",
+        "The arrangement of furniture and stairs is irrelevant",
+        "Reducing uninterrupted sitting deserves attention alongside planned exercise",
+        "Only employers are able to solve the problem"
+      ],
+      "answer": 2,
+      "explain": "末段说“今天锻炼了吗”这一问题太狭窄，久坐时长的意义可能不亚于健身时间，故第三项正确。第一项与“计划性运动仍重要”矛盾，第二项与全文相反，第四项忽略了文中“部分靠个人”的表述。"
+    }
+  ]
+}

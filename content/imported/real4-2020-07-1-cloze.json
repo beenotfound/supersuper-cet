@@ -1,0 +1,83 @@
+{
+ "id": "real4-2020-07-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2020年7月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-07-1",
+ "paperTitle": "2020年7月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-07",
+ "passage": "\"Science and everyday life cannot and should not be separated.\" Those were the words uttered by pioneering British scientist Rosalind Franklin, who firmly believed that the pursuit of science should be {{1}}  to all. As a woman working in the first half of the 20th century, Franklin's contributions to some of the greatest scientific discoveries of our time including the structure of DNA were sadly  {{2}} in her lifetime. More than 60 years after Franklin's death, we are  {{3}} living in a different world, where women play an important part in every echelon(阶层) of our society—not least in science, innovation, higher education and research. UK universities are world leaders when it comes to advancing and {{4}}  gender equality. In the past decade, we have seen a  {{5}} increase in England in the number of women accepted on to full-time undergraduate degrees in science, technology, engineering and maths (Stem subjects). And in the last academic year, women  {{6}} for more than half of all Stem postgraduates at UK universities. Data shows us the  {{7}} to success gets harder for women to climb the further up they go. Although women make up the majority of undergraduates in our universities, just under half of academic staff are female. At  {{8}} levels, only a quarter of professors are women, and black women make up less than 2% of all female academic staff. There are also stark differences in pay across grades. The gender pay gap based on median salaries across the sector in 2016-2017 was 13.7%,  {{9}} there is still some way to go to ensure women are rising through the ranks to higher grade positions and being paid {{10}}  .",
+ "bank": [
+  "accessible",
+  "accounted",
+  "adaptation",
+  "appropriately",
+  "considerable",
+  "effective",
+  "ladder",
+  "misread",
+  "nomination",
+  "overlooked",
+  "promoting",
+  "senior",
+  "submission",
+  "suggesting",
+  "thankfully"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "accessible",
+   "explain": "be 动词 + 空 + to all，典型表语形容词位 be accessible to all = 「人人可参与」契合 Franklin 的科学观 前句引语 \"Science and everyday life cannot and should not be separated.\" 强调科学 不该脱离日常生活，自然推出科学的探索应「人人能够参与/接触」，accessible 与 to all 构成固定搭配，意思精准。 E) cons…"
+  },
+  {
+   "n": 2,
+   "answer": "overlooked",
+   "explain": "were 后缺表语，且 sadly 修饰，需要过去分词作被动 「贡献被忽视」与下一段「幸而我们今天活在不同世界」呼应 Franklin 是 DNA 结构发现的重要贡献者却长期未被承认；overlooked「被忽视」精准捕捉 这一史实，且与下文 we are __(28)__ living in a different world 的转折逻辑「过去被忽视 ——如今境况变好」环环相扣。 H) misread 义为「误读、被错误理解」，偏离史…"
+  },
+  {
+   "n": 3,
+   "answer": "thankfully",
+   "explain": "be 与现在分词之间，只能塞副词 评注性副词，与「不同于过去的世界」语义对接 本句对比的是 Franklin's contributions … were sadly __(27)__ in her lifetime 那种「可惜 被忽视」的旧时代，到了今天「女性已能在各阶层发挥作用」。作者对这种转变持庆幸态 度，thankfully「幸亏、值得庆幸地」正好对上这一情绪。 D) appropriately 意思是「恰当地」，与「活在不同世…"
+  },
+  {
+   "n": 4,
+   "answer": "promoting",
+   "explain": "and 并列 advancing 后，要填同为现在分词形式的动词 promote gender equality 是英文里高频固定搭配 promote「推动、促进」与 gender equality 搭配是公共议题文中的标配（promote equality），与前面的 advancing 构成同义递进，强化「英国高校在推进性别平等上是世界 领跑者」。 N) suggesting 义为「暗示」，与「推动」语义层次不对 suggest g…"
+  },
+  {
+   "n": 5,
+   "answer": "considerable",
+   "explain": "冠词 a 与名词 increase 之间，是定语形容词位 「相当大的增长」是描述数据上涨最常用的搭配 本段是数据/事实段，要描写 STEM 女性本科生录取人数过去十年的「大幅」增长， considerable 修饰 increase 是固定高频搭配（a considerable increase = 相当大的增 长），与下一句「女性研究生占 STEM 半数以上」相互佐证。 F) effective 义为「有效的」，不修饰增长的「幅度」 …"
+  },
+  {
+   "n": 6,
+   "answer": "accounted",
+   "explain": "主语 women 后缺谓语 + for 的搭配信号 account for 「占（比例）」与「过半」精准匹配 women __(31)__ for more than half of all Stem postgraduates 表达「女性占 STEM 研 究生半数以上」，account for 是「占（比例/数量）」的固定搭配；过去时 accounted 也 匹配 in the last academic year 的时间状语。 H)…"
+  },
+  {
+   "n": 7,
+   "answer": "ladder",
+   "explain": "定冠词 the 后 + 后接介词短语，必填名词 与 climb、the further up 形成形象化搭配「爬阶梯」 句中 gets harder for women to climb the further up they go 用了 climb（爬）和 the further up（越往上）这两个动作/方位词，需要一个能被「爬」和「越往上」修饰的具体名 词；ladder「（事业晋升的）阶梯」恰好和 climb the ladder…"
+  },
+  {
+   "n": 8,
+   "answer": "senior",
+   "explain": "介词 At 后 + 名词 levels 前，是定语形容词位 与 professors（教授）形成「高级 / 资深职位」语境 句子说 At __(33)__ levels, only a quarter of professors are women，是承接上一句「越 往上越难爬」的论据：在「高级 senior 职位」上，女性教授只占四分之一。senior levels （高级别岗位）是固定搭配，与「教授」「学术高层」呼应。 E) con…"
+  },
+  {
+   "n": 9,
+   "answer": "suggesting",
+   "explain": "逗号后接独立成分 + there is，是现在分词作伴随状语 用数据「表明 / 暗示」结论，是论说文标准搭桥词 suggesting 「表明、暗示」连接前句「薪酬差距 13.7%」这一数据与后句「在确保女性晋 升和同酬上仍有相当长的路要走」的结论，是数据 + 推论的最佳过渡。"
+  },
+  {
+   "n": 10,
+   "answer": "appropriately",
+   "explain": "动词被动 being paid 后，再补一个状语副词 「被恰当地支付」= 同工同酬，正好对应同薪议题 appropriately 「恰当地、合宜地」用来修饰「报酬」时，指向「与劳动/地位相称的报酬」 ——和上文 13.7% 的性别薪酬差距正反呼应：要让女性「以恰当方式获得报酬」就是缩小 这一差距。"
+  }
+ ]
+}

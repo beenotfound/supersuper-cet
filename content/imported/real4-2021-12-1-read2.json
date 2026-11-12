@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-12-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年12月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-1",
+ "paperTitle": "2021年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "P1 The human thirst for knowledge is the driving force behind our successful development as a species. But curiosity can also be dangerous, leading to setbacks or even downfalls. Given curiosity's complexity, scientists have found it hard to define.\n\nP2 While pinning down a definition has proven tricky, the general consensus is it's some means of information gathering. Psychologists also agree curiosity is intrinsically(内在地) motivated.\n\nP3 Curiosity covers such a large set of behaviors that there probably isn't any single \"curiosity gene\" that makes humans wonder about and explore their environment. That said, curiosity does have a genetic component. Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity.\n\nP4 Regardless of their genetic makeup, infants have to learn an incredible amount of information in a short time, and curiosity is one of the tools humans have found to accomplish that gigantic task.\n\nP5 Hundreds of studies show that infants prefer novelty. It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure.\n\nP6 In some situations, the stakes are low and failure is a healthy part of growth. For instance, many babies are perfectly proficient crawlers, but they decide to try walking because there's more to see and do when they stand upright. But this milestone comes at a small cost. A study of 12- to 19-month-olds learning how to walk documented that these children fell down a lot. Seventeen times per hour, to be exact. But walking is faster than crawling, so this motivates expert crawlers to transition to walking.\n\nP7 Sometimes, however, testing out a new idea can lead to disaster. For instance, the Inuit people of the Arctic regions have created incredible modes to deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.",
+ "questions": [
+  {
+   "q": "What does the author say about curiosity?",
+   "options": [
+    "It is too complex for non-scientists to understand.",
+    "It is the force that pushes human society forward.",
+    "It is a unique trait specific to the human race.",
+    "It is often the major cause for human failures."
+   ],
+   "answer": 1,
+   "explain": "题干 What does the author say about curiosity? 询问作者明确陈述的内容，而非暗含意 思或主旨概括，属于针对原文具体表述的细节题。 题干 What does the author say about curiosity? 是简单特殊疑问句，主干 the author say 接 about curiosity 介词短语作状语，无从句、无否定、无比较，结构平铺直叙、无 陷阱。 The human t…"
+  },
+  {
+   "q": "What is the general understanding of curiosity?",
+   "options": [
+    "It motivates people to seek information.",
+    "It is destined to transform human genes.",
+    "It does people more good than harm.",
+    "It underlies all human behaviors."
+   ],
+   "answer": 0,
+   "explain": "题干 What is the general understanding of curiosity? 只问大家的共识内容是什么，属于 客观信息检索类细节题。 题干 What is the general understanding of curiosity? 是“What is 主语？”句型，主语 the general understanding of curiosity 是名词词组，of 短语作后置定语限定 understandin…"
+  },
+  {
+   "q": "What do we learn about how genes shape people's behavior?",
+   "options": [
+    "They determine people's way of thinking.",
+    "They account for age differences in learning.",
+    "They enable people to undertake massive tasks.",
+    "They work in conjunction with the environment."
+   ],
+   "answer": 3,
+   "explain": "题干 What do we learn about how genes shape people's behavior? 问的是文中明示的 机理而非推断，属细节题。 53. What do we learn about how genes shape people's behavior? A) They determine people's way of thinking. B) They account for age differe…"
+  },
+  {
+   "q": "What do numerous studies show about infants?",
+   "options": [
+    "They are far more curious than adults.",
+    "They prefer to go after all that is novel.",
+    "They have different interests than adults.",
+    "They show non-human animal behaviors."
+   ],
+   "answer": 1,
+   "explain": "题干 What do numerous studies show about infants? 问研究“表明了什么”，是对原文研 究结论的直接询问，属细节题。 题干 What do numerous studies show about infants? 是“What do A show about B?” 句型，主语 numerous studies、宾语为 What、关于 infants，提问点是“关于婴儿的研究 结论”，无陷阱。 …"
+  },
+  {
+   "q": "What does the example of the Inuit people of the Arctic regions illustrate?",
+   "options": [
+    "The cost of humans' curiosity to explore.",
+    "The incredible harshness of cold weather.",
+    "The innovative ideas stemming from curiosity.",
+    "The importance of learning from past failures."
+   ],
+   "answer": 0,
+   "explain": "题干 What does the example of the Inuit people of the Arctic regions illustrate? 明确 把 the Inuit people 标记为 the example，问其“说明了什么”，是典型的例证目的题。 题干 What does the example of the Inuit people of the Arctic regions illustrate? 主干 …"
+  }
+ ]
+}

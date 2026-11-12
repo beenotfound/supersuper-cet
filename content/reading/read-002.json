@@ -1,0 +1,67 @@
+{
+  "id": "read-002",
+  "type": "reading",
+  "level": "cet6",
+  "title": "The Cost of Frictionless Technology",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["friction", "competence", "reliance", "invisible"],
+  "passage": "Modern digital tools are designed to remove friction. Maps calculate routes, keyboards correct our spelling, and platforms decide which films we might enjoy. Each small convenience is genuinely welcome, and few users would willingly return to a world of paper maps and manual indexes. Yet the smoothness of these systems invites a question that designers rarely address: what happens to the abilities we stop using?\n\nSkills tend to fade when they are never exercised. Someone who always follows a navigation prompt may gradually lose the habit of building a mental map of a city, and a student who leans on automatic correction may become less certain about spelling without assistance. This is not nostalgia for older tools. It is a familiar pattern: competence that is outsourced to a device tends to remain undeveloped or quietly decline.\n\nThe effects are uneven. A tool that handles routine work can free attention for more demanding tasks, and few people would argue that mental arithmetic should compete with a spreadsheet. The concern arises when reliance becomes invisible. When people can no longer notice that a decision has been made for them, or explain why a recommendation appeared, they lose the ability to question the system and to correct it when it fails.\n\nDesigners have begun to respond with tools that invite engagement rather than replace it. Some navigation applications, for instance, offer a broader view before zooming in, so users still form a rough sense of direction. Others explain the reason behind a suggestion. The common principle is to leave the user with a role, however small, in the process.\n\nWhat matters, then, is not whether we use intelligent tools but how we use them. Convenience is not a vice, and no one should be asked to perform every task unaided. But a useful test is to ask what a tool is doing for us and what it may be doing instead of us. Tools that keep that distinction visible are more likely to remain servants rather than substitutes.",
+  "questions": [
+    {
+      "q": "What does the author acknowledge about digital convenience in the first paragraph?",
+      "options": [
+        "It is rarely welcomed by ordinary users",
+        "It is genuinely useful, and few people would give it up",
+        "It matters mainly to younger users",
+        "It has made all older tools worthless"
+      ],
+      "answer": 1,
+      "explain": "首段承认每种便利都“确实受欢迎”，且很少有人愿意回到纸质地图的时代，故选第二项。第一项与原文相反，第三项文中未提年龄差异，第四项用“all”过度绝对。"
+    },
+    {
+      "q": "The phrase \"reliance becomes invisible\" in paragraph 3 most nearly means that people",
+      "options": [
+        "depend on tools without realizing how much is decided for them",
+        "cannot see the tools because they are installed in devices",
+        "stop caring whether the software is updated",
+        "refuse to use any automated system"
+      ],
+      "answer": 0,
+      "explain": "下文紧接说明人们察觉不到某个决定已由系统代做，也无法解释推荐从何而来，故指“不自觉地依赖”。第二项把比喻当成字面意思，第三项谈更新维护，第四项与整段内容相反。"
+    },
+    {
+      "q": "According to paragraph 3, when does reliance on technology become a real concern?",
+      "options": [
+        "When it takes over routine tasks such as calculation",
+        "When the devices involved become expensive to repair",
+        "When users cannot see the decisions made for them or explain recommendations",
+        "When designers keep adding new features to their products"
+      ],
+      "answer": 2,
+      "explain": "第三段把问题限定在依赖变得“不可见”之时，即用户无法察觉替代决策、无法解释推荐。第一项作者认为常规任务被接管反可释放注意力，第二、四项文中均未涉及。"
+    },
+    {
+      "q": "What do some designers do to encourage users to stay involved?",
+      "options": [
+        "They remove explanations so that users must guess",
+        "They hide the purpose of the tool from its users",
+        "They withdraw all forms of assistance",
+        "They offer a broader view before zooming in and explain suggestions"
+      ],
+      "answer": 3,
+      "explain": "第四段举例说部分导航应用先给全景再放大，另有工具解释建议的理由，故第四项正确。第一、二项与“让过程可见”相反，第三项与“给用户留一个角色”矛盾。"
+    },
+    {
+      "q": "What can be inferred from the last paragraph?",
+      "options": [
+        "Intelligent tools should be avoided wherever possible",
+        "Users ought to perform every task without any assistance",
+        "The value of a tool depends on whether users stay aware of its role",
+        "Convenience is a serious fault in modern design"
+      ],
+      "answer": 2,
+      "explain": "末段提出要分清工具“为我们做什么”和“代替我们做什么”，并让这种区分保持可见，故第三项正确。第一、二项过于极端，第四项与作者“便利并非恶习”的表述矛盾。"
+    }
+  ]
+}

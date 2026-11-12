@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-01-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-01",
+ "paperTitle": "大学英语四级标准模拟卷 01",
+ "paperLevel": "cet4",
+ "paperYear": "mock-01",
+ "sectionOrder": 0,
+ "prompt": "Directions: Some people argue that university libraries should be open to the general public, while others believe that they should serve students first. What is your opinion? Write an essay on this topic. In your essay you should: 1) state your opinion clearly; 2) give two reasons to support it; 3) suggest how the possible problems could be solved. You should write at least 120 words but no more than 180 words.",
+ "reference": "Some people believe that university libraries should open their doors to the public. I largely agree, provided that students' needs come first. A library is funded by society, so it seems reasonable that society should benefit from it. Adults who never went to university can use the reference collection, and retired people can attend talks or borrow books. This also helps the university build a better relationship with the town around it. However, I would not open every floor. During the exam period students need silent space, and a busy public library would make that impossible. A practical solution is to admit visitors after ten in the morning and to keep two floors for students only. Everyone gains if the building is shared with care.",
+ "keyPoints": []
+}

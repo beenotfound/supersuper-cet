@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-03-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-03",
+ "paperTitle": "大学英语四级标准模拟卷 03",
+ "paperLevel": "cet4",
+ "paperYear": "mock-03",
+ "sectionOrder": 4,
+ "passage": "Bike-sharing schemes were once presented as the answer to almost every urban problem. They would reduce traffic, cut pollution, improve public health and fill the gaps between bus stops and homes. In many cities the first months were indeed a success: brightly coloured bicycles appeared on every corner, and people who had not ridden since childhood began cycling to work.\n\nThen came the problems. Bicycles were left in the middle of pavements, thrown into rivers and piled outside railway stations. Companies competing for the same streets put more bicycles on the road than the city could manage. Several councils responded by limiting the number of bikes and requiring operators to remove those that were badly parked. The result has been a quieter, more useful service. Where parking spaces are clearly marked and repairs are quick, shared bikes have become a normal part of city life. Where they are not, the bicycles soon become rubbish.\n\nThe lesson seems to be that a vehicle shared by thousands of people needs the same care as a public library: someone must check it, clean it and put it back in the right place. Technology can help, but the bicycle on the pavement is still a human problem.",
+ "questions": [
+  {
+   "q": "What was expected of bike-sharing schemes?",
+   "options": [
+    "They would replace public libraries.",
+    "They would pay for themselves immediately.",
+    "They would reduce traffic and pollution and improve health.",
+    "They would be used mainly by children."
+   ],
+   "answer": 2,
+   "explain": "第一段说 They would reduce traffic, cut pollution, improve public health and fill the gaps between bus stops and homes，故选 C。"
+  },
+  {
+   "q": "What problem appeared after the first months?",
+   "options": [
+    "Bicycles were too expensive to make.",
+    "Too few people wanted to cycle.",
+    "Cities ran out of buses.",
+    "Bicycles were badly parked, thrown into rivers and piled outside stations."
+   ],
+   "answer": 3,
+   "explain": "第二段说 Bicycles were left in the middle of pavements, thrown into rivers and piled outside railway stations，故选 D。"
+  },
+  {
+   "q": "What does the author compare a shared bicycle to?",
+   "options": [
+    "A private car.",
+    "A public library that needs care.",
+    "A railway station.",
+    "A competition between companies."
+   ],
+   "answer": 1,
+   "explain": "末段说 a vehicle shared by thousands of people needs the same care as a public library: someone must check it, clean it and put it back in the right place，故选 B。"
+  }
+ ]
+}

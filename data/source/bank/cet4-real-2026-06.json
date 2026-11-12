@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-real-2026-06",
+      "title": "2026年6月大学英语四级真题风格卷（原创题面）",
+      "level": "CET4",
+      "year": "2026-06",
+      "durationMinutes": 130,
+      "tags": ["真题风格", "2026-06", "原创题面"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Some universities now require all undergraduates to take part in research projects, while others believe the choice should be left to students. What is your opinion? Write an essay of about 150 words. You should: 1) state your position clearly; 2) support it with at least two reasons and examples; 3) suggest how such a requirement could be carried out fairly.",
+          "promptZh": "写作提示：有些大学要求所有本科生必须参与科研项目，也有人认为是否参与应由学生自己决定。请表明立场，用至少两个理由与例子支持，并提出如何公平实施的建议。词数约 150 词。",
+          "reference": "Should universities require every undergraduate to join a research project? In my view, a carefully organised programme is worth supporting, although the requirement itself needs some flexibility.\n\nFirst, research teaches students to ask questions and test ideas, which lectures alone rarely do. A history student who spends one term checking original documents learns more about evidence than a dozen textbook chapters could offer. Second, working with a supervisor and a small team gives students a realistic taste of how knowledge is produced, and this helps them decide whether they want to continue academic study.\n\nHowever, forcing students who are already struggling with heavy coursework may simply increase pressure. Universities should therefore offer short projects, clear credit rules and a list of topics to choose from.\n\nIn short, I support the requirement, provided that it is flexible and properly resourced.",
+          "wordLimit": 150,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。请先阅读下面的两段材料，再回答第 1–8 题。\n\nConversation One:\nMaya: Hi Daniel, do you have a minute? I am thinking about applying for the undergraduate research programme next semester, and I heard you were in it last year.\nDaniel: That is right. I worked with Professor Lin's group on air quality. It was the best part of my second year, though the first month was hard.\nMaya: Hard in what way?\nDaniel: Not the ideas. Learning to use the equipment properly. I broke a glass tube on my second day, and it took me two weeks to feel confident with the basic instruments. The students in the lab were patient with me, though.\nMaya: That is encouraging. I am worried I do not know enough. How did you choose a professor?\nDaniel: I read a few short papers from different groups and then talked to the one whose questions interested me most. Do not pick someone just because the project sounds easy; you will be spending a lot of time on it.\nMaya: Good point. Do I need to prepare anything before I apply?\nDaniel: The programme asks for a short statement, but the most useful thing is to visit the lab and talk to the people working there. You will learn more in half an hour than from any website.\nMaya: That makes sense. I think I will start by writing to the programme office and asking when the next lab visit is.\nDaniel: Do that. And do not worry if your first project does not work. Half of mine failed, and I still learned a lot.\n\nPassage One:\nWhen I joined a research group in my second year, I expected the weekly meeting to be a place where we reported success. Instead, the first hour was called the failure hour. Each student described one experiment that had gone wrong: a sample had been ruined, a machine had stopped working, or the results made no sense. What surprised me most was that nobody was blamed.\nIn my first week, I was afraid to speak. I had wasted three days because I had not calibrated a balance, and I thought everyone would consider me careless. When I finally admitted it, the senior student sitting next to me said she had made the same mistake the year before, and she showed me a short routine that would prevent it in the future. That hour became the most useful part of my week.\nThe change was not only practical. Because people were willing to describe confusion, the group learned faster. We stopped repeating one another's errors, and students who had been silent in other classes began to ask questions. Our supervisor liked to say that a laboratory is a community before it is a machine for producing papers. I now believe that is true: the experiments I remember best are the ones in which a group of people worked out a problem together, not the ones that simply worked.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What does the woman want to do next semester?",
+              "transcript": "",
+              "options": [
+                "A. Change her major.",
+                "B. Join an undergraduate research programme.",
+                "C. Apply for a part-time job.",
+                "D. Take a summer course abroad."
+              ],
+              "answer": "B",
+              "explanation": "对话开头女士说 I am thinking about applying for the undergraduate research programme next semester，即她想申请本科生科研项目，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What does the man say was difficult at the beginning?",
+              "transcript": "",
+              "options": [
+                "A. Finding a supervisor.",
+                "B. Reading academic papers.",
+                "C. Learning to use the lab equipment.",
+                "D. Writing weekly reports."
+              ],
+              "answer": "C",
+              "explanation": "男士说困难不在想法，而在 Learning to use the equipment properly，还提到打碎玻璃管、两周才熟悉仪器，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What does the man advise the woman to do when choosing a professor?",
+              "transcript": "",
+              "options": [
+                "A. Talk to a professor whose work interests her.",
+                "B. Wait until her third year to apply.",
+                "C. Choose a topic that is easy to finish.",
+                "D. Ask her friends for advice."
+              ],
+              "answer": "A",
+              "explanation": "男士建议先读几篇不同课题组的短文，再去找「问题最让自己感兴趣」的教授谈，故选 A。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What will the woman probably do first?",
+              "transcript": "",
+              "options": [
+                "A. Buy a lab notebook.",
+                "B. Visit the laboratory.",
+                "C. Read a paper by the professor.",
+                "D. Email the programme office."
+              ],
+              "answer": "D",
+              "explanation": "女士说 I will start by writing to the programme office and asking when the next lab visit is，即先给项目办公室发邮件，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What is the purpose of the weekly meeting described in the passage?",
+              "transcript": "",
+              "options": [
+                "A. To plan new experiments.",
+                "B. To discuss unsuccessful experiments openly.",
+                "C. To welcome new students to the group.",
+                "D. To report progress to the university."
+              ],
+              "answer": "B",
+              "explanation": "短文说每周会议的第一小时叫 failure hour，每位学生讲一个失败的实验且没人被责怪，即公开讨论失败的实验，故选 B。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What was the speaker's first reaction to the meeting?",
+              "transcript": "",
+              "options": [
+                "A. He found it uncomfortable.",
+                "B. He thought it was a waste of time.",
+                "C. He was eager to share his results.",
+                "D. He believed it was only for senior staff."
+              ],
+              "answer": "A",
+              "explanation": "作者说 I was afraid to speak，担心别人觉得自己粗心，可见他最初对这种公开谈失败的形式感到不自在，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What change did the meeting bring to the group?",
+              "transcript": "",
+              "options": [
+                "A. Fewer experiments were done.",
+                "B. The group published more papers.",
+                "C. Members helped each other with problems.",
+                "D. The lab became much quieter."
+              ],
+              "answer": "C",
+              "explanation": "短文说大家愿意讲困惑后，小组学得更快，不再重复彼此的错误，资深学生还主动演示避免犯错的方法，即成员互相帮助，故选 C。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the speaker's supervisor compare a laboratory to?",
+              "transcript": "",
+              "options": [
+                "A. A classroom.",
+                "B. A library.",
+                "C. A factory.",
+                "D. A community."
+              ],
+              "answer": "D",
+              "explanation": "导师常说 a laboratory is a community before it is a machine for producing papers，作者也认同，即把实验室比作一个共同体，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "选词填空。阅读下面短文，从词库 A–O 中为 26–35 每个空白选出最合适的词，每个词只用一次，其中有五个词为多余选项。\n\nArriving in a research lab for the first time, many undergraduates imagine that they will spend most of their time making exciting discoveries. In practice, the first weeks are more about observation. A good supervisor will ask new students to (26) ______ everything they do, from the temperature of a water bath to the strange noise a machine makes. Keeping a careful record may feel boring, but it is the only way to (27) ______ an unexpected result later. Beginners also need to accept that experiments often fail. Rather than hiding a failed attempt, lab members discuss it at weekly meetings, where a problem that seems unusual to one student may be (28) ______ to someone else. With time, students learn to (29) ______ their methods when the data do not make sense. They also discover that asking a short question early can (30) ______ hours of wasted work. Patience is another lesson: some measurements need weeks before any pattern becomes (31) ______. For those who stay, the work brings a quiet (32) ______ that no single finished result can offer. Many students say the experience (33) ______ their idea of what science really is. They come to see that confidence grows slowly, and that the most valuable habit in a lab is not speed but (34) ______. By the end of a semester, most of them can (35) ______ their own small project from start to finish.\n\n词库：A. adjust  B. available  C. changed  D. complete  E. document  F. explain  G. familiar  H. gradually  I. measure  J. obvious  K. patience  L. prevent  M. replace  N. satisfaction  O. scientific",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. A good supervisor will ask new students to ______ everything they do, from the temperature of a water bath to the strange noise a machine makes.",
+              "answer": "document",
+              "explanation": "document 意为「记录、存档」，document everything they do 即把所做的一切记录下来，与后文 keeping a careful record 呼应。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. Keeping a careful record may feel boring, but it is the only way to ______ an unexpected result later.",
+              "answer": "explain",
+              "explanation": "explain 意为「解释」，此处指只有记录清楚，日后才能解释异常结果出现的原因。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. A problem that seems unusual to one student may be ______ to someone else.",
+              "answer": "familiar",
+              "explanation": "be familiar to sb 意为「某人对……熟悉」，a problem may be familiar to someone else 指别人可能早已遇到过这个问题。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. With time, students learn to ______ their methods when the data do not make sense.",
+              "answer": "adjust",
+              "explanation": "adjust 意为「调整」，adjust their methods 指数据说不通时调整实验方法。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Asking a short question early can ______ hours of wasted work.",
+              "answer": "prevent",
+              "explanation": "prevent 意为「防止、避免」，prevent hours of wasted work 即避免浪费数小时的工作。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Some measurements need weeks before any pattern becomes ______.",
+              "answer": "obvious",
+              "explanation": "obvious 意为「明显的」，pattern becomes obvious 指规律变得清晰可见，需要数周的测量。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. For those who stay, the work brings a quiet ______ that no single finished result can offer.",
+              "answer": "satisfaction",
+              "explanation": "satisfaction 为名词「满足感」，a quiet satisfaction 指那种安静的满足，与单个实验结果形成对照。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Many students say the experience ______ their idea of what science really is.",
+              "answer": "changed",
+              "explanation": "changed 是 change 的过去式，the experience changed their idea 指这段经历改变了他们对科学的认识。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. The most valuable habit in a lab is not speed but ______.",
+              "answer": "patience",
+              "explanation": "patience 为名词「耐心」，not speed but patience 与前文 Patience is another lesson 呼应。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. By the end of a semester, most of them can ______ their own small project from start to finish.",
+              "answer": "complete",
+              "explanation": "complete 意为「完成」，complete a project from start to finish 指独立完成一个小项目。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "长篇阅读匹配。下面有 A–F 六段短文，各有小标题；后面五道题分别询问某段提到的内容，请从 A–F 中选出对应的段落。\n\nParagraph A: An idea that started small. The campus science festival began with a complaint. Three second-year students were tired of hearing that science was only for people in white coats, so they asked the student union for a small room, two tables and permission to put up posters. Their first event lasted one afternoon and attracted about forty visitors. Nobody expected it to become an annual tradition, least of all the organisers themselves.\n\nParagraph B: Talks that anyone could follow. Every speaker at the festival is given the same instruction: imagine that your audience has never studied your subject. Students practise explaining their work in short talks, and a group of volunteers listens to early versions and points out every technical term that needs translating. The result is a programme that a first-year student, a parent or a school child can all follow without feeling lost.\n\nParagraph C: Hands-on workshops. Listening is only part of the experience. In the workshops, visitors build simple circuits, look at cells under a microscope and test the strength of paper bridges. Materials are cheap and the experiments can be repeated at home. The organisers say that people remember a principle much better after their own hands have made something go wrong and then right again.\n\nParagraph D: The student volunteers. More than eighty students take part in running the event, from designing posters to directing visitors. None of them is paid, but volunteers receive training in communication and a certificate that records their hours. Many say the work has helped them explain their own subject more clearly, and some have discovered that they enjoy teaching more than they expected.\n\nParagraph E: Money matters. A festival of this size is not free to run. The organisers apply for small grants from the university, borrow equipment from departments and ask local businesses for support. Tickets, however, stay free, because the team believes that a price, even a small one, would keep some families away. Their rule is simple: every activity must be cheap enough to repeat next year.\n\nParagraph F: Looking ahead. Next year the team hopes to invite schools from outside the city and to add a session for teachers. They are also discussing a travelling version that could visit smaller campuses. The plan is deliberately modest: a second day, a few more workshops, and a clear record of what worked, so that the festival can survive after its current organisers graduate.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "The festival was first suggested by a small number of students.",
+              "options": [
+                "A. An idea that started small",
+                "B. Talks that anyone could follow",
+                "C. Hands-on workshops",
+                "D. The student volunteers",
+                "E. Money matters",
+                "F. Looking ahead"
+              ],
+              "answer": "A",
+              "explanation": "A 段说 Three second-year students were tired of hearing that science was only for people in white coats，于是向学生会申请一间小房间，说明活动源于三位学生的小想法，故选 A。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Speakers are trained to avoid words their audience may not know.",
+              "options": [
+                "A. An idea that started small",
+                "B. Talks that anyone could follow",
+                "C. Hands-on workshops",
+                "D. The student volunteers",
+                "E. Money matters",
+                "F. Looking ahead"
+              ],
+              "answer": "B",
+              "explanation": "B 段说每位讲者都要 imagine that your audience has never studied your subject，志愿者还会指出 every technical term that needs translating，故选 B。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Visitors are invited to try experiments for themselves.",
+              "options": [
+                "A. An idea that started small",
+                "B. Talks that anyone could follow",
+                "C. Hands-on workshops",
+                "D. The student volunteers",
+                "E. Money matters",
+                "F. Looking ahead"
+              ],
+              "answer": "C",
+              "explanation": "C 段说 In the workshops, visitors build simple circuits, look at cells under a microscope and test the strength of paper bridges，即让参观者亲自动手做实验，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "The event is supported by students who give their time without payment.",
+              "options": [
+                "A. An idea that started small",
+                "B. Talks that anyone could follow",
+                "C. Hands-on workshops",
+                "D. The student volunteers",
+                "E. Money matters",
+                "F. Looking ahead"
+              ],
+              "answer": "D",
+              "explanation": "D 段说 More than eighty students take part in running the event，且 None of them is paid，即八十多名学生无报酬地投入时间，故选 D。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "The organisers raise funds but keep entry free.",
+              "options": [
+                "A. An idea that started small",
+                "B. Talks that anyone could follow",
+                "C. Hands-on workshops",
+                "D. The student volunteers",
+                "E. Money matters",
+                "F. Looking ahead"
+              ],
+              "answer": "E",
+              "explanation": "E 段说 organizers apply for small grants，borrow equipment and ask local businesses for support，但 Tickets, however, stay free，即筹钱但保持免费入场，故选 E。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "阅读下面的两篇短文，回答第 1–7 题。\n\nPassage 1:\nThree years ago, the science magazine of a small university nearly closed. Its editor had graduated, the printer had raised its prices, and only four students remained on the team. Rather than let the magazine disappear, the four decided to change it. They stopped printing long articles written by professors and began to publish short pieces by undergraduates about research taking place on campus. The first issue of the new format was thirty pages long and included an interview with a student who had spent the summer counting insects in a city park.\nThe change worked. Readers said they finally understood what their classmates were working on, and students who had never written anything for a general audience discovered that explaining their subject was harder than they had imagined. A chemistry student described how a paragraph about her project went through five drafts before her flatmate could follow it. That experience, she said, was more useful than any writing course.\nThe magazine is now published twice a term, with a print run of eight hundred copies, and it has a small budget from the student union. The editor is careful not to call it a research journal. Its purpose, she says, is not to record science but to start conversations: a reader who finishes an article should have a question to ask the person sitting next to them.\nNot every issue succeeds. Some topics attract few readers, and the team has learned to accept that. What matters is that a magazine which almost closed now has a waiting list of students who want to write for it, and that the science on campus is no longer invisible.\n\nPassage 2:\nEvery autumn, the international office at a British university runs a short course that has nothing to do with engineering or literature. It is called Academic Etiquette, and its purpose is to explain the unwritten rules of university life: how to address a professor, how to join a discussion without interrupting, and how to write an email that will actually be answered.\nThe email lesson is the most popular. Students bring messages they have already sent, and the class reads them together. Two versions appear again and again. One begins with no greeting and no subject line and asks five questions at once. The other begins with a long apology for troubling the professor, followed by a paragraph about the student's entire academic history, before the real request appears in the final line. Neither is likely to receive a quick reply.\nThe teacher offers a simple structure: a subject line that says exactly what the message is about, a brief greeting, the request in the first two sentences, and a closing that thanks the reader for their time. She also reminds students that professors receive hundreds of messages a week, and that a short, clear email is a sign of respect rather than a sign of laziness.\nAt the end of the course, students are asked to rewrite one of their own messages. The improvement is usually obvious. But the teacher insists that the deeper lesson is not about language. It is about understanding that academic life has its own culture, with habits and expectations that nobody explains in class. Learning to read that culture, she says, is part of learning the subject itself.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What caused the science magazine to nearly close?",
+              "options": [
+                "A. Professors stopped writing for it.",
+                "B. It lost its editor and faced higher printing costs.",
+                "C. The student union cut its budget.",
+                "D. Readers complained about its length."
+              ],
+              "answer": "B",
+              "explanation": "第一段说 Its editor had graduated, the printer had raised its prices, and only four students remained，即编辑毕业、印刷涨价、人手只剩四人，故选 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the team change about the magazine?",
+              "options": [
+                "A. They began publishing short articles by undergraduates about campus research.",
+                "B. They moved the magazine online.",
+                "C. They invited professors to write longer articles.",
+                "D. They started a second journal."
+              ],
+              "answer": "A",
+              "explanation": "第一段说 They stopped printing long articles written by professors and began to publish short pieces by undergraduates about research taking place on campus，故选 A。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the chemistry student learn from writing her article?",
+              "options": [
+                "A. How to run a laboratory experiment.",
+                "B. How to use a printing machine.",
+                "C. How hard it is to explain research clearly.",
+                "D. How to become an editor."
+              ],
+              "answer": "C",
+              "explanation": "第二段说她的一段文字改了五稿才让室友读懂，并说这段经历比任何写作课都有用，即体会到把研究讲清楚很难，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the editor say is the purpose of the magazine?",
+              "options": [
+                "A. To record scientific results.",
+                "B. To train professional writers.",
+                "C. To make money for the student union.",
+                "D. To start conversations among readers."
+              ],
+              "answer": "D",
+              "explanation": "第三段说 Its purpose is not to record science but to start conversations，并希望读者读完后有问题想问旁边的人，故选 D。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the Academic Etiquette course mainly about?",
+              "options": [
+                "A. Teaching international students English grammar.",
+                "B. Helping students pass their final exams.",
+                "C. Explaining the unwritten rules of university life.",
+                "D. Training professors to write better emails."
+              ],
+              "answer": "C",
+              "explanation": "第一段说 its purpose is to explain the unwritten rules of university life，并列举称呼教授、加入讨论、写邮件等，故选 C。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What do the two common email versions share?",
+              "options": [
+                "A. Both make the real request hard to find.",
+                "B. Both begin with a clear subject line.",
+                "C. Both are written in very short sentences.",
+                "D. Both are sent to the wrong professor."
+              ],
+              "answer": "A",
+              "explanation": "第二段说一种邮件没有称呼和主题、一口气问五个问题，另一种先长篇道歉、把真正的请求放到最后一句，共同点是请求很难被找到，故选 A。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What does the teacher believe is the deeper lesson?",
+              "options": [
+                "A. Professors should reply to emails faster.",
+                "B. Language is not important in academic emails.",
+                "C. Students should stop asking so many questions.",
+                "D. Understanding academic culture is part of learning a subject."
+              ],
+              "answer": "D",
+              "explanation": "末段说 the deeper lesson is not about language，而是理解 academic life has its own culture，学会读懂这种文化本身就是学习这门学科的一部分，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to translate the following Chinese passage into English. The passage is about table manners in China.\n\n在中国人的餐桌上，礼仪往往体现在细节里。长辈先动筷，客人坐在主人的右侧或上座；夹菜时要用公筷，不要把筷子插在饭里。主人会不断为客人添菜，这既是热情，也是一种含蓄的关心。客人不必把饭菜全部吃完，但应当尝一尝主人推荐的菜。用餐结束时，主人通常会把客人送到门口，说一句慢走。这些看似简单的习惯，体现了中国人重视长幼、尊重客人的传统。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "At a Chinese dinner table, good manners are often shown in small details. The elders start eating first, and guests are seated on the host's right or in the seat of honour. When taking food, people use serving chopsticks, and they never stand their chopsticks upright in a bowl of rice. The host keeps adding dishes to the guests' plates; this is both generosity and a quiet way of showing care. Guests do not have to finish everything, but they should taste the dishes the host recommends. At the end of the meal, the host usually walks the guests to the door and asks them to take care on their way home. These simple habits reflect a tradition in which age and respect for guests matter.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

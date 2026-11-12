@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-02-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-02",
+ "paperTitle": "大学英语四级标准模拟卷 02",
+ "paperLevel": "cet4",
+ "paperYear": "mock-02",
+ "sectionOrder": 4,
+ "passage": "Ten years ago, a student who wanted to study had to leave the internet behind. The phone stayed in a bag, the laptop was used for one task at a time, and a long evening of reading was normal. Today the same student may have six tabs open, a group chat buzzing and a video playing in the corner of the screen.\n\nThe result is not that young people cannot concentrate, but that they concentrate in shorter bursts. Researchers who watch students studying describe a pattern of rapid switching: a few minutes on the essay, a quick check of messages, back to the essay, then a search for a fact that turns into twenty minutes of reading something unrelated. Each switch feels harmless, yet the cost adds up.\n\nAfter an interruption, the mind needs time to return to the point where it stopped, and some studies estimate that this recovery takes several minutes.\n\nThe good news is that attention can be trained. Experiments in which students put their phones in another room and worked for fixed periods found that they completed tasks faster and remembered more. Many now use simple methods: a timer for twenty-five minutes of work, a notebook for distracting thoughts, and one evening a week without a screen. None of these ideas is new. What is new is that they have to be taught, because the digital world will not switch itself off.",
+ "questions": [
+  {
+   "q": "How does the author describe the way many students concentrate today?",
+   "options": [
+    "In shorter bursts with rapid switching.",
+    "For hours without any interruption.",
+    "Only in the morning.",
+    "With the help of AI tools."
+   ],
+   "answer": 0,
+   "explain": "第二段说 they concentrate in shorter bursts，并描述 a pattern of rapid switching，故选 A。"
+  },
+  {
+   "q": "What is the cost of an interruption according to the passage?",
+   "options": [
+    "It makes the screen brighter.",
+    "The mind needs several minutes to return to where it stopped.",
+    "It improves memory of the essay.",
+    "It saves time in the long run."
+   ],
+   "answer": 1,
+   "explain": "第三段说 After an interruption, the mind needs time to return to the point where it stopped, and some studies estimate that this recovery takes several minutes，故选 B。"
+  },
+  {
+   "q": "What did experiments with phones in another room find?",
+   "options": [
+    "Students worked more slowly.",
+    "Students forgot what they had read.",
+    "Students completed tasks faster and remembered more.",
+    "Students refused to work at all."
+   ],
+   "answer": 2,
+   "explain": "第四段说 Experiments ... found that they completed tasks faster and remembered more，故选 C。"
+  }
+ ]
+}

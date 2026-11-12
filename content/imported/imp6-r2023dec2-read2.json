@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2023dec2-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2023年12月六级第二套 阅读2",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023dec2",
+ "paperTitle": "2023年12月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-12",
+ "passage": "component of human behavior. Whatever it is, you cannot but recognize the effect competition is exerting in academics and many other areas of contemporary life. Psychologically fulfillment in various areas. Initially, we compete for the attention of our parents. Thereafter, we are at the mercy of a battle between our base impulses for self-fulfillment and social and cultural norms which prohibit pure indulgence. Current work in anthropology (人类学) has suggested, however, that this view of the role of competition century, is perhaps best remembered for his characterization of the “natural world”, that is, the world before the imposition of the will of humanity, as being “nasty, brutish, and short.” This image of the pre-rational which established the doctrine of natural selection. This doctrine, which takes for granted that those species best able to adapt to and master the natural environment in which they live will survive, has suggested that the struggle for survival is an inherent human trait which determines a person’s success. Darwin’s theory has even been summarized as “survival of the fittest” — a phrase Darwin himself never used — further highlighting competition’s role in success. As it has often been pointed out, however, there is nothing in the concept of competition is the fittest.” Darwin asserted in The Origin of Species that the struggles he was describing should be viewed as metaphors and could easily include dependence and cooperation. values, such as cooperation — by various cultures, and generally conclude that Americans uniquely praise competition as natural, inevitable, and desirable. In 1937, the world-renowned anthropologist Margaret Mead published Cooperation and Competition among Primitive Peoples, based on her studies of several societies that did not prize competition, and, in fact, seemed at times to place a negative value on it. One such society was the Zuni Indians of Arizona, and they, Mead found, valued cooperation far more than competition. After competitiveness aspect of human behavior, and that its prevalence in a particular society is relative to how that society values",
+ "questions": [
+  {
+   "q": "What does the author think is easy to see in many areas of contemporary life?",
+   "options": [
+    "The disagreement on the inevitability of competition.",
+    "The consequence of psychological investigation.",
+    "The effect of human drives.",
+    "The impact of competition."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "According to psychology, what do people strive to do following the initial stage of their life?",
+   "options": [
+    "Fulfill individual needs without incurring adverse effects of human drives.",
+    "Indulge in cultural pursuits while keeping their base impulses at bay.",
+    "Gain extensive recognition without exposing pure indulgence.",
+    "Satisfy their own desires while observing social conventions."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "What do we learn about the “natural world” characterized by Thomas Hobbes?",
+   "options": [
+    "It gets misrepresented by philosophers and anthropologists.",
+    "It gets distorted in Darwin’s The Origin of Species.",
+    "It is free from the rational intervention of humans.",
+    "It is the pre-rational world rarely appreciated nowadays."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What can we conclude from Darwin’s assertion in The Origin of Species?",
+   "options": [
+    "All species inherently depend on others for survival.",
+    "Struggles for survival do not exclude mutual support.",
+    "Competition weighs as much as cooperation as a survival strategy.",
+    "The strongest species proves to be the fittest in natural selection."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What conclusion did Margaret Mead reach after studying dozens of different cultures?",
+   "options": [
+    "It is characteristic of humans to be competitive.",
+    "Americans are uniquely opposed to cooperation.",
+    "Competition is relatively more prevalent in Western societies.",
+    "People’s attitude towards competition is actually culture-bound."
+   ],
+   "answer": 1,
+   "explain": ""
+  }
+ ]
+}

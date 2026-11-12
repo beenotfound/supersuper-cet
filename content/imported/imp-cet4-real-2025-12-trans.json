@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-real-2025-12-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-12",
+ "paperTitle": "2025年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "sectionOrder": 5,
+ "prompt": "近年来，城市漫步在年轻人中越来越受欢迎。与赶路式的旅游不同，它强调放慢脚步，随意走进老街区、小巷和公园，感受城市的历史与日常生活。一些城市还设计了主题漫步路线。有人认为这只是社交网络上的风潮，但它确实让人们重新认识了身边的城市，也让一些老街区获得新的活力。专家建议，城市漫步应尊重居民生活，不要打扰社区安宁。",
+ "reference": "In recent years, city walking has become increasingly popular among young people. Unlike travel that is all about rushing from one sight to another, it encourages people to slow down, wander into old neighbourhoods, narrow lanes and parks, and feel the history and daily life of a city as they walk. Some cities have designed themed walking routes. Some people regard this as a passing fashion on social media, but it has indeed helped people rediscover the city around them and has brought new energy to neglected old streets. Experts suggest that city walkers should respect residents' lives and not disturb the peace of local communities.",
+ "keyPoints": []
+}

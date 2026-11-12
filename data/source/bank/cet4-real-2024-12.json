@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-real-2024-12",
+      "title": "2024年12月大学英语四级真题风格卷（原创题面）",
+      "level": "CET4",
+      "year": "2024-12",
+      "durationMinutes": 130,
+      "tags": ["真题风格", "2024-12", "原创题面"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the development of China's express delivery service and its influence on people's lives. Your essay should include: 1) a brief description of how the express delivery industry has grown in China; 2) an analysis of the effects it has on ordinary people's daily life; 3) your own comment on this change. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "说明：本部分共 30 分钟。请就中国快递服务业的发展及其对人们生活的影响写一篇短文，内容包括：1）简要描述中国快递服务业的发展；2）分析它给普通人日常生活带来的影响；3）对这一变化作出你的评论。词数 120–180 词。",
+          "reference": "Over the past fifteen years, express delivery has grown from a small business into a huge industry in China. Online shopping platforms, a dense network of delivery stations and a large workforce of couriers have made it possible to send a parcel across the country in two or three days.\n\nThe effects on daily life are easy to see. Students order books and clothes with a tap on the phone; office workers send documents without leaving their desks; farmers sell fresh fruit directly to city customers. The service saves time and brings distant goods within reach, and it has created millions of jobs.\n\nStill, the industry is not without problems. Too much packaging waste and the pressure on couriers deserve attention. In my view, express delivery is a real convenience that has changed the way we live, but it will serve us better if companies use greener materials and treat their workers fairly.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供，请先读文字稿再作答。\n\nConversation One:\nMan: Hi, Lucy. You look pleased with yourself. Good news?\nWoman: Actually, yes. I have just collected three parcels from the smart locker downstairs, and I did not have to queue for a single minute.\nMan: The new lockers near the canteen? I used them last week. The courier sends you a code, you type it in, and the door opens. Much better than the old system.\nWoman: Exactly. The delivery office used to close at six, so I had to run across the campus after class. Now the lockers are available twenty-four hours a day.\nMan: I heard the university is going to add more lockers next semester. There are already long queues at lunchtime.\nWoman: That makes sense. Have you noticed how many parcels students order now? My roommate gets something almost every day: books, clothes, snacks, even a desk lamp.\nMan: Online shopping has made life convenient, but I sometimes worry about the waste. All those cardboard boxes and plastic bags end up in the rubbish bin.\nWoman: That is a real problem. The student union has started a recycling point next to the lockers. You flatten your boxes, and volunteers take them away every Friday.\nMan: Good idea. I will take my boxes there tonight. By the way, are you still looking for a part-time job?\nWoman: Yes, why?\nMan: The company that runs the lockers is hiring students to help during the evening rush. It is only two hours a day, and the pay is quite good.\nWoman: That sounds perfect. I will send them my application this afternoon. Thanks for the tip.\n\nPassage One:\nWhen Westbridge University opened a small teaching kitchen two years ago, few people expected it to become one of the most popular places on campus. The idea came from a group of medical students who noticed that many first-year students were living on instant noodles and takeaway food. Their diets were cheap, quick and almost entirely lacking in vegetables.\n\nThe university now offers a six-week course called Cook for Life. Each session lasts ninety minutes and is limited to sixteen students. A local chef shows the group how to plan a week of meals, how to shop economically and how to cook six simple dishes with basic equipment. Students also learn how to read food labels and how to store leftovers safely.\n\nThe results have surprised even the organisers. A follow-up survey of 400 past students found that three quarters were cooking at least four times a week, compared with one in five before the course. Many said they were spending less money on food while eating more fruit and vegetables. Some even reported sleeping better, because they no longer ate a heavy meal late at night.\n\nThe course has now been copied by several other universities, and the original team has published its lesson plans online for free. As one student put it, the course did not turn anyone into a chef. It simply showed young people that cooking for themselves is not as difficult, or as expensive, as they had assumed.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Why is the woman pleased when she meets the man?",
+              "transcript": "",
+              "options": [
+                "A. She has finished her classes early.",
+                "B. She has collected her parcels without queuing.",
+                "C. She has found a new part-time job.",
+                "D. She has bought a desk lamp online."
+              ],
+              "answer": "B",
+              "explanation": "女士说自己刚从楼下智能快递柜取出三个包裹，一分钟队都没排，所以心情很好，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What did the woman find inconvenient about the old delivery office?",
+              "transcript": "",
+              "options": [
+                "A. It was far from her classroom.",
+                "B. It charged extra fees.",
+                "C. It closed at six in the evening.",
+                "D. It often lost her parcels."
+              ],
+              "answer": "C",
+              "explanation": "女士说旧的取件点六点就关门，她下课后得跑过整个校园去取，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What does the man worry about concerning online shopping?",
+              "transcript": "",
+              "options": [
+                "A. The amount of packaging waste.",
+                "B. The rising prices of goods.",
+                "C. The long waiting time for delivery.",
+                "D. The safety of online payment."
+              ],
+              "answer": "A",
+              "explanation": "男士说自己担心浪费问题，纸箱和塑料袋最后都进了垃圾桶，故选 A。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What will the woman do this afternoon?",
+              "transcript": "",
+              "options": [
+                "A. Visit the recycling point.",
+                "B. Buy more snacks online.",
+                "C. Work at the smart lockers.",
+                "D. Apply for a part-time job."
+              ],
+              "answer": "D",
+              "explanation": "男士提到运营快递柜的公司在招学生做晚间兼职，女士说下午就寄出申请，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What is the main purpose of the course Cook for Life?",
+              "transcript": "",
+              "options": [
+                "A. To train professional chefs.",
+                "B. To help students make friends.",
+                "C. To teach students to cook simple and healthy meals.",
+                "D. To sell kitchen equipment to students."
+              ],
+              "answer": "C",
+              "explanation": "课程教学生规划一周饮食、经济购物、做六道简单菜并看懂食品标签，目的是帮新生摆脱泡面和外卖，故选 C。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What did the survey of past students find?",
+              "transcript": "",
+              "options": [
+                "A. Most of them cooked at least four times a week.",
+                "B. All of them became vegetarians.",
+                "C. Many of them opened their own restaurants.",
+                "D. Few of them changed their eating habits."
+              ],
+              "answer": "A",
+              "explanation": "调查显示四分之三的往届学生每周至少做饭四次，而上课前只有五分之一，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "Why did some students report sleeping better?",
+              "transcript": "",
+              "options": [
+                "A. They exercised more in the evening.",
+                "B. They went to bed much earlier.",
+                "C. They took the course in the morning.",
+                "D. They stopped eating heavy meals late at night."
+              ],
+              "answer": "D",
+              "explanation": "原文说一些人睡眠变好，是因为他们不再深夜吃大餐，故选 D。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the team offer to other universities?",
+              "transcript": "",
+              "options": [
+                "A. Free kitchen equipment.",
+                "B. Its lesson plans online for free.",
+                "C. A paid training course for chefs.",
+                "D. Positions for visiting teachers."
+              ],
+              "answer": "B",
+              "explanation": "原文说团队把课程教案免费发布在网上，供其他学校参考，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "选词填空。阅读下面短文，从词库 A–O 中为 26–35 每个空白选出最合适的词，每个词只用一次，其中有五个词为多余选项。\n\nOnline shopping has changed the way people buy almost everything, and for many older people it has become a (26) ______ way to get daily necessities. Instead of carrying heavy bags home, they can place (27) ______ on a mobile app and have them (28) ______ to their door. However, not everyone finds the technology (29) ______ at first. Some seniors (30) ______ with small screens and passwords, and they may worry that their money is not safe. Community centres in several cities have started free classes to help them overcome these (31) ______. Volunteers teach them how to search for products, compare prices and pay safely. The results are encouraging: those who attend the classes (32) ______ become more confident, and many say the service has made them feel less (33) ______. For them, the greatest benefit is not speed but company, because a delivery worker's knock can be the only conversation of the day. Experts therefore suggest that companies should make their apps simpler and offer more (34) ______ support, especially for older customers who are less (35) ______ with digital tools than younger users.\n\n词库：A. access  B. barriers  C. comfortable  D. convenient  E. delivered  F. elderly  G. familiar  H. gradually  I. improve  J. isolated  K. orders  L. popular  M. reliable  N. struggle  O. technology",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. For many older people, online shopping has become a ______ way to get daily necessities.",
+              "answer": "convenient",
+              "explanation": "此处需要形容词修饰 way，convenient 意为方便的，与后文不必提着重物回家相呼应。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. Instead of carrying heavy bags home, they can place ______ on a mobile app.",
+              "answer": "orders",
+              "explanation": "place orders 是固定搭配，意为下单；下文说商品被送到家门口，可见此处指订单。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. They can place orders on a mobile app and have them ______ to their door.",
+              "answer": "delivered",
+              "explanation": "have sth. done 表示让某事被完成，delivered 与 to their door 搭配，指送货上门。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. However, not everyone finds the technology ______ at first.",
+              "answer": "familiar",
+              "explanation": "find sth. + 形容词，familiar 表示熟悉的；however 提示这里说老年人起初并不熟悉这项技术。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Some seniors ______ with small screens and passwords.",
+              "answer": "struggle",
+              "explanation": "struggle with 意为在……方面感到吃力，与后面的小屏幕和密码搭配，说明老年人使用困难。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Community centres have started free classes to help them overcome these ______.",
+              "answer": "barriers",
+              "explanation": "overcome 后接 barriers（障碍），指前文提到的操作困难和对支付安全的担忧。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. Those who attend the classes ______ become more confident.",
+              "answer": "gradually",
+              "explanation": "此处需要副词修饰 become，gradually 表示逐渐地，说明信心是慢慢建立起来的。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Many say the service has made them feel less ______.",
+              "answer": "isolated",
+              "explanation": "feel 后接形容词，isolated 意为孤单的；下文说快递员的敲门可能是全天唯一的交谈，说明服务减少了孤独感。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. Experts suggest that companies should make their apps simpler and offer more ______ support.",
+              "answer": "reliable",
+              "explanation": "此处需要形容词修饰 support，reliable 意为可靠的，与 simpler 并列，都是对企业的建议。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. This is especially important for older customers who are less ______ with digital tools.",
+              "answer": "comfortable",
+              "explanation": "be comfortable with 表示对……感到自如，less comfortable 指老年用户对数字工具不太适应。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "长篇阅读匹配。下面有 A–F 六段短文，各有小标题；后面五道题分别询问某段提到的内容，请从 A–F 中选出对应的段落。\n\nParagraph A: Street lights that save energy. In one coastal city, thousands of street lamps now carry small sensors that measure movement and light. A lamp dims when the street is empty and brightens within a second when a cyclist or a pedestrian approaches. The system has cut the electricity used for lighting by almost a third, and residents say the streets still feel safe at night. City engineers add that the next step is to connect the lamps with traffic signals.\n\nParagraph B: Medicine at a distance. In remote mountain towns, patients used to travel for hours to see a specialist. Now a small clinic in each town has a video screen, a camera and simple measuring devices, and a nurse helps the patient connect to a doctor in the city hospital. The doctor can look at test results, ask questions and send a prescription to a local pharmacy. Patients save a day of travelling, and hospital clinics are less crowded.\n\nParagraph C: Bins that report their fill level. Rubbish bins in the city centre are now fitted with cheap sensors that send a message when they are nearly full. Instead of following a fixed route every day, collection trucks are sent only to the bins that need emptying, which has reduced fuel use and early-morning noise. The data also shows which streets produce the most waste, helping the city plan recycling campaigns.\n\nParagraph D: Rides for older travellers. Many older residents find ordinary buses difficult: the stops are far apart, the steps are high, and the timetable is hard to read. A new service uses small electric shuttles that can be booked by a phone call. Drivers help passengers carry shopping and take them to clinics, markets and community centres for a fixed low fare. In its first six months the service carried more than ten thousand passengers.\n\nParagraph E: Parks that cool themselves. A former car park in the city centre has been turned into a small park with trees, grass and a shallow water channel. On hot summer days the temperature inside the park is about four degrees lower than in the surrounding streets, and office workers come there at lunchtime to eat and rest. The city plans to build similar green spaces in the three districts that are most exposed to heat.\n\nParagraph F: Repair shops for broken things. Once a month, a community hall opens its doors to people carrying broken lamps, kettles, toys and bicycles. Volunteer repairers fix what they can, free of charge, and explain what they are doing so that owners can learn to make simple repairs themselves. Last year the group kept more than two tonnes of small appliances out of the rubbish, and the waiting list for helpers is now longer than the list of broken objects.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a service that uses sensors to decide which bins need collecting?",
+              "options": [
+                "A. Street lights that save energy",
+                "B. Medicine at a distance",
+                "C. Bins that report their fill level",
+                "D. Rides for older travellers",
+                "E. Parks that cool themselves",
+                "F. Repair shops for broken things"
+              ],
+              "answer": "C",
+              "explanation": "Paragraph C 讲垃圾桶装上传感器、只在快满时才通知清运车，与题干中的 sensors 和 bins 对应，故选 C。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a project that has reduced the electricity used for lighting?",
+              "options": [
+                "A. Street lights that save energy",
+                "B. Medicine at a distance",
+                "C. Bins that report their fill level",
+                "D. Rides for older travellers",
+                "E. Parks that cool themselves",
+                "F. Repair shops for broken things"
+              ],
+              "answer": "A",
+              "explanation": "Paragraph A 说路灯根据行人自动调暗或调亮，照明用电减少了近三分之一，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a transport service designed for people who find ordinary buses hard to use?",
+              "options": [
+                "A. Street lights that save energy",
+                "B. Medicine at a distance",
+                "C. Bins that report their fill level",
+                "D. Rides for older travellers",
+                "E. Parks that cool themselves",
+                "F. Repair shops for broken things"
+              ],
+              "answer": "D",
+              "explanation": "Paragraph D 提到老年居民觉得普通公交站远、台阶高、时刻表难读，于是有了可电话预约的小型电动接驳车，故选 D。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a way for patients in remote areas to get advice from hospital doctors?",
+              "options": [
+                "A. Street lights that save energy",
+                "B. Medicine at a distance",
+                "C. Bins that report their fill level",
+                "D. Rides for older travellers",
+                "E. Parks that cool themselves",
+                "F. Repair shops for broken things"
+              ],
+              "answer": "B",
+              "explanation": "Paragraph B 描述偏远山镇的诊所通过视频设备让病人连线城市医院的医生，故选 B。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a project that makes a public space cooler in summer?",
+              "options": [
+                "A. Street lights that save energy",
+                "B. Medicine at a distance",
+                "C. Bins that report their fill level",
+                "D. Rides for older travellers",
+                "E. Parks that cool themselves",
+                "F. Repair shops for broken things"
+              ],
+              "answer": "E",
+              "explanation": "Paragraph E 说由停车场改造的小公园夏季温度比周边街道低约四度，故选 E。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1:\nSmartwatches are no longer just a way to check messages. Millions of people now use them to count their steps, measure their heart rate and track how well they sleep. Health authorities have welcomed the trend: when people can see their own data, the argument goes, they are more likely to take exercise and less likely to ignore warning signs.\n\nYet doctors are increasingly cautious about the numbers. A wrist device is not a medical instrument. Its heart rate readings can be disturbed by movement, its sleep measurement is based on guesswork, and its step count depends on how the device is worn. One study found that two popular models differed by nearly 15 percent when counting the same walk. More troubling is the effect on anxious users. Some check their heart rate dozens of times a day and are convinced that a minor change means serious illness, so they visit clinics that are already busy. Some doctors now ask such patients to bring a month of readings rather than a single number, which gives a fairer picture and saves time in the consultation.\n\nNone of this means that wearable devices are useless. They are good at showing long-term patterns. A slow fall in daily activity over several weeks can be a helpful signal for a doctor, and a simple reminder to stand up every hour may do more good than an expensive health plan. What matters is how the data is used. As one cardiologist put it, a watch can tell you that something has changed. It cannot tell you why, and it certainly cannot replace a conversation with a doctor.\n\nPassage 2:\nTwenty years ago, bottled water seemed to be the future. Supermarkets devoted whole aisles to it, restaurants proudly poured it, and carrying a plastic bottle became a habit for commuters and students alike. Today the picture looks different. Across Europe and parts of Asia, cities are installing public refill stations and handing out reusable bottles, and a growing number of shops and cafes allow customers to fill up for free.\n\nThe argument for refill stations is partly about waste. A single plastic bottle may take hundreds of years to break down, and even when it is recycled, the process uses energy and water. Refill stations, by contrast, serve thousands of people from one pipe. Supporters also point to cost: tap water is far cheaper than the bottled kind, and they question whether the difference in taste is as great as advertising suggests. In blind tests, many volunteers cannot tell one from the other, and restaurants and offices have begun to install refill points of their own.\n\nBut the movement has its critics. Some consumers worry about the quality of tap water, especially in cities where the pipes are old. Others say that refill stations are only convenient for people who work or travel in the city centre; those living in distant suburbs may still find it easier to buy a bottle. For the habit to change, therefore, the stations must be almost everywhere a person goes: stations, parks, schools, offices and bus stops.\n\nThat is a practical challenge, but hardly an impossible one. The real test is not whether people approve of free water in theory, but whether a refill is easier than a purchase. Where that is true, the old habit tends to disappear.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) Why have health authorities welcomed the use of smartwatches?",
+              "options": [
+                "A. They believe visible data encourages healthier habits.",
+                "B. They want to collect personal data for hospitals.",
+                "C. They think watches can replace family doctors.",
+                "D. They hope to sell more devices to young people."
+              ],
+              "answer": "A",
+              "explanation": "第一段说卫生部门欢迎这一趋势，理由是当人们能看到自己的数据时更可能锻炼、更少忽视警示信号，故选 A。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the author say about the accuracy of wrist devices?",
+              "options": [
+                "A. It is better than that of hospital equipment.",
+                "B. It can be affected by movements and other factors.",
+                "C. It has improved greatly in recent months.",
+                "D. It is accurate enough for medical diagnosis."
+              ],
+              "answer": "B",
+              "explanation": "第二段说腕表的心率读数会受运动干扰，睡眠数据靠推测，计步取决于佩戴方式，两款机型计步相差近 15%，故选 B。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What problem do anxious users cause?",
+              "options": [
+                "A. They stop taking any exercise.",
+                "B. They damage their watches quickly.",
+                "C. They buy more devices than they need.",
+                "D. They add pressure on busy clinics."
+              ],
+              "answer": "D",
+              "explanation": "第二段末说焦虑用户一天查看心率几十次，稍有变化就以为得了重病，于是去本就繁忙的诊所就诊，故选 D。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What is the author's view of wearable devices?",
+              "options": [
+                "A. They should be banned in hospitals.",
+                "B. They are a waste of money for most people.",
+                "C. They are useful for spotting long-term patterns.",
+                "D. They will soon replace regular health checks."
+              ],
+              "answer": "C",
+              "explanation": "第三段说可穿戴设备并非无用，它们善于显示长期趋势，例如数周内活动量缓慢下降可以是给医生的有用信号，故选 C。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What change does the author describe at the beginning of the passage?",
+              "options": [
+                "A. Bottled water has lost its status as the natural choice.",
+                "B. Bottled water has become more expensive than ever.",
+                "C. Tap water has disappeared from supermarket shelves.",
+                "D. Restaurants have stopped serving water to customers."
+              ],
+              "answer": "A",
+              "explanation": "首段说二十年前瓶装水似乎是未来，如今城市安装公共直饮点、发放可重复使用的水瓶，说明它不再是默认选择，故选 A。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What do supporters of refill stations argue?",
+              "options": [
+                "A. Bottled water contains too much sugar.",
+                "B. Refill stations should be run by the government.",
+                "C. Bottled water costs more and often tastes no better.",
+                "D. Reusable bottles are easier to carry than plastic ones."
+              ],
+              "answer": "C",
+              "explanation": "第二段说支持者指出自来水比瓶装水便宜得多，并质疑口感差异是否真有广告说的那么大，盲测中许多人分辨不出，故选 C。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the main challenge facing the refill movement?",
+              "options": [
+                "A. Lack of support from city governments.",
+                "B. Making refill stations convenient for everyone.",
+                "C. The high cost of building the stations.",
+                "D. A shortage of clean water in big cities."
+              ],
+              "answer": "B",
+              "explanation": "第三、四段说真正的挑战是让直饮点几乎出现在人们去的所有地方，使接水比买水更方便，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "近年来，中国新能源汽车产业发展迅速。越来越多的人选择购买电动汽车，既因为充电比加油便宜，也因为人们更加关注空气质量和环境保护。在城市里，充电桩已经出现在停车场、商场和居民小区中。中国企业还在电池技术和智能驾驶方面不断取得突破，一些品牌的汽车已经出口到许多国家。不过，行业也面临充电设施分布不均、电池回收等问题。专家认为，只有持续创新并完善相关服务，新能源汽车才能走进更多家庭。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "In recent years, China's new energy vehicle industry has developed rapidly. More and more people choose to buy electric cars, partly because charging is cheaper than buying petrol, and partly because they pay greater attention to air quality and environmental protection. In cities, charging piles have appeared in car parks, shopping malls and residential communities. Chinese companies have also kept making breakthroughs in battery technology and intelligent driving, and cars from some brands have already been exported to many countries. However, the industry still faces problems such as the uneven distribution of charging facilities and the recycling of used batteries. Experts believe that only by continuing to innovate and improving related services can new energy vehicles truly reach more families.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

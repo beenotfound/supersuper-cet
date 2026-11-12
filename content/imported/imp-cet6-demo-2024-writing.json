@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet6-demo-2024-writing",
+ "type": "writing",
+ "level": "cet6",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet6-demo-2024",
+ "paperTitle": "2024年12月大学英语六级（模拟节选）",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "sectionOrder": 0,
+ "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence 'In an age of easy answers, the ability to ask good questions matters more than ever.' You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+ "reference": "In an age of easy answers, the ability to ask good questions matters more than ever. Search engines can supply a fact within seconds, but they cannot tell us what is worth asking. A good question opens a door; a ready answer often closes one.\n\nConsider the way science advances. Every breakthrough begins not with a solution but with someone noticing that the accepted explanation does not quite fit the evidence. The same is true in ordinary life. A student who asks why a formula works will remember it far longer than one who merely memorizes it, and an employee who questions a familiar routine may discover a simpler way of doing the job.\n\nCuriosity, moreover, is a form of courage. It means admitting that we do not know, and then doing something about it. In a world that rewards quick certainty, those who keep asking are the ones who keep learning.",
+ "keyPoints": []
+}

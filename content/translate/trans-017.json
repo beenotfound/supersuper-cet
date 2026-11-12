@@ -1,0 +1,18 @@
+{
+  "id": "trans-017",
+  "type": "translation",
+  "level": "cet6",
+  "title": "移动支付",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["payment", "scan", "cashless", "security"],
+  "prompt": "在中国的大城市里，带现金出门的人越来越少。买菜、坐地铁、交水电费，只要拿出手机扫一扫就能完成。移动支付之所以流行，一方面是因为方便，另一方面是因为它把消费记录都保存下来，方便人们查看和管理。对小商贩来说，收钱不用找零，也减少了收到假币的风险。不过，移动支付也带来新的问题，比如老年人不会使用智能手机，有时会被拒之门外。如何在便利和包容之间找到平衡，是值得关注的社会话题。",
+  "reference": "In big Chinese cities fewer and fewer people carry cash when they go out. Buying vegetables, taking the subway or paying utility bills can all be done with a quick scan of a phone. Mobile payment has become popular partly because it is convenient and partly because it records every purchase, which makes it easy for people to check and manage their spending. For small traders, there is no change to give and less risk of accepting fake notes. However, mobile payment also creates new problems: many elderly people cannot use smartphones and are sometimes refused service. How to strike a balance between convenience and inclusiveness is a social issue that deserves attention. Some shops now keep a small amount of cash as a courtesy, and family members often help older relatives set up their phones. A payment method that excludes a whole generation is not yet a good one. Technology should make life easier for everyone, not harder for those who learn more slowly.",
+  "keyPoints": [
+    "“扫一扫”译为 a quick scan of a phone。",
+    "“找零”用 change to give。",
+    "“假币”译为 fake notes。",
+    "“拒之门外”意译为 refused service，不必直译 shut out。",
+    "“便利和包容”译为 convenience and inclusiveness。"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2023jun1-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2023年6月六级第一套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023jun1",
+ "paperTitle": "2023年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-06",
+ "passage": "Scientists recently examined studies on dog intelligence and compared them with research into other intelligent animals. The results suggest that their intelligence does not {{1}} other intelligent animals in any of those categories. Though a significant body of research has examined dog cognition {{2}} , the authors of this new study found little to warrant the {{3}} of work that has been devoted to the topic. Stephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to {{4}} how clever dogs are, rather than simply comparing them with research into other animals. The researchers made specific comparisons between the different species in These comparisons {{5}} that dogs are intelligent, but their intelligence is not as {{6}} as some researchers might have believed. In many areas, though, comparisons were not possible. For example, the researchers noted that both dogs and cats are known to be able to recognize and {{7}} human voices. But the investigators could not find any data to indicate which species can remember a greater number of {{8}} human voices, so it findings of this study. Not all researchers agree {{9}} with the findings of this study. Zachary Silver, an American researcher, believes the authors of the new study {{10}} the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think. A. affirmed F. domain K. previously B. approximately G. formidable L. prospective C. completely H. outperformed M. prove D. differentiate I. overstated E. distinct J. pledge N. surpass O. volume ",
+ "bank": [
+  "A. affirmed",
+  "B. approximately",
+  "C. completely",
+  "D. differentiate",
+  "E. distinct",
+  "F. domain",
+  "G. formidable",
+  "H. outperformed",
+  "I. overstated",
+  "J. pledge",
+  "K. previously",
+  "L. prospective",
+  "M. prove",
+  "N. surpass",
+  "O. volume"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "N. surpass",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "K. previously",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "O. volume",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "M. prove",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "A. affirmed",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "G. formidable",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "D. differentiate",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "E. distinct",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "C. completely",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "I. overstated",
+   "explain": ""
+  }
+ ]
+}

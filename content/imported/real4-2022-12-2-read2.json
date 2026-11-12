@@ -1,0 +1,60 @@
+{
+ "id": "real4-2022-12-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2022年12月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-2",
+ "paperTitle": "2022年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "P1 In 2020, the Nobel Peace Prize was awarded to the World Food Programme (WFP).\n\nP2 Why a Nobel Prize for the WFP, and why now? In 2019, the WFP assisted nearly 100 million people in 88 countries. It is the safety net for those who fall off the edge of existence. It is a response to solving the problem of food instability. Its Nobel Prize reminds us all of the moral hazard in imagining that the poor and vulnerable are somebody else's problem.\n\nP3 The WFP has been around since 1961 and has been the global coordinator of nationally based efforts to avoid disasters with food aid. Despite decades of effort to eliminate hunger, the latest estimate is that about 11% of people on the planet (about 820 million people) are suffering daily undernourishment. Progress at reducing undernourishment has stopped despite gains through the 1990s and 2000s.\n\nP4 Developed countries sometimes offer food and aid to developing ones, but at a price. One American philosopher stated that addressing the needs of the poor and vulnerable is about more than money—it is mostly about creating conditions under which prosperity and opportunity can thrive. When aid is offered with heavy conditions attached, like loan repayment or food for resources, it often widens the gap between rich and poor and sustains the old world order. This is why the work of the WFP is so vital.\n\nP5 The scientific community, however, can provide a helping hand to the WFP. By sharing knowledge of agriculture and climate with peers in countries most vulnerable to poverty and hunger, scientists can help reduce these problems. By making its voice heard, science can lead by example. The ability to overcome food shortages that must be built into some of the poorest countries will not come from loans from wealthy countries, which may have food problems of their own, or world economic institutions. This ability will be built upon self-confident people using open and shared scientific knowledge to pull themselves out of their misery.",
+ "questions": [
+  {
+   "q": "What does the WFP's winning of the Nobel Peace Prize make us realize?",
+   "options": [
+    "More and more people in the world are suffering from starvation.",
+    "All of us can be affected by food instability one way or another.",
+    "It is hazardous to leave millions of people poor and vulnerable.",
+    "It is morally wrong to think helping the poor is not our business."
+   ],
+   "answer": 3,
+   "explain": "What does the WFP's winning of the Nobel Peace Prize make us realize? 是用 What 提问的具体内容题，问的是文中明示的某句话，不涉及推断或主旨。 主干是 What does ... make us realize，the WFP's winning of the Nobel Peace Prize 是 动名词短语作主语，winning 由所有格 the WFP's …"
+  },
+  {
+   "q": "What do we learn about the WFP's effort to eliminate hunger?",
+   "options": [
+    "It has ensured a sufficient food supply to millions.",
+    "It is still far from its goal despite the progress made.",
+    "It has done a good job in combating natural disasters.",
+    "It is preventing starvation occurring on a global scale."
+   ],
+   "answer": 1,
+   "explain": "What do we learn about ... 问的是关于某一具体话题的明示信息，答案应是原文对该话题 的直接陈述。 WFP's effort to eliminate hunger 是 about 的宾语；effort 后接动词不定式 to eliminate hunger 作后置定语，相当于\"为消除饥饿所做的努力\"。整句无陷阱。 52. What do we learn about the WFP's effort to el…"
+  },
+  {
+   "q": "What will happen when food aid is offered at a price?",
+   "options": [
+    "The rich will become richer and the poor poorer.",
+    "More people will be willing to join in the effort.",
+    "More food will be made available to the needy.",
+    "The relief effort will be rendered less sustainable."
+   ],
+   "answer": 0,
+   "explain": "What will happen when food aid is offered at a price? 询问的是某条件下的具体后果， 文中应有明示的结果句。 主干 What will happen，when 引导时间状语从句 when food aid is offered at a price， 从句采用被动语态 is offered；at a price 是固定搭配，意为\"有代价地、附带条件地\"，不 是字面\"以一个价格\"。基础薄…"
+  },
+  {
+   "q": "How can scientists help cope with poverty and hunger?",
+   "options": [
+    "By collaborating closely with world economic institutions.",
+    "By sharing expertise with peers in poverty-stricken nations.",
+    "By setting up more food research programs in developing countries.",
+    "By building self-respect in people suffering from undernutrition."
+   ],
+   "answer": 1,
+   "explain": "How can scientists help cope with poverty and hunger? 以 How 询问途径，文中通常 以 by 短语或具体动作句给出明示答案。 How can scientists help cope with poverty and hunger? 中 help 后接动词原形 cope （省略 to 的动词不定式），相当于\"帮助应对\"；structure 平铺直叙，无陷阱。 By sharing …"
+  }
+ ]
+}

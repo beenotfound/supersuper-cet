@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-02-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-02",
+ "paperTitle": "大学英语四级标准模拟卷 02",
+ "paperLevel": "cet4",
+ "paperYear": "mock-02",
+ "sectionOrder": 2,
+ "passage": "短文：\nWatching films is one of the most enjoyable ways to learn a foreign language, but it works best when it is done with some {{1}}. Many learners simply switch on the subtitles in their own language and follow the story, which is entertaining but does little for their vocabulary. A better method is to watch a short scene twice: first with English subtitles and then without. On the second viewing, the brain is forced to {{2}} the sound of words with their meaning. It also helps to {{3}} difficult expressions in a notebook and to look them up afterwards. Research on vocabulary learning suggests that a word must be met many times before it is remembered, so choosing one film and watching it again after a week may be more {{4}} than watching five new films in a row. Teachers warn, however, that films should not {{5}} other kinds of practice. Speaking, reading and writing still need time. Used {{6}}, though, films can bring the language to life and remind learners why they are studying it. The {{7}} of the story also gives the brain something to hold on to, which makes new words easier to {{8}}. In short, films are not a {{9}} for hard work, but a {{10}} that makes the work more pleasant.",
+ "bank": [
+  "benefit",
+  "connect",
+  "effective",
+  "entirely",
+  "eventually",
+  "memory",
+  "obvious",
+  "planning",
+  "plot",
+  "record",
+  "replace",
+  "retain",
+  "substitute",
+  "tool",
+  "wisely"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "planning",
+   "explain": "选 H. planning。with some planning 意为“有所计划”，与后文“不要只是打开母语字幕看故事”形成对比，空格需名词。"
+  },
+  {
+   "n": 2,
+   "answer": "connect",
+   "explain": "选 B. connect。connect A with B 意为“把 A 与 B 联系起来”，指把词的读音与意义对应起来，是语言学习的常用搭配。"
+  },
+  {
+   "n": 3,
+   "answer": "record",
+   "explain": "选 J. record。record ... in a notebook 意为“把……记在笔记本里”，与 look them up afterwards 前后衔接；retain 强调记住，不接 in a notebook。"
+  },
+  {
+   "n": 4,
+   "answer": "effective",
+   "explain": "选 C. effective。more effective than 为比较级结构，effective 意为“有效的”，说明重复看同一部电影的学习效果可能更好。"
+  },
+  {
+   "n": 5,
+   "answer": "replace",
+   "explain": "选 K. replace。replace 意为“取代”，句中说明电影不应取代说、读、写等其他形式的练习，与后文 Speaking, reading and writing still need time 呼应。"
+  },
+  {
+   "n": 6,
+   "answer": "wisely",
+   "explain": "选 O. wisely。used wisely 为过去分词短语作状语，意为“如果使用得当”，需要副词修饰 used。"
+  },
+  {
+   "n": 7,
+   "answer": "plot",
+   "explain": "选 I. plot。the plot of the story 意为“故事情节”，情节为大脑提供线索，使新词更容易记住。"
+  },
+  {
+   "n": 8,
+   "answer": "retain",
+   "explain": "选 L. retain。retain 意为“记住、保持”，easier to retain 表示新词更容易记住；record 强调记录动作，与“记住”语义不同。"
+  },
+  {
+   "n": 9,
+   "answer": "substitute",
+   "explain": "选 M. substitute。a substitute for sth 意为“某物的替代品”，此处说明电影不能代替刻苦学习。"
+  },
+  {
+   "n": 10,
+   "answer": "tool",
+   "explain": "选 N. tool。a tool that makes the work more pleasant 意为“一种让学习更愉快的工具”，与前半句 not a substitute 形成对比。"
+  }
+ ]
+}

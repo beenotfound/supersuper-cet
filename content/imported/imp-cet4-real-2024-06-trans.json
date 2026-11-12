@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-real-2024-06-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-06",
+ "paperTitle": "2024年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "sectionOrder": 5,
+ "prompt": "农历是中国传统的历法，已有几千年的历史。它根据月亮的变化来划分月份，同时通过设置闰月来适应四季的更替。对中国农民来说，农历指导着播种和收获；对普通人来说，春节、端午节和中秋节等传统节日都按照农历计算。即使在今天，许多家庭仍然会在农历生日那天吃长寿面，也会在春节前贴上红色的春联。农历不仅是一种记时的方法，也承载着中国人的文化记忆。",
+ "reference": "The lunar calendar is a traditional Chinese calendar with a history of several thousand years. It divides the months according to the changes of the moon, and at the same time adjusts to the change of the four seasons by adding leap months. For Chinese farmers, the lunar calendar guides sowing and harvesting; for ordinary people, traditional festivals such as the Spring Festival, the Dragon Boat Festival and the Mid-Autumn Festival are all calculated according to the lunar calendar. Even today, many families still eat long noodles on their lunar birthdays and put up red couplets before the Spring Festival. The lunar calendar is not only a way of keeping time but also carries the cultural memory of the Chinese people.",
+ "keyPoints": []
+}

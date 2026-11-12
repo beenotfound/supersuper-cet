@@ -1,0 +1,18 @@
+{
+  "id": "trans-009",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国人的家庭观念",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["generation", "support", "elderly", "obligation"],
+  "prompt": "在中国人心中，家庭始终占据着重要的位置。无论工作多忙，人们都会想办法在节假日回家看看父母。传统上，几代人同住在一个院子里并不少见，长辈帮忙照看孙辈，年轻人则负担起赡养老人的责任。随着城市化的发展，大家庭逐渐变小，但亲情的联系并没有因此中断。如今，许多人通过视频通话与远方的父母保持联系，逢年过节也会寄去礼物。对大多数中国人来说，家庭是遇到困难时最可靠的依靠。",
+  "reference": "For the Chinese, the family has always held an important place. However busy their work may be, people try to find a way to go home and see their parents during holidays. Traditionally it was not unusual for several generations to live in the same courtyard: grandparents helped look after the grandchildren, while the younger adults took on the duty of supporting the elderly. As urbanisation has advanced, large families have gradually become smaller, but family ties have not been broken. Today many people keep in touch with parents far away through video calls and send gifts on important festivals. Even when adult children move to another city for work, they usually set aside part of their income for their parents and call them regularly. This sense of obligation is mutual, which is why family remains a source of strength rather than a burden. For most Chinese people, the family is the most reliable support when difficulties arise.",
+  "keyPoints": [
+    "“几代人同住”用 several generations live in the same courtyard。",
+    "“照看孙辈”可译为 look after the grandchildren。",
+    "“赡养老人”译为 supporting the elderly，用 duty 一词体现责任。",
+    "“亲情的联系”译为 family ties。",
+    "“最可靠的依靠”可译为 the most reliable support。"
+  ]
+}

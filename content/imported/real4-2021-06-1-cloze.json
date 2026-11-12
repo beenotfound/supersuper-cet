@@ -1,0 +1,83 @@
+{
+ "id": "real4-2021-06-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2021年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-1",
+ "paperTitle": "2021年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "Most animals seek shade when temperatures in the Sahara Desert soar to 120 degrees Fahrenheit. But for the Saharan silver ant,  {{1}} from their underground nests into the sun's brutal rays to {{2}}  for food, this is the perfect time to seek lunch. In 2015 these ants were joined in the desert by scientists from two Belgian universities, who spent a month in the {{3}}  heat tracking the ants and digging out their nests. The goal was simple, to discover how the  {{4}} adapted to the kind of heat that can {{5}}  melt the bottom of shoes. Back in Belgium, the scientists looked at the ants under an electronic microscope and found that their ,  {{6}} triangular hair reflects light like a prism(棱镜), giving them a metallic reflection and protecting them from the sun's awful heat. When Ph.D. student Quentin Willot {{7}}  the hair from an ant with a {{8}}  knife and put it under a heat lamp, its temperature jumped. The ants' method of staying cool is {{9}}  among animals. Could this reflective type of hair protect people? Willot says companies are interested in  {{10}} these ants' method of heat protection for human use, including everything from helping to protect the lives of firefighters to keeping homes cool in summer.",
+ "bank": [
+  "adapting",
+  "consciously",
+  "crawling",
+  "crowded",
+  "extreme",
+  "hunt",
+  "literally",
+  "moderate",
+  "remote",
+  "removed",
+  "species",
+  "specimens",
+  "thick",
+  "tiny",
+  "unique"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "crawling",
+   "explain": "逗号后补充说明主语动作，缺现在分词 蚂蚁「爬出」地巢钻进烈日 crawling「爬行」描述银蚁 from their underground nests into the sun's brutal rays 从 地下巢穴爬向烈日的动作，符合蚂蚁的行进方式与全文觅食情境。"
+  },
+  {
+   "n": 2,
+   "answer": "hunt",
+   "explain": "不定式 to 后，缺动词原形 to hunt for food = 觅食，正合主旨 全文开头点明银蚁外出 to seek lunch，hunt 与 for food 构成 hunt for「搜寻、觅食」， 与「这是觅食好时机」完全一致。"
+  },
+  {
+   "n": 3,
+   "answer": "extreme",
+   "explain": "名词 heat 前作定语，缺形容词 形容沙漠「极端」高温最贴 全文反复渲染 120 degrees Fahrenheit 的酷热，extreme「极端的、极度的」修饰 heat 表「极端高温」，与主旨完全契合。 H) moderate 义反，温和与酷热相悖 moderate「适度的、温和的」恰与沙漠 120 华氏度的极热相反。 M) thick thick 不修饰 heat thick「厚的」不与 heat 搭配，且应留给 __(31)…"
+  },
+  {
+   "n": 4,
+   "answer": "species",
+   "explain": "定冠词 the 后作宾语，缺名词 指银蚁这一「物种」如何适应酷热 全文研究对象是 the Saharan silver ant 这种蚂蚁，species「物种」指代这一生物种类如何 adapted to 高温，与主旨吻合。 L) specimens 标本是死物，不会主动「适应」 specimens「标本、样本」指采集的实物样品，没有生命，不能作 adapted to「适应」的主 语；这里讲的是活体物种如何适应酷热。 最具迷惑性的错误词是…"
+  },
+  {
+   "n": 5,
+   "answer": "literally",
+   "explain": "助动词 can 与实义动词 melt 之间，缺副词 强调「真能把鞋底融化」非夸张 can __(30)__ melt the bottom of shoes 在渲染高温之极，literally「确确实实地、简直」 强调这是字面意义上真会发生，强化酷热程度。 B) consciously 高温无意识可言，主语错位 consciously「有意识地」用于有思维的主体，而这里主语是 heat（热量），热不会「有意识 地」融鞋，语义荒谬。 最具…"
+  },
+  {
+   "n": 6,
+   "answer": "thick",
+   "explain": "与 triangular 并列修饰 hair，缺形容词 描述毛发「浓密/粗」，与三角形、反光相称 下文说这种毛 reflects light like a prism 像棱镜反光，thick「厚的、浓密的、粗的」描述 毛发的物理形态，与三角形截面、强反光相配。 H) moderate 「适度的毛发」无意义 moderate「适度的」修饰 hair 不传递任何形态信息，不贴。 I) remote 偏远修饰不了毛发 remote「偏远的」与…"
+  },
+  {
+   "n": 7,
+   "answer": "removed",
+   "explain": "从句主语 Willot 后缺谓语动词（过去式） 「去掉/移除」蚂蚁毛发再加热做实验 后文 put it under a heat lamp, its temperature jumped 是把取下的毛发拿去加热， removed「移除、去掉」正描述「从蚂蚁身上取下毛发」这一动作。"
+  },
+  {
+   "n": 8,
+   "answer": "tiny",
+   "explain": "冠词 a 与名词 knife 之间，缺形容词作定语 蚂蚁毛发极细，配「微小的」刀刃才合理 上文 Quentin Willot __(32)__ the hair from an ant 是从一只蚂蚁身上取毛发，这等精细 操作要用极小的刀，tiny「极小的」最贴。 M) thick 义反，厚刀切不下蚂蚁毛 thick「厚的、粗的」与精细取毛的语境相反，且 thick 已为 __(31)__ 描述毛发留着，更不该填 这里。 E) extre…"
+  },
+  {
+   "n": 9,
+   "answer": "unique",
+   "explain": "系动词 is 后作表语，缺形容词 反光毛降温在动物中「独特」，引出可否用于人类 下文紧接 Could this reflective type of hair protect people? 用反问凸显其稀有可贵， unique「独一无二的」正点出该方法在动物界少见、值得借鉴。 M) thick 厚不能修饰「方法」 thick「厚的」修饰 method 不通，且要留给 __(31)__ 的毛发。 E) extreme 极端的方法语义偏，…"
+  },
+  {
+   "n": 10,
+   "answer": "adapting",
+   "explain": "介词 in 后接动名词，需 -ing 动词 企业有意「改造」银蚁防热法供人类用 下文 these ants' method of heat protection for human use 是把蚂蚁方法改用于人， adapting「改造、使适用」正对这层意思。"
+  }
+ ]
+}

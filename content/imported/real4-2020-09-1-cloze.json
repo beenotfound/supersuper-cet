@@ -1,0 +1,83 @@
+{
+ "id": "real4-2020-09-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2020年9月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-09-1",
+ "paperTitle": "2020年9月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-09",
+ "passage": "There are three main types of financial stress people encounter. The first type is apparent in people being stressed about the  {{1}} ups and downs of investment markets—actually not so much the ups, but {{2}}  the downs. These people are usually unable or unprepared to endure the long haul. The next common type of financial stress is that caused by debt. In a  {{3}} percentage of cases of debt-induced financial stress, credit cards and loans will be a central element. Often there will be a car loan and perhaps a mortgage, but credit cards often seem to be the gateway to debt-related financial difficulties for many. The third type of stress and  {{4}} the least known is inherited financial stress, which is the most destructive. It is experienced by those who have grown up in households where their parents regularly {{5}}  and fought about money. Money therefore becomes a stressful topic, and so the thought of sitting down and planning is an unattractive {{6}}  . Those suffering inherited financial anxiety {{7}}  to follow one of two patterns. Either they put their head in the sand: they would  {{8}} examining their financial statements, budgeting and discussing financial matters with those closest to them. Alternatively, they would go to the other {{9}}  , and micro-analyze everything, to the point of complete {{10}}  . They are convinced that whatever decision they make will be the wrong one.",
+ "bank": [
+  "appearance",
+  "argued",
+  "avoid",
+  "considerable",
+  "definitely",
+  "extreme",
+  "inaction",
+  "incredibly",
+  "normal",
+  "possibly",
+  "proposition",
+  "repelled",
+  "statement",
+  "tend",
+  "traditional"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "normal",
+   "explain": "形容词修饰名词短语 ups and downs normal ups and downs = 正常的起伏 the normal ups and downs of investment markets = 投资市场『正常的』起起落落—— 这是为下文做铺垫：正是这种『本属正常』的波动让某些人焦虑，凸显其抗压力不足 （unable or unprepared to endure the long haul）。 D) considerable …"
+  },
+  {
+   "n": 2,
+   "answer": "definitely",
+   "explain": "not so much A but ___ B 平行结构里修饰名词性短语 definitely 强调『肯定就是 the downs』，与 not so much the ups 形成强对比 not so much the ups, but definitely the downs = 与其说是上涨让他们焦虑，不如说 『肯定就是』下跌让他们焦虑——definitely 的『肯定地』语气与 not so much 的『不那 么』形成精准对比…"
+  },
+  {
+   "n": 3,
+   "answer": "considerable",
+   "explain": "冠词 a 与名词 percentage 之间填形容词 a considerable percentage of 是『相当大比例的』固定搭配 In a considerable percentage of cases of debt-induced financial stress, credit cards and loans will be a central element. = 『相当大比例的债务诱发型财务压力案例中，信用 卡和贷…"
+  },
+  {
+   "n": 4,
+   "answer": "possibly",
+   "explain": "句中插入语，修饰整个判断『最不为人知』 possibly『也许是最不为人知的』口吻克制、合乎学术叙述 and possibly the least known = 『而且可能也是最不为人知的一类』，作者用 possibly 表达留有余地的判断；与紧接其后的强判断 which is the most destructive『最具破坏性』 在语气上一软一硬，恰好搭配。 H) incredibly incredibly『难以置信地』与 the…"
+  },
+  {
+   "n": 5,
+   "answer": "argued",
+   "explain": "情态副词 regularly 后 + 与 and fought 并列 argue and fight 是常见搭配，描述父母为钱争吵打架 代入 their parents regularly argued and fought about money.，意为『父母经常为钱争 吵和打架』；与下句 Money therefore becomes a stressful topic 因果连贯——父母吵闹 → 孩子心里把钱当压力话题。 L) re…"
+  },
+  {
+   "n": 6,
+   "answer": "proposition",
+   "explain": "be 动词 is 后 + 形容词 unattractive 修饰 → 表语名词 an unattractive proposition = 一件没有吸引力的事/提议 the thought of sitting down and planning is an unattractive proposition. = 『坐下来 好好做财务规划这件事，对他们来说是没有吸引力的提议/选项』。proposition 在这里取 『事情，提议』之意，…"
+  },
+  {
+   "n": 7,
+   "answer": "tend",
+   "explain": "主语后缺谓语 + 后接 to do tend to do 固定搭配 = 倾向于 代入 Those suffering inherited financial anxiety tend to follow one of two patterns. = 这些人『倾向于』遵循两种模式之一，语义贴合下文紧接的 Either ... Alternatively ... 两种 模式分述。 B) argued 过去式不合时态 + 不接 to do a…"
+  },
+  {
+   "n": 8,
+   "answer": "avoid",
+   "explain": "情态动词 would 后接动词原形 + 后接动名词宾语 avoid doing 固定搭配 + 与『put their head in the sand』呼应 上句 Either they put their head in the sand（把头埋进沙里 = 鸵鸟式回避）已经定调 『回避』，本空选 avoid 与之意思一致：他们会回避查看财务报表、做预算、讨论财务。 L) repelled 形态不合 + 搭配不对 repelled 是过…"
+  },
+  {
+   "n": 9,
+   "answer": "extreme",
+   "explain": "形容词 other 与介词 and 之间应为名词 go to the other extreme = 走向另一个极端，固定搭配 Alternatively, they would go to the other extreme, and micro-analyze everything, to the point of complete __(35)__.：上文 Either 端是『鸵鸟式回避』，下文 Alternatively 端是『…"
+  },
+  {
+   "n": 10,
+   "answer": "inaction",
+   "explain": "形容词 complete 修饰 + 介词短语 to the point of ___ 作宾语 micro-analyze 到完全 inaction = 分析到瘫痪不作为（analysis paralysis） micro-analyze everything, to the point of complete inaction. = 『把一切都细到极致地 分析，以至于完全无法行动』——这正是『分析瘫痪』的经典描述，与下句 They ar…"
+  }
+ ]
+}

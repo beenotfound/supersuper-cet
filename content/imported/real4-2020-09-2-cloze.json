@@ -1,0 +1,83 @@
+{
+ "id": "real4-2020-09-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2020年9月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-09-2",
+ "paperTitle": "2020年9月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-09",
+ "passage": "It can be seen from the cheapest budget airlines to the world's largest carriers: Airlines across the globe  {{1}} various shades of blue in their cabin seats, and it is no {{2}}  . There does appear to be some psychology behind it. Blue is  {{3}} with the positive qualities of trust, efficiency, quietness, coolness, reflection and calm. Nigel Goode is a leading aviation designer who works at a company which has been delivering aircraft interiors for airlines for 30 years. \"Our job as designers is to reinforce the airline's brand and make it more {{4}}  ,\" he says. \"But our primary concern is to deliver an interior that  {{5}} comfort to create a pleasant environment.\" \"It's all about making the traveling experience less {{6}}  and blue is said to induce a feeling of calm. While some of the budget airlines might use brighter, bolder shades, most others go with softened tones. The  {{7}} aim is to create a home-like relaxing feel, so airlines tend to use soft colors that feel domestic {{8}} , and earthy for that reason.\" It's also a trend that emerged decades ago and has {{9}}  stuck. \"Blue became the color of choice because it's a conservative, agreeable, corporate shade that {{10}}  being trustworthy and safe. That's why you see it used in all of the older airlines like British Airways,\" Nigel Goode added.",
+ "bank": [
+  "associated",
+  "coincidence",
+  "determined",
+  "drastically",
+  "enormous",
+  "imitate",
+  "indication",
+  "integrate",
+  "maximizes",
+  "natural",
+  "principal",
+  "recognizable",
+  "simply",
+  "stressful",
+  "symbolizes"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "integrate",
+   "explain": "主语后缺谓语动词 integrate ... in 表\"把……融入/采用\"，与\"在机舱座椅中采用各种蓝色\"贴合 integrate various shades of blue in their cabin seats 意为\"在机舱座椅中融入/采用各种 蓝色调\"，与下句 and it is no __(27)__ 接的\"这并非巧合\"逻辑成立。 F) imitate \"模仿各种蓝色\"语义荒谬 imitate 意为\"模仿\"，对象通常是行为/…"
+  },
+  {
+   "n": 2,
+   "answer": "coincidence",
+   "explain": "no 后接名词的固定结构 no coincidence 是固定搭配，呼应后句的心理学理由 下一句 There does appear to be some psychology behind it 明确说航空公司选蓝色 背后有心理学原因，所以前一句要表达\"这并非巧合\"，正是 it is no coincidence 的固定 表达。 G) indication 搭配与逻辑均不通 indication 意为\"迹象、暗示\"，常用 an ind…"
+  },
+  {
+   "n": 3,
+   "answer": "associated",
+   "explain": "be + ___ + with 的过去分词形容词 be associated with 是英语标准搭配，表\"与……相关\" Blue is associated with the positive qualities ... = \"蓝色与信任、效率、安静等积极品质 相关\"，直接对应全文心理学解释——颜色与情绪/特质的关联。 C) determined be determined with 不成立的搭配，语义也别扭 determined 作…"
+  },
+  {
+   "n": 4,
+   "answer": "recognizable",
+   "explain": "make + 宾语 + ___ 宾补位填形容词 强化品牌就是让品牌更易识别 上文 Our job as designers is to reinforce the airline's brand 明确说\"我们的工作是强 化航司品牌\"，强化品牌的直接结果就是\"让它更可识别（more recognizable）\"，逻辑链 紧凑。 E) enormous \"让品牌更巨大\"在英语里不自然 enormous 形容体量/规模，搭品牌不形成英语里的惯…"
+  },
+  {
+   "n": 5,
+   "answer": "maximizes",
+   "explain": "定语从句里第三人称单数主语后的谓语 maximizes comfort 是常见搭配，与\"营造愉悦环境\"一致 maximizes comfort = \"最大化舒适度\"，与后续目的状语 to create a pleasant environment 形成因果链：把舒适做到最大，从而营造愉悦的环境。 O) symbolizes \"内饰象征舒适\"语义牵强 symbolize 意为\"象征\"，其宾语通常是抽象概念被某具体事物代表，本句要表达的是机…"
+  },
+  {
+   "n": 6,
+   "answer": "stressful",
+   "explain": "make + 名词 + ___ 中比较级 less 修饰形容词 less stressful 与下句\"蓝色让人平静\"完美呼应 紧随其后是 blue is said to induce a feeling of calm，蓝色诱发平静感，正是为了减少紧 张感；less stressful = 更少压力，与 calm 形成同义呼应，逻辑严丝合缝。 E) enormous 词义偏\"巨大\"，与本句焦点无关 enormous 强调体量大，谈飞行体…"
+  },
+  {
+   "n": 7,
+   "answer": "principal",
+   "explain": "定冠词 The 后 + ___ + aim 中定语位 principal aim = 主要目的，是常见英语搭配 principal 作形容词意为\"主要的\"，principal aim/principal reason 是英语中固定的高频搭 配，与下文 to create a home-like relaxing feel 直接挂钩——\"主要目的是营造家一般的 放松感\"。"
+  },
+  {
+   "n": 8,
+   "answer": "natural",
+   "explain": "三个并列形容词中间位 与 domestic、earthy 同属\"家用自然柔和\"语义场 domestic（居家的）、earthy（朴实的、大地感的）都带\"自然、亲近、柔和\"色彩， natural（自然的）与之同向并列，构成排比，正好呼应前句 create a home-like relaxing feel。"
+  },
+  {
+   "n": 9,
+   "answer": "simply",
+   "explain": "助动词 has 与过去分词 stuck 之间填副词 \"就这么沿用下来\"贴合\"几十年前形成并延续至今\"的语义 本句 It's also a trend that emerged decades ago and has __(34)__ stuck 强调这种用蓝 色的趋势出现得早、之后就\"自然而然\"地保留下来；simply stuck 表达\"就这么固定下来 了\"的语气，自然平实。 D) drastically 程度过强，与\"沿袭\"的语气冲突…"
+  },
+  {
+   "n": 10,
+   "answer": "symbolizes",
+   "explain": "定语从句中单数先行词 shade 后的三单谓语 颜色象征某种品质是英语里的典型表达 symbolize being trustworthy and safe = \"象征值得信任与安全\"，与全段\"蓝色被选作品 牌色\"主旨吻合：颜色之所以被选，正因为它能在视觉上象征积极特质。 最具迷惑性的错误词是 I) —— 三单动词混淆，把 maximizes 误填到 35。maximizes 与 symbolizes 同为三单及物动词，若先做 35 题…"
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-08",
+      "title": "大学英语四级标准模拟卷 08",
+      "level": "CET4",
+      "year": "mock-08",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on the problem of irregular daily routines among college students. Your essay should include: 1) the causes of irregular sleeping and eating habits among students; 2) the harm these habits do to health and study; 3) your suggestions for building a healthier routine. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "假定你要就「大学生作息不规律的问题」写一篇短文。文章应包括：1）学生作息与饮食不规律的原因；2）这些习惯对健康和学习的危害；3）你对建立更健康作息的建议。词数 120–180 词。",
+          "reference": "Many college students live on an irregular schedule. They stay up late finishing assignments or watching videos, skip breakfast, and then sleep through the weekend to catch up. The causes are not hard to find: heavy coursework, part-time jobs and the freedom to decide when to sleep all encourage delay.\n\nThe harm is easy to underestimate. Irregular sleep makes it hard to concentrate in class, weakens the immune system and increases anxiety. Students who skip breakfast often feel tired by ten in the morning and rely on coffee, which in turn keeps them awake at night.\n\nBuilding a healthier routine does not require a strict timetable. In my view, students should fix a bedtime and a waking time, keep meals regular, and replace late-night phone use with a short walk or some reading. Exercise three times a week also helps. Small changes, repeated for a month, are more useful than an ambitious plan that lasts three days.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题，请阅读文字稿后作答。\n\nConversation One:\nMan: Excuse me, Doctor Chen. I have been feeling tired all term, even though I sleep eight hours at weekends.\nWoman: Sit down, please. Tell me about your weekday routine. What time do you usually go to bed?\nMan: That depends. On Monday and Tuesday I have a late laboratory class, so I often get to bed around one in the morning. Then I sleep until nine, and I miss breakfast.\nWoman: And how do you feel in class?\nMan: Sleepy, especially in the two o'clock lecture. I drink coffee to stay awake, but then I cannot fall asleep at night.\nWoman: You are caught in a cycle. The first thing to change is not the number of hours but the regularity. Your body needs a fixed bedtime and a fixed waking time, even at weekends.\nMan: But I really cannot avoid the laboratory class.\nWoman: I understand. In that case, keep the rest of your week steady, and avoid screens for half an hour before bed. Have a proper breakfast too; skipping it makes your blood sugar drop and you feel even more tired.\nMan: Should I stop drinking coffee altogether?\nWoman: Not necessarily. Just try not to drink it after lunch. And come back in two weeks if you still feel exhausted, because we may need to check your blood tests.\n\nPassage One:\nAt the start of each term, the sports centre at Greenfield University runs a week of free classes, from early-morning yoga to evening basketball. Last September more than a thousand students signed up in two days. Yet by the middle of the term, attendance in many of these classes had fallen by half. The staff were puzzled. The classes were free, the instructors were popular, and the timetable had been designed after a student survey.\n\nA follow-up study produced some surprising answers. The main reason students gave for giving up was not a lack of interest but the timing. Most classes began at seven in the evening, which clashed with dinner, part-time jobs and group projects. Students who dropped out also said they felt embarrassed at being far behind others, even in beginners' classes.\n\nSo the centre changed its approach. It introduced thirty-minute sessions that do not require students to register in advance; they simply turn up. It also trained senior students to act as buddies who welcome newcomers and pair them with someone at a similar level. Attendance rose by nearly forty per cent.\n\nThe lesson, according to the head of the centre, is that good intentions are not enough. People think students are lazy, she says. In fact they are busy and easily embarrassed. If exercise is made easy to start and hard to feel foolish about, they will come.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Why has the man been feeling tired all term?",
+              "transcript": "",
+              "options": [
+                "A. His daily routine is irregular.",
+                "B. He sleeps too few hours.",
+                "C. He has caught a bad cold.",
+                "D. He eats too much at weekends."
+              ],
+              "answer": "A",
+              "explanation": "男士工作日一两点才睡、九点才起，还常不吃早饭，医生指出问题在于作息不规律，故 A 正确。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What does the man do when he feels sleepy in class?",
+              "transcript": "",
+              "options": [
+                "A. He leaves the classroom.",
+                "B. He takes a short nap.",
+                "C. He drinks coffee.",
+                "D. He skips breakfast."
+              ],
+              "answer": "C",
+              "explanation": "男士说自己在两点的课上犯困，I drink coffee to stay awake，靠喝咖啡提神，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What does the doctor advise the man to change first?",
+              "transcript": "",
+              "options": [
+                "A. His laboratory class.",
+                "B. The regularity of his sleep.",
+                "C. The brand of coffee he drinks.",
+                "D. His weekend working hours."
+              ],
+              "answer": "B",
+              "explanation": "医生说 The first thing to change is not the number of hours but the regularity，即首先要改变作息规律性，故选 B。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "When should the man return to see the doctor?",
+              "transcript": "",
+              "options": [
+                "A. Tomorrow morning.",
+                "B. After his final exams.",
+                "C. In two months.",
+                "D. In two weeks."
+              ],
+              "answer": "D",
+              "explanation": "医生最后叮嘱 come back in two weeks if you still feel exhausted，即两周后若仍疲惫再来复查，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What happened to many of the free classes by the middle of the term?",
+              "transcript": "",
+              "options": [
+                "A. They were moved to the morning.",
+                "B. Attendance fell by about half.",
+                "C. They became paid classes.",
+                "D. Most instructors left."
+              ],
+              "answer": "B",
+              "explanation": "短文说 by the middle of the term, attendance in many of these classes had fallen by half，即出勤率下降约一半，故选 B。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What was the main reason students gave for quitting?",
+              "transcript": "",
+              "options": [
+                "A. The classes were badly timed.",
+                "B. The instructors were unpopular.",
+                "C. The classes cost too much.",
+                "D. The sports centre was too far away."
+              ],
+              "answer": "A",
+              "explanation": "后续调查发现学生退出的主要原因不是没兴趣，而是上课时间与晚饭、兼职、小组作业冲突，即时安排不合理，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What did the centre do to help newcomers feel comfortable?",
+              "transcript": "",
+              "options": [
+                "A. It reduced class fees.",
+                "B. It closed all beginners' classes.",
+                "C. It started classes at dinner time.",
+                "D. It paired them with senior student buddies."
+              ],
+              "answer": "D",
+              "explanation": "体育中心培训高年级学生担任 buddies，迎新并把他们与水平相近的同学配对，缓解新手的尴尬，故选 D。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the head of the centre believe about students?",
+              "transcript": "",
+              "options": [
+                "A. They are too lazy to exercise.",
+                "B. They prefer competitive sports.",
+                "C. They are busy and easily embarrassed.",
+                "D. They need more free classes."
+              ],
+              "answer": "C",
+              "explanation": "负责人说 People think students are lazy ... In fact they are busy and easily embarrassed，认为学生其实很忙又容易难为情，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "词库（A–O，共 15 个词，从中选出 10 个填入短文中的空白，每个词只能使用一次）：\nA. attract\nB. avoid\nC. budget\nD. decline\nE. frequently\nF. freedom\nG. generous\nH. harmless\nI. maintain\nJ. precise\nK. refer\nL. rule\nM. similar\nN. warn\nO. wording\n\n短文（空白处标有 26–35）：\n\nReading Food Labels\n\nWhen you pick up a packet in a supermarket, the front is designed to (26) ____ your attention. Words such as 'natural' or 'light' are chosen to sound healthy, but they have no (27) ____ legal meaning in many countries. The information that really matters is printed on the back, often in very small type.\n\nLearning to read a label takes only a few minutes. First, check the size of the portion the numbers (28) ____ to. A bag that seems to contain 200 calories may in fact hold three portions. Second, compare the same kind of product rather than two different foods, because (29) ____ values are easier to judge.\n\nNutritionists advise shoppers to (30) ____ products with a long list of unfamiliar ingredients. Usually a short list means the food has been processed less. They also (31) ____ that sugar appears under many names, so a product may contain three kinds of sweetener and still look (32) ____ at first glance.\n\nFood companies argue that labels give consumers (33) ____ to make their own choices. Campaigners agree in principle but want the (34) ____ to be clearer. Until then, shoppers can protect themselves with one simple (35) ____: turn the packet over and read the small print before you decide.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. The front of a packet is designed to ____ your attention.",
+              "answer": "attract",
+              "explanation": "选 A. attract。attract attention 意为吸引注意力，与主语 the front of a packet 搭配；maintain 意为维持，无法与 attention 构成吸引之意。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. Words such as 'natural' or 'light' sound healthy, but they have no ____ legal meaning in many countries.",
+              "answer": "precise",
+              "explanation": "选 J. precise。no precise legal meaning 意为没有明确的法律含义，修饰 legal meaning 最贴切；generous 意为慷慨的，与此处语义无关。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. Check the size of the portion the numbers ____ to.",
+              "answer": "refer",
+              "explanation": "选 K. refer。refer to 意为指的是，此处说明包装上的数字对应的是哪一份的量；decline 意为下降，不能与 to 构成此义。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Compare the same kind of product rather than two different foods, because ____ values are easier to judge.",
+              "answer": "similar",
+              "explanation": "选 M. similar。similar values 意为相近的数值，同类产品的营养成分更容易比较；frequently 是副词，不能修饰名词 values。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Nutritionists advise shoppers to ____ products with a long list of unfamiliar ingredients.",
+              "answer": "avoid",
+              "explanation": "选 B. avoid。avoid products 意为避开这类产品，与前文「成分表越短加工越少」的观点一致；maintain products 搭配不当。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. They also ____ that sugar appears under many names.",
+              "answer": "warn",
+              "explanation": "选 N. warn。warn that 意为提醒、警告，营养学家提醒消费者糖会以多种名称出现；decline 后接 that 从句表示拒绝，语义不符。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. A product may contain three kinds of sweetener and still look ____ at first glance.",
+              "answer": "harmless",
+              "explanation": "选 H. harmless。look harmless 意为看起来无害，与前面暗中含多种甜味剂形成对比；generous 不能描述食品是否无害。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Food companies argue that labels give consumers ____ to make their own choices.",
+              "answer": "freedom",
+              "explanation": "选 F. freedom。give sb freedom to do sth 意为给予某人做某事的自由，符合食品公司为标签辩护的立场；budget 指预算，与选择权无关。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. Campaigners agree in principle but want the ____ to be clearer.",
+              "answer": "wording",
+              "explanation": "选 O. wording。the wording 指标签上的措辞，与 clearer 搭配自然；budget 与措辞是否清晰无关。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. Shoppers can protect themselves with one simple ____: turn the packet over and read the small print.",
+              "answer": "rule",
+              "explanation": "选 L. rule。one simple rule 意为一条简单的规则，冒号后正是这条规则的内容；maintain 是动词，不能作介词 with 的宾语。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，每个段落前给出该段落的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nParagraph A: Time away from screens\nParents who are tired of arguing about screen time have found a simple alternative: a box of cards or a board. A recent survey of 2,000 families found that four in ten now play games together at least once a week, and most of them say the main reason is to spend an evening without phones. Teachers report similar experiments in classrooms, where short games are used to warm up a lesson.\n\nParagraph B: Old games, new players\nGames that grandparents played are returning to the shelves. Shops report strong demand for new editions of classic word and card games, often bought by people in their twenties and thirties. Designers have improved the artwork and shortened the rules, so a game that once took an hour to explain can now be taught in five minutes. Social media has helped, as players share photographs of their evenings online.\n\nParagraph C: A boost for small shops\nIn many cities, board game cafes have opened in the past few years. Customers pay a small fee, borrow games from the shelves and order drinks while they play. For the owners of small shops, this is a way to compete with online retailers: what is being sold is not the box but an evening out. Some cafes also run tournaments that fill quiet weekday evenings.\n\nParagraph D: Learning to lose\nTeachers and psychologists point to benefits that have little to do with the games themselves. Waiting for your turn, explaining a plan, disagreeing without losing your temper and accepting defeat are all practised at the table. One primary school now holds a weekly game afternoon and says arguments in the playground have become less frequent, because pupils have learned to separate the result of a game from the person who won it.\n\nParagraph E: Barriers to growth\nNot everything is easy. Translating and printing a game for a new market can cost far more than the designers expect, and small publishers struggle to compete with large companies. Illegal copies appear quickly online. Designers also complain that a successful idea is imitated within months, and that the law offers little protection to a set of rules or a piece of cardboard.\n\nParagraph F: The table as a meeting place\nFor adults who move to a new city, a games evening can be an unusually easy way to meet people. Unlike a party, it gives strangers something to do and a reason to talk. Organisers of public game nights say that regulars often arrive alone and leave in groups, and that the atmosphere is friendlier than in a bar, because everyone is concentrating on the same table.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Independent shops and cafes have appeared where customers pay to play games together.",
+              "options": [
+                "A. Time away from screens",
+                "B. Old games, new players",
+                "C. A boost for small shops",
+                "D. Learning to lose",
+                "E. Barriers to growth",
+                "F. The table as a meeting place"
+              ],
+              "answer": "C",
+              "explanation": "C 段介绍许多城市开设桌游咖啡馆，顾客付少量费用借用游戏，并说这是小店主与网店竞争的方式，与题干对应，故选 C。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Many families choose games as a way to spend an evening without screens.",
+              "options": [
+                "A. Time away from screens",
+                "B. Old games, new players",
+                "C. A boost for small shops",
+                "D. Learning to lose",
+                "E. Barriers to growth",
+                "F. The table as a meeting place"
+              ],
+              "answer": "A",
+              "explanation": "A 段说四成家庭每周至少一起玩游戏一次，多数人表示主要原因是 to spend an evening without phones，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Playing games teaches children to accept defeat and wait their turn.",
+              "options": [
+                "A. Time away from screens",
+                "B. Old games, new players",
+                "C. A boost for small shops",
+                "D. Learning to lose",
+                "E. Barriers to growth",
+                "F. The table as a meeting place"
+              ],
+              "answer": "D",
+              "explanation": "D 段列举 Waiting for your turn ... and accepting defeat are all practised at the table，并说某小学因此减少了操场争执，故选 D。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Game nights give newcomers and neighbours a chance to meet and make friends.",
+              "options": [
+                "A. Time away from screens",
+                "B. Old games, new players",
+                "C. A boost for small shops",
+                "D. Learning to lose",
+                "E. Barriers to growth",
+                "F. The table as a meeting place"
+              ],
+              "answer": "F",
+              "explanation": "F 段说对搬到新城市的人而言，游戏之夜是认识人的便捷方式，常客常常独自前来、结伴离开，与题干对应，故选 F。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Classic games are attracting interest from a younger generation.",
+              "options": [
+                "A. Time away from screens",
+                "B. Old games, new players",
+                "C. A boost for small shops",
+                "D. Learning to lose",
+                "E. Barriers to growth",
+                "F. The table as a meeting place"
+              ],
+              "answer": "B",
+              "explanation": "B 段说祖辈玩过的经典游戏重新上架，购买者常是二三十岁的年轻人，即经典游戏吸引了年轻一代，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: Students often treat sleep as the first thing to cut when exams approach. A week of late nights seems a small price to pay for extra revision. Research on memory, however, suggests that this bargain is a poor one: the hours lost at night cannot simply be replaced by hours spent with a textbook.\n\nThe reason lies in what happens after learning. When we first take in new information, the memory is fragile. During sleep, and especially during deep sleep in the first half of the night, the brain replays and reorganises what it has taken in, linking new material to what we already know. Cut that sleep short and the links are weaker. In one experiment, students who learned a list of words and then slept for eight hours remembered far more the next morning than those who stayed awake and revised for the same length of time.\n\nThere is a second effect, less obvious but just as important. Tired students find it harder to concentrate and are more easily distracted by their phones. They may sit at a desk for three hours and still absorb very little. Their teachers notice the difference before they do: the same student who was quick and curious in October becomes slow and quiet in December.\n\nThe practical advice from researchers is unglamorous. Keep a regular bedtime, avoid caffeine after the early afternoon, and put screens away before going to bed. If a deadline forces a late night, try to recover with a short nap the next day rather than with more coffee. Sleep, they argue, is not time taken away from study. It is part of study.\n\nPassage 2: Every January, gyms fill with new members, and by March many of them have quietly disappeared. The pattern is so familiar that fitness staff call it the resolution curve. But a small group of researchers who study habit formation believe the problem is not motivation. It is the way people design their plans.\n\nIn one study, participants were asked to exercise three times a week for twelve weeks. Half of them were told to choose any time and place that suited them; the other half were asked to link the exercise to an existing daily routine, such as walking straight to the gym after a morning lecture. The second group attended about twice as many sessions. The explanation is simple: a new behaviour needs a reliable signal, and an existing routine provides one.\n\nThe researchers also found that starting very small helped. People who began with ten minutes on a bicycle were more likely to still be exercising after a month than those who began with an hour. Ten minutes feels too easy to skip, and once the habit exists it can be lengthened. A failed attempt at an ambitious plan, by contrast, often ends all attempts.\n\nSocial surroundings matter as well. Students who exercised with a friend attended more regularly, and those who told their roommates about their plan were less likely to give up. None of this requires money or special equipment. It requires a fixed moment, a small first step and someone who notices whether you turn up. That is probably why the oldest advice remains the best: put your sports shoes where you will see them in the morning.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What do many students do when exams approach?",
+              "options": [
+                "A. They cut back on sleep.",
+                "B. They stop revising altogether.",
+                "C. They sleep more than usual.",
+                "D. They change their diet."
+              ],
+              "answer": "A",
+              "explanation": "Passage 1 开头说 Students often treat sleep as the first thing to cut when exams approach，即考试临近时学生最先削减睡眠，故选 A。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What happens during deep sleep according to the passage?",
+              "options": [
+                "A. The brain rests completely.",
+                "B. New words are forgotten.",
+                "C. Students become distracted.",
+                "D. Memories are reorganised and linked."
+              ],
+              "answer": "D",
+              "explanation": "第二段说 the brain replays and reorganises what it has taken in, linking new material to what we already know，故选 D。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the experiment with the word list show?",
+              "options": [
+                "A. Revising all night is effective.",
+                "B. Students need less sleep than adults.",
+                "C. Those who slept remembered more.",
+                "D. All students remembered the same amount."
+              ],
+              "answer": "C",
+              "explanation": "实验发现学完单词后睡八小时的学生，第二天记住的内容远多于同样时长保持清醒复习的学生，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the author suggest for a forced late night?",
+              "options": [
+                "A. Drinking more coffee.",
+                "B. Taking a short nap the next day.",
+                "C. Sleeping late at weekends.",
+                "D. Skipping breakfast."
+              ],
+              "answer": "B",
+              "explanation": "末段建议 try to recover with a short nap the next day rather than with more coffee，即第二天小睡补觉，故选 B。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the resolution curve?",
+              "options": [
+                "A. A kind of gym equipment.",
+                "B. A twelve-week training programme.",
+                "C. A method of measuring fitness.",
+                "D. The pattern of new members dropping out."
+              ],
+              "answer": "D",
+              "explanation": "Passage 2 开头说健身房一月人满为患，三月许多人悄然消失，staff call it the resolution curve，即新会员退出的规律，故选 D。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What made the second group in the study more successful?",
+              "options": [
+                "A. They had more free time.",
+                "B. They linked exercise to an existing routine.",
+                "C. They exercised alone.",
+                "D. They chose expensive gyms."
+              ],
+              "answer": "B",
+              "explanation": "第二组被要求把锻炼与既有日常安排联系起来，如早上听完课直接去健身房，出勤次数约为第一组的两倍，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What does the passage say about starting small?",
+              "options": [
+                "A. It makes people more likely to keep exercising.",
+                "B. It wastes the first month.",
+                "C. It is suitable only for children.",
+                "D. It requires a personal trainer."
+              ],
+              "answer": "A",
+              "explanation": "研究发现从每天十分钟开始的人一个月后仍在锻炼的比例更高，因为十分钟很容易做到，不会让人想跳过，故选 A。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "中医是中国传统医学的重要组成部分，它强调人体与自然环境的平衡。中医认为，人的健康取决于饮食、情绪、作息等因素是否协调，因此提出了许多日常养生的方法。例如，在寒冷的季节多吃温热的食物，在夏天注意补充水分；保持规律的作息，避免过度劳累。近年来，越来越多的年轻人开始关注中医养生，学习按摩和药膳。不过，专家提醒，养生方法应当根据个人体质选择，不能盲目照搬。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "Traditional Chinese medicine is an important part of China's traditional medical culture, and it stresses the balance between the human body and the natural environment. In its view, a person's health depends on whether diet, emotions and daily routines are in harmony, so many methods of everyday health care have been developed. For example, people are advised to eat warm food in cold seasons and to drink enough water in summer, and to keep regular hours and avoid overwork. In recent years, more and more young people have become interested in traditional health care and have started learning massage and medicinal dishes. Experts remind them, however, that such methods should be chosen according to individual constitution rather than copied blindly.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

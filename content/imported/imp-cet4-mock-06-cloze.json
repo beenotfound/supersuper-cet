@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-06-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-06",
+ "paperTitle": "大学英语四级标准模拟卷 06",
+ "paperLevel": "cet4",
+ "paperYear": "mock-06",
+ "sectionOrder": 2,
+ "passage": "短文：\nResearchers who study body language like to remind us that words carry only part of any message. The rest comes from the face, the hands and the distance we keep from other people. A gesture that is friendly in one country can cause {{1}} in another; a distance that feels natural may make another person {{2}}.\n\nThis does not mean that body language is a list of rules to be learned {{3}}. Most people manage it unconsciously. If a visitor keeps {{4}} his hands and shifting his feet, we may decide, without any {{5}}, that he is nervous or dishonest, when he is simply cold or tired.\n\nThe {{6}} advice is therefore to slow down. Watch how people sit and how long they look at each other. Ask a colleague whether a habit that seems natural to you is {{7}} in the new setting. Above all, do not {{8}} politeness with agreement: a person may be extremely polite and still firmly refuse your idea.\n\nNone of this is {{9}}. Reading the wrong signal is a mistake everyone makes, and the ability to laugh at one's own {{10}} is itself a form of cultural skill.",
+ "bank": [
+  "acceptable",
+  "attention",
+  "confuse",
+  "easy",
+  "evidence",
+  "mistakes",
+  "naturally",
+  "offence",
+  "overnight",
+  "polite",
+  "rubbing",
+  "simplest",
+  "skill",
+  "uncomfortable",
+  "warning"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "offence",
+   "explain": "选 H. offence（对应第 26 空）。cause offence 意为‘冒犯他人’，与前半句 friendly 形成对比，故用名词 offence。"
+  },
+  {
+   "n": 2,
+   "answer": "uncomfortable",
+   "explain": "选 N. uncomfortable（对应第 27 空）。make sb + 形容词表示‘使某人……’，此处指你觉得自然的距离会让对方不舒服。"
+  },
+  {
+   "n": 3,
+   "answer": "overnight",
+   "explain": "选 I. overnight（对应第 28 空）。learned overnight 意为‘一夜之间学会’，与后文‘人们是无意识地掌握它的’形成对照。"
+  },
+  {
+   "n": 4,
+   "answer": "rubbing",
+   "explain": "选 K. rubbing（对应第 29 空）。keep doing sth 后接动名词，rub one's hands（搓手）与 shifting his feet 并列，均为紧张的外在表现。"
+  },
+  {
+   "n": 5,
+   "answer": "evidence",
+   "explain": "选 E. evidence（对应第 30 空）。without any evidence 意为‘没有任何证据’，说明这种判断只是主观印象。"
+  },
+  {
+   "n": 6,
+   "answer": "simplest",
+   "explain": "选 L. simplest（对应第 31 空）。下文给出的都是‘放慢速度’一类朴素做法，故用形容词最高级 simplest 修饰 advice。"
+  },
+  {
+   "n": 7,
+   "answer": "acceptable",
+   "explain": "选 A. acceptable（对应第 32 空）。be acceptable in a setting 意为‘在某种场合可以被接受’，符合‘向同事确认习惯是否得体’之意。"
+  },
+  {
+   "n": 8,
+   "answer": "confuse",
+   "explain": "选 C. confuse（对应第 33 空）。confuse A with B 意为‘把 A 与 B 混为一谈’，冒号后的解释说明礼貌并不等于同意。"
+  },
+  {
+   "n": 9,
+   "answer": "easy",
+   "explain": "选 D. easy（对应第 34 空）。后文说读错信号是人人都会犯的错，说明这并不容易，用 easy 与前面‘放慢速度’的建议相呼应。"
+  },
+  {
+   "n": 10,
+   "answer": "mistakes",
+   "explain": "选 F. mistakes（对应第 35 空）。laugh at one's own mistakes 意为‘笑对自己的错误’，复数与 one's own 搭配，也与前文 a mistake everyone makes 对应。"
+  }
+ ]
+}

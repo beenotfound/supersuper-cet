@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet6-demo-2024-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet6-demo-2024",
+ "paperTitle": "2024年12月大学英语六级（模拟节选）",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "sectionOrder": 4,
+ "passage": "For anyone who has tried to sleep on a plane, the appeal of the night train is obvious. Yet for years, Europe's sleeper services seemed to be disappearing: routes were cut, carriages aged, and cheap short-haul flights took most of the passengers. Recently the trend has reversed. Several governments have announced new sleeper routes, and a number of private companies are buying second-hand carriages to compete with the state railways. The revival owes much to climate policy: a train journey from Paris to Vienna produces a small fraction of the emissions of the equivalent flight. But the operators insist that passengers are not only motivated by green concerns. Travelling overnight saves the cost of a hotel room and an entire day of travelling, which matters to business travellers and families alike. Difficulties remain. Sleeper trains are expensive to run, and crossing borders still involves paperwork and different signalling systems. Even so, tickets for many new routes sell out within days of going on sale, suggesting that demand, at least, is not a problem.",
+ "questions": [
+  {
+   "q": "Why did night trains decline in the past?",
+   "options": [
+    "Cheap short-haul flights took most of the passengers.",
+    "Carriages were too comfortable.",
+    "Governments banned sleeper services.",
+    "Tickets cost too much."
+   ],
+   "answer": 0,
+   "explain": "Passage 2 第一段提到 routes were cut, carriages aged, and cheap short-haul flights took most of the passengers，说明廉价短途航班抢走了大部分乘客，故选 A。"
+  },
+  {
+   "q": "What is a major reason for the revival of night trains?",
+   "options": [
+    "Climate policy and lower emissions.",
+    "New railway technology.",
+    "Falling ticket prices.",
+    "Bans on short flights."
+   ],
+   "answer": 0,
+   "explain": "Passage 2 第二段说 The revival owes much to climate policy，并提到从巴黎到维也纳的火车排放仅为同等航班的一小部分，故选 A。"
+  },
+  {
+   "q": "What practical advantage do overnight trains offer?",
+   "options": [
+    "They save the cost of a hotel room and a day of travelling.",
+    "They include free meals on board.",
+    "They are faster than planes.",
+    "They stop at every small station."
+   ],
+   "answer": 0,
+   "explain": "Passage 2 第二段指出 Travelling overnight saves the cost of a hotel room and an entire day of travelling，故选 A。"
+  }
+ ]
+}

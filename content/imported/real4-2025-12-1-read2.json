@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-12-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年12月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-1",
+ "paperTitle": "2025年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "passage": "P1 Katharine Abraham, an economics professor, was chatting with her hairdresser(理发师) about retirement plans. The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money.\n\nP2 Both scenarios(情况) are contributing to a big increase in the number of people in the U.S. working into their 70s. Over the past 20 years, the share of Americans working in their 70s has risen from less than 10% to nearly 15%.\n\nP3 In addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement. The decline of manufacturing and the increase in the number of people working in less labor-intensive occupations also has contributed to the trend, says Abraham, who researches work and retirement decisions of older Americans.\n\nP4 \"Which matters more depends on what your history up until that point has been in the type of work you're doing,\" Abraham says.\n\nP5 The overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor's degrees who were working into their 70s reached nearly 20% in 2018. For those with a high school degree or less, the proportion of those working in their 70s had risen to around 10%, while those with some college education were in the middle at around 15%.\n\nP6 Martin Neil Baily, an economist who is leading a research project on retirement security, notes that quitting a career can lead to feelings of isolation and loneliness, particularly for men. He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons. They're also more likely to be in professional occupations where they tend to enjoy their work more.\n\nP7 Workers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons.",
+ "questions": [
+  {
+   "q": "What do we learn from the passage about the economics professor and her hairdresser?",
+   "options": [
+    "They differ in their reasons for continuing to work.",
+    "They are both committed to working into their 70s.",
+    "They are happy about their current financial situation.",
+    "They hold different views about postponing retirement."
+   ],
+   "answer": 0,
+   "explain": "题干 What do we learn from the passage about the economics professor and her hairdresser 锁定两位具体人物，要在原文里抓他们各自的具体说法，属于事实型细节题。 51. What do we learn from the passage about the economics professor and her hairdresser? A) They d…"
+  },
+  {
+   "q": "What is one of the reasons for people to delay retirement?",
+   "options": [
+    "More and more people have switched to less intellectually challenging jobs.",
+    "The number of jobs suitable for older people has increased in the private sector.",
+    "The rate of wage increase in terms of purchasing power has slowed down for years.",
+    "More and more people in the workplace find it hard to rely on traditional pensions."
+   ],
+   "answer": 2,
+   "explain": "题干 What is one of the reasons for people to delay retirement 询问具体原因，要在原 文清单里点对清单项，属典型细节题。 主干 What is one of the reasons，后接介词短语 for people to delay retirement 作后置 定语；for 引导原因方向，不定式 to delay 表逻辑动作，结构清晰，无难点。 52. What is one…"
+  },
+  {
+   "q": "What is the general trend in people delaying retirement?",
+   "options": [
+    "The higher their earnings, the more likely they are tempted to delay retirement.",
+    "Those who have more job satisfaction tend to retire later than those who have less.",
+    "More men than women are likely to stay in the labor force until their late seventies.",
+    "The higher their educational level, the more likely they are to delay retirement."
+   ],
+   "answer": 3,
+   "explain": "题干 What is the general trend in people delaying retirement 询问的是原文里已经写明 的整体规律，去找总括句即可，不需越级推断。 主干 What is the general trend，介词短语 in people delaying retirement 中 people delaying retirement 是 in 的复合宾语（动名词短语带逻辑主语），结构平直、无从句。 T…"
+  },
+  {
+   "q": "What is the chief reason for college-educated workers delaying retirement according to an economist?",
+   "options": [
+    "Enjoying financial security.",
+    "Staying connected socially.",
+    "Contributing more professionally.",
+    "Increasing social security payments."
+   ],
+   "answer": 1,
+   "explain": "题干 What is the chief reason for college-educated workers delaying retirement 询问 原文中经济学家明确给出的主因，按细节题处理即可。 主干 What is the chief reason，介词短语 for college-educated workers delaying retirement 作后置定语，分词 delaying 修饰 workers 表正在延…"
+  },
+  {
+   "q": "What does the passage say about people doing manual work?",
+   "options": [
+    "They are eager to enjoy life after retiring.",
+    "They are likely to have financial troubles.",
+    "They generally don't enjoy doing it.",
+    "They tend to anticipate retirement."
+   ],
+   "answer": 3,
+   "explain": "题干 What does the passage say about people doing manual work 直接问原文对该群 体的具体说法，按细节题处理。 主干 What does the passage say about ...，about 引出对象；现在分词短语 doing manual work 后置修饰 people，相当于 who do manual work，无从句无难点。 Workers in more ph…"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-real-2023-12-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2023-12",
+ "paperTitle": "2023年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "sectionOrder": 2,
+ "passage": "短文：\nFew habits have changed as quickly as the family dinner. Thirty years ago most parents could {{1}}that everyone would be at the table by seven; today work, sport and screens make that {{2}}impossible. Sociologists who study family life are not surprised. What does surprise them is how much is lost when the shared meal disappears. Families that eat together at least four times a week {{3}}far more about each other's lives, and children in such families are {{4}}to do well at school. The meal also passes on culture: recipes, manners and stories travel from one generation to the next around a table, not through a screen. Some busy households now keep one {{5}}dinner a week and treat it as an appointment that cannot be moved. Others {{6}}the cooking among all members, so that nobody has to {{7}}a whole meal alone. Experts advise parents to keep the food plain and to let children {{8}}the conversation. A {{9}}dish cooked by a child may be the beginning of a lifelong habit. The point, they say, is not the food but the {{10}}of sitting down together.",
+ "bank": [
+  "almost",
+  "complete",
+  "expect",
+  "fixed",
+  "gradually",
+  "join",
+  "learn",
+  "likely",
+  "pleasure",
+  "prepare",
+  "rarely",
+  "share",
+  "simple",
+  "tired",
+  "whole"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "expect",
+   "explain": "选 C. expect。expect that... 意为「预料到、指望」，与后半句如今「几乎不可能」形成时间对比。"
+  },
+  {
+   "n": 2,
+   "answer": "almost",
+   "explain": "选 A. almost。almost impossible 意为「几乎不可能」，是常见搭配；complete 作定语时不能修饰 impossible，表示「完全不可能」须用副词 completely。"
+  },
+  {
+   "n": 3,
+   "answer": "learn",
+   "explain": "选 G. learn。learn about each other's lives 意为「了解彼此的生活」，与前句「一起吃饭」构成因果。"
+  },
+  {
+   "n": 4,
+   "answer": "likely",
+   "explain": "选 H. likely。be likely to do 意为「有可能做某事」，此处指常一起吃饭家庭的孩子学业表现更好。"
+  },
+  {
+   "n": 5,
+   "answer": "fixed",
+   "explain": "选 D. fixed。a fixed dinner 意为「固定的一顿晚餐」，与后文「当作不能改期的约定」呼应。"
+  },
+  {
+   "n": 6,
+   "answer": "share",
+   "explain": "选 L. share。share sth among sb 意为「在……之间分摊」，与后半句「没有人需要独自做一整顿饭」一致。"
+  },
+  {
+   "n": 7,
+   "answer": "prepare",
+   "explain": "选 J. prepare。prepare a meal 意为「做一顿饭」，是固定搭配；空格后为 a whole meal，需要及物动词。"
+  },
+  {
+   "n": 8,
+   "answer": "join",
+   "explain": "选 F. join。join the conversation 意为「加入交谈」，说明专家建议让孩子参与饭桌对话。"
+  },
+  {
+   "n": 9,
+   "answer": "simple",
+   "explain": "选 M. simple。a simple dish 意为「一道简单的菜」，与上句「食物保持简单」相承；whole 与 a dish 搭配不合逻辑。"
+  },
+  {
+   "n": 10,
+   "answer": "pleasure",
+   "explain": "选 I. pleasure。the pleasure of doing sth 意为「做某事的乐趣」，与 not the food but... 的对比结构相符。"
+  }
+ ]
+}

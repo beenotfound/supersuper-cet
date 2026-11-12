@@ -1,0 +1,23 @@
+{
+ "id": "imp6-tr2025jun1-trans",
+ "type": "translation",
+ "level": "cet6",
+ "title": "2025年6月六级翻译：天宫空间站",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025jun1",
+ "paperTitle": "2025年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-06",
+ "prompt": "天宫空间站（Tiangong Space Station）是中国首个太空实验室，拥有110多立方米使用空间，可驻留3名航天员，在距地球表面400—450公里的轨道上运行。天宫空间站已实施180多个科学研究与应用项目，涉及空间生命科学、太空医学、空间材料科学等领域。天宫空间站的研究成果在我国得到了广泛应用，产生了显著的经济效益。例如，太空育种创造的直接经济价值已超过2000亿元。天宫空间站将继续为人类探索宇宙、造福人类作出更大贡献。",
+ "reference": "The Tiangong Space Station is China's first space laboratory, with more than 110 cubic meters of usable space, capable of accommodating 3 astronauts, and operating in an orbit 400 to 450 kilometers above the Earth's surface. The Tiangong Space Station has implemented more than 180 scientific research and application projects, covering fields such as space life science, space medicine, and space materials science. The research results of the Tiangong Space Station have been widely applied in China, generating significant economic benefits. For example, the direct economic value created by space breeding has exceeded 200 billion yuan. The Tiangong Space Station will continue to make greater contributions to humanity's exploration of the universe and the benefit of mankind.",
+ "keyPoints": [
+  "太空实验室 → space laboratory",
+  "航天员 → astronauts",
+  "空间生命科学 → space life science",
+  "太空医学 → space medicine",
+  "太空育种 → space breeding",
+  "探索宇宙 → exploration of the universe"
+ ]
+}

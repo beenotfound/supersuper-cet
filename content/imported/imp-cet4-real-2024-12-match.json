@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-real-2024-12-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-12",
+ "paperTitle": "2024年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Street lights that save energy. In one coastal city, thousands of street lamps now carry small sensors that measure movement and light. A lamp dims when the street is empty and brightens within a second when a cyclist or a pedestrian approaches. The system has cut the electricity used for lighting by almost a third, and residents say the streets still feel safe at night. City engineers add that the next step is to connect the lamps with traffic signals."
+  },
+  {
+   "label": "B",
+   "text": "Medicine at a distance. In remote mountain towns, patients used to travel for hours to see a specialist. Now a small clinic in each town has a video screen, a camera and simple measuring devices, and a nurse helps the patient connect to a doctor in the city hospital. The doctor can look at test results, ask questions and send a prescription to a local pharmacy. Patients save a day of travelling, and hospital clinics are less crowded."
+  },
+  {
+   "label": "C",
+   "text": "Bins that report their fill level. Rubbish bins in the city centre are now fitted with cheap sensors that send a message when they are nearly full. Instead of following a fixed route every day, collection trucks are sent only to the bins that need emptying, which has reduced fuel use and early-morning noise. The data also shows which streets produce the most waste, helping the city plan recycling campaigns."
+  },
+  {
+   "label": "D",
+   "text": "Rides for older travellers. Many older residents find ordinary buses difficult: the stops are far apart, the steps are high, and the timetable is hard to read. A new service uses small electric shuttles that can be booked by a phone call. Drivers help passengers carry shopping and take them to clinics, markets and community centres for a fixed low fare. In its first six months the service carried more than ten thousand passengers."
+  },
+  {
+   "label": "E",
+   "text": "Parks that cool themselves. A former car park in the city centre has been turned into a small park with trees, grass and a shallow water channel. On hot summer days the temperature inside the park is about four degrees lower than in the surrounding streets, and office workers come there at lunchtime to eat and rest. The city plans to build similar green spaces in the three districts that are most exposed to heat."
+  },
+  {
+   "label": "F",
+   "text": "Repair shops for broken things. Once a month, a community hall opens its doors to people carrying broken lamps, kettles, toys and bicycles. Volunteer repairers fix what they can, free of charge, and explain what they are doing so that owners can learn to make simple repairs themselves. Last year the group kept more than two tonnes of small appliances out of the rubbish, and the waiting list for helpers is now longer than the list of broken objects."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Which paragraph mentions a service that uses sensors to decide which bins need collecting?",
+   "answer": "C"
+  },
+  {
+   "text": "Which paragraph mentions a project that has reduced the electricity used for lighting?",
+   "answer": "A"
+  },
+  {
+   "text": "Which paragraph mentions a transport service designed for people who find ordinary buses hard to use?",
+   "answer": "D"
+  },
+  {
+   "text": "Which paragraph mentions a way for patients in remote areas to get advice from hospital doctors?",
+   "answer": "B"
+  },
+  {
+   "text": "Which paragraph mentions a project that makes a public space cooler in summer?",
+   "answer": "E"
+  }
+ ]
+}

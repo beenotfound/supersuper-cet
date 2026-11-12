@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-05-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-05",
+ "paperTitle": "大学英语四级标准模拟卷 05",
+ "paperLevel": "cet4",
+ "paperYear": "mock-05",
+ "sectionOrder": 4,
+ "passage": "In many cities, the people who live closest together know least about each other. A recent experiment in three neighbourhoods tried to change that with a very old idea: a list of what neighbours can offer one another.\n\nThe project began with a simple questionnaire delivered to eight hundred homes. Residents were asked to write down one skill they would be willing to share, such as repairing a bicycle or filling in a form, and one thing they needed help with. The replies were surprising in two ways. Only about a fifth of the forms came back, yet those who replied offered far more than the organisers had expected. More importantly, the most frequent request was not practical at all: many people asked for company, someone to walk with in the evenings, or a neighbour willing to knock on the door once a week.\n\nThe organisers resisted the temptation to build an app. They printed a small booklet instead and asked the manager of the local shop to keep copies behind the counter. Older residents told them that a screen was exactly the thing that had made them feel excluded. A booklet, by contrast, could be read at the bus stop and passed on to a friend.\n\nTwo years later the project survives in a modest form: a monthly repair afternoon, a walking group on Tuesdays, and a list of people who will lend a ladder or a drill. The organisers measure success not by the number of services exchanged but by how quickly newcomers are noticed. 'In a good network,' one of them says, 'a new family is invited to something within a month, without anyone being officially asked to do it.'",
+ "questions": [
+  {
+   "q": "What surprised the organisers about the replies to the questionnaire?",
+   "options": [
+    "Almost every household returned a form.",
+    "Very few residents offered any skills.",
+    "The most common request was for company.",
+    "Residents asked for an app instead of a booklet."
+   ],
+   "answer": 2,
+   "explain": "第二段说 Only about a fifth of the forms came back，与 A 相反；但 the most frequent request was not practical at all: many people asked for company，故选 C。"
+  },
+  {
+   "q": "Why did the organisers print a booklet instead of building an app?",
+   "options": [
+    "An app would have cost too much to develop.",
+    "The local shop offered to pay for the printing.",
+    "A booklet could be updated more easily.",
+    "Older residents said screens made them feel excluded."
+   ],
+   "answer": 3,
+   "explain": "第三段说 Older residents told them that a screen was exactly the thing that had made them feel excluded，因此改印小册子，故选 D。"
+  },
+  {
+   "q": "How do the organisers judge whether the project is working?",
+   "options": [
+    "By how quickly a new family is invited to something.",
+    "By the number of services exchanged each month.",
+    "By the number of booklets printed.",
+    "By how much money the project raises."
+   ],
+   "answer": 0,
+   "explain": "最后一段说 The organisers measure success not by the number of services exchanged but by how quickly newcomers are noticed，并以 a new family is invited to something within a month 作具体说明，故选 A。"
+  }
+ ]
+}

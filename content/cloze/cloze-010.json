@@ -1,0 +1,63 @@
+{
+  "id": "cloze-010",
+  "type": "cloze",
+  "level": "cet4",
+  "title": "A Town Learns to Cycle",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["narrowed", "convinced", "attitude"],
+  "passage": "Ten years ago, most people in this town drove to work, even when the journey was only a few minutes long. Today the picture looks different. A new cycle path runs beside the river, the office car park is half empty, and warm mornings bring bicycles into town. The change did not happen by itself.\n\nThe council began by making cycling safer. It {{1}} the busiest street so that cars had less space and bikes had a lane. It also added a bridge over the ring road, which {{2}} the most dangerous part of the journey. At first, shop owners were {{3}} that fewer parking spaces would mean fewer customers, but the opposite proved true: cyclists stopped more often than drivers.\n\nEmployers helped as well. Several offices installed showers and secure racks, and a few now {{4}} staff a small sum for every day they cycle. One manager explained that cyclists arrive more {{5}} and take fewer sick days, so the money is well spent.\n\nNot everyone is {{6}} that cycling is safe, of course. Older residents and parents of young children still find the traffic frightening, and the town has not yet {{7}} enough pavements. The council plans to spend the next year {{8}} the gaps in the network, starting near schools.\n\nWhat has changed most is how people think about cyclists. Riders were once seen as a small group in special clothing; now they are ordinary people carrying shopping or heading to work. That change in {{9}} may be as important as the new path. A town that once laughed at cycling now {{10}} it as a normal way to travel.",
+  "bank": ["narrowed", "publish", "worried", "alert", "kitchen", "removed", "fold", "pay", "convinced", "built", "punish", "attitude", "closing", "wooden", "treats"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "narrowed",
+      "explain": "narrowed the busiest street 指把最繁忙的街道“改窄”，以便给自行车留出车道。"
+    },
+    {
+      "n": 2,
+      "answer": "removed",
+      "explain": "which removed the most dangerous part 指新桥“消除了”最危险的路段；folded、published 不合。"
+    },
+    {
+      "n": 3,
+      "answer": "worried",
+      "explain": "shop owners were worried that... 指店主“担心”停车位减少会流失顾客；wooden 不能修饰人的情绪。"
+    },
+    {
+      "n": 4,
+      "answer": "pay",
+      "explain": "a few now pay staff a small sum 表示公司“支付”员工一小笔钱，与后文 the money is well spent 呼应。"
+    },
+    {
+      "n": 5,
+      "answer": "alert",
+      "explain": "cyclists arrive more alert 指骑车上班的人到岗时更“清醒”，所以请病假更少。"
+    },
+    {
+      "n": 6,
+      "answer": "convinced",
+      "explain": "not everyone is convinced that cycling is safe 指并非所有人都“相信”骑车安全，后文老居民和家长的担心正是例证。"
+    },
+    {
+      "n": 7,
+      "answer": "built",
+      "explain": "has not yet built enough pavements 指小镇还没“修建”足够的人行道，现在完成时用过去分词。"
+    },
+    {
+      "n": 8,
+      "answer": "closing",
+      "explain": "spend the next year closing the gaps 指花一年时间“填补”路网空白，spend time doing 结构。"
+    },
+    {
+      "n": 9,
+      "answer": "attitude",
+      "explain": "that change in attitude 指人们对骑车者“态度”的转变，与前文 once seen as... now... 对应。"
+    },
+    {
+      "n": 10,
+      "answer": "treats",
+      "explain": "treats it as a normal way to travel 指小镇如今把骑车“视为”正常出行方式；publishes、folds 不合。"
+    }
+  ]
+}

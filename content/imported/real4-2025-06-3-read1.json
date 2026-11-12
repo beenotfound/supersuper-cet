@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-06-3-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年6月四级真题 第3套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-06-3",
+ "paperTitle": "2025年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "passage": "P1 Our society places a high value on physical beauty. Americans spend an average of over $722 each year on their appearance. One in ten Americans has tried to look like a star.\n\nP2 There's nothing wrong with trying to look our best, but excessive focus on physical appearance misses the soulful aspects of what it means to be beautiful. Trying to look like the magazine pictures can take us on a long ride away from what beauty is really about.\n\nP3 Many of us spend far too much time, energy, and money trying to polish an image of what we think will bring attention, love, and connection. In the process, we may fail to attend to ourselves in a way that would move us toward deeper intimacy, fulfillment, and meaning.\n\nP4 It may sound trite(老生常谈的), but beauty is only skin deep; it's not what brings love toward us. Just read about the latest Hollywood starlets whose seeming love turns into resentment and bitter court battles.\n\nP5 Outer beauty can be as much of a curse as a blessing. We may develop a habit of being so focused on maintaining a perfect appearance that we never cultivate the inner qualities necessary to sustain and deepen intimacy and connection. As I describe in my book, The Authentic Heart, it is the courage to be authentic that connects us in a deeper way.\n\nP6 While our initial attraction may be based, in part, on physical chemistry, it is the meeting of our inner worlds that creates the lasting intimacy and spiritual connection for which we long. If we redirect our attention toward cultivating inner qualities, we might find a magnetic attraction that moves us from something superficial to something that connects us to our depths.\n\nP7 The path toward cultivating inner beauty is really simple. But what is simple is not always easy. Not everyone will see us and appreciate us as we take the courageous risk to allow ourselves to be seen as we really are. But if they don't, it is their loss, not ours. Eventually we'll find those compatible souls who appreciate us as we are.",
+ "questions": [
+  {
+   "q": "What do we learn about American society from the first paragraph?",
+   "options": [
+    "It sees lots of personal income wasted on beauty products.",
+    "It considers one's physical appearance very important.",
+    "It places a high value on the physical fitness of stars.",
+    "It expects every individual to look their very best."
+   ],
+   "answer": 1,
+   "explain": "What do we learn about American society from the first paragraph? 是 what...learn 型客观信息问答，且范围锁定首段，属于典型细节题。 46. What do we learn about American society from the first paragraph? A) It sees lots of personal income wasted on…"
+  },
+  {
+   "q": "What happens when people strive to look better?",
+   "options": [
+    "They have to get prepared for resentment and bitter court battles.",
+    "They are better able to gain attention, love, and personal connection.",
+    "They may neglect to cultivate the inner qualities that matter more.",
+    "They feel much of their precious time, energy and resources is wasted."
+   ],
+   "answer": 2,
+   "explain": "What happens when people strive to look better? 询问某动作引发的客观后果，是典型 的因果型细节题。 Q47 主干 What happens 后接 when 引导的时间状语从句，提示发生条件；结构简单无 陷阱。 47. What happens when people strive to look better? A) They have to get prepared for resent…"
+  },
+  {
+   "q": "What does the author say about outer beauty?",
+   "options": [
+    "It may be inherited or cultivated.",
+    "It may lead to bad as well as good habits.",
+    "It may create connection or isolation.",
+    "It may do as much harm as good."
+   ],
+   "answer": 3,
+   "explain": "What does the author say about outer beauty? 询问作者就某概念的明确陈述，归入细 节题。 Q48 主干 What does the author say，about outer beauty 是介词短语状语；无难句 结构。 48. What does the author say about outer beauty? A) It may be inherited or cultivated.…"
+  },
+  {
+   "q": "What brings about spiritual connection?",
+   "options": [
+    "Meeting of minds.",
+    "Attraction at first sight.",
+    "Physical chemistry.",
+    "Frequent interaction."
+   ],
+   "answer": 0,
+   "explain": "What brings about spiritual connection? 询问导致某结果的原因，对应原文中一处明确 的因→果叙述。 Q49 主干 What brings about spiritual connection，brings about=cause/lead to，是 一个三个单词的简单疑问句。 While our initial attraction may be based, in part, on physica…"
+  },
+  {
+   "q": "What happens when we take the path toward cultivating inner beauty?",
+   "options": [
+    "We may find a route toward other people's souls.",
+    "We may be appreciated more by people around us.",
+    "We will meet people who value us for who we are.",
+    "We will be discouraged from revealing our true selves."
+   ],
+   "answer": 2,
+   "explain": "What happens when we take the path toward cultivating inner beauty? 仍是 what happens when 的因果型问法，问的是文章对此动作所述的结果。 Q50 主干 What happens，when 从句中 take the path toward cultivating inner beauty 用了介词短语作 path 的修饰，toward 后接动名词 cul…"
+  }
+ ]
+}

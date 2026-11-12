@@ -1,0 +1,17 @@
+{
+  "id": "write-003",
+  "type": "writing",
+  "level": "cet4",
+  "title": "A Journey of a Thousand Miles",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["journey", "effort", "progress"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the saying 'A journey of a thousand miles begins with a single step.' You should write at least 120 words but no more than 180 words.",
+  "reference": "The saying 'A journey of a thousand miles begins with a single step' tells us that great goals are reached through small beginnings. However ambitious a plan is, it remains a dream until someone takes the first step.\n\nThis truth applies to almost everything we do. A student who wants to master English cannot learn thousands of words overnight; he becomes fluent by reading a few pages and practising a short dialogue every day. A person who hopes to run a marathon starts with a slow walk around the block. In both cases, the first step is unimpressive, yet without it nothing else follows. The hardest part is often not the distance but the decision to begin.\n\nOf course, starting alone is not enough; steady effort must follow. Still, the message of the saying remains encouraging: instead of waiting for perfect conditions, we should simply take one small step today, and then another. Progress, however slow, is how every long journey is completed.",
+  "keyPoints": [
+    "开头点明谚语含义，并亮出中心论点。",
+    "用学英语、跑马拉松两个例子具体化“第一步”。",
+    "引用谚语时保持原句措辞，注意引号与句号位置。",
+    "结尾呼应开头，提出可操作的建议。"
+  ]
+}

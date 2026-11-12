@@ -1,0 +1,20 @@
+{
+ "id": "real4-2026-06-1-write",
+ "type": "writing",
+ "level": "cet4",
+ "title": "2026年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-1",
+ "paperTitle": "2026年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "prompt": "Suppose it is proposed that university students should be required to participate in at least one research project. You are now to write a response by stating what you think of the proposal in terms of its necessity and practicality. You will have 30 minutes to write the response. You should write at least 120 words but not more than 180 words.",
+ "reference": "Requiring university students to take part in at least one research project is a proposal worth supporting, provided it is implemented flexibly and students can choose topics that interest them. From my perspective, such a policy is both necessary and practical for most undergraduates. First, it is necessary because research experience bridges the gap between textbook knowledge and real-world problem solving. Through a well-designed project, students learn to ask meaningful questions, collect reliable data, and think critically. These abilities are essential for their future careers. Second, it is practical because universities already have laboratories, supervisors, and course projects in place. A single semester-long project can fit into the existing curriculum without placing too much burden on students. Therefore, I support the proposal. It helps students develop practical skills that lectures alone cannot provide, and its flexible design makes it achievable for most universities.",
+ "keyPoints": [
+  "同义转述+明确立场。首句用 Requiring university students to take part in... 转述了提案内 容，避免机械照抄；第二句用 both necessary and practical 直接点出两个论证维度。",
+  "分论点+例子支撑。用 First/Second 分别对应必要性与可行性，每个论点都给出具体理由 （bridges the gap / universities already have...in place），并加入 well-designed project 等具体 场景。",
+  "重申立场并收束。用 Therefore 回扣开头立场，用 practical skills that lectures alone cannot provide 总结双重价值，避免提出新观点。"
+ ]
+}

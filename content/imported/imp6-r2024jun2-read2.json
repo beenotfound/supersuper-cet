@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2024jun2-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2024年6月六级第二套 阅读2",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024jun2",
+ "paperTitle": "2024年6月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-06",
+ "passage": "The term “environmentalist” can mean different things. It used to refer to people trying to protect wildlife and environmentalism community about nuclear energy. On one side are purists who believe nuclear power isn’t worth the risk and the exclusive solution to the climate crisis is renewable energy. The opposing side agrees that renewables are crucial, but says society needs an amount of power available to meet consumers’ basic demands when the sun isn’t shining and the wind isn’t blowing. Nuclear energy, being far cleaner than oil, gas and coal, is a natural option, especially where hydroelectric capacity is limited. Intergovernmental uncritical supporter of nuclear energy, but says it’s a valuable option to have if we’re serious about reaching carbon “Core to all of this is the degree to which you think we can actually meet climate goals with 100% renewables,” he said. “If you don’t believe we can do it, and you care about the climate, you are forced to think about something like have been “100% renewable” for years. But these cities often have small populations, occasionally still rely on fossil fuel energy and have significant renewable resources at their immediate disposal. Meanwhile, countries that manage to run off renewables typically do so thanks to extraordinary hydroelectric capabilities. Germany stands as the best case study for a large, industrialized country pushing into green energy. Chancellor Angela Merkel in 2011 announced Energiewende, an energy transition that would phase out nuclear and coal while provided 46% of the country’s electricity in 2019. produced at night, but also that solar and wind can overwhelm the grid during the day, forcing utilities to pay customers Germany’s north to its industrial south, meaning many factories still run on coal and gas. The political limit has also been reached in some places, with citizens meeting the construction of new wind turbines with loud protests. The result is that Germany’s greenhouse gas emissions have fallen by around 11.5% since 2010 — slower than the EU average of 13.5%.",
+ "questions": [
+  {
+   "q": "What accounts for the divide within the scientific community about nuclear energy?",
+   "options": [
+    "Attention to combating human-made climate change.",
+    "Emphasis on protecting wildlife and natural ecosystems.",
+    "Evolution of the term “green energy” over the last century.",
+    "Adherence to different interpretations of environmentalism."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What is the solution to energy shortage proposed by purists’ opponents?",
+   "options": [
+    "Relying on renewables firmly and exclusively.",
+    "Opting for nuclear energy when necessary.",
+    "Using fossil fuel and green energy alternately.",
+    "Limiting people’s non-basic consumption."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "What point does the author want to make with cities like Burlington as an example?",
+   "options": [
+    "It is controversial whether the goal of the whole world’s exclusive dependence on renewables is attainable.",
+    "It is contentious whether cities with large populations have renewable resources at their immediate disposal.",
+    "It is arguable whether cities that manage to run off renewables have sustainable hydroelectric capabilities.",
+    "It is debatable whether traditional fossil fuel energy can be done away with entirely throughout the world."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What do we learn about Germany regarding renewable energy?",
+   "options": [
+    "It has increased its wind and solar power generation four times over the last two decades.",
+    "It represents a good example of a major industrialized country promoting green energy.",
+    "It relies on renewable energy to generate more than half of its electricity.",
+    "It has succeeded in reaching the goal of energy transition set by Merkel."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "What may be one of the reasons for Germany’s progress having halted in recent years?",
+   "options": [
+    "Its grid infrastructure’s capacity has fallen behind its development of green energy.",
+    "Its overabundance of green energy has forced power plants to suspend operation during daytime.",
+    "Its industrial south is used to running factories on conventional energy supplies.",
+    "Its renewable energy supplies are unstable both at night and during the day."
+   ],
+   "answer": 0,
+   "explain": ""
+  }
+ ]
+}

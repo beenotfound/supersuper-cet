@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-09-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-09",
+ "paperTitle": "大学英语四级标准模拟卷 09",
+ "paperLevel": "cet4",
+ "paperYear": "mock-09",
+ "sectionOrder": 4,
+ "passage": "For most of the last century, city planners measured success by how quickly cars could move. Wider roads, longer crossings and more parking spaces were seen as progress. In the past two decades, however, a different measure has become popular: how many people walk.\n\nThe change began with public health. Doctors pointed out that sitting in a car for an hour a day contributes to obesity and heart disease, while walking for thirty minutes brings clear benefits. Cities that made walking easier soon noticed something else: shops on busy pedestrian streets sold more, because walkers stop and look, while drivers pass by. Property values along attractive walking routes rose as well.\n\nSafety is the other half of the argument. In countries that redesigned streets to slow traffic, the number of serious accidents fell sharply. The most effective measures were simple and cheap: narrower lanes, raised crossings, more street trees and lower speed limits in residential areas. None of them required a new underground railway or a decade of construction.\n\nThere are limits. Pedestrian-friendly schemes can raise rents and push out the small businesses they were meant to help. People who live far from the centre may have no choice but to drive. And in very hot or very cold climates, walking is pleasant for only part of the year.\n\nEven so, the direction of travel has changed. City governments increasingly publish plans in which the first question is not how to move cars faster, but how to make the first ten minutes of a journey on foot something people are willing to do.",
+ "questions": [
+  {
+   "q": "How did city planners measure success in the past?",
+   "options": [
+    "By the number of pedestrians.",
+    "By the amount of green space.",
+    "By the speed of car traffic.",
+    "By the price of housing."
+   ],
+   "answer": 2,
+   "explain": "Passage 1 开头说 planners measured success by how quickly cars could move，即以汽车通行速度衡量成功，故选 C。"
+  },
+  {
+   "q": "Why did shops on pedestrian streets sell more?",
+   "options": [
+    "Walkers stop and look at the windows.",
+    "Cars could park right outside.",
+    "Rents on those streets were lower.",
+    "The streets were much longer."
+   ],
+   "answer": 0,
+   "explain": "第二段说 shops on busy pedestrian streets sold more, because walkers stop and look, while drivers pass by，即行人会停下观看，故选 A。"
+  },
+  {
+   "q": "Which measure is described as simple and cheap?",
+   "options": [
+    "Building a new underground railway.",
+    "A decade of road construction.",
+    "Removing all the street trees.",
+    "Lower speed limits in residential areas."
+   ],
+   "answer": 3,
+   "explain": "第三段列举的简单低成本措施包括 narrower lanes, raised crossings, more street trees and lower speed limits in residential areas，故选 D。"
+  },
+  {
+   "q": "What problem can pedestrian-friendly schemes cause?",
+   "options": [
+    "More serious accidents.",
+    "Rising rents for local businesses.",
+    "Much colder winters.",
+    "Fewer shops in the city centre."
+   ],
+   "answer": 1,
+   "explain": "第四段指出这类方案 can raise rents and push out the small businesses they were meant to help，即租金上涨可能挤走本要帮助的小商户，故选 B。"
+  }
+ ]
+}

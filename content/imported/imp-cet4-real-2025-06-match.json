@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-real-2025-06-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-06",
+ "paperTitle": "2025年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Cheaper tickets for everyone. Last year the city cut bus fares by a third and made travel free for students and older residents at weekends. Passenger numbers rose by almost 18 percent within six months, and shop owners in the suburbs say more customers now arrive by bus. The city has also introduced a single ticket that can be used on buses, trains and ferries for ninety minutes."
+  },
+  {
+   "label": "B",
+   "text": "Buses after midnight. For years the last bus left the city centre at half past ten, leaving nurses, cleaners and restaurant staff to pay for taxis. A pilot late-night service now runs until one in the morning on Fridays and Saturdays, and a second route will follow next year. Drivers say the buses are busy but calm, and passengers say the service has changed their working lives."
+  },
+  {
+   "label": "C",
+   "text": "Knowing when the bus will come. Real-time screens at two hundred stops show how many minutes remain until the next bus, and an app sends an alert when the vehicle is close. The city reports that complaints about waiting fell by a third in the first year. For passengers, the gain is not speed but certainty: knowing that the bus is four minutes away makes standing in the rain far easier."
+  },
+  {
+   "label": "D",
+   "text": "Bikes welcome on board. New buses carry a rack that holds two bicycles at the front, and several train lines now offer a carriage with hooks and charging points for e-bikes. Commuters can cycle to the station, take the bike on the train and finish the journey on two wheels. The number of people combining a bike with public transport has doubled since the facilities appeared."
+  },
+  {
+   "label": "E",
+   "text": "A quiet corner on the train. One railway company has marked the first two carriages of every train as quiet zones, where phone calls are not allowed, announcements are reduced and the lights are slightly dimmed. Passengers use them to work, read or sleep through the journey. A survey found that eight out of ten travellers wanted the zones extended, even those who rarely used them."
+  },
+  {
+   "label": "F",
+   "text": "Parking at the edge of town. Drivers from outside the city can leave their cars free of charge in a large car park beside the motorway and take a bus into the centre every ten minutes. The car park is full by eight in the morning, and the number of cars entering the city centre has fallen by a fifth, which has improved air quality in the narrow streets."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Which paragraph mentions a change that helps passengers know exactly when their bus is coming?",
+   "answer": "C"
+  },
+  {
+   "text": "Which paragraph mentions measures that make public transport cheaper?",
+   "answer": "A"
+  },
+  {
+   "text": "Which paragraph mentions facilities for people who combine cycling with public transport?",
+   "answer": "D"
+  },
+  {
+   "text": "Which paragraph mentions a service for people who finish work late at night?",
+   "answer": "B"
+  },
+  {
+   "text": "Which paragraph mentions a change that allows passengers to rest or work during the journey?",
+   "answer": "E"
+  }
+ ]
+}

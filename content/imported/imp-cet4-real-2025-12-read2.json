@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-real-2025-12-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-12",
+ "paperTitle": "2025年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "sectionOrder": 4,
+ "passage": "Ask an urban planner what makes a neighbourhood pleasant, and the answer is often a single number: fifteen. The idea of the fifteen-minute city is that people should be able to reach most of what they need, such as shops, schools, a clinic, a park and a place to meet friends, within a quarter of an hour on foot or by bicycle. The concept is not new; many older towns grew up this way before cars became common. What is new is how seriously some cities now take it when planning new districts.\n\nThe benefits sound obvious, but they are worth stating. Streets with fewer cars are quieter and safer, and children who can walk to school are healthier than those who are driven. Small local shops survive when residents pass them daily, and older people who can reach a clinic on foot keep their independence longer. The environment gains too: short car journeys are the most polluting, so replacing them with walking or cycling cuts both emissions and noise.\n\nBringing the idea to an existing city is harder. Shops may have already moved to large shopping centres on the edge of town, and office workers may live far from their workplaces. Planners therefore talk about a network of local centres rather than a single perfect district: a few shops here, a clinic there, a good bus link between them. The aim is to make the ordinary journey to the shop or the school one that a person can imagine walking, rather than one that requires a car key.\n\nCities that have tried it report that the change is gradual. People do not switch to walking because a plan tells them to; they switch because the walk is pleasant, safe and convenient. Design, in the end, shapes habit.",
+ "questions": [
+  {
+   "q": "What is the fifteen-minute city?",
+   "options": [
+    "A city where daily needs are within a short walk or cycle.",
+    "A city with fifteen parks in every district.",
+    "A city where trains arrive every fifteen minutes.",
+    "A city that bans cars from its centre completely."
+   ],
+   "answer": 0,
+   "explain": "第一段说十五分钟城市指步行或骑车一刻钟内能到达商店、学校、诊所和公园等日常所需之处，故选 A。"
+  },
+  {
+   "q": "Which benefit of the idea is mentioned in the passage?",
+   "options": [
+    "Property prices fall in local areas.",
+    "Local shops keep more customers.",
+    "People spend less time at home.",
+    "Public transport becomes free of charge."
+   ],
+   "answer": 1,
+   "explain": "第二段说居民每天经过，小店铺才得以存活，即本地商店能留住更多顾客，故选 B。"
+  },
+  {
+   "q": "Why is the idea hard to apply to existing cities?",
+   "options": [
+    "Residents refuse to walk anywhere.",
+    "There are not enough urban planners.",
+    "Shops and jobs are often located far away.",
+    "Walking is impossible in cold weather."
+   ],
+   "answer": 2,
+   "explain": "第三段说商店可能已搬到城郊的大型购物中心，上班族也可能住得很远，因此规划者提出本地中心网络，故选 C。"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cloze-007",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "Letters in the Drawer",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["patience", "inherit", "elegant"],
+  "passage": "A handwritten letter arrives slowly. It may take days to reach its reader, and its paper carries the marks of a particular day: a smudge, a crossed-out word, a change of pen. In an age of {{1}} messages, that slowness looks like a fault. Yet people who write letters by hand describe the practice as a form of {{2}} that no screen can imitate.\n\nThe difference begins with time. Typing a message encourages a quick reply, while writing by hand forces the writer to {{3}} each sentence before it is committed to paper. The hand moves more slowly than the mind, and that gap gives the writer room to {{4}} what is worth saying. Many letter writers say their real thoughts appear only after the second page.\n\nA letter also lasts. Emails pile up in an inbox and are rarely read twice, whereas a letter can be kept in a drawer for years. Grandchildren may one day {{5}} a bundle of envelopes and learn what their grandparents were like as young people. In this sense, a letter is less a message than a small {{6}} of a life.\n\nHandwriting itself carries meaning. A hasty scrawl suggests impatience; a careful loop suggests care. None of this can be conveyed by a standard font, however {{7}} the design. The reader hears a voice even though nothing is spoken.\n\nNone of this means that digital messages are {{8}}. They are simply different tools, suited to different tasks. The {{9}} is to keep both: a quick note to confirm a meeting, and, now and then, a letter that shows someone you were willing to spend an {{10}} on them.",
+  "bank": ["instant", "lecture", "weigh", "sudden", "discover", "patience", "record", "furniture", "punish", "inherit", "elegant", "answer", "descend", "worthless", "afternoon"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "instant",
+      "explain": "an age of instant messages 指“即时消息”的时代，与 slowness 形成对比；sudden、elegant 不合。"
+    },
+    {
+      "n": 2,
+      "answer": "patience",
+      "explain": "a form of patience 指写信是一种“耐心”的体现，呼应慢、需等待的特点；lecture、furniture 不合。"
+    },
+    {
+      "n": 3,
+      "answer": "weigh",
+      "explain": "forces the writer to weigh each sentence 指被迫“权衡”每个句子，与手写速度慢的语境一致。"
+    },
+    {
+      "n": 4,
+      "answer": "discover",
+      "explain": "room to discover what is worth saying 指有空间“发现自己”真正想说的话；descend、punish 不合。"
+    },
+    {
+      "n": 5,
+      "answer": "inherit",
+      "explain": "grandchildren may inherit a bundle of envelopes 指孙辈可能“继承”一捆信件，符合代际传递的语境。"
+    },
+    {
+      "n": 6,
+      "answer": "record",
+      "explain": "a small record of a life 指信是人生的“记录”，与上句 kept in a drawer for years 呼应。"
+    },
+    {
+      "n": 7,
+      "answer": "elegant",
+      "explain": "however elegant the design 指无论字体设计多么“优雅”，都无法传达手写的意味；sudden 不合。"
+    },
+    {
+      "n": 8,
+      "answer": "worthless",
+      "explain": "否定句意为数字消息并非“毫无价值”，后文 They are simply different tools 正是解释。"
+    },
+    {
+      "n": 9,
+      "answer": "answer",
+      "explain": "The answer is to keep both 指应对办法是两者兼用；lecture、furniture 不能表达“办法”。"
+    },
+    {
+      "n": 10,
+      "answer": "afternoon",
+      "explain": "spend an afternoon on them 指愿意为某人花“一个下午”写信；冠词 an 也排除 lecture 等词。"
+    }
+  ]
+}

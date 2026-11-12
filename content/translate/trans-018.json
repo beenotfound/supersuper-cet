@@ -1,0 +1,18 @@
+{
+  "id": "trans-018",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国旅游业的变化",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["domestic", "destination", "souvenir", "crowded"],
+  "prompt": "随着生活水平的提高，旅游已经成为许多中国家庭的固定安排。过去人们喜欢跟着旅行团走，行程紧张，常常一天要跑好几个景点。如今，自由行越来越受欢迎，人们更愿意在一个地方多住几天，慢慢感受当地的生活。乡村旅游也因此兴起，一些农家小院改造成民宿，游客可以采摘水果、体验农活。不过，热门景点在假期人满为患，环境压力不小。如何在发展和保护之间找到平衡，是旅游业必须面对的问题。",
+  "reference": "As living standards have risen, travel has become a regular part of the year for many Chinese families. In the past people preferred package tours: the schedule was tight and they often rushed through several attractions in one day. Today independent travel is more popular, and people would rather stay longer in one place and slowly take in local life. Rural tourism has grown for the same reason: farmhouses have been turned into guesthouses where visitors can pick fruit and try farm work. However, popular destinations are badly crowded during holidays, which puts considerable pressure on the environment. More travellers now choose quieter towns and off-season trips, which eases the burden on famous sites. Local food and small souvenirs also give visitors a reason to spend money where it helps the community, and local people gain the chance to earn a living without leaving home. How to balance development and protection is a question the travel industry cannot avoid.",
+  "keyPoints": [
+    "“自由行”译为 independent travel。",
+    "“人满为患”用 badly crowded。",
+    "“农家小院改造成民宿”译为 farmhouses have been turned into guesthouses。",
+    "“采摘水果、体验农活”可译为 pick fruit and try farm work。",
+    "“在发展和保护之间找到平衡”用 balance development and protection。"
+  ]
+}

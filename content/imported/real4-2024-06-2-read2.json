@@ -1,0 +1,71 @@
+{
+ "id": "real4-2024-06-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2024年6月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-06-2",
+ "paperTitle": "2024年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "passage": "P1 Today, most scientific research is funded by government grants, companies doing research and development, and non-profit foundations. As a society, we reap the rewards from this science, but we also help pay for it. You indirectly support science through taxes you pay, products and services you purchase, and donations you make.\n\nP2 Funding for science has changed with the times. Historically, science has been largely supported through private patronage(资助), church sponsorship, or simply paying for the research yourself. Today, researchers are likely to be funded by a mix of grants from various government agencies, institutions, and foundations. Other research is funded by private companies. Such corporate sponsorship is widespread in some fields. Almost 75% of U.S. clinical trials in medicine are paid for by private companies. And, of course, some researchers today still fund small-scale studies out of their own pockets. Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget.\n\nP3 In a perfect world, money wouldn't matter—all scientific studies would be completely objective. But in the real world, funding may introduce biases. Drug research sponsored by the pharmaceutical(制药的) industry is more likely to end up favoring the drug under consideration than studies sponsored by government grants or charitable organizations. Similarly, nutrition research sponsored by the food industry is more likely to end up favoring the food under consideration than independently funded research.\n\nP4 So what should we make of all this? Should we ignore any research funded by companies or special interest groups? Certainly not. These groups provide invaluable funding for scientific research. Furthermore, science has many safeguards in place to catch instances of bias that affect research outcomes. Ultimately, misleading results will be corrected as science proceeds; however, this process takes time. Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. Are the results consistent with other independently funded studies? What do other scientists have to say about this research? A little examination can go a long way towards identifying bias associated with the funding source.",
+ "questions": [
+  {
+   "q": "What does the passage mainly discuss regarding scientific research?",
+   "options": [
+    "Its foundation.",
+    "Its rewards.",
+    "Its prospect.",
+    "Its funding."
+   ],
+   "answer": 3,
+   "explain": "What does the passage mainly discuss regarding scientific research? 中的 mainly discuss 直接锁定主旨题。 题干主句是 What does the passage mainly discuss，regarding scientific research 是介 词短语作状语，限定讨论的对象范围，句式平铺直叙、无陷阱。 51. What does the pa…"
+  },
+  {
+   "q": "What do we learn from the passage about researchers like birdwatchers and rock collectors?",
+   "options": [
+    "They have little access to government funding.",
+    "They can do research with limited resources.",
+    "They can do amateur work in their own fields.",
+    "They have no means for large-scale research."
+   ],
+   "answer": 1,
+   "explain": "What do we learn from the passage about researchers like birdwatchers and rock collectors? 询问对某一特定群体的事实陈述，是典型细节题。 主干是 What do we learn from the passage about researchers，like birdwatchers and rock collectors 是举例修饰 resear…"
+  },
+  {
+   "q": "What would scientific studies look like in a perfect world according to the author?",
+   "options": [
+    "They would be totally unbiased.",
+    "They would be independently funded.",
+    "They would be responsibly conducted.",
+    "They would be strictly supervised"
+   ],
+   "answer": 0,
+   "explain": "What would scientific studies look like in a perfect world according to the author? 用 would look like 询问作者对一个特定情境下的事实描述。 主句是 What would scientific studies look like，in a perfect world 与 according to the author 都是状语修饰，按情境…"
+  },
+  {
+   "q": "What does the author say about companies and special interest groups?",
+   "options": [
+    "They try hard to pull down the safeguards for research.",
+    "They make extra efforts to research their own products.",
+    "They provide valuable resources for scientific research.",
+    "They reap the most benefits from scientific research."
+   ],
+   "answer": 2,
+   "explain": "What does the author say about companies and special interest groups? 询问作者对 某一明确主体的具体陈述，是细节题。 主句是 What does the author say about companies and special interest groups?， about 引导的介词短语锁定主体对象，句式简短无陷阱。 These groups provide i…"
+  },
+  {
+   "q": "What does the author think of research funded by industry or special interest groups?",
+   "options": [
+    "Its recommendations should be examined for feasibility.",
+    "Its misleading results should be corrected in time.",
+    "Its validity should be checked with additional care.",
+    "Its hidden biases should be identified independently."
+   ],
+   "answer": 2,
+   "explain": "What does the author think of research funded by industry or special interest groups? 询问作者对特定 research 的明确看法，属于带观点色彩的细节题，仍可单点定位 作者评价句。 主句是 What does the author think of research，funded by industry or special interest gro…"
+  }
+ ]
+}

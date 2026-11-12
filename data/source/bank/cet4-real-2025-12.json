@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-real-2025-12",
+      "title": "2025年12月大学英语四级真题风格卷（原创题面）",
+      "level": "CET4",
+      "year": "2025-12",
+      "durationMinutes": 130,
+      "tags": ["真题风格", "2025-12", "原创题面"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to write a response essay. Some students say that although a university campus offers rich resources, such as libraries, laboratories, lecture series and online databases, many students make little use of them. Write an essay in which you respond to this view and offer suggestions on how students can make better use of campus resources for their academic development. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "说明：本部分共 30 分钟。有人说，大学校园资源丰富，如图书馆、实验室、讲座和在线数据库，但许多学生并未充分利用。请就这一观点写一篇回应文章，说明你的看法，并就如何更好地利用校园资源促进学术发展提出建议。词数 120–180 词。",
+          "reference": "The resources available on a university campus are indeed impressive, yet it is true that many students use only a small part of them. In my view, the problem is not a lack of resources but a lack of guidance and habit.\n\nLibraries subscribe to expensive databases that students discover only in their final year, laboratories stand empty at weekends, and public lectures are attended mostly by the lecturers themselves. To change this, universities should introduce students to these resources in their first term, for example through a short course that shows them how to search academic databases, book equipment and join a research group. Students should also set themselves a weekly goal, such as attending one lecture outside their subject or spending two hours in the library.\n\nResources only become valuable when they are used. With better guidance and a little curiosity, students can turn the campus into a powerful partner in their studies.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供，请先读文字稿再作答。\n\nConversation One:\nMan: Excuse me, is this the maker space? I have never been here before.\nWoman: Yes, welcome. It opened at the start of the term. Are you looking for a particular machine?\nMan: I need a 3D printer for my design project. I have to build a model of a small bridge for next month.\nWoman: Then you have come to the right place. We have four printers, and they are free for students. But you cannot use them straight away. First you need to complete a short safety training session.\nMan: How long does that take?\nWoman: About forty minutes. It runs every Wednesday afternoon, and there is still space this week. After the training you can book a printer online, in blocks of two hours.\nMan: That sounds reasonable. Do I need to bring anything?\nWoman: Your student card, and your design files. We also ask you to buy your own material, but it is quite cheap. The staff can help you prepare the file if you are not sure.\nMan: Great. One more question: is the maker space open at weekends?\nWoman: Not yet. At the moment we close at eight on weekdays and stay closed at weekends. The university is considering longer hours because demand has been so high.\nMan: I see. Then I will sign up for the training this Wednesday. Thanks for your help.\nWoman: You are welcome. And bring your bridge design — seeing a real project always makes the training more interesting.\n\nPassage One:\nLook at almost any city map from forty years ago and you will find plenty of space for cars: wide roads, multi-storey car parks and squares that were quietly turned into parking lots. In the last decade, however, a number of cities have begun to reverse that change. In one European city, a large car park beside the river was replaced by a public square with trees, benches and space for small events. Its designers expected complaints from drivers, but the opposite happened: shops nearby reported more customers, and families began to spend their evenings in the new square.\n\nThe reasons are not only about beauty. Studies of street life suggest that people walk further and stop more often in places without traffic. A square with no cars is safer for children and older people, and it also cools the surrounding streets in summer, because paving and trees hold less heat than a large area of dark asphalt. For the shops nearby, the change has another benefit: people who walk past a shop are more likely to go in than people who drive past it.\n\nCritics point out that removing parking spaces can simply push cars into other streets, and that a square is only as good as the events and activities it hosts. The most successful projects, therefore, combine new public space with a plan for the traffic that used to be there: better buses, nearby parking and clearly marked delivery times. The lesson is simple. A city gains more from a square where people want to stay than from another place to leave a car.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Why does the man come to the maker space?",
+              "transcript": "",
+              "options": [
+                "A. He needs to use a printer for a project.",
+                "B. He wants to join the staff team.",
+                "C. He is looking for a weekend course.",
+                "D. He has to repair a machine."
+              ],
+              "answer": "A",
+              "explanation": "男士说自己要为一个设计项目打印小桥模型，因此需要使用 3D 打印机，故选 A。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What must the man do before using the printers?",
+              "transcript": "",
+              "options": [
+                "A. Pay a monthly membership fee.",
+                "B. Buy a printer of his own.",
+                "C. Complete a safety training session.",
+                "D. Ask his teacher for written permission."
+              ],
+              "answer": "C",
+              "explanation": "女士说打印机可免费使用，但不能直接上手，必须先完成约四十分钟的安全培训，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What does the woman say about the opening hours of the maker space?",
+              "transcript": "",
+              "options": [
+                "A. It is open every day of the week.",
+                "B. It stays closed at weekends for now.",
+                "C. It closes at six on weekdays.",
+                "D. It will close down next month."
+              ],
+              "answer": "B",
+              "explanation": "女士说目前工作日晚八点关门、周末不开放，学校正考虑因需求大而延长开放时间，故选 B。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What will the man do this Wednesday?",
+              "transcript": "",
+              "options": [
+                "A. Buy printing material online.",
+                "B. Show his project to the staff.",
+                "C. Book two hours on the printer.",
+                "D. Attend the safety training."
+              ],
+              "answer": "D",
+              "explanation": "男士最后说这周三就来报名参加培训，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What is the passage mainly about?",
+              "transcript": "",
+              "options": [
+                "A. Turning car parks into public squares.",
+                "B. Building more multi-storey car parks.",
+                "C. How to reduce traffic accidents in cities.",
+                "D. The history of squares in European towns."
+              ],
+              "answer": "A",
+              "explanation": "短文以一座城市把河边停车场改建成公共广场为例，讨论把停车空间还给市民这一趋势，故选 A。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What surprised the designers of the new square?",
+              "transcript": "",
+              "options": [
+                "A. Drivers refused to use nearby parking.",
+                "B. Shops moved away from the area.",
+                "C. Local shops gained more customers.",
+                "D. Families complained about the noise."
+              ],
+              "answer": "C",
+              "explanation": "设计师原以为司机会抱怨，结果附近商店的顾客反而更多，家庭也愿意在新广场消磨傍晚，故选 C。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What does the passage say about a square without cars?",
+              "transcript": "",
+              "options": [
+                "A. It makes the buildings more expensive.",
+                "B. It reduces the number of shops nearby.",
+                "C. It encourages people to drive faster.",
+                "D. It is safer and cooler."
+              ],
+              "answer": "D",
+              "explanation": "短文说无车广场对儿童和老人更安全，夏天还能给周边街道降温，故选 D。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What do critics point out about removing parking spaces?",
+              "transcript": "",
+              "options": [
+                "A. It costs far too much money.",
+                "B. It may push cars into other streets.",
+                "C. It always increases traffic jams.",
+                "D. It reduces the number of buses."
+              ],
+              "answer": "B",
+              "explanation": "最后一段说批评者指出取消车位可能只是把车流推到别的街道，因此成功项目都配有交通方案，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "选词填空。阅读下面短文，从词库 A–O 中为 26–35 每个空白选出最合适的词，每个词只用一次，其中有五个词为多余选项。\n\nMost students now bring a laptop to lectures, and typing looks like an efficient way to capture everything the lecturer says. A (26) ______ number of studies, however, suggests that writing notes by hand may help learners understand better. In one experiment, students watched the same short lecture in two groups: one typed their notes, the other wrote them on paper. The typed notes were almost (27) ______, because students could type faster. Yet when everyone took a test a week later, the handwritten group performed (28) ______, remembering more of the (29) ______ points.\n\nOne explanation is that writing by hand is slower, so students must (30) ______ what matters. They cannot copy every word, which forces them to (31) ______ the information in their own words. This processing supports memory. Typing, by contrast, encourages a (32) ______ of transcription: the words pass from the lecturer's mouth into the notebook without ever being (33) ______.\n\nThe lesson is not that laptops are useless. They are helpful for searching for resources or for group work. For lectures, though, students may (34) ______ more if they put the keyboard away and (35) ______ a pen instead.\n\n词库：A. benefit  B. better  C. complete  D. decide  E. growing  F. kind  G. key  H. understood  I. use  J. summarise  K. process  L. repeat  M. simply  N. therefore  O. widely",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. A ______ number of studies suggests that writing notes by hand may help learners understand better.",
+              "answer": "growing",
+              "explanation": "a growing number of 是常用搭配，意为越来越多的，说明相关研究不断增多。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. The typed notes were almost ______, because students could type faster.",
+              "answer": "complete",
+              "explanation": "此处需要形容词作表语，complete 意为完整的；打字快，所以记录几乎不遗漏。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. A week later, the handwritten group performed ______, remembering more details of the lecture.",
+              "answer": "better",
+              "explanation": "Yet 引出转折：虽然打字的笔记更完整，一周后测试中手写组却表现更好；better 作副词修饰 performed。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. The handwritten group remembered more of the ______ points.",
+              "answer": "key",
+              "explanation": "key points 表示要点，与上文 must decide what matters 相呼应。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Writing by hand is slower, so students must ______ what matters.",
+              "answer": "decide",
+              "explanation": "情态动词 must 后接动词原形，decide 意为决定，说明手写要求判断哪些内容重要。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Students cannot copy every word, which forces them to ______ what they hear in their own words.",
+              "answer": "summarise",
+              "explanation": "summarise 意为概括；把听到的内容用自己的话概括，与 cannot copy every word 构成因果。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. Typing, by contrast, encourages a ______ of transcription.",
+              "answer": "kind",
+              "explanation": "a kind of 表示一种，此处指打字容易变成一种不加思考的照抄。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. The words pass from the lecturer's mouth into the notebook without ever being ______.",
+              "answer": "understood",
+              "explanation": "being 后接过去分词构成被动，understood 意为被理解，说明照抄时信息未经加工。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. For lectures, students may ______ more if they put the keyboard away.",
+              "answer": "benefit",
+              "explanation": "may 后接动词原形，benefit 意为受益，与后文 use a pen instead 的建议一致。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. Many students also find it helpful to ______ a pen instead of a keyboard.",
+              "answer": "use",
+              "explanation": "此处需要动词原形，use a pen 与 instead of a keyboard 形成对比，建议学生改用纸笔。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "长篇阅读匹配。下面有 A–F 六段短文，各有小标题；后面五道题分别询问某段提到的内容，请从 A–F 中选出对应的段落。\n\nParagraph A: Peer tutoring in the library. Every weekday evening, two floors of the main library are set aside for peer tutoring. Second- and third-year students who did well in a subject offer free hour-long sessions to first-year students. No appointment is needed: a student simply checks the timetable, arrives with questions and joins a small group. Last year more than two thousand first-year students used the service, and most said it helped them adjust to university-level work.\n\nParagraph B: Study rooms open until midnight. During the exam period, the university keeps three study rooms open until midnight, and from this term they will stay open all year. Each room has movable tables, fast internet and a small kitchen. Students book a slot online, and a monitor makes sure that groups do not occupy a room without using it. The rooms are designed for group discussion rather than silent study.\n\nParagraph C: Subject guides on the library website. The library website hosts more than three hundred subject guides, written by librarians who know each field. A guide lists the best databases, key journals and a short video on how to search them. They are free and always available, yet only a small number of students know that they exist. The library is now linking each guide to the relevant course page.\n\nParagraph D: Equipment training for researchers. Anyone planning to use the research equipment in the science building must first attend an afternoon of training. Students learn how to book a machine, how to prepare a sample and what to do in an emergency. After the training they receive a card that allows them into the laboratory. The department says the training has cut accidents to almost zero and has made booking far fairer.\n\nParagraph E: Careers advice from the first year. Most students visit the careers service only in their final month. The office is trying to change that by offering first-year workshops on writing a CV, finding internships and talking to employers. Advisers are available for individual appointments, and a notice board lists part-time jobs and summer projects. The service is not only about finding a job; it also helps students see what their course can lead to.\n\nParagraph F: Small research grants for students. A small fund pays for students to carry out their own research projects. Groups can apply for up to five thousand yuan to buy materials, travel to a site or attend a conference. The application is short, and a supervisor must agree to support the project. Last year thirty projects were funded, including a study of local birds and an experiment on low-cost water filters.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Which paragraph mentions online guides that help students find materials for their subject?",
+              "options": [
+                "A. Peer tutoring in the library",
+                "B. Study rooms open until midnight",
+                "C. Subject guides on the library website",
+                "D. Equipment training for researchers",
+                "E. Careers advice from the first year",
+                "F. Small research grants for students"
+              ],
+              "answer": "C",
+              "explanation": "Paragraph C 介绍图书馆网站上的学科指南，列数据库、期刊和检索视频，与题干中的 online guides 对应，故选 C。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Which paragraph mentions free help given by senior students in the library?",
+              "options": [
+                "A. Peer tutoring in the library",
+                "B. Study rooms open until midnight",
+                "C. Subject guides on the library website",
+                "D. Equipment training for researchers",
+                "E. Careers advice from the first year",
+                "F. Small research grants for students"
+              ],
+              "answer": "A",
+              "explanation": "Paragraph A 说高年级学生在图书馆为一年级学生提供免费辅导，即 peer tutoring，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Which paragraph mentions training that students must complete before using research equipment?",
+              "options": [
+                "A. Peer tutoring in the library",
+                "B. Study rooms open until midnight",
+                "C. Subject guides on the library website",
+                "D. Equipment training for researchers",
+                "E. Careers advice from the first year",
+                "F. Small research grants for students"
+              ],
+              "answer": "D",
+              "explanation": "Paragraph D 说使用科学楼研究设备前必须参加半天培训，培训后发卡才能进实验室，故选 D。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Which paragraph mentions rooms that can be booked for group discussion?",
+              "options": [
+                "A. Peer tutoring in the library",
+                "B. Study rooms open until midnight",
+                "C. Subject guides on the library website",
+                "D. Equipment training for researchers",
+                "E. Careers advice from the first year",
+                "F. Small research grants for students"
+              ],
+              "answer": "B",
+              "explanation": "Paragraph B 说三个自习室可供网上预约，配有活动桌和网络，专为小组讨论设计，故选 B。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Which paragraph mentions advice on careers offered from the first year?",
+              "options": [
+                "A. Peer tutoring in the library",
+                "B. Study rooms open until midnight",
+                "C. Subject guides on the library website",
+                "D. Equipment training for researchers",
+                "E. Careers advice from the first year",
+                "F. Small research grants for students"
+              ],
+              "answer": "E",
+              "explanation": "Paragraph E 说就业服务中心为一年级学生开设简历、实习和与雇主交流的讲座，故选 E。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1:\nAt home, a typical student may be reading a course text, replying to messages and half-watching a video, all at the same time. People who do this often describe themselves as good at multitasking. Research tells a different story. When the brain switches between two tasks, it does not process both at once; it moves its attention from one to the other, and each switch costs a little time. The effect is small when switches are rare, but it adds up when messages arrive every few minutes.\n\nIn one study, students were asked to read a chapter while receiving short messages. Compared with a quiet group, they took about a quarter longer to finish and later remembered less of what they had read. Another line of research found that students who used their phones during lectures took notes of a lower quality and were more likely to miss the connection between ideas.\n\nThere is a trap here. Because messages are brief, students feel that they have lost only a few seconds. In fact, they must rebuild their understanding of the text each time they return to it, and that rebuilding is the expensive part. Some researchers call this attention residue: part of the mind remains on the conversation even after the phone is put away.\n\nExperiments with simpler solutions have been encouraging. Students who left their phones in another room, or who turned off notifications for a single hour, reported no great difficulty and finished their work faster. The lesson is not that technology is harmful, but that attention is limited. It deserves the same care that we give to any other valuable resource.\n\nPassage 2:\nAsk an urban planner what makes a neighbourhood pleasant, and the answer is often a single number: fifteen. The idea of the fifteen-minute city is that people should be able to reach most of what they need, such as shops, schools, a clinic, a park and a place to meet friends, within a quarter of an hour on foot or by bicycle. The concept is not new; many older towns grew up this way before cars became common. What is new is how seriously some cities now take it when planning new districts.\n\nThe benefits sound obvious, but they are worth stating. Streets with fewer cars are quieter and safer, and children who can walk to school are healthier than those who are driven. Small local shops survive when residents pass them daily, and older people who can reach a clinic on foot keep their independence longer. The environment gains too: short car journeys are the most polluting, so replacing them with walking or cycling cuts both emissions and noise.\n\nBringing the idea to an existing city is harder. Shops may have already moved to large shopping centres on the edge of town, and office workers may live far from their workplaces. Planners therefore talk about a network of local centres rather than a single perfect district: a few shops here, a clinic there, a good bus link between them. The aim is to make the ordinary journey to the shop or the school one that a person can imagine walking, rather than one that requires a car key.\n\nCities that have tried it report that the change is gradual. People do not switch to walking because a plan tells them to; they switch because the walk is pleasant, safe and convenient. Design, in the end, shapes habit.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What do people who multitask often believe about themselves?",
+              "options": [
+                "A. They finish every task more quickly.",
+                "B. They are good at handling several tasks at once.",
+                "C. They remember more than other people.",
+                "D. They need fewer breaks than others."
+              ],
+              "answer": "B",
+              "explanation": "第一段说同时做几件事的人常自称擅长多任务处理，研究却给出不同结论，故选 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the study on reading and messages find?",
+              "options": [
+                "A. Short messages improved students' memory of the text.",
+                "B. Quiet students read more slowly than others.",
+                "C. Students ignored most of the messages they received.",
+                "D. Students took longer to finish and remembered less."
+              ],
+              "answer": "D",
+              "explanation": "第二段说边读边收短信的一组比安静组多花约四分之一时间，且记住的内容更少，故选 D。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What does attention residue mean?",
+              "options": [
+                "A. The tiredness caused by long hours of reading.",
+                "B. The habit of checking messages late at night.",
+                "C. Part of the mind staying on a previous task.",
+                "D. A technique for taking better notes in class."
+              ],
+              "answer": "C",
+              "explanation": "第三段把 attention residue 解释为放下手机后仍有一部分注意力留在刚才的对话上，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What solution does the text suggest?",
+              "options": [
+                "A. Keep phones away or turn off notifications.",
+                "B. Stop using technology for studying entirely.",
+                "C. Study only in the early morning.",
+                "D. Read the same chapter twice every day."
+              ],
+              "answer": "A",
+              "explanation": "最后一段说把手机放到另一个房间或关闭一小时通知，学生并没有太大困难，反而更快完成任务，故选 A。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the fifteen-minute city?",
+              "options": [
+                "A. A city where daily needs are within a short walk or cycle.",
+                "B. A city with fifteen parks in every district.",
+                "C. A city where trains arrive every fifteen minutes.",
+                "D. A city that bans cars from its centre completely."
+              ],
+              "answer": "A",
+              "explanation": "第一段说十五分钟城市指步行或骑车一刻钟内能到达商店、学校、诊所和公园等日常所需之处，故选 A。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) Which benefit of the idea is mentioned in the passage?",
+              "options": [
+                "A. Property prices fall in local areas.",
+                "B. Local shops keep more customers.",
+                "C. People spend less time at home.",
+                "D. Public transport becomes free of charge."
+              ],
+              "answer": "B",
+              "explanation": "第二段说居民每天经过，小店铺才得以存活，即本地商店能留住更多顾客，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) Why is the idea hard to apply to existing cities?",
+              "options": [
+                "A. Residents refuse to walk anywhere.",
+                "B. There are not enough urban planners.",
+                "C. Shops and jobs are often located far away.",
+                "D. Walking is impossible in cold weather."
+              ],
+              "answer": "C",
+              "explanation": "第三段说商店可能已搬到城郊的大型购物中心，上班族也可能住得很远，因此规划者提出本地中心网络，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "近年来，城市漫步在年轻人中越来越受欢迎。与赶路式的旅游不同，它强调放慢脚步，随意走进老街区、小巷和公园，感受城市的历史与日常生活。一些城市还设计了主题漫步路线。有人认为这只是社交网络上的风潮，但它确实让人们重新认识了身边的城市，也让一些老街区获得新的活力。专家建议，城市漫步应尊重居民生活，不要打扰社区安宁。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "In recent years, city walking has become increasingly popular among young people. Unlike travel that is all about rushing from one sight to another, it encourages people to slow down, wander into old neighbourhoods, narrow lanes and parks, and feel the history and daily life of a city as they walk. Some cities have designed themed walking routes. Some people regard this as a passing fashion on social media, but it has indeed helped people rediscover the city around them and has brought new energy to neglected old streets. Experts suggest that city walkers should respect residents' lives and not disturb the peace of local communities.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

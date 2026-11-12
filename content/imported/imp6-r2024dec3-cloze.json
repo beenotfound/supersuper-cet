@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2024dec3-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2024年12月六级第三套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024dec3",
+ "paperTitle": "2024年12月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "passage": "About 23% of the global population lives in absolute poverty. In developing countries there is a low life expectancy, a high infant {{1}} rate, high levels of unemployment, and the very poor {{2}} beside wealthy and luxurious lives and so the wealth is distributed in a very {{3}} manner. These are the central problems to questions of charity though charity also includes many other areas such as assisting the elderly. We all {{4}} when very rich people pledge to give away most of their billions, but they are usually left comparatively {{5}} salaries in the west are very high when compared globally. Someone on £20,000 could easily afford to give away £2,000 per year and still have plenty to live on plus some luxuries. Most people agree that giving to charity is morally {{6}} but charitable behaviour tends to be regarded as means that to fail to behave charitably would be wrong. The majority of arguments in this vein refer to giving aid to poorer nations but they may also refer to giving time within one’s {{7}} community. Arguments tend to {{8}} entirely people who are merely making ends meet. Some argue that people should all contribute a certain percentage of their earnings. I will {{9}} together all those arguments that place a moral requirement on people to give to charity, despite the fact that there is wide disagreement as to the {{10}} of that moral requirement.",
+ "bank": [
+  "A. applaud",
+  "B. casualty",
+  "C. exclude",
+  "D. extent",
+  "E. group",
+  "F. hierarchical",
+  "G. immediate",
+  "H. incredibly",
+  "I. moderate",
+  "J. mortality",
+  "K. overt",
+  "L. praiseworthy",
+  "M. probe",
+  "N. sceptically",
+  "O. unequal"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "J. mortality",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "H. incredibly",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "O. unequal",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "A. applaud",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "I. moderate",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "L. praiseworthy",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "G. immediate",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "C. exclude",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "E. group",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "D. extent",
+   "explain": ""
+  }
+ ]
+}

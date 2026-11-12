@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-01-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-01",
+ "paperTitle": "大学英语四级标准模拟卷 01",
+ "paperLevel": "cet4",
+ "paperYear": "mock-01",
+ "sectionOrder": 5,
+ "prompt": "中国是茶的故乡，饮茶的历史已有数千年。茶不仅是一种饮品，也是一种生活方式。客人来访时，主人通常会先奉上一杯热茶，以表示欢迎与尊重。不同地区的人们喜爱不同的茶：南方人偏爱绿茶，北方人则更常喝花茶。近年来，越来越多的年轻人开始学习茶艺，茶馆也成了朋友聚会的好去处。茶文化强调平静与分享，这或许正是它在快节奏的现代生活中依然受欢迎的原因。",
+ "reference": "China is the home of tea, and the history of tea drinking there goes back thousands of years. Tea is not only a drink but also a way of life. When guests visit, the host usually offers them a cup of hot tea first as a sign of welcome and respect. People in different regions prefer different kinds of tea: those in the south favour green tea, while those in the north more often drink scented tea. In recent years, more and more young people have begun to learn the art of tea making, and tea houses have become popular places for friends to meet. Tea culture stresses calmness and sharing, which may explain why it is still welcome in the fast pace of modern life.",
+ "keyPoints": []
+}

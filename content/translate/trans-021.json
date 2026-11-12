@@ -1,0 +1,18 @@
+{
+  "id": "trans-021",
+  "type": "translation",
+  "level": "cet4",
+  "title": "中国古典诗歌",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["poem", "rhyme", "imagination", "express"],
+  "prompt": "中国古典诗歌有着悠久的历史，是中华文化的重要组成部分。古人用短短几句诗，写出山水的美、离别的愁和对家乡的思念。唐诗和宋词最负盛名，许多名句至今仍被人们传诵。诗歌讲究节奏和押韵，读起来朗朗上口，即使不懂其中的典故，也能感受到语言的音乐性。今天，孩子们在课堂上背诵古诗，成年人也常在闲暇时读上几首。诗歌让忙碌的现代人有机会停下来，体会古人的情感与智慧。",
+  "reference": "Classical Chinese poetry has a long history and is an important part of Chinese culture. With only a few lines, ancient poets captured the beauty of mountains and rivers, the sorrow of parting and the longing for home. Tang poems and Song lyrics are the most famous, and many well-known lines are still recited today. Poetry values rhythm and rhyme, so it reads smoothly aloud; even without understanding the allusions, a reader can feel the music of the language. Some lines are so familiar that they come to mind at the sight of a full moon or the sound of autumn rain. A poem can say in twenty characters what a long letter might fail to express. Today children recite old poems in class, and adults often read a few in their spare time. Poetry gives busy modern people a chance to pause and to feel the emotions and wisdom of the past. In this way the past is never really far away.",
+  "keyPoints": [
+    "“悠久的历史”译为 a long history。",
+    "“离别的愁”可译为 the sorrow of parting。",
+    "“朗朗上口”意译为 reads smoothly aloud。",
+    "“典故”用 allusions。",
+    "“音乐性”可译为 the music of the language。"
+  ]
+}

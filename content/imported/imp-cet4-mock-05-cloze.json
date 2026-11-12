@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-05-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-05",
+ "paperTitle": "大学英语四级标准模拟卷 05",
+ "paperLevel": "cet4",
+ "paperYear": "mock-05",
+ "sectionOrder": 2,
+ "passage": "短文：\nVolunteering is usually described as a gift of time, but its benefits do not flow in one direction only. Students who spend a few hours a week at a community centre often say they gain as much as they {{1}}. The first weeks, though, can feel {{2}}: a new place, unfamiliar faces and tasks that look simple but are not.\n\nWhat makes the difference is {{3}} — turning up every week rather than once, when nothing else is planned. Organisers say the most {{4}} volunteers are not always the most talented ones, but those who keep their promises.\n\nVolunteering also teaches skills that are hard to {{5}} in a classroom, such as listening patiently and explaining an idea in simple words. Employers have begun to {{6}} such experience, and some universities now {{7}} volunteer work in the record students take to interviews.\n\nThere are limits, of course. Volunteering should not {{8}} the place of paid work, nor should it damage a student's studies. What {{9}} is a modest but steady commitment, and the habit, once {{10}}, often lasts for life.",
+ "bank": [
+  "awkward",
+  "consistency",
+  "formed",
+  "give",
+  "include",
+  "learn",
+  "matters",
+  "offer",
+  "recognise",
+  "reliable",
+  "seriously",
+  "take",
+  "trust",
+  "usual",
+  "weekly"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "give",
+   "explain": "选 D. give（对应第 26 空）。gain as much as they give 意为‘收获与付出一样多’，与前半句 benefits do not flow in one direction only 呼应。"
+  },
+  {
+   "n": 2,
+   "answer": "awkward",
+   "explain": "选 A. awkward（对应第 27 空）。冒号后列举‘陌生的地方、陌生的面孔’，说明最初几周会感到别扭、不自在。"
+  },
+  {
+   "n": 3,
+   "answer": "consistency",
+   "explain": "选 B. consistency（对应第 28 空）。破折号后的解释‘每周都来，而不是没别的事才来一次’正是 consistency（坚持一致）的含义。"
+  },
+  {
+   "n": 4,
+   "answer": "reliable",
+   "explain": "选 J. reliable（对应第 29 空）。but those who keep their promises 说明组织者看重的是‘可靠’，与 talented 形成对比。"
+  },
+  {
+   "n": 5,
+   "answer": "learn",
+   "explain": "选 F. learn（对应第 30 空）。‘在课堂上难以学到的技能’与后文列举的倾听、解释能力相配，learn 与 skills 构成动宾搭配。"
+  },
+  {
+   "n": 6,
+   "answer": "recognise",
+   "explain": "选 I. recognise（对应第 31 空）。recognise 在此意为‘认可、重视’，表示雇主开始看重这类经历。"
+  },
+  {
+   "n": 7,
+   "answer": "include",
+   "explain": "选 E. include（对应第 32 空）。include A in B 意为‘把 A 列入 B’，即把志愿工作写入求职材料。"
+  },
+  {
+   "n": 8,
+   "answer": "take",
+   "explain": "选 L. take（对应第 33 空）。take the place of 意为‘取代’，本句表示志愿服务不应取代有报酬的工作。"
+  },
+  {
+   "n": 9,
+   "answer": "matters",
+   "explain": "选 G. matters（对应第 34 空）。What matters is... 意为‘重要的是……’，总结全文对志愿服务的态度。"
+  },
+  {
+   "n": 10,
+   "answer": "formed",
+   "explain": "选 C. formed（对应第 35 空）。once formed 为‘连词 + 过去分词’结构，表示习惯一旦养成便会持续一生。"
+  }
+ ]
+}

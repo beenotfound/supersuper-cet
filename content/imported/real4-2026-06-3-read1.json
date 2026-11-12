@@ -1,0 +1,71 @@
+{
+ "id": "real4-2026-06-3-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2026年6月四级真题 第3套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-3",
+ "paperTitle": "2026年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "passage": "P1 Disgust is a universal human emotion. One type of disgust is called physical disgust, which protects us from eating or touching things that could be dangerous for us, such as raw meat or insects. Children experience physical disgust from a very early age, but do not achieve an understanding of the concept until they are around four years old.\n\nP2 Some researchers maintain that there is another type of disgust, called moral disgust, that protects us from engaging in activities that can be perceived as morally wrong. Examples of moral disgust are stealing, lying or cheating.\n\nP3 However, not all academics think that moral disgust really exists. Some say that when we refer to disgust in relation to moral issues, we are using disgust as a metaphor(隐喻), and what we are feeling is in reality anger.\n\nP4 If moral disgust appears quite late in development, it makes sense to think that there is actually a social component to it. Children learn about emotions in many different ways. Of special relevance are parents-children conversations about emotions. Indeed, children whose parents talk about emotions often have a better emotional understanding than children whose parents do not discuss emotions often.\n\nP5 However, there are no studies that have examined how parents and children talk about disgust. This is what we set up to examine in our study.\n\nP6 We asked 68 English-speaking mothers and their four-, six- or eight-year-old children to discuss some stories about moral and physical disgust. Our preliminary findings show mothers and children do talk about disgust, but mainly about physical disgust and not so much about moral disgust.\n\nP7 When we asked mothers and children to discuss moral issues, such as whether it is OK to play with a child who has stolen someone else's snack, they linked this type of moral wrongdoing with the emotion of anger and not disgust.\n\nP8 Does this mean that moral disgust does not exist? Some researchers suggest moral disgust exists in adults. Our findings suggest that moral disgust is either understood at a later age or is only used metaphorically, if at all, in children as old as eight years.",
+ "questions": [
+  {
+   "q": "What does the passage tell us about physical disgust?",
+   "options": [
+    "It is an emotion as contrasted with thoughts.",
+    "It is a concept beyond children's understanding.",
+    "It is a mechanism to keep us from being harmed.",
+    "It is an experience gained from any form of danger."
+   ],
+   "answer": 2,
+   "explain": "What does the passage tell us about physical disgust?是在问文章对physical disgust的 客观说明，不涉及推理、态度或主旨。 What does the passage tell us about physical disgust?是主谓宾结构的特殊疑问句，主 语the passage，谓语tell，间接宾语us，直接宾语由what充当，about physical dis…"
+  },
+  {
+   "q": "How do some researchers perceive moral disgust?",
+   "options": [
+    "It tends to appear in various forms of wrongdoing.",
+    "It is just as annoying to people as physical disgust.",
+    "It is a term used by common folk to describe anger.",
+    "It stops people from doing anything morally wrong."
+   ],
+   "answer": 3,
+   "explain": "How do some researchers perceive moral disgust?是在问some researchers对moral disgust的具体看法，属于文中可直接找到的事实。 How do some researchers perceive moral disgust?是特殊疑问句，主语some researchers，谓语perceive，宾语moral disgust；how询问方式/看法，整体结构平直。 S…"
+  },
+  {
+   "q": "Why does moral disgust appear quite late in children's development?",
+   "options": [
+    "It needs to be learnt through social interactions.",
+    "They have little control over its learning process.",
+    "It is too complex for them to acquire.",
+    "Their parents seldom talk about emotions."
+   ],
+   "answer": 0,
+   "explain": "Why does moral disgust appear quite late in children's development?不是直接引用某 个事实句，而是要求从文中因果解释中推进一步。 Why does moral disgust appear quite late in children's development?是why引导的特 殊疑问句，主语moral disgust，谓语appear，状语quite late in …"
+  },
+  {
+   "q": "What did the author and his colleagues want to examine in their experiment?",
+   "options": [
+    "What parents tell children against moral wrongdoing.",
+    "What parents and children link moral wrongdoing to.",
+    "How moral disgust is seen by children aged 4, 6 and 8.",
+    "How disgust is discussed between parents and children."
+   ],
+   "answer": 3,
+   "explain": "What did the author and his colleagues want to examine in their experiment?直接询 问研究目的，文中有明确对应句。 49. What did the author and his colleagues want to examine in their experiment? A) What parents tell children against moral w…"
+  },
+  {
+   "q": "What can we infer about moral disgust from the author and his colleagues' findings?",
+   "options": [
+    "It is a notion hardly comprehensible to children.",
+    "It rarely exists in children younger than eight.",
+    "It is a term most parents use when talking to children.",
+    "It exists in adults with a strong sense of justice."
+   ],
+   "answer": 0,
+   "explain": "What can we infer about moral disgust from the author and his colleagues' findings?要求从研究发现中概括出隐含结论。 50. What can we infer about moral disgust from the author and his colleagues' findings? A) It is a notion hardly compreh…"
+  }
+ ]
+}

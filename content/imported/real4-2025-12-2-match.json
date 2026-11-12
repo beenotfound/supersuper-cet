@@ -1,0 +1,105 @@
+{
+ "id": "real4-2025-12-2-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "2025年12月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-2",
+ "paperTitle": "2025年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé. But why not? Businesses are waking up to the skills gamers can bring to the workplace."
+  },
+  {
+   "label": "B",
+   "text": "One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations. And Game Academy reckons its belief is backed up by hard data. Do you enjoy unusual puzzle games like Portal, or tower defence games like Defense Grid? The team has found that IT workers play those more than average. But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers."
+  },
+  {
+   "label": "C",
+   "text": "Game Academy's idea is simple: analyse gamers' habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes — skills they can practise and refine in-game. And there is already a growing acceptance that gaming skills are transferable."
+  },
+  {
+   "label": "D",
+   "text": "Even the military is hiring gamers. \"The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,\" according to a Royal Air Force spokesperson. Those skills are part of what the Royal Air Force is looking for \"in a variety of roles\". \"Skills acquired through gaming can be very relevant to certain areas.\""
+  },
+  {
+   "label": "E",
+   "text": "\"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment. But does that really mean your top 100 ranking in Overwatch should go down in your résumé? \"It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,\" Mr Gardner says."
+  },
+  {
+   "label": "F",
+   "text": "Two years ago, a Glasgow University study made headlines for suggesting gaming could make students more successful. But \"the research hasn't really changed minds, at least not yet,\" says one of the authors of the study, Dr Matthew Barr. He's now writing a book on the topic. \"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job. But if someone can explain how they've led a team in an online game, for example, they may be able to persuade an employer that this is useful,\" says Dr Barr."
+  },
+  {
+   "label": "G",
+   "text": "Playing games casually is unlikely to help your career prospects. But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills. \"We see gameplay as a resource of talent,\" says co-founder David Barrie. \"Why can't we put in our résumé our gaming victories and achievements?\" he asks. \"If they say they want leadership — why can't I point to my years of leading World of Warcraft raids?\""
+  },
+  {
+   "label": "H",
+   "text": "There are already plenty of gamers out there who know that their hobby has made them who they are. Earlier this year, Matthew Ricci told gaming site Kotaku: \"If you're playing EVE Online you basically already have an MBA.\" Often made fun of in gaming circles as a \"spreadsheet simulator(电子表格模拟)\", the economy of the fictional EVE universe is driven by real market principles. If you want to build a new spaceship, the raw material has to be mined by another player. Manufacturing costs come into effect, and commodities fluctuate in price based on demand and the distance to haul the commodity."
+  },
+  {
+   "label": "I",
+   "text": "Mr Ricci, who had always dreamed of being the boss of his own company, ran an in-game corporation comprising hundreds of players. Eventually, he realised he could transfer his skills to real- life business — instead of doing it for free. He restructured Zentech, once a taxation vehicle for his father's business, and it is now in its fourth year helping international brands enter the Canadian market. EVE teaches skills like creativity, leadership, organisation, and conflict resolution, he maintains. He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\"."
+  },
+  {
+   "label": "J",
+   "text": "Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says. \"It also helps with meta-skills — learning how to learn, experimentation, and creative thinking.\""
+  },
+  {
+   "label": "K",
+   "text": "Twelve years into his career, Mark Long, a radiotherapy physicist with the NHS in Surrey, doesn't get as much gaming time as he used to. \"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. Gaming also encouraged a competitive spirit — and that, he believes, translates. \"When creating treatment plans, the aim is to optimise the radiation dose to the tumour and restrict it as much as possible to healthy surrounding tissues and organs,\" he says. It's about \"repeating the process, but each time doing something slightly different to improve the result\". Not unlike achieving a high score or a perfect run. \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\""
+  },
+  {
+   "label": "L",
+   "text": "\"Over at Game Academy, Mr Barrie is aware they still have a mountain to climb. The employer community will need the science,\" he says, but confesses he only became a true believer when he started asking players about their biggest in-game achievements. \"The scale and scope of their answers were amazing,\" he says. \"But ask them the same about their work, and they don't know.\" \"The engagement and powerful skills that people get playing a game — why can't work be like that?\" he asks."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Certain gaming skills meet the requirements of the armed forces in Britain.",
+   "answer": "D"
+  },
+  {
+   "text": "One veteran player has applied his gaming skills to his real-world business and owes his success",
+   "answer": "I"
+  },
+  {
+   "text": "According to a researcher, bad reputation about games will probably limit a gamer's chances of",
+   "answer": "F"
+  },
+  {
+   "text": "Businesses are beginning to realise gaming skills are applicable to their employees' work.",
+   "answer": "A"
+  },
+  {
+   "text": "A physicist admits gaming has contributed to his computer knowledge and skills of solving problems.",
+   "answer": "K"
+  },
+  {
+   "text": "Game Academy proposes to help gamers develop their skills using critical thinking.",
+   "answer": "G"
+  },
+  {
+   "text": "One who enjoys playing games that require management skills to win might possess more qualities",
+   "answer": "B"
+  },
+  {
+   "text": "In more conventional views, gaming is a time-wasting activity pursued by young boys.",
+   "answer": "J"
+  },
+  {
+   "text": "It is suggested that gaming skills be included in a résumé if they enhance a job applicant's appeal.",
+   "answer": "E"
+  },
+  {
+   "text": "Many gamers know their passion for playing games has shaped their identity.",
+   "answer": "H"
+  }
+ ]
+}

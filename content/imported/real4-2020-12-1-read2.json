@@ -1,0 +1,71 @@
+{
+ "id": "real4-2020-12-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2020年12月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-12-1",
+ "paperTitle": "2020年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-12",
+ "passage": "P1 Picture this: You're at a movie theater food stand loading up on snacks. You have a choice of a small, medium or large soda. The small is $3.50 and the large is $5.50. It's a tough decision: The small size may not last you through the whole movie, but $5.50 for some sugary drink seems ridiculous. But there's a third option, a medium soda for $5.25. Medium may be the perfect amount of soda for you, but the large is only a quarter more. If you're like most people, you end up buying the large (and taking a bathroom break midshow).\n\nP2 If you're wondering who would buy the medium soda, the answer is almost no one. In fact, there's a good chance the marketing department purposely priced the medium soda as a decoy(诱饵), making you more likely to buy the large soda rather than the small.\n\nP3 I have written about this peculiarity in human nature before with my friend Dan Ariely, who studied this phenomenon extensively after noticing pricing for subscriptions(订阅) to The Economist. The digital subscription was $59, the print subscription was $125, and the print plus digital subscription was also $125. No one in their right mind would buy the print subscription when you could get digital as well for the same price, so why was it even an option? Ariely ran an experiment and found that when only the two \"real\" choices were offered, more people chose the less-expensive digital subscription. But the addition of the bad option made people much more likely to choose the more expensive print plus digital option.\n\nP4 Brain scientists call this effect \"asymmetric dominance\" and it means that people gravitate toward the choice nearest a clearly inferior option. Marketing professors call it the decoy effect, which is certainly easier to remember. Lucky for consumers, almost no one in the business community understands it.\n\nP5 The decoy effect works because of the way our brains assign value when making choices. Value is almost never absolute; rather, we decide an object's value relative to our other choices. If more options are introduced, the value equation changes.",
+ "questions": [
+  {
+   "q": "Why does the author ask us to imagine buying food in the movie theater?",
+   "options": [
+    "To illustrate people's peculiar shopping behavior.",
+    "To illustrate the increasing variety of snacks there.",
+    "To show how hard it can be to choose a drink there.",
+    "To show how popular snacks are among movie fans."
+   ],
+   "answer": 0,
+   "explain": "Why does the author ask us to imagine buying food问的是作者为什么设置这个例子， 不是问例子本身说了什么，属于例证目的题。 Why does the author ask us to imagine buying food in the movie theater?是一个why 引导的特殊疑问句，主干为Why does the author ask us，to imagine buying…"
+  },
+  {
+   "q": "Why is the medium soda priced the way it is?",
+   "options": [
+    "To attract more customers to buy it.",
+    "To show the price matches the amount.",
+    "To ensure customers drink the right amount of soda.",
+    "To make customers believe they are getting a bargain."
+   ],
+   "answer": 3,
+   "explain": "Why is the medium soda priced the way it is问的是文中已明示的因果，是对原文具体信 息的再现，属于细节题。 Why is the medium soda priced the way it is?主干为被动结构the medium soda is priced，the way it is是方式状语从句简写（=in the way that it is priced），整体问的 是\"为何如此定价\"…"
+  },
+  {
+   "q": "What do we learn from Dan Ariely's experiment?",
+   "options": [
+    "Lower-priced goods attract more customers.",
+    "The Economist's promotional strategy works.",
+    "The Economist's print edition turns out to sell the best.",
+    "More readers choose the digital over the print edition."
+   ],
+   "answer": 1,
+   "explain": "What do we learn from Dan Ariely's experiment问的是实验本身揭示了什么客观事实， 是对原文的转述，属细节题。 What do we learn from Dan Ariely's experiment?是what引导的特殊疑问句，主干为we learn，from Dan Ariely's experiment为状语。结构直白，无陷阱。 53. What do we learn from Dan…"
+  },
+  {
+   "q": "For what purpose is \"the bad option\" (Line 7, Para. 3) added?",
+   "options": [
+    "To cater to the peculiar needs of some customers.",
+    "To help customers to make more rational choices.",
+    "To trap customers into buying the more pricey item.",
+    "To provide customers with a greater variety of goods."
+   ],
+   "answer": 2,
+   "explain": "For what purpose is \"the bad option\" added问的是文中明示的添加目的，是对原文信息 的客观转述，归为细节题。 For what purpose is \"the bad option\" (Line 7, Para. 3) added?是被动疑问句，For what purpose是疑问短语前置，主语是the bad option，谓语是is added。括号内的Line 7, Para. 3是位置提…"
+  },
+  {
+   "q": "How do we assess the value of a commodity, according to the passage?",
+   "options": [
+    "By considering its usefulness.",
+    "By comparing it with other choices.",
+    "By taking its quality into account.",
+    "By examining its value equation."
+   ],
+   "answer": 1,
+   "explain": "How do we assess the value of a commodity, according to the passage?末尾 according to the passage显式要求从文本中找答案，属细节题。 How do we assess the value of a commodity, according to the passage?主干是How do we assess the value，of a comm…"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "write-007",
+  "type": "writing",
+  "level": "cet6",
+  "title": "Skills or Grades?",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["recruit", "competence", "potential"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on whether employers should value practical skills more than academic grades. You should write at least 150 words but no more than 200 words.",
+  "reference": "When employers recruit new staff, should they attach more weight to practical skills than to academic grades? In my view, grades still matter, but they should not be the deciding factor.\n\nGrades are useful because they are comparable and relatively objective. A strong record suggests that a candidate can absorb complex material and meet deadlines under pressure. For professions such as medicine or engineering, where a mistake can be costly, this evidence cannot be ignored.\n\nNevertheless, grades measure only one kind of ability. A graduate with excellent marks may still be poor at explaining ideas, resolving conflicts or adapting to an unexpected situation, while a student with average grades may have run a small business, organised a campus event or completed a demanding internship. Such experience shows qualities that no examination can capture. Employers who hire only on paper risk employing people who are good at exams but poor at work.\n\nThe sensible approach is to treat grades as a threshold rather than a final answer. Once a candidate's academic level is acceptable, practical skills, attitude and potential deserve greater attention. After all, a company needs colleagues who can get things done, not merely people with good marks.",
+  "keyPoints": [
+    "开头用问句引出话题，随即亮明“成绩重要但非决定因素”的立场。",
+    "先承认成绩的可比性与客观性，再指出其局限，体现让步论证。",
+    "用 average grades 但经验丰富的学生作反例，避免片面。",
+    "结尾提出可操作的判断标准：把成绩当门槛。"
+  ]
+}

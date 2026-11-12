@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-real-2024-12-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-12",
+ "paperTitle": "2024年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 4,
+ "passage": "Smartwatches are no longer just a way to check messages. Millions of people now use them to count their steps, measure their heart rate and track how well they sleep. Health authorities have welcomed the trend: when people can see their own data, the argument goes, they are more likely to take exercise and less likely to ignore warning signs.\n\nYet doctors are increasingly cautious about the numbers. A wrist device is not a medical instrument. Its heart rate readings can be disturbed by movement, its sleep measurement is based on guesswork, and its step count depends on how the device is worn. One study found that two popular models differed by nearly 15 percent when counting the same walk. More troubling is the effect on anxious users. Some check their heart rate dozens of times a day and are convinced that a minor change means serious illness, so they visit clinics that are already busy. Some doctors now ask such patients to bring a month of readings rather than a single number, which gives a fairer picture and saves time in the consultation.\n\nNone of this means that wearable devices are useless. They are good at showing long-term patterns. A slow fall in daily activity over several weeks can be a helpful signal for a doctor, and a simple reminder to stand up every hour may do more good than an expensive health plan. What matters is how the data is used. As one cardiologist put it, a watch can tell you that something has changed. It cannot tell you why, and it certainly cannot replace a conversation with a doctor.",
+ "questions": [
+  {
+   "q": "Why have health authorities welcomed the use of smartwatches?",
+   "options": [
+    "They believe visible data encourages healthier habits.",
+    "They want to collect personal data for hospitals.",
+    "They think watches can replace family doctors.",
+    "They hope to sell more devices to young people."
+   ],
+   "answer": 0,
+   "explain": "第一段说卫生部门欢迎这一趋势，理由是当人们能看到自己的数据时更可能锻炼、更少忽视警示信号，故选 A。"
+  },
+  {
+   "q": "What does the author say about the accuracy of wrist devices?",
+   "options": [
+    "It is better than that of hospital equipment.",
+    "It can be affected by movements and other factors.",
+    "It has improved greatly in recent months.",
+    "It is accurate enough for medical diagnosis."
+   ],
+   "answer": 1,
+   "explain": "第二段说腕表的心率读数会受运动干扰，睡眠数据靠推测，计步取决于佩戴方式，两款机型计步相差近 15%，故选 B。"
+  },
+  {
+   "q": "What problem do anxious users cause?",
+   "options": [
+    "They stop taking any exercise.",
+    "They damage their watches quickly.",
+    "They buy more devices than they need.",
+    "They add pressure on busy clinics."
+   ],
+   "answer": 3,
+   "explain": "第二段末说焦虑用户一天查看心率几十次，稍有变化就以为得了重病，于是去本就繁忙的诊所就诊，故选 D。"
+  },
+  {
+   "q": "What is the author's view of wearable devices?",
+   "options": [
+    "They should be banned in hospitals.",
+    "They are a waste of money for most people.",
+    "They are useful for spotting long-term patterns.",
+    "They will soon replace regular health checks."
+   ],
+   "answer": 2,
+   "explain": "第三段说可穿戴设备并非无用，它们善于显示长期趋势，例如数周内活动量缓慢下降可以是给医生的有用信号，故选 C。"
+  }
+ ]
+}

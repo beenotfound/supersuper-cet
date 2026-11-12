@@ -1,0 +1,67 @@
+{
+  "id": "read-001",
+  "type": "reading",
+  "level": "cet6",
+  "title": "The Case for Productive Struggle",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["durable", "retrieve", "illusion", "flounder"],
+  "passage": "For generations, good teaching was easy to recognize: a knowledgeable instructor delivered clear explanations while students listened and took notes. Clarity still matters, but research on learning has gradually shifted attention from what students hear to what they do. A growing number of educators now argue that the most durable learning often begins where understanding breaks down.\n\nThe idea is usually described as productive struggle. When learners wrestle with a problem before being shown the solution, they must retrieve what they already know, notice gaps, and build connections between ideas. These mental operations feel effortful, and the effort is precisely the point. Material that arrives too smoothly can create a pleasant illusion of competence that fades quickly once the lesson ends.\n\nThis does not mean abandoning guidance. Novices can flounder when a task is too open-ended, and frustration that turns into hopelessness teaches nothing. The art lies in calibration: problems should sit just beyond what students can currently manage alone, yet within reach with hints, peer discussion, or a well-timed question. Teachers therefore need to resist the urge to rescue learners at the first sign of difficulty.\n\nAssessment practices complicate matters. Grades tend to reward quick correct answers, which encourages students to hide confusion rather than explore it. Some schools now separate the grade for a final product from the feedback given during practice, so that mistakes made while rehearsing carry no penalty. The aim is to make experimentation feel safe.\n\nNone of this is an argument for making school needlessly hard. Struggle is productive only when it is purposeful, when learners understand why a task is worth the discomfort, and when they receive feedback soon enough to adjust. Encouraged in that way, students may leave school not merely with facts in hand but with the confidence to approach unfamiliar problems.",
+  "questions": [
+    {
+      "q": "What shift in emphasis does the author describe in the first paragraph?",
+      "options": [
+        "From clear explanations to the notes students take during lessons",
+        "From what students hear to what students actually do",
+        "From difficult problems to easy classroom exercises",
+        "From teacher training to the design of examination papers"
+      ],
+      "answer": 1,
+      "explain": "第一段明确指出研究重心已从“学生听到什么”转向“学生做什么”，故选第二项。第一项仍停留在听讲层面，第三、四项文中均未提及。"
+    },
+    {
+      "q": "The phrase \"a pleasant illusion of competence\" in paragraph 2 refers to",
+      "options": [
+        "learners overestimating how much they have learned because the material came easily",
+        "teachers believing that their explanations are more effective than they are",
+        "the confidence that grows from solving a genuinely difficult problem",
+        "the satisfaction students feel when they receive timely feedback"
+      ],
+      "answer": 0,
+      "explain": "该短语承接上文“材料来得太顺”，指学生因学习过程毫不费力而高估自己的掌握程度。第二项偷换主体，第三项与“困难才有价值”的论点相反，第四项在文中指反馈，与错觉无关。"
+    },
+    {
+      "q": "According to paragraph 3, why can excessive frustration be harmful?",
+      "options": [
+        "It makes students dislike the subject for a long time",
+        "It takes too much class time away from explanations",
+        "It can turn into hopelessness, which teaches nothing",
+        "It forces teachers to provide fewer hints than usual"
+      ],
+      "answer": 2,
+      "explain": "第三段说明当挫败感变成绝望时就什么也教不会，故第三项正确。第一项文中未提“长期厌恶”，第二项讨论的是课堂时间，第四项与“给予提示”的建议不符。"
+    },
+    {
+      "q": "What does the author suggest about conventional grading in paragraph 4?",
+      "options": [
+        "Marks should be abolished entirely in secondary schools",
+        "Grades can discourage students from revealing their confusion",
+        "Feedback during practice is less valuable than a final mark",
+        "Students always perform better when marks are removed"
+      ],
+      "answer": 1,
+      "explain": "第四段指出评分倾向于奖励快速正确的答案，从而促使学生掩饰困惑而非探索困惑。第一项过度推断，第三项与文中“把反馈与终评分开”的做法相反，第四项表述绝对。"
+    },
+    {
+      "q": "What can be inferred from the last paragraph about productive struggle?",
+      "options": [
+        "It suits advanced learners far better than beginners",
+        "It should be applied to every task regardless of difficulty",
+        "It matters more than the quality of the teacher's explanations",
+        "Its benefits depend on purpose and on timely feedback"
+      ],
+      "answer": 3,
+      "explain": "末段强调只有具备目的性并及时获得反馈时，挣扎才是有益的，故第四项正确。第一项无依据，第二项与“不必刻意为难学生”矛盾，第三项比较两者重要性，文中并未如此断言。"
+    }
+  ]
+}

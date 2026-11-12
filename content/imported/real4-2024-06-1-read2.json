@@ -1,0 +1,71 @@
+{
+ "id": "real4-2024-06-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2024年6月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-06-1",
+ "paperTitle": "2024年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "passage": "P1 Some people have said aging is more a slide into forgetfulness than a journey towards wisdom. However, a growing body of research suggests that late-in-life learning is possible. In reality, education does an aging brain good.\n\nP2 Throughout life, people's brains constantly renovate themselves. In the late 1960s, British brain scientist Geoffrey Raisman spied growth in damaged brain regions of rats through an electron microscope; their brains were forging new connections. This meant brains may change every time a person learns something new.\n\nP3 Of course, that doesn't mean the brain isn't affected by the effects of time. Just as height usually declines over the years, so does brain volume: Humans lose about 4 percent every decade starting in their 40s. But that reduction doesn't necessarily make people think slower; as long as we are alive and functioning, we can alter our brains with new information and experiences.\n\nP4 In fact, scientists now suspect accumulating novel experiences, facts, and skills can keep people's minds more flexible. New pathways can strengthen our ever-changing mental structure, even as the brain shrinks.\n\nP5 Conventional fixes like word puzzles and brain-training apps can contribute to mental durability. Even something as simple as taking a different route to the grocery store or going somewhere new on vacation can keep the brain healthy.\n\nP6 A desire for new life challenges can further boost brainpower. Research about aging adults who take on new enterprises shows improved function and memory as well as a reduced risk of mental disease. Openness—a characteristic defined by curiosity and a desire for knowledge—may also help folks pass brain tests. Some folks are born with this take-in-the-world attitude, but those who aren't as genetically gifted aren't necessarily out of luck. While genes can encourage an interest in doing new things, a 2012 study in the journal Psychology and Aging found completing reasoning tasks like puzzles and number games can enhance that desire for novel experiences, which can, in turn, refresh the brain. That's why brain scientist Richard Kennedy says \"It's not that old dogs can't learn new tricks. It's that maybe old dogs don't realize why they should.\"",
+ "questions": [
+  {
+   "q": "What do some people think of aging adults?",
+   "options": [
+    "Their wisdom grows as time goes by.",
+    "Their memory gradually deteriorates.",
+    "They can benefit from late-in-life learning.",
+    "They are likely to have mental health issues."
+   ],
+   "answer": 1,
+   "explain": "What do some people think of aging adults? 用 what do ... think of 直接问看法，且明 确限定主语 some people，属于对原文具体观点的事实复述。 Q51 主干为 What do some people think of aging adults，think of 表示「对……的看 法」，think 与 of 分立但语义绑定，基础薄弱考生易把 think of 拆开理…"
+  },
+  {
+   "q": "What can we conclude from Geoffrey Raisman's finding?",
+   "options": [
+    "Brain damage seriously hinders one's learning.",
+    "Brain power weakens slower than we imagine.",
+    "Brains can refresh and improve with learning.",
+    "Brains forge connections under new conditions."
+   ],
+   "answer": 2,
+   "explain": "What can we conclude from Geoffrey Raisman's finding? 出现 conclude，要求从已述 事实再推一步得出结论。 52. What can we conclude from Geoffrey Raisman's finding? A) Brain damage seriously hinders one's learning. B) Brain power weakens slowe…"
+  },
+  {
+   "q": "What is one thing that helps maintain the health of our brain even as it shrinks?",
+   "options": [
+    "Doing daily routines by conventional means.",
+    "Avoiding worrying about our mental durability.",
+    "Imitating old dogs' way of learning new tricks.",
+    "Approaching everyday tasks in novel ways."
+   ],
+   "answer": 3,
+   "explain": "What is one thing that helps maintain the health of our brain 用 one thing that ... 直 接问一件具体做法，属事实复述。 53. What is one thing that helps maintain the health of our brain even as it shrinks? A) Doing daily routines by conven…"
+  },
+  {
+   "q": "What does the author say can contribute to the improvement of brain function?",
+   "options": [
+    "Being curious and desiring knowledge.",
+    "Being eager to pass brain tests at an old age.",
+    "Rising to life's challenges and avoiding risks.",
+    "Boosting immunity to serious mental diseases."
+   ],
+   "answer": 0,
+   "explain": "What does the author say can contribute to the improvement of brain function? 直 接问 author 提出的「促进项」，是对原文表述的事实复述。 Q54 主干为 What does the author say can contribute to ...，what 既作 say 的宾语，又 作 can contribute to 的逻辑主语（省略关系代词的嵌套…"
+  },
+  {
+   "q": "What is the finding of the 2012 study in the journal Psychology and Aging?",
+   "options": [
+    "Wishing to solve puzzles enhances one's reasoning power.",
+    "Playing number games unexpectedly stimulates one's memory.",
+    "Desiring new experiences can help to renovate the brain.",
+    "Learning new tricks should not be confined to old dogs only."
+   ],
+   "answer": 2,
+   "explain": "What is the finding of the 2012 study 直接问研究发现内容，属定位+复述型问法。 Q55 主干为 What is the finding，of the 2012 study 与 in the journal Psychology and Aging 都是修饰 finding 的介词短语，结构平铺直叙，无陷阱。 55. What is the finding of the 2012 study in t…"
+  }
+ ]
+}

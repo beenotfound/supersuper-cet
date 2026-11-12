@@ -1,0 +1,83 @@
+{
+ "id": "real4-2024-12-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2024年12月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-12-3",
+ "paperTitle": "2024年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "passage": "Super realistic masks are made from flexible materials such as silicone and are designed to imitate real human face—down to every last detail. In a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a {{1}}  face and which showed a person wearing a mask. Surprisingly, participants made the wrong call in one-in-five cases. The 20% error rate  {{2}} in the study likely underestimates the extent to which people would struggle to tell an {{3}}  face from the real thing outside of the lab. The researchers collected data from participants from both the UK and Japan to {{4}}  any differences according to race. When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less {{5}}  . There are now dozens of criminal cases in which offenders have  {{6}} themselves off as people of a different age, race or gender, sending police investigations down the wrong path. In one recent case, an international gang used an {{7}}  realistic mask to pose as a French minister,  {{8}} business executives out of millions of pounds. Dr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may  {{9}} the key characteristics of a person's appearance to be {{10}}  identified.\"",
+ "bank": [
+  "accurate",
+  "allow",
+  "artificial",
+  "cheating",
+  "deserted",
+  "establish",
+  "extremely",
+  "immediately",
+  "incorrectly",
+  "normal",
+  "observed",
+  "passed",
+  "reminding",
+  "reparable",
+  "resolve"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "normal",
+   "explain": "showed a + ___ + face，名词 face 前缺修饰词 与 'a person wearing a mask' 形成「真脸 vs 戴面具」对照 decide which showed a __(26)__ face and which showed a person wearing a mask 后 半句已经指明对照面是「戴面具的人」，前半句必然是「没戴面具、正常人脸」的意思， normal（正常的）正好表达「未经面具伪…"
+  },
+  {
+   "n": 2,
+   "answer": "observed",
+   "explain": "名词短语 + ___ + in the study，过去分词作后置定语 observe sth. in the study 是研究类文本的常见说法，被动语义贴合 「研究中观察到的 20% 误差率」直接对应 'The 20% error rate observed in the study'， observed 是 observe（观察/注意到）的过去分词，与 in the study 构成自然的「在研究 中被观察到的」语义；下文 par…"
+  },
+  {
+   "n": 3,
+   "answer": "artificial",
+   "explain": "an + ___ + face，再一次「冠词 + 空 + 名词」的形容词槽 与 the real thing 形成「假 vs 真」精准对照 tell an __(28)__ face from the real thing 字面就是「把 ___ 脸与真东西区分开」，与 the real thing 直接相对的就是 artificial（人造的、假的）；上下文 Super realistic masks ... designed to i…"
+  },
+  {
+   "n": 4,
+   "answer": "establish",
+   "explain": "to + ___ + any differences，不定式 to 后缺动词原形 establish + differences：查明/确认是否存在差异 The researchers collected data from participants from both the UK and Japan to __(29)__ any differences according to race 表「研究者收集两国数据，以便查明是否存在 …"
+  },
+  {
+   "n": 5,
+   "answer": "accurate",
+   "explain": "be 动词 were + 5% less + ___，less 后修饰程度的形容词 selections 5% less accurate：选择结果准确率低 5% response times were slower and selections were 5% less __(30)__ 与前半句「反应时间 更慢」是并列两项负面表现；accurate（准确的）正好对接「判断/选择」类主语，整体语 义是「跨种族判断时选择准确率低 5%」…"
+  },
+  {
+   "n": 6,
+   "answer": "passed",
+   "explain": "have + ___ + themselves off as，完成时被动后接 off as 的固定搭配 passed themselves off as：把自己冒充成另一种身份 offenders have passed themselves off as people of a different age, race or gender 译 为「罪犯把自己冒充成不同年龄、种族或性别的人」，与下文 sending police inve…"
+  },
+  {
+   "n": 7,
+   "answer": "extremely",
+   "explain": "an + ___ + 形容词 realistic，缺一个修饰形容词的副词 唯一能合理修饰 realistic 程度的程度副词 整篇文章一直在强调面具「逼真到极致」的特点，imitate real human face—down to every last detail，an __(32)__ realistic mask 自然取「极其逼真」之意，extremely 是程 度副词，与 realistic 直接构成 'extremely r…"
+  },
+  {
+   "n": 8,
+   "answer": "cheating",
+   "explain": "逗号后紧贴主句的伴随性动名词短语，缺一个 -ing 形式动词 正好套进 cheat sb. out of money 的固定搭配，且与「冒充行骗」逻辑吻合 __(33)__ business executives out of millions of pounds 完全是 'cheat sb. out of sth.'（骗某人钱财）的固定结构，意思是「骗走商界高管数百万英镑」；offenders have __(31)__ themse…"
+  },
+  {
+   "n": 9,
+   "answer": "allow",
+   "explain": "情态动词 may 后缺动词原形 allow sth. to be done：使关键特征得以被（错误地）识别 masks may __(34)__ the key characteristics of a person's appearance to be __(35)__ identified 完整成「面具可能让一个人外表的关键特征被错误地识别」，对应「allow + 宾 + to be done」固定搭配；且 Failure to d…"
+  },
+  {
+   "n": 10,
+   "answer": "incorrectly",
+   "explain": "to be + ___ + identified，被动语态里修饰过去分词需要副词 与「面具威胁识别、辨认失败」的负面主旨完全对齐 Failure to detect synthetic faces may have important implications for security and crime prevention 已经定调是「识别失败」；面具会让关键面部特征被 incorrectly（错误 地）识别，正是「认错人」的核心威…"
+  }
+ ]
+}

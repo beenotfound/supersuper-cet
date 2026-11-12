@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet6-demo-2024-read1",
+ "type": "reading",
+ "level": "cet6",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet6-demo-2024",
+ "paperTitle": "2024年12月大学英语六级（模拟节选）",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "sectionOrder": 4,
+ "passage": "When physicians describe the placebo effect, they usually mean the improvement patients experience after receiving an inactive treatment simply because they expect to feel better. For decades, medical students were taught that this was a nuisance, a statistical noise that made trials harder to interpret. More recent research has complicated that view. Brain scans show that when patients believe a painkiller has been given, the brain releases its own natural pain-relieving chemicals. In other words, expectation is not merely a state of mind; it produces measurable physical changes. The finding has practical consequences. Trials must now be designed so that neither patients nor doctors know who is receiving the real drug, since even a doctor's optimism can influence the result. Some researchers go further and argue that the effect should be used rather than eliminated: if a doctor's manner and a patient's expectations can improve outcomes, then those aspects of care deserve as much attention as the prescription itself. Critics warn that this reasoning can be taken too far, and that no placebo has ever cured a broken bone. Both sides agree, however, that the mind's influence on the body is far from imaginary.",
+ "questions": [
+  {
+   "q": "How was the placebo effect traditionally regarded in medical education?",
+   "options": [
+    "As a valuable treatment.",
+    "As a nuisance in trials.",
+    "As proof of drug effectiveness.",
+    "As a psychological cure."
+   ],
+   "answer": 1,
+   "explain": "第一段说 medical students were taught that this was a nuisance, a statistical noise，即传统上安慰剂效应被视为试验中的干扰因素，故选 B。"
+  },
+  {
+   "q": "What do brain scans show about expectation?",
+   "options": [
+    "It produces measurable physical changes.",
+    "It has no effect on the body.",
+    "It reduces the need for painkillers.",
+    "It affects only emotional states."
+   ],
+   "answer": 0,
+   "explain": "第二段说 expectation is not merely a state of mind; it produces measurable physical changes，即期待会产生可测量的生理变化，故选 A。"
+  },
+  {
+   "q": "Why must trials be designed as double-blind?",
+   "options": [
+    "To reduce the cost of research.",
+    "Because a doctor's optimism may influence the result.",
+    "Because patients refuse to take real drugs.",
+    "To speed up the approval process."
+   ],
+   "answer": 1,
+   "explain": "第三段说 Trials must now be designed so that neither patients nor doctors know who is receiving the real drug, since even a doctor's optimism can influence the result，故选 B。"
+  },
+  {
+   "q": "What is the critics' concern?",
+   "options": [
+    "The effect has never been observed.",
+    "The reasoning can be carried too far.",
+    "Doctors ignore patients' expectations.",
+    "Trials are no longer reliable."
+   ],
+   "answer": 1,
+   "explain": "第四段说 Critics warn that this reasoning can be taken too far, and that no placebo has ever cured a broken bone，即批评者担心这种推理被推得过远，故选 B。"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "real4-2022-09-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2022年9月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-09-1",
+ "paperTitle": "2022年9月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-09",
+ "passage": "Public perception of success in the U.S. might be totally misguided. While 92% of people believe others care most about fame and {{1}}  , fewer than 10% factor those qualities into their own success. This is according to the newly  {{2}} study by Harvard Graduate School of Education professor Todd Smith. Smith says he was  {{3}} by how past studies on success \"assumed what people will care about.\" In this study, his team \"went the {{4}}  direction\" by spending years carrying out individual interviews and group surveys to see what people really talk about when they talk about success. As a scientist, Smith  {{5}} studied individuality for a living, and even he was surprised to find younger respondents cared more about having a {{6}}  in life. Those between the ages of 18 and 34 prioritized it most, and that prioritization dropped off as respondents' ages went up. Perhaps this is because older people had fewer options when they were starting their careers, at a time when values focused more on stable incomes than {{7}}  personal missions. Other trends included an emphasis on the importance of parenting. Being a parent  {{8}} very high across the priorities of all study participants. Ultimately, Smith hopes institutions will take note of these insights {{9}}  . Higher education institutions tend to focus on preparing students for high-paying jobs. For such institutions, from universities to workplaces, to better {{10}}  people in the U.S., they'll need to understand \"what the American public highly prioritizes,\" Smith says.",
+ "bank": [
+  "accommodate",
+  "accordingly",
+  "acquiring",
+  "bothered",
+  "fortune",
+  "fulfilling",
+  "identify",
+  "literally",
+  "opposite",
+  "profession",
+  "purpose",
+  "ranked",
+  "released",
+  "similarly",
+  "wrong"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "fortune",
+   "explain": "fame and ＿＿：and 并列一个名词 fame and fortune＝名利，是固定搭配 fame and fortune（名与利）是英语里押头韵的经典固定搭配。句意是“92% 的人认为别人 最看重名和利”，fortune＝财富，与 fame 并列恰成“名利”，且呼应全文“公众以为成功＝名 利、实则不然”的对比主旨。 J) profession “职业”与 fame 不构成习惯并列 profession 是“职业”，fame a…"
+  },
+  {
+   "n": 2,
+   "answer": "released",
+   "explain": "newly 与 study 之间缺过去分词作定语 “新近发布的研究”是固定说法 研究/报告与“发布”搭配：a newly released study＝一项新近发布的研究，正好接上一句结 论的来源 This is according to the newly __(27)__ study。release a study 是学术语境里 的常见表达。 C) acquiring -ing 主动义，与 study 不搭 acquiring 是现…"
+  },
+  {
+   "n": 3,
+   "answer": "bothered",
+   "explain": "was ＿＿ by：被动结构里的过去分词 was bothered by＝被……所困扰/感到不安 be bothered by 是固定搭配，意为“被……困扰、对……感到不安”。Smith 对过去研 究“assumed what people will care about”（想当然地假设人们在乎什么）这一做法感到 不满/困扰，正是他另起炉灶做新研究的动机，与下句 his team \"went the __(29)__ direction…"
+  },
+  {
+   "n": 4,
+   "answer": "opposite",
+   "explain": "the ＿＿ direction：the 与 direction 间作定语的名词 the opposite direction＝相反的方向 go the opposite direction＝“走相反的方向”，正好承接上句 Smith 对旧研究“想当然假设” 的不满 he was __(28)__ by how past studies ...——所以他的团队反其道而行，by spending years carrying out in…"
+  },
+  {
+   "n": 5,
+   "answer": "literally",
+   "explain": "主语与动词 studied 之间插一个状语 literally 强调“确确实实、名副其实地” Smith 是研究个体差异的科学家，literally studied individuality for a living＝“确实是以研 究个体差异为生”，literally 在这里起强调作用，凸显“连研究这行的他都没料到”的转折，与 后半句 and even he was surprised 呼应。 B) accordingly 表“相应地…"
+  },
+  {
+   "n": 6,
+   "answer": "purpose",
+   "explain": "a ＿＿ in life：不定冠词 a 后接名词 have a purpose in life＝人生有目标/意义 have a purpose in life 是地道搭配，意为“人生有意义、有使命感”。下一句把它换说成 that prioritization 并与 stable incomes than __(32)__ personal missions（个人使命）呼 应——purpose 正是“personal mission”这层…"
+  },
+  {
+   "n": 7,
+   "answer": "fulfilling",
+   "explain": "＿＿ personal missions：名词短语前作定语 fulfilling＝令人有成就感的，与 missions 同向 fulfilling personal missions＝“令人充实／有成就感的个人使命”。本段对比的是“老一辈更 看重稳定收入 (stable incomes) vs 年轻人更看重有意义的个人使命”，fulfilling 这一正向、 表“成就感”的形容词，恰好刻画年轻人追求的那种“有意义的”使命，与 31 空 …"
+  },
+  {
+   "n": 8,
+   "answer": "ranked",
+   "explain": "主语 Being a parent 之后缺谓语动词 rank high＝排名靠前、位列很高 rank high 是固定搭配，意为“排名很高、位居前列”，正好接 very high：Being a parent __(33)__ very high＝“为人父母在所有受访者的优先项里排得很高”，与上一句 Other trends included an emphasis on the importance of parenting.（强调为…"
+  },
+  {
+   "n": 9,
+   "answer": "accordingly",
+   "explain": "句末修饰动词短语 take note 的状语 据研究结论“相应地”采取行动 前文摆出研究发现（人们真正看重的是人生意义、为人父母等），Smith 希望机构 take note of these insights accordingly＝“相应地、据此去关注这些洞见”，accordingly 承接 “根据上述发现 → 据此行动”的因果逻辑，与末段 they'll need to understand \"what the American …"
+  },
+  {
+   "n": 10,
+   "answer": "accommodate",
+   "explain": "to better ＿＿ people：to 后跟动词原形 accommodate people＝顾及、服务好人群的需求 末段说机构要了解 \"what the American public highly prioritizes\"（美国公众最看重什 么），目的是 to better accommodate people＝“更好地顾及/迁就人们（的真实需 求）”，accommodate 在此为“适应、满足某群体需求”，与“先懂公众所重、再…"
+  }
+ ]
+}

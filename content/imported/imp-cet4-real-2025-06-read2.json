@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-real-2025-06-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-06",
+ "paperTitle": "2025年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "sectionOrder": 4,
+ "passage": "Street food is one of the joys of city life: a hot bowl of noodles, a paper cone of fried chicken or a warm pancake eaten while walking. For many people it is also cheaper than a restaurant, and for small business owners it offers a way to start trading with very little capital. For a visitor, it is also the quickest way to taste what a city really eats.\n\nYet street food has long had a reputation problem. Because stalls are small and often temporary, health inspectors find it difficult to check every one, and customers cannot see what happens behind the counter. In some cities, the answer has been to ban street selling altogether, but this usually drives vendors into less visible places, where conditions may be even worse.\n\nA number of cities are now trying a different approach. Instead of closing markets, they are organised. Vendors are given a fixed pitch with clean water and rubbish collection, in exchange for paying a small fee and following basic rules such as storing food at the correct temperature and covering it. Some markets train their own members and publish inspection results on a notice board, so that a stall that loses customers will think twice about food safety.\n\nThe early results are positive. In one city, complaints about food safety fell by half after the first year, while the number of stalls rose, which suggests that customers and sellers both benefit. The lesson is that street food does not have to choose between charm and hygiene. With a little organisation, a city can keep its lively streets and its safe meals.",
+ "questions": [
+  {
+   "q": "What advantage of street food does the author mention?",
+   "options": [
+    "It requires very little money to start.",
+    "It always tastes better than restaurant food.",
+    "It is only sold late at night.",
+    "It is easy for inspectors to check."
+   ],
+   "answer": 0,
+   "explain": "第一段说对小微经营者而言，街头小吃让他们能用很少的本钱开始做生意，故选 A。"
+  },
+  {
+   "q": "What usually happens when cities ban street selling?",
+   "options": [
+    "Street food becomes much safer.",
+    "Vendors move to less visible places.",
+    "Prices fall in the city centre.",
+    "Customers stop eating street food."
+   ],
+   "answer": 1,
+   "explain": "第二段说全面禁止通常把摊贩逼到更不显眼的地方，那里的卫生条件可能更差，故选 B。"
+  },
+  {
+   "q": "What does the new approach give vendors?",
+   "options": [
+    "Free advertising on local radio.",
+    "A larger restaurant in the city centre.",
+    "A fixed pitch with clean water and rubbish collection.",
+    "Tax-free income for the first year."
+   ],
+   "answer": 2,
+   "explain": "第三段说城市给摊贩固定摊位、提供清洁用水和垃圾清运，条件是交纳少量费用并遵守基本规则，故选 C。"
+  }
+ ]
+}

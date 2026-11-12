@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-07-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-07",
+ "paperTitle": "大学英语四级标准模拟卷 07",
+ "paperLevel": "cet4",
+ "paperYear": "mock-07",
+ "sectionOrder": 4,
+ "passage": "Li Na delivers food on an electric bike in a large city in eastern China. She chooses her own hours, works for three different platforms, and earns roughly what she did in her previous office job. I do not have a manager watching me, she says. But if I am ill, nobody pays me, and if the app changes its rules, I cannot argue.\n\nLi Na is one of millions of young people in the growing gig economy, where work is organised through apps and paid by the task rather than by the month. Supporters describe it as freedom: students can earn between lectures, parents can work around childcare, and retired people can take on a few hours a week. For people who find fixed schedules difficult, this flexibility is genuinely valuable.\n\nThe disadvantages, however, are also real. Gig workers usually have no paid holiday, no sick leave and no pension contributions from an employer. Their income changes with demand, weather and the decisions of the platforms. When a company alters its payment rules overnight, workers have little power to negotiate, because they are not employees in the legal sense.\n\nSome governments are now experimenting with a middle category that would give gig workers basic protections while keeping their flexibility. Others are leaving the question to the platforms. Either way, the debate is no longer about whether the gig economy should exist, but about how the people in it should be treated.\n\nYoung people entering this world need more than a smartphone. They need to understand how their pay is calculated, keep records of their earnings, and think about what happens when they are forty rather than twenty-five. Flexibility is a benefit only if it is chosen with open eyes.",
+ "questions": [
+  {
+   "q": "What does Li Na like about her work?",
+   "options": [
+    "It pays more than her office job.",
+    "It offers sick pay.",
+    "She has a manager to guide her.",
+    "She chooses her own hours."
+   ],
+   "answer": 3,
+   "explain": "Passage 2 开头说 She chooses her own hours，并引用她的话 I do not have a manager watching me，说明她喜欢自己安排时间，故选 D。"
+  },
+  {
+   "q": "What is one advantage of gig work mentioned in the passage?",
+   "options": [
+    "It fits around other responsibilities.",
+    "It guarantees a monthly income.",
+    "It provides a pension.",
+    "It offers paid holidays."
+   ],
+   "answer": 0,
+   "explain": "第二段说学生可以在课间挣钱、父母可兼顾照看孩子，For people who find fixed schedules difficult, this flexibility is genuinely valuable，故选 A。"
+  },
+  {
+   "q": "What is the main concern about gig workers?",
+   "options": [
+    "They earn too much money.",
+    "They work too few hours.",
+    "They lack basic protections.",
+    "They are unable to use apps."
+   ],
+   "answer": 2,
+   "explain": "第三段列举他们通常没有带薪假期、病假和雇主缴纳的养老金，且平台改规则时难以协商，核心问题是缺乏基本保障，故选 C。"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cloze-003",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "The Repair Habit",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["affordable", "durable", "essential"],
+  "passage": "Not long ago, a broken toaster usually meant a trip to the bin. Today a growing number of people are choosing to {{1}} that habit and fix things instead. Repair cafes, where neighbours bring broken objects and fix them together, have appeared in many towns, and online forums offer step-by-step advice for almost any item.\n\nThe appeal is partly financial. A new appliance costs far more than a spare part, and mending is usually more {{2}} than buying another. But money is not the whole story. Many visitors say they come to learn a {{3}} their grandparents took for granted, or to spend time with people who enjoy taking things apart.\n\nThe social side matters as much as the technical one. Experienced {{4}} sit at long tables with toolboxes open, and a nervous owner can find {{5}} from someone who has fixed the same fault. Beginners often arrive convinced that they are useless with their hands; a few hours later they leave more {{6}} and eager to try another job.\n\nRepair culture also changes how people shop. Once you have opened a machine and seen how it is built, you look for products that are {{7}} rather than sealed shut, and you become less willing to {{8}} a device that still has years of use. Manufacturers notice this: some now publish manuals and sell parts directly to customers, a policy that would have seemed odd a generation ago.\n\nNone of this will {{9}} the problem of electronic waste alone. But every object kept in use is one that does not reach the bin, and the habit of mending is {{10}} in a world of limited resources.",
+  "bank": ["discard", "lecture", "confident", "solve", "sudden", "skill", "hesitate", "durable", "volunteers", "edit", "affordable", "guidance", "essential", "replace", "nod"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "discard",
+      "explain": "discard that habit 意为“抛弃那个习惯”，与后文 fix things instead 形成对比；nod、edit 语义不合。"
+    },
+    {
+      "n": 2,
+      "answer": "affordable",
+      "explain": "more affordable than buying another 指“比再买一个更负担得起”，与整段关于金钱的讨论一致。"
+    },
+    {
+      "n": 3,
+      "answer": "skill",
+      "explain": "learn a skill that their grandparents took for granted 指学习祖辈视为理所当然的“技能”；lecture 不合。"
+    },
+    {
+      "n": 4,
+      "answer": "volunteers",
+      "explain": "Experienced volunteers sit at long tables 指有经验的“志愿者”坐在长桌旁；lecture 无法指人。"
+    },
+    {
+      "n": 5,
+      "answer": "guidance",
+      "explain": "find guidance from someone 表示从他人那里得到“指导”；hesitate 是动词，不能作宾语。"
+    },
+    {
+      "n": 6,
+      "answer": "confident",
+      "explain": "leave more confident 指离开时更“自信”，与 arrive convinced that they are useless 形成对照。"
+    },
+    {
+      "n": 7,
+      "answer": "durable",
+      "explain": "products that are durable rather than sealed shut 指“耐用”、可维修而非封死不可拆的产品。"
+    },
+    {
+      "n": 8,
+      "answer": "replace",
+      "explain": "less willing to replace a device that still has years of use 指不愿“更换”仍能用的设备，与上文的选购倾向呼应；edit、nod 不合。"
+    },
+    {
+      "n": 9,
+      "answer": "solve",
+      "explain": "solve the problem of electronic waste 是固定搭配，表示“解决电子垃圾问题”；nod、edit 不合。"
+    },
+    {
+      "n": 10,
+      "answer": "essential",
+      "explain": "the habit of mending is essential 指修补的习惯“必不可少”，与 limited resources 的语境呼应。"
+    }
+  ]
+}

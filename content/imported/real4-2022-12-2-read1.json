@@ -1,0 +1,71 @@
+{
+ "id": "real4-2022-12-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2022年12月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-2",
+ "paperTitle": "2022年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "P1 We're eating more fish than ever these days. At around 20 kilograms per person global fish consumption is now more than twice what it was in the 1960s. What's really remarkable, though, is where that fish comes from.\n\nP2 For the first time in human history, most of our aquatic(水产的) food now comes from farming rather than fishing.\n\nP3 People ate around 73 million tonnes of farmed fish—just more than half of the volume of fish that humans consumed—in 2014. That's out of a total fish supply of 167 million tonnes; the remaining 20 million or so tonnes go into things like animal feed and medical products.\n\nP4 To keep eating fish at the current rate, we're definitely going to need to keep aquaculture(水产养殖) developing. That's because the volume of fish caught in the wild has leveled off since the 1990s.\n\nP5 Back in 1974, only 10% of marine fish stocks had been overfished. Now, more than three-tenths are. Only a tenth of our oceans' fish stocks could sustain heavier fishing than current levels.\n\nP6 But while catchings at sea have suffered, fish-farming has been growing at a fast rate. A lot of that is coming from China, which produces 60% of the world's farmed fish. In fact, some 35 countries, including China, now produce more farmed than wild-caught fish.\n\nP7 This shift toward aquaculture isn't just good for ensuring salmon(三文鱼) on your plate; it's also crucial to ensuring food security and sustainability. By 2050, the world will need to feed an estimated 9.7 billion people. They'll have to get their protein somewhere. However, raising cattle, pigs, and other land-based animals requires vast sums of grain and water. For example, pound for pound, beef requires 15 times more feed to raise than carp, a freshwater fish farmed all over Asia. That grain—and the water needed to grow it—could be consumed by people instead.\n\nP8 However, aquaculture is no silver bullet. In some southeast Asian countries, shrimp farming does disastrous damage to marine ecosystems. Despite these problems, however, shrimp continues to be among the most popular sea foods worldwide.",
+ "questions": [
+  {
+   "q": "What does the author say is remarkable about the fish we eat?",
+   "options": [
+    "They reproduce quickly.",
+    "They are mostly farmed.",
+    "They have become as important as grain.",
+    "They have a longer history than humans."
+   ],
+   "answer": 1,
+   "explain": "题干 What does the author say is remarkable about the fish we eat? 用 say 引出作者 明确表态的内容，不是让考生自行推断。 46. What does the author say is remarkable about the fish we eat? A) They reproduce quickly. B) They are mostly farmed. C) Th…"
+  },
+  {
+   "q": "What do we need to do if we keep consuming fish at the current rate?",
+   "options": [
+    "Increase the fishing volume considerably.",
+    "Develop more advanced fishing technology.",
+    "Enlarge the marine fish stocks effectively.",
+    "Expand the scale of fish-farming continuously."
+   ],
+   "answer": 3,
+   "explain": "题干 What do we need to do if we keep consuming fish at the current rate? 问的是文 中给出的具体应对动作，答案应在原文中直接呈现。 47. What do we need to do if we keep consuming fish at the current rate? A) Increase the fishing volume considerably. B…"
+  },
+  {
+   "q": "What does the author say about China in terms of aquatic food?",
+   "options": [
+    "It places increasing emphasis on fishing now.",
+    "It boasts of the world's largest fishing stocks.",
+    "It raises more fish than caught from the wild.",
+    "It supplies 60% of the world's fish products."
+   ],
+   "answer": 2,
+   "explain": "题干 What does the author say about China in terms of aquatic food? 围绕中国这个具 体对象问事实陈述，作者在文中应有正面交代。 题干 What does the author say about China in terms of aquatic food? 主干同 46 题， 介词短语 in terms of aquatic food 起范围限定，意为「就水产食物而言」。…"
+  },
+  {
+   "q": "Why does the author say aquaculture is so important these days?",
+   "options": [
+    "It is a must for feeding the world's fast-growing population.",
+    "It proves a reliable source of protein for humans and animals",
+    "It is essential to maintaining both mental and physical health.",
+    "It ensures a balanced healthy diet for people the world over."
+   ],
+   "answer": 0,
+   "explain": "题干 Why does the author say aquaculture is so important these days? 用 say 限定为 作者明说的原因，不需要考生自行推断。 题干 Why does the author say aquaculture is so important these days? 主句 Why does the author say 后接宾语从句，从句主干 aquaculture is so …"
+  },
+  {
+   "q": "What does the author imply by saying aquaculture is no silver bullet?",
+   "options": [
+    "Shrimp-farming is a risky business.",
+    "Fish-farming will not be sustainable.",
+    "Fish-farming may cause serious problems too.",
+    "Shrimp-farming can become quite expensive."
+   ],
+   "answer": 2,
+   "explain": "题干 What does the author imply by saying aquaculture is no silver bullet? 出现 imply，要求把习语的隐含意翻译成具体含义。 题干 What does the author imply by saying aquaculture is no silver bullet? 主干 What does the author imply，介词短语 by saying aq…"
+  }
+ ]
+}

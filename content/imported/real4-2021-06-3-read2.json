@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-06-3-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年6月四级真题 第3套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-3",
+ "paperTitle": "2021年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "P1 Can you remember what you ate yesterday? If asked, most people will be able to give a vague description of their main meals: breakfast, lunch, dinner. But can you be sure you've noted every snack bar in your car, or every handful of nuts at your desk? Most people will have a feeling that they've missed something out.\n\nP2 We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades. We found reliable evidence that people were drastically under-reporting what they ate.\n\nP3 Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim.\n\nP4 Why is this happening? We can point to at least three potential causes. One is the rise in obesity levels itself. Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember.\n\nP5 Another cause is that the proportion of people who are trying to lose weight has been increasing over time. People who want to lose weight are more likely to under-report their eating—regardless of whether they are overweight or not. This may be driven partly by self-deception or \"wishful thinking\".\n\nP6 The final potential cause is an increase in snacking and eating out over recent decades—both in terms of how often they happen and how much they contribute to our overall energy intake. Again, there is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys.\n\nP7 So, what's the message conveyed? For statistics, we should invest in more accurate measurement options. For policy, we need to focus on options that make it easy for people to eat fewer calories. If people do not know how much they are eating, it can be really hard for them to stick to a diet. Also, we should be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. If this works, it won't matter if they can't remember what they ate yesterday.",
+ "questions": [
+  {
+   "q": "What did the author suspect back in 2016?",
+   "options": [
+    "Calorie consumption had fallen drastically over the decades.",
+    "Most people surveyed were reluctant to reveal what they ate.",
+    "The national statistics did not reflect the actual calorie consumption.",
+    "Most people did not include snacks when reporting their calorie intake."
+   ],
+   "answer": 2,
+   "explain": "What did the author suspect back in 2016 问的是一个具体过去时间点上的具体事实，没 有 infer/imply 之类信号词，属于事实细节题。 51. What did the author suspect back in 2016? A) Calorie consumption had fallen drastically over the decades. B) Most people surv…"
+  },
+  {
+   "q": "What has the Office for National Statistics verified?",
+   "options": [
+    "People's calorie intake was far from accurately reported.",
+    "The missing out of main meals leads to the habit of snacking.",
+    "The nation's obesity level has much to do with calorie intake.",
+    "Calorie consumption is linked to the amount of snacks one eats."
+   ],
+   "answer": 0,
+   "explain": "What has the Office for National Statistics verified? 直问某机构核实了什么事实，无推 断信号词，属事实细节题。 题干 What has the Office for National Statistics verified? 是现在完成时的特殊疑问句， 主语是机构名，谓语 verified，结构清晰，无障碍。 52. What has the Office for National …"
+  },
+  {
+   "q": "What do we learn about obese people from the passage?",
+   "options": [
+    "They usually keep their eating habits a secret.",
+    "They overlook the potential causes of obesity.",
+    "They cannot help eating more than they should.",
+    "They have difficulty recalling what they have eaten."
+   ],
+   "answer": 3,
+   "explain": "What do we learn about obese people from the passage? 限定主体为某类人，问关于 他们的文本陈述，仍是文中明示的细节而非推断。 题干 What do we learn about obese people from the passage? 是 What 引导的疑 问句，about obese people 限定 learn 的对象，from the passage 是出处状语，句意 …"
+  },
+  {
+   "q": "What often goes unnoticed in surveys on food consumption?",
+   "options": [
+    "The growing trend of eating out.",
+    "The potential causes of snacking.",
+    "People's home energy consumption.",
+    "People's changing diet over the years."
+   ],
+   "answer": 0,
+   "explain": "What often goes unnoticed in surveys on food consumption? 问的是调查中常被漏掉 的某个具体类别，属于事实细节而非推断。 题干 What often goes unnoticed in surveys on food consumption? 主语 what，goes unnoticed 是系表结构（go + 形容词，表“处于…状态”），in surveys on food con…"
+  },
+  {
+   "q": "What does the author suggest policymakers do about obesity?",
+   "options": [
+    "Remind people to cut down on snacking.",
+    "Make sure people eat non-fattening food.",
+    "Ensure people don't miss their main meals.",
+    "See that people don't stick to the same diet."
+   ],
+   "answer": 1,
+   "explain": "What does the author suggest policymakers do about obesity? 问作者对决策者的具体 建议，文中尾段已明示，属细节题而非主旨题。 题干 What does the author suggest policymakers do about obesity? 是 What 引导的 疑问句，谓语 suggest 后接的是省略 that 的宾语从句 policymakers do ...，…"
+  }
+ ]
+}

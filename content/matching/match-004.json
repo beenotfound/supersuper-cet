@@ -1,0 +1,63 @@
+{
+  "id": "match-004",
+  "type": "matching",
+  "level": "cet6",
+  "title": "When Software Manages",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["transparency", "monitoring", "autonomy"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Software now decides many small things in a working day. It drafts the rota, ranks applications, allocates deliveries and flags which invoices look unusual. Managers welcome these tools because they remove repetitive labour and produce consistent decisions. Employees notice them in different ways: a shift appears without negotiation, or a task arrives with a score attached. The result is that a system nobody voted for can shape the rhythm of a workplace. Over a year, such small adjustments amount to a new way of working."
+    },
+    {
+      "label": "B",
+      "text": "One concern is that the data used to train such systems carries the assumptions of the people who collected it. If past hiring favoured a particular kind of candidate, a model taught on those decisions will reproduce the pattern while appearing neutral. The danger is subtle, because the output looks like arithmetic rather than opinion. Firms that audit their models sometimes discover that a variable they never considered relevant is doing most of the work. An unfair rule is hardest to challenge when it arrives as a number."
+    },
+    {
+      "label": "C",
+      "text": "There are clear benefits. Scheduling software can match staff to demand more fairly than a manager balancing favours and grudges, and it can give workers earlier notice of their hours. Administrative tools free people from paperwork that nobody enjoys. When the rules are visible, an employee can check why a decision was made instead of guessing. Used well, a system can make a workplace more predictable, not less. The difference lies in whether people can see the logic behind the schedule."
+    },
+    {
+      "label": "D",
+      "text": "Transparency is the heart of the matter. Workers are entitled to know what information is collected about them, how it is used and who can see it. A system that watches keystrokes or tracks location may be justified in one job and intrusive in another. Good practice means explaining the purpose, limiting the data collected and allowing an independent check. Without those safeguards, monitoring becomes a source of suspicion rather than a tool for improvement. Trust is easier to keep than to rebuild."
+    },
+    {
+      "label": "E",
+      "text": "The right to a human review matters when a decision goes wrong. A worker who is denied a promotion by an algorithm should be able to ask a person to explain and reconsider. Appeals are slow and costly, which is exactly why some employers skip them, but a system with no route to challenge invites resentment. A rule that cannot be questioned is experienced as unfair even when it happens to be correct. The possibility of appeal also keeps the system's designers careful."
+    },
+    {
+      "label": "F",
+      "text": "The technology also changes what workers need to know. Staff are asked to interpret dashboards, correct bad data and recognise when a recommendation is nonsense. These are new skills, and they are not evenly distributed. Older employees and those in routine roles may need training that employers are reluctant to fund. A workplace that adopts a system without teaching people to use it has simply moved the difficulty from the manager's desk to the shop floor. The tool is only as good as the person reading it."
+    },
+    {
+      "label": "G",
+      "text": "Metrics have a way of becoming targets. When performance is measured by the number of items processed, employees may process more items and care less about quality. When a system rewards speed, the quickest way to satisfy it is not always the best way to serve a customer. Managers who understand this use scores as one source of evidence rather than as a verdict, and they watch for the behaviour that measurement produces. A number that is trusted blindly will eventually be gamed."
+    },
+    {
+      "label": "H",
+      "text": "Collective bargaining has started to catch up. Unions increasingly ask for clauses that cover the introduction of new systems, including consultation before installation, limits on monitoring and access to the data held about members. Employers sometimes resist, yet clear rules protect them as well, because a workforce that understands a change is more likely to cooperate with it. The alternative is a series of disputes that cost both sides time. Agreement in advance is cheaper than a grievance later."
+    },
+    {
+      "label": "I",
+      "text": "The long-term question is what happens to autonomy. A system that tells a worker which task to do next may raise productivity, but it also removes the small decisions that make a job interesting. Over time, the skills involved in planning and prioritising may weaken from disuse. Some organisations deliberately leave room for judgement, treating the software as an adviser rather than a supervisor. That choice, more than any technical feature, determines whether a job becomes better or merely faster. Efficiency and skill are not the same thing."
+    },
+    {
+      "label": "J",
+      "text": "None of this is inevitable. Tools are adopted through decisions, and decisions can be shaped. Employees who are consulted early can point out problems that designers never imagined, and managers who ask what a system is for may discover that it solves the wrong problem. The technology will keep changing; what matters is whether the people affected have a voice in how it enters their working lives. A tool that is discussed before it is installed is far less likely to be resented."
+    }
+  ],
+  "statements": [
+    { "text": "Unrequested systems can quietly determine the pattern of a working day.", "answer": "A" },
+    { "text": "Models can inherit past prejudices yet appear objective because they look numerical.", "answer": "B" },
+    { "text": "Visible rules and fairer scheduling can make working conditions more predictable.", "answer": "C" },
+    { "text": "Employees should know what is collected about them and why, with data kept limited.", "answer": "D" },
+    { "text": "Being able to appeal to a person is essential when an automated decision is wrong.", "answer": "E" },
+    { "text": "New tools demand new competences, and training is often neglected.", "answer": "F" },
+    { "text": "Measuring performance changes behaviour, so scores should inform rather than decide.", "answer": "G" },
+    { "text": "Unions are negotiating over consultation, monitoring limits and data access.", "answer": "H" },
+    { "text": "Removing small choices may erode skills and make work less satisfying.", "answer": "I" },
+    { "text": "The outcome depends on whether affected workers help decide how tools are introduced.", "answer": "J" }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-real-2023-12-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2023-12",
+ "paperTitle": "2023年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "A late start, a real benefit Researchers who study the brain have good news for anyone over thirty who has always wanted to play an instrument. In several studies, adults who took up music in middle age showed improvements in memory and in the ability to follow two conversations at once. The changes were smaller than those seen in children who practise for years, but they appeared after only six months of weekly lessons. The researchers think the effort itself, rather than the result, is what keeps the brain busy."
+  },
+  {
+   "label": "B",
+   "text": "The first month is the hardest Ask any teacher of adult beginners where students give up, and the answer is almost always the same: the fourth or fifth week. The first lesson is exciting, the second is confusing, and by the fourth the fingers hurt and the music sounds nothing like the recording. Teachers say the students who survive this stage are not the most talented ones but those who booked the lessons in advance and told a friend about them."
+  },
+  {
+   "label": "C",
+   "text": "Practice in small pieces One piece of advice appears in almost every method book for beginners: do not practise the whole piece. Divide it into sections of four or eight bars, play each one slowly, and join them only when every section is comfortable. Experienced players spend most of their practice time on the two or three bars that cause trouble, while beginners tend to start again from the beginning each time they make a mistake. The second approach feels like progress and is mostly a waste of time."
+  },
+  {
+   "label": "D",
+   "text": "Finding the right teacher Before choosing a teacher, adults should ask themselves what they actually want. Someone who dreams of playing in a band needs a teacher who will teach chords and rhythm; someone who loves classical music needs one who will correct the position of the hand. A good teacher asks about these goals in the first lesson. It is also worth asking whether the teacher has experience with adult learners, who need explanations and often want to know why."
+  },
+  {
+   "label": "E",
+   "text": "Playing with others Learning alone is possible, especially with the help of videos, but the students who keep going are usually the ones who play with others. A local band, a church choir or a monthly gathering of amateur players gives the practice a purpose and a date. One group of adult beginners in Leeds meets in a pub every second Sunday; nobody is paid, nobody is judged, and the oldest member is eighty-one."
+  },
+  {
+   "label": "F",
+   "text": "What it costs The cost of learning an instrument is often exaggerated. A decent second-hand violin or keyboard can cost less than a mobile phone, and many libraries now lend instruments for a term. Lessons are the larger expense, but group classes and online sessions have brought prices down. Teachers point out that money spent on a forgotten instrument is the real waste, so it is sensible to rent before buying."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Adults who take up an instrument often give up in the first few weeks.",
+   "answer": "B"
+  },
+  {
+   "text": "Research suggests that learning an instrument in later life can help the brain.",
+   "answer": "A"
+  },
+  {
+   "text": "Beginners are advised to divide a piece into short sections instead of playing it from start to finish.",
+   "answer": "C"
+  },
+  {
+   "text": "Making music with other people gives practice a purpose and helps learners continue.",
+   "answer": "E"
+  },
+  {
+   "text": "A good teacher should ask new students what they hope to achieve.",
+   "answer": "D"
+  }
+ ]
+}

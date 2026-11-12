@@ -1,0 +1,71 @@
+{
+ "id": "real4-2026-06-3-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2026年6月四级真题 第3套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-3",
+ "paperTitle": "2026年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "passage": "P1 After finding out details about a stranger, we mistakenly think that they also know about us. As a result, we act more honestly around them, according to a recent study in Nature.\n\nP2 Past research has found that we tend to assume social relationships are reciprocal(相互的). Most of the time, this assumption is accurate: someone you think of as a friend will usually consider you a friend too. But sometimes our social ties are more one-sided: for example, you might learn something about a stranger who doesn't know you at all. Researchers Anuj Shah and Michael LaForest wondered whether our tendency to believe that social ties are reciprocal could lead us to mistakenly feel that a stranger does actually know us.\n\nP3 In a series of lab-based studies, this is exactly what the researchers found. When we know about strangers, we erroneously think they also know about us. But the really interesting finding came when the researchers stepped out of the lab, to conduct a field experiment. The team developed leaflets(传单) containing fairly ordinary information about local community police officers, such as their favourite food, hobbies, or reasons for joining the police force. They then sent out these leaflets to every apartment in a number of housing developments in disadvantaged areas. The officers themselves also dropped off cards to local residents containing similar information.\n\nP4 Two months later, the researchers surveyed residents at these housing developments as well as control areas that did not receive leaflets or outreach cards. Residents were asked to imagine that they had committed a crime and how likely it would be that local officers would find out about it. They also rated how well the officers in the area knew them.\n\nP5 The team found that residents of the developments that had received the leaflets believed it more likely that local officers would find out about illegal activity than residents of the control areas. Even more strikingly, the team found that immediately after the leaflet distribution, there were fewer criminal complaints and arrests in the areas around the developments that had received the leaflets than around the control developments.",
+ "questions": [
+  {
+   "q": "What is the finding of a recent study in Nature?",
+   "options": [
+    "People are more honest with those who know them than with total strangers.",
+    "People we want to have detailed information about are keen to know about us.",
+    "People who get to know about a person wrongly assume the person knows them too.",
+    "People who are familiar with each other tend to behave honestly in their everyday dealings."
+   ],
+   "answer": 2,
+   "explain": "What is the finding of a recent study in Nature? 直接要求提取 recent study in Nature 的具体结论，不涉及全文主旨或作者态度。 What is the finding of a recent study in Nature? 是主系表结构的特殊疑问句，主语为 the finding of a recent study in Nature，结构平铺直叙，无隐藏否定或比较…"
+  },
+  {
+   "q": "What does the passage say about the assumption that social relationships are reciprocal?",
+   "options": [
+    "It is more the exception than the rule.",
+    "It does not hold true in every situation.",
+    "It does not apply to complex relationships.",
+    "It is more accurate in one-sided social ties."
+   ],
+   "answer": 1,
+   "explain": "What does the passage say about the assumption... 要求回到原文找关于该 assumption 的具体描述，属于局部信息提取。 What does the passage say about the assumption that social relationships are reciprocal? 中 that 引导同位语从句修饰 assumption，整体是主谓宾结构，无复杂从句 …"
+  },
+  {
+   "q": "What did Anuj Shah and Michael LaForest want to find out about the belief that social relationships",
+   "options": [
+    "Whether it may resolve misunderstandings about social ties.",
+    "Whether it could help develop one's relationships with strangers.",
+    "Whether it could help strengthen interpersonal relationships.",
+    "Whether it may lead to false assumptions about a stranger."
+   ],
+   "answer": 3,
+   "explain": "What did Anuj Shah and Michael LaForest want to find out... 聚焦于研究者的研究意 图，属于局部细节。 What did Anuj Shah and Michael LaForest want to find out about the belief that social relationships are reciprocal? 中 that social relations…"
+  },
+  {
+   "q": "When did Anuj Shah and Michael LaForest find something really interesting in their research?",
+   "options": [
+    "During lab-based studies.",
+    "During a field experiment.",
+    "While investigating local residents' crime.",
+    "While talking to police officers nearby."
+   ],
+   "answer": 1,
+   "explain": "When did Anuj Shah and Michael LaForest find something really interesting in their research? 要求回到原文定位 really interesting 对应的具体阶段。 When did Anuj Shah and Michael LaForest find something really interesting in their researc…"
+  },
+  {
+   "q": "What happened in the areas around the housing developments subjected to the studies?",
+   "options": [
+    "They saw fewer crimes than the control developments.",
+    "They witnessed a swifter elimination of illegal activities.",
+    "Local police responded more quickly to criminal complaints than before.",
+    "Local police related better to residents there than to those in other areas."
+   ],
+   "answer": 0,
+   "explain": "What happened in the areas around the housing developments subjected to the studies? 要求提取实验后相关区域的具体变化。 What happened in the areas around the housing developments subjected to the studies? 中 subjected to the studies 为过去分词…"
+  }
+ ]
+}

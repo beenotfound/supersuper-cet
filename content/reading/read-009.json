@@ -1,0 +1,67 @@
+{
+  "id": "read-009",
+  "type": "reading",
+  "level": "cet6",
+  "title": "The Price of Speed in News",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["verification", "temptation", "correction", "explicit"],
+  "passage": "News used to arrive with delay. A report would be checked, edited, printed or broadcast, and only then reach its audience. The delay was often frustrating, but it had a use: it created a space in which errors could be caught. Today that space has narrowed, and in some cases it has disappeared. The first version of a story may reach readers within moments of an event, long before anyone has had time to confirm what happened.\n\nSpeed is not in itself a fault. In a crisis, timely information can save lives, and audiences reasonably expect to hear about important events quickly. The difficulty is that speed and accuracy pull in different directions. Verification takes time: a claim must be traced to a source, a document checked, a photograph examined. Every one of those steps can be skipped, and skipping them is invisible to the reader.\n\nCompetition sharpens the temptation. When attention is scarce, being first attracts readers, and a correction rarely travels as far as the original error. Journalists know this, which is why many newsrooms have built habits that protect the checking process: two sources for a serious claim, a separate editor to review a sensitive story, and clear rules about what may be published on the basis of a single message.\n\nThe audience has a part to play as well. Readers who reward speed with clicks and shares encourage the behavior they complain about. Slower, explanatory journalism is expensive to produce and easy to ignore, yet it is often what people claim to want. There is a mismatch between what audiences say they value and what their attention actually supports.\n\nNone of this is an argument for sluggishness. It is an argument for making the trade-off explicit. A newsroom that says \"we will be quick, but we will not publish an unverified claim\" is making a promise that can be judged. Speed with visible limits is more honest than speed presented as accuracy.",
+  "questions": [
+    {
+      "q": "What can be inferred about delay in news reporting in the past?",
+      "options": [
+        "It was always harmful to the public",
+        "It made newspapers less interesting to read",
+        "It provided a chance to catch errors before publication",
+        "It was created mainly by government rules"
+      ],
+      "answer": 2,
+      "explain": "首段说过去的延迟虽有不便，却“有用处”：它创造了一个可以抓出错误的空间，故选第三项。第一项与原文相反，第二、四项无据。"
+    },
+    {
+      "q": "According to paragraph 2, what makes verification difficult?",
+      "options": [
+        "It takes time, and its steps can be skipped without readers noticing",
+        "It requires technology that most newsrooms lack",
+        "It is impossible to carry out during a crisis",
+        "It slows down the printing of newspapers"
+      ],
+      "answer": 0,
+      "explain": "第二段说核实时要追溯来源、查文件、看照片，每一步都可被跳过且读者看不见，故第一项正确。第二项无据，第三项只涉及危机中的时效，第四项与“印刷”无关。"
+    },
+    {
+      "q": "Which practice does the passage mention as protecting accuracy?",
+      "options": [
+        "Publishing a story on the basis of a single message",
+        "Removing corrections after a story is updated",
+        "Sharing every rumor as soon as it appears",
+        "Requiring two sources for a serious claim"
+      ],
+      "answer": 3,
+      "explain": "第三段列举新闻编辑室的核查习惯：重大指控要有两个来源、敏感报道需独立编辑复核等，故选第四项。第一项恰是规则要约束的做法，第二、三项与核查精神相反。"
+    },
+    {
+      "q": "The word \"sluggishness\" in paragraph 5 most probably means",
+      "options": [
+        "carelessness about facts",
+        "slowness in reporting",
+        "dishonesty toward readers",
+        "silence about mistakes"
+      ],
+      "answer": 1,
+      "explain": "末段开头澄清作者并非主张新闻“迟缓”，而是主张把取舍讲清楚，故该词指“缓慢”。第一、三、四项分别指粗心、不诚实与沉默，均非该词含义。"
+    },
+    {
+      "q": "What does the author suggest about audience behavior?",
+      "options": [
+        "Readers always prefer slower, explanatory journalism",
+        "Clicks and shares have no effect on newsroom choices",
+        "What readers reward with attention may conflict with what they say they value",
+        "Audiences are unable to judge whether a report is accurate"
+      ],
+      "answer": 2,
+      "explain": "第四段指出读者用点击和分享奖励速度，反而鼓励了他们所抱怨的做法，说明“口头上重视的”与“注意力实际支持的”存在错位，故选第三项。第一项与“容易忽视深度报道”矛盾，第二项与“竞争加剧诱惑”相反，第四项过度绝对。"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-12-3-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年12月四级真题 第3套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-3",
+ "paperTitle": "2021年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "P1 Have you ever wondered how acceptable it is to hug or touch someone? While it may sound safe to avoid all physical contact so as not to offend anyone, the lack of touching might imply cold attitudes or indifference in interpersonal relationships.\n\nP2 So, what should we do? The simple answer is to thoroughly learn unique cultural norms for physical contact. In nonverbal communication terminology( 术语), physical contact and the study of touching are generally referred to as haptics.\n\nP3 Haptics in communication often suggest the level of intimacy. They are usually classified into two groups: high-contact and low-contact.\n\nP4 Asia and quite surprisingly the United States, Canada and Britain belong to low-contact cultures. People from the rest of the world, such as Latin America, are considered to be in high-contact cultures, where they tend to expect touching in social interactions and feel more comfortable with physical closeness. Despite the classification, there are more complex factors such as relational closeness, gender, age, and context that can affect how someone views physical contact.\n\nP5 One common French custom of greetings is cheek-kissing, but it is mostly restricted to friends, close acquaintances and family members. While cheek-kissing for Latin Americans is also a universal greeting form, it does not require such a high degree of relational closeness. However, gender matters more for them because cheek-kissing often only happens between women or a man and a woman but not two men.\n\nP6 In contrast, in certain Arabian, African, and Asian countries, men can publicly hold hands or show physical affection as signs of brotherhood or friendship while these behaviors may suggest a romantic relationship in other parts of the world. Although men's touching is more normal in these cultures, physical contact between persons of opposite sexes who are not family members is negatively perceived in Arabian countries.\n\nP7 These factors could definitely affect the degree to which someone is comfortable with tactile(触觉的) communication and physical intimacy. Therefore, if you are someone who loves to show physical affection, you should not be afraid to show it or drastically change your behaviors—just ask for consent beforehand!",
+ "questions": [
+  {
+   "q": "What does the author say in the first paragraph about physical contact?",
+   "options": [
+    "Its role in interpersonal relationships is getting increasingly important.",
+    "It is becoming more acceptable to many who used to think it offensive.",
+    "Its absence might suggest a lack of warmth in interpersonal relationships.",
+    "It might prompt different responses from people of different social backgrounds."
+   ],
+   "answer": 2,
+   "explain": "题干 What does the author say in the first paragraph about physical contact? 问\"作者 在第一段就肢体接触说了什么\"，是对原文具体陈述的客观转述，不需要推断或归纳全文。 Q46 主干是 \"What does the author say about physical contact\"，中间插入的 in the first paragraph 是状语，限定作者发表此言…"
+  },
+  {
+   "q": "What does physical contact in communication suggest?",
+   "options": [
+    "What social class people belong to.",
+    "How civilized the communicators are.",
+    "What family background people come from.",
+    "How close the communicators' relationships are."
+   ],
+   "answer": 3,
+   "explain": "题干 What does physical contact in communication suggest? 问\"肢体接触暗示了什 么\"，答案是原文一条直接陈述，不涉及全文主旨或作者态度。 47. What does physical contact in communication suggest? A) What social class people belong to. B) How civilized the communi…"
+  },
+  {
+   "q": "What do we learn about people in high-contact cultures?",
+   "options": [
+    "They are sensitive to the way people express their emotions.",
+    "They take touching as a cultural norm in social interactions.",
+    "They attach great importance to close ties among people.",
+    "They tend to be more open in interpersonal relationships."
+   ],
+   "answer": 1,
+   "explain": "题干 What do we learn about people in high-contact cultures? 问\"我们对高接触文化的 人了解到了什么\"，要求复述原文对该群体的具体描述。 Q48 主干 \"What do we learn about people\"，in high-contact cultures 是后置定语，限 定 people 的身份。结构平铺直叙，无陷阱。 People from the rest of th…"
+  },
+  {
+   "q": "What do we learn about social customs in Arabian countries?",
+   "options": [
+    "Men can show friendship in public through physical affection.",
+    "Non-traditional romantic relationships are simply unacceptable.",
+    "Physical contact between unfamiliar people is negatively perceived.",
+    "People of different ages and genders show affection in different ways."
+   ],
+   "answer": 0,
+   "explain": "题干 What do we learn about social customs in Arabian countries? 问\"我们了解到阿拉 伯国家的社交风俗是什么\"，原文有直接描述，属客观信息复述。 Q49 主干 \"What do we learn about social customs\"，in Arabian countries 是后置定语 限定 social customs。结构平铺直叙，无陷阱。 In contrast, …"
+  },
+  {
+   "q": "What does the author tell us to do concerning tactile communication?",
+   "options": [
+    "Lay emphasis on nonverbal communication.",
+    "Learn to use appropriate body language first.",
+    "Pay attention to the differences between genders.",
+    "Take other people's preference into consideration."
+   ],
+   "answer": 3,
+   "explain": "题干 What does the author tell us to do concerning tactile communication? 问\"作者 就触觉沟通让我们做什么\"，对应原文最后一句的建议，是直接陈述而非推断。 Q50 主干 \"What does the author tell us to do\"，concerning tactile communication 是 concerning 引导的介词短语作状语，限定建议涉及…"
+  }
+ ]
+}

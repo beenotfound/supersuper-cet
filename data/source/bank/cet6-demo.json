@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet6-demo-2024",
+      "title": "2024年12月大学英语六级（模拟节选）",
+      "level": "CET6",
+      "year": "2024-12",
+      "durationMinutes": 130,
+      "tags": ["真题改编", "六级", "综合训练"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence 'In an age of easy answers, the ability to ask good questions matters more than ever.' You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+          "promptZh": "请以「In an age of easy answers, the ability to ask good questions matters more than ever.」为开头写一篇短文，可发表评论、举例或结合个人经历展开，词数 150–200 词。",
+          "reference": "In an age of easy answers, the ability to ask good questions matters more than ever. Search engines can supply a fact within seconds, but they cannot tell us what is worth asking. A good question opens a door; a ready answer often closes one.\n\nConsider the way science advances. Every breakthrough begins not with a solution but with someone noticing that the accepted explanation does not quite fit the evidence. The same is true in ordinary life. A student who asks why a formula works will remember it far longer than one who merely memorizes it, and an employee who questions a familiar routine may discover a simpler way of doing the job.\n\nCuriosity, moreover, is a form of courage. It means admitting that we do not know, and then doing something about it. In a world that rewards quick certainty, those who keep asking are the ones who keep learning.",
+          "wordLimit": 150,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题；文字稿见各题的 transcript 字段。",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What is the woman's research topic?",
+              "transcript": "Woman: Professor Hayes, do you have a minute? I would like to talk about my research proposal.\nMan: Of course, come in. I read the draft last night. Your topic on urban heat islands is promising, but the methodology worries me a little.\nWoman: I was afraid you would say that. I planned to collect temperature data from twelve sites across the city over three months.\nMan: Twelve sites is ambitious for one student, and three months may not be long enough to capture seasonal variation. Have you considered using satellite data?\nWoman: I did, but I was not sure whether I could interpret it without training.\nMan: The geography department runs a two-week workshop in January. Previous students found it very useful, and you would still need a few ground stations to check the accuracy of the images.\nWoman: That sounds much more manageable. Should I reduce the number of sites, then?\nMan: I would suggest six, chosen to represent different land uses: a park, a residential area, a shopping district and so on. And keep the fieldwork to six weeks in summer.\nWoman: Thank you. I will revise the proposal and send it to you by Friday.",
+              "options": [
+                "A. Satellite technology.",
+                "B. Urban heat islands.",
+                "C. Seasonal rainfall patterns.",
+                "D. City park design."
+              ],
+              "answer": "B",
+              "explanation": "教授看过初稿后说 Your topic on urban heat islands is promising，即女士的研究题目是城市热岛效应，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What does the professor think is the main problem with her plan?",
+              "transcript": "Woman: Professor Hayes, do you have a minute? I would like to talk about my research proposal.\nMan: Of course, come in. I read the draft last night. Your topic on urban heat islands is promising, but the methodology worries me a little.\nWoman: I was afraid you would say that. I planned to collect temperature data from twelve sites across the city over three months.\nMan: Twelve sites is ambitious for one student, and three months may not be long enough to capture seasonal variation. Have you considered using satellite data?\nWoman: I did, but I was not sure whether I could interpret it without training.\nMan: The geography department runs a two-week workshop in January. Previous students found it very useful, and you would still need a few ground stations to check the accuracy of the images.\nWoman: That sounds much more manageable. Should I reduce the number of sites, then?\nMan: I would suggest six, chosen to represent different land uses: a park, a residential area, a shopping district and so on. And keep the fieldwork to six weeks in summer.\nWoman: Thank you. I will revise the proposal and send it to you by Friday.",
+              "options": [
+                "A. Her topic is not original.",
+                "B. Her methodology needs improving.",
+                "C. She has not read enough literature.",
+                "D. She lacks a supervisor."
+              ],
+              "answer": "B",
+              "explanation": "教授说 the methodology worries me a little，随后指出十二个地点对一名学生而言过多、三个月可能不足以反映季节变化，说明研究方法需要改进，故选 B。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What does the professor suggest the woman do?",
+              "transcript": "Woman: Professor Hayes, do you have a minute? I would like to talk about my research proposal.\nMan: Of course, come in. I read the draft last night. Your topic on urban heat islands is promising, but the methodology worries me a little.\nWoman: I was afraid you would say that. I planned to collect temperature data from twelve sites across the city over three months.\nMan: Twelve sites is ambitious for one student, and three months may not be long enough to capture seasonal variation. Have you considered using satellite data?\nWoman: I did, but I was not sure whether I could interpret it without training.\nMan: The geography department runs a two-week workshop in January. Previous students found it very useful, and you would still need a few ground stations to check the accuracy of the images.\nWoman: That sounds much more manageable. Should I reduce the number of sites, then?\nMan: I would suggest six, chosen to represent different land uses: a park, a residential area, a shopping district and so on. And keep the fieldwork to six weeks in summer.\nWoman: Thank you. I will revise the proposal and send it to you by Friday.",
+              "options": [
+                "A. Use satellite data and fewer ground stations.",
+                "B. Interview residents in twelve areas.",
+                "C. Delay the project until next year.",
+                "D. Join the geography department."
+              ],
+              "answer": "A",
+              "explanation": "教授建议 Have you considered using satellite data，并提议把观测地点减少到六个、野外工作缩短为六周，故选 A。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What will the woman do by Friday?",
+              "transcript": "Woman: Professor Hayes, do you have a minute? I would like to talk about my research proposal.\nMan: Of course, come in. I read the draft last night. Your topic on urban heat islands is promising, but the methodology worries me a little.\nWoman: I was afraid you would say that. I planned to collect temperature data from twelve sites across the city over three months.\nMan: Twelve sites is ambitious for one student, and three months may not be long enough to capture seasonal variation. Have you considered using satellite data?\nWoman: I did, but I was not sure whether I could interpret it without training.\nMan: The geography department runs a two-week workshop in January. Previous students found it very useful, and you would still need a few ground stations to check the accuracy of the images.\nWoman: That sounds much more manageable. Should I reduce the number of sites, then?\nMan: I would suggest six, chosen to represent different land uses: a park, a residential area, a shopping district and so on. And keep the fieldwork to six weeks in summer.\nWoman: Thank you. I will revise the proposal and send it to you by Friday.",
+              "options": [
+                "A. Attend a workshop.",
+                "B. Collect data in six parks.",
+                "C. Send a revised proposal.",
+                "D. Present her findings."
+              ],
+              "answer": "C",
+              "explanation": "对话结尾女士说 I will revise the proposal and send it to you by Friday，即周五前提交修改后的研究计划，故选 C。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What did the headlines about the trial focus on?",
+              "transcript": "When a British research institute published the results of a six-month trial of the four-day working week last year, the headlines focused on one number: productivity. The companies taking part reported that output stayed the same or rose, even though employees worked one day less for the same pay. But the researchers were equally interested in what happened to the staff. Levels of stress and burnout fell sharply, and the number of people who said they intended to leave their jobs dropped by more than half. Sick leave also decreased, saving some firms more money than the extra day cost them. Not every sector found the change easy. Hospitals, shops and restaurants cannot simply close on Fridays, and the trial mostly involved office-based companies. The researchers therefore caution against treating the four-day week as a universal solution. What the evidence does suggest, they argue, is that many organizations waste a surprising amount of time on unnecessary meetings and administration, waste that shorter weeks make impossible to ignore.",
+              "options": [
+                "A. Employees' salaries.",
+                "B. Productivity.",
+                "C. Sick leave.",
+                "D. Working hours."
+              ],
+              "answer": "B",
+              "explanation": "短文开头说 the headlines focused on one number: productivity，即媒体标题主要关注生产率这一数字，故选 B。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What happened to the number of staff planning to leave their jobs?",
+              "transcript": "When a British research institute published the results of a six-month trial of the four-day working week last year, the headlines focused on one number: productivity. The companies taking part reported that output stayed the same or rose, even though employees worked one day less for the same pay. But the researchers were equally interested in what happened to the staff. Levels of stress and burnout fell sharply, and the number of people who said they intended to leave their jobs dropped by more than half. Sick leave also decreased, saving some firms more money than the extra day cost them. Not every sector found the change easy. Hospitals, shops and restaurants cannot simply close on Fridays, and the trial mostly involved office-based companies. The researchers therefore caution against treating the four-day week as a universal solution. What the evidence does suggest, they argue, is that many organizations waste a surprising amount of time on unnecessary meetings and administration, waste that shorter weeks make impossible to ignore.",
+              "options": [
+                "A. It fell by more than half.",
+                "B. It stayed the same.",
+                "C. It doubled.",
+                "D. It rose slightly."
+              ],
+              "answer": "A",
+              "explanation": "文中说 the number of people who said they intended to leave their jobs dropped by more than half，即想离职的人数减少了一半以上，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "Why do the researchers warn against a universal solution?",
+              "transcript": "When a British research institute published the results of a six-month trial of the four-day working week last year, the headlines focused on one number: productivity. The companies taking part reported that output stayed the same or rose, even though employees worked one day less for the same pay. But the researchers were equally interested in what happened to the staff. Levels of stress and burnout fell sharply, and the number of people who said they intended to leave their jobs dropped by more than half. Sick leave also decreased, saving some firms more money than the extra day cost them. Not every sector found the change easy. Hospitals, shops and restaurants cannot simply close on Fridays, and the trial mostly involved office-based companies. The researchers therefore caution against treating the four-day week as a universal solution. What the evidence does suggest, they argue, is that many organizations waste a surprising amount of time on unnecessary meetings and administration, waste that shorter weeks make impossible to ignore.",
+              "options": [
+                "A. Some industries cannot close for a day.",
+                "B. Employees disliked the change.",
+                "C. Productivity fell in every firm.",
+                "D. The trial lasted only six weeks."
+              ],
+              "answer": "A",
+              "explanation": "文中说 Hospitals, shops and restaurants cannot simply close on Fridays，即医院、商店和餐馆等行业无法每周停业一天，因此不能一概而论，故选 A。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What do the researchers say organizations often waste time on?",
+              "transcript": "When a British research institute published the results of a six-month trial of the four-day working week last year, the headlines focused on one number: productivity. The companies taking part reported that output stayed the same or rose, even though employees worked one day less for the same pay. But the researchers were equally interested in what happened to the staff. Levels of stress and burnout fell sharply, and the number of people who said they intended to leave their jobs dropped by more than half. Sick leave also decreased, saving some firms more money than the extra day cost them. Not every sector found the change easy. Hospitals, shops and restaurants cannot simply close on Fridays, and the trial mostly involved office-based companies. The researchers therefore caution against treating the four-day week as a universal solution. What the evidence does suggest, they argue, is that many organizations waste a surprising amount of time on unnecessary meetings and administration, waste that shorter weeks make impossible to ignore.",
+              "options": [
+                "A. Training new staff.",
+                "B. Unnecessary meetings and administration.",
+                "C. Customer phone calls.",
+                "D. Long lunch breaks."
+              ],
+              "answer": "B",
+              "explanation": "文末指出 many organizations waste a surprising amount of time on unnecessary meetings and administration，即大量时间浪费在不必要的会议和行政事务上，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "词库（A–O，共 15 个词，从中选出 10 个填入下列空白，每个词只能使用一次）：\nA. accuracy\nB. assess\nC. contribute\nD. crucial\nE. deliberately\nF. enormous\nG. gradually\nH. incorporate\nI. independently\nJ. majority\nK. monitor\nL. participate\nM. reluctant\nN. substantial\nO. verify\n\n说明：每题给出一个含空白的句子，请从词库中选择最恰当的单词填入空白处，答案填写单词本身。",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "Citizen science projects invite members of the public to ____ in real research, from counting birds to classifying distant galaxies.",
+              "answer": "participate",
+              "explanation": "选 L. participate。participate in 意为‘参与’，与 invite somebody to 搭配；此处指公众参与真实的科研项目。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "Volunteers can ____ data on a scale that no single research team could manage alone.",
+              "answer": "contribute",
+              "explanation": "选 C. contribute。contribute data 意为‘贡献数据’，说明志愿者能提供单个研究团队无法独立收集的海量数据。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "The ____ of this work can be done on a home computer in a few minutes.",
+              "answer": "majority",
+              "explanation": "选 J. majority。the majority of 意为‘大多数’，说明这项工作的大部分只要在家用电脑上几分钟就能完成。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "For scientists, the main challenge is to ____ the quality of data collected by untrained observers.",
+              "answer": "assess",
+              "explanation": "选 B. assess。assess the quality of data 意为‘评估数据质量’，符合科学家面对未经训练者所收集数据时的核心任务。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "Some projects ask volunteers to record the same object twice so that researchers can ____ the observations.",
+              "answer": "verify",
+              "explanation": "选 O. verify。verify 意为‘核实、验证’，研究者通过让志愿者重复记录来核对观察结果。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "Others use short online tests to make sure that participants can identify species with reasonable ____.",
+              "answer": "accuracy",
+              "explanation": "选 A. accuracy。with reasonable accuracy 意为‘以合理的准确度’，accuracy 为名词，作介词 with 的宾语。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "The potential of such projects is ____: one database now contains more than a billion records.",
+              "answer": "enormous",
+              "explanation": "选 F. enormous。enormous 意为‘巨大的’，与后文‘一个数据库如今已收录超过十亿条记录’相呼应。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "Careful design is therefore ____ if the data are to be trusted.",
+              "answer": "crucial",
+              "explanation": "选 D. crucial。crucial 意为‘至关重要的’，说明若想让数据可信，严谨的设计不可或缺。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "Some professional scientists remain ____ to rely on data they did not collect themselves.",
+              "answer": "reluctant",
+              "explanation": "选 M. reluctant。be reluctant to do 意为‘不愿做某事’，说明部分专业科学家仍不愿依赖不是自己收集的数据。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "Attitudes are changing ____, as a growing number of published papers rely on volunteer data.",
+              "answer": "gradually",
+              "explanation": "选 G. gradually。gradually 意为‘逐渐地’，修饰 are changing，表示随着越来越多论文采用志愿者数据，态度正在慢慢转变。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，每个段落前给出该段落的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nA. A vanishing experience\nWaiting used to be unavoidable. People queued at bus stops, sat in waiting rooms and stared out of train windows with nothing but their own thoughts for company. Smartphones have changed that. Today the average person reaches for a screen within seconds of being left alone, and the small gaps in the day that once invited reflection have almost disappeared.\n\nB. What the brain does when idle\nFor a long time, idleness was treated as wasted time. Brain imaging has challenged that assumption. When a person stops concentrating on a task, a network of regions becomes unusually active, linking memories and rehearsing possible futures. This activity appears to help people make sense of their experience, and it may partly explain why good ideas often arrive in the shower rather than at the desk.\n\nC. Creativity needs empty space\nWriters and scientists have often reported that their best ideas came during dull moments: on a walk, in a queue, while washing the dishes. The common factor is not the activity itself but the absence of a demanding task. When the mind is left to wander, it can combine fragments of knowledge in ways that a tightly scheduled day never allows. Some studios have even installed quiet rooms for exactly this purpose.\n\nD. A generation hooked on screens\nTeachers report that students now find it harder to sit quietly for even a few minutes. One survey of undergraduates found that those who spent more than four hours a day on social media were the least comfortable with silence, and the most likely to describe an unplanned hour as boring. The habit is not simply a matter of discipline; the devices are designed to reward constant attention.\n\nE. How schools and offices respond\nSome schools have introduced quiet minutes before lessons, when children are asked to do nothing but look out of the window. A few companies are experimenting with meeting-free mornings and walking breaks, and one firm in Sweden has replaced its weekly status meeting with a silent hour in which staff simply think. Early reports suggest that the changes are welcome, although hard evidence is still thin.\n\nF. A balance to be struck\nNone of this means that boredom should be romanticized. Chronic boredom is linked to low mood and risky behaviour, especially among teenagers, and few people would choose an empty day over a fulfilling one. The aim is not to fill every moment, nor to empty it completely, but to notice when our discomfort with stillness is doing us harm.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "When the mind is not occupied with a task, it begins to link ideas in unexpected ways.",
+              "options": [
+                "A. A vanishing experience",
+                "B. What the brain does when idle",
+                "C. Creativity needs empty space",
+                "D. A generation hooked on screens",
+                "E. How schools and offices respond",
+                "F. A balance to be struck"
+              ],
+              "answer": "B",
+              "explanation": "B 段说 When a person stops concentrating on a task, a network of regions becomes unusually active, linking memories and rehearsing possible futures，即大脑空闲时会建立意想不到的联系，故选 B。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Constant access to entertainment has made waiting almost disappear from everyday life.",
+              "options": [
+                "A. A vanishing experience",
+                "B. What the brain does when idle",
+                "C. Creativity needs empty space",
+                "D. A generation hooked on screens",
+                "E. How schools and offices respond",
+                "F. A balance to be struck"
+              ],
+              "answer": "A",
+              "explanation": "A 段指出 Today the average person reaches for a screen within seconds of being left alone, and the small gaps in the day ... have almost disappeared，即等待几乎从日常生活中消失，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Some employers now deliberately build gaps into the working day.",
+              "options": [
+                "A. A vanishing experience",
+                "B. What the brain does when idle",
+                "C. Creativity needs empty space",
+                "D. A generation hooked on screens",
+                "E. How schools and offices respond",
+                "F. A balance to be struck"
+              ],
+              "answer": "E",
+              "explanation": "E 段提到 companies are experimenting with meeting-free mornings and walking breaks，并说一家瑞典公司把周会改为安静思考的一小时，说明一些雇主有意在工作日中留出空隙，故选 E。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Boredom is useful, but too much of it may damage our well-being.",
+              "options": [
+                "A. A vanishing experience",
+                "B. What the brain does when idle",
+                "C. Creativity needs empty space",
+                "D. A generation hooked on screens",
+                "E. How schools and offices respond",
+                "F. A balance to be struck"
+              ],
+              "answer": "F",
+              "explanation": "F 段说 None of this means that boredom should be romanticized，并指出 Chronic boredom is linked to low mood and risky behaviour，即无聊有益但过度则有害，需要平衡，故选 F。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "For young people in particular, empty time has become hard to tolerate.",
+              "options": [
+                "A. A vanishing experience",
+                "B. What the brain does when idle",
+                "C. Creativity needs empty space",
+                "D. A generation hooked on screens",
+                "E. How schools and offices respond",
+                "F. A balance to be struck"
+              ],
+              "answer": "D",
+              "explanation": "D 段说 Teachers report that students now find it harder to sit quietly，并提到每天使用社交媒体超过四小时的学生最难忍受沉默，说明年轻人尤其难以忍受空白时间，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: When physicians describe the placebo effect, they usually mean the improvement patients experience after receiving an inactive treatment simply because they expect to feel better. For decades, medical students were taught that this was a nuisance, a statistical noise that made trials harder to interpret. More recent research has complicated that view. Brain scans show that when patients believe a painkiller has been given, the brain releases its own natural pain-relieving chemicals. In other words, expectation is not merely a state of mind; it produces measurable physical changes. The finding has practical consequences. Trials must now be designed so that neither patients nor doctors know who is receiving the real drug, since even a doctor's optimism can influence the result. Some researchers go further and argue that the effect should be used rather than eliminated: if a doctor's manner and a patient's expectations can improve outcomes, then those aspects of care deserve as much attention as the prescription itself. Critics warn that this reasoning can be taken too far, and that no placebo has ever cured a broken bone. Both sides agree, however, that the mind's influence on the body is far from imaginary.\n\nPassage 2: For anyone who has tried to sleep on a plane, the appeal of the night train is obvious. Yet for years, Europe's sleeper services seemed to be disappearing: routes were cut, carriages aged, and cheap short-haul flights took most of the passengers. Recently the trend has reversed. Several governments have announced new sleeper routes, and a number of private companies are buying second-hand carriages to compete with the state railways. The revival owes much to climate policy: a train journey from Paris to Vienna produces a small fraction of the emissions of the equivalent flight. But the operators insist that passengers are not only motivated by green concerns. Travelling overnight saves the cost of a hotel room and an entire day of travelling, which matters to business travellers and families alike. Difficulties remain. Sleeper trains are expensive to run, and crossing borders still involves paperwork and different signalling systems. Even so, tickets for many new routes sell out within days of going on sale, suggesting that demand, at least, is not a problem.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) How was the placebo effect traditionally regarded in medical education?",
+              "options": [
+                "A. As a valuable treatment.",
+                "B. As a nuisance in trials.",
+                "C. As proof of drug effectiveness.",
+                "D. As a psychological cure."
+              ],
+              "answer": "B",
+              "explanation": "第一段说 medical students were taught that this was a nuisance, a statistical noise，即传统上安慰剂效应被视为试验中的干扰因素，故选 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What do brain scans show about expectation?",
+              "options": [
+                "A. It produces measurable physical changes.",
+                "B. It has no effect on the body.",
+                "C. It reduces the need for painkillers.",
+                "D. It affects only emotional states."
+              ],
+              "answer": "A",
+              "explanation": "第二段说 expectation is not merely a state of mind; it produces measurable physical changes，即期待会产生可测量的生理变化，故选 A。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) Why must trials be designed as double-blind?",
+              "options": [
+                "A. To reduce the cost of research.",
+                "B. Because a doctor's optimism may influence the result.",
+                "C. Because patients refuse to take real drugs.",
+                "D. To speed up the approval process."
+              ],
+              "answer": "B",
+              "explanation": "第三段说 Trials must now be designed so that neither patients nor doctors know who is receiving the real drug, since even a doctor's optimism can influence the result，故选 B。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What is the critics' concern?",
+              "options": [
+                "A. The effect has never been observed.",
+                "B. The reasoning can be carried too far.",
+                "C. Doctors ignore patients' expectations.",
+                "D. Trials are no longer reliable."
+              ],
+              "answer": "B",
+              "explanation": "第四段说 Critics warn that this reasoning can be taken too far, and that no placebo has ever cured a broken bone，即批评者担心这种推理被推得过远，故选 B。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) Why did night trains decline in the past?",
+              "options": [
+                "A. Cheap short-haul flights took most of the passengers.",
+                "B. Carriages were too comfortable.",
+                "C. Governments banned sleeper services.",
+                "D. Tickets cost too much."
+              ],
+              "answer": "A",
+              "explanation": "Passage 2 第一段提到 routes were cut, carriages aged, and cheap short-haul flights took most of the passengers，说明廉价短途航班抢走了大部分乘客，故选 A。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What is a major reason for the revival of night trains?",
+              "options": [
+                "A. Climate policy and lower emissions.",
+                "B. New railway technology.",
+                "C. Falling ticket prices.",
+                "D. Bans on short flights."
+              ],
+              "answer": "A",
+              "explanation": "Passage 2 第二段说 The revival owes much to climate policy，并提到从巴黎到维也纳的火车排放仅为同等航班的一小部分，故选 A。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What practical advantage do overnight trains offer?",
+              "options": [
+                "A. They save the cost of a hotel room and a day of travelling.",
+                "B. They include free meals on board.",
+                "C. They are faster than planes.",
+                "D. They stop at every small station."
+              ],
+              "answer": "A",
+              "explanation": "Passage 2 第二段指出 Travelling overnight saves the cost of a hotel room and an entire day of travelling，故选 A。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "近年来，中国的博物馆数量迅速增长，越来越多的年轻人把参观博物馆当作一种休闲方式。许多博物馆借助数字技术，把珍贵文物以虚拟现实的形式呈现，使观众能够近距离欣赏那些平时无法接触的展品。与此同时，博物馆还通过社交媒体与公众互动，推出丰富多彩的教育活动。专家认为，博物馆不仅是保存历史的场所，也是连接过去与未来的桥梁。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "In recent years, the number of museums in China has grown rapidly, and more and more young people regard visiting museums as a way of spending their leisure time. Many museums use digital technology to present precious cultural relics in virtual reality, enabling visitors to appreciate at close range exhibits that are normally inaccessible. Meanwhile, museums interact with the public through social media and offer a variety of educational activities. Experts believe that museums are not only places where history is preserved but also bridges connecting the past and the future.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

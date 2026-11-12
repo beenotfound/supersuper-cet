@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-real-2025-12-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-12",
+ "paperTitle": "2025年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "sectionOrder": 4,
+ "passage": "At home, a typical student may be reading a course text, replying to messages and half-watching a video, all at the same time. People who do this often describe themselves as good at multitasking. Research tells a different story. When the brain switches between two tasks, it does not process both at once; it moves its attention from one to the other, and each switch costs a little time. The effect is small when switches are rare, but it adds up when messages arrive every few minutes.\n\nIn one study, students were asked to read a chapter while receiving short messages. Compared with a quiet group, they took about a quarter longer to finish and later remembered less of what they had read. Another line of research found that students who used their phones during lectures took notes of a lower quality and were more likely to miss the connection between ideas.\n\nThere is a trap here. Because messages are brief, students feel that they have lost only a few seconds. In fact, they must rebuild their understanding of the text each time they return to it, and that rebuilding is the expensive part. Some researchers call this attention residue: part of the mind remains on the conversation even after the phone is put away.\n\nExperiments with simpler solutions have been encouraging. Students who left their phones in another room, or who turned off notifications for a single hour, reported no great difficulty and finished their work faster. The lesson is not that technology is harmful, but that attention is limited. It deserves the same care that we give to any other valuable resource.",
+ "questions": [
+  {
+   "q": "What do people who multitask often believe about themselves?",
+   "options": [
+    "They finish every task more quickly.",
+    "They are good at handling several tasks at once.",
+    "They remember more than other people.",
+    "They need fewer breaks than others."
+   ],
+   "answer": 1,
+   "explain": "第一段说同时做几件事的人常自称擅长多任务处理，研究却给出不同结论，故选 B。"
+  },
+  {
+   "q": "What did the study on reading and messages find?",
+   "options": [
+    "Short messages improved students' memory of the text.",
+    "Quiet students read more slowly than others.",
+    "Students ignored most of the messages they received.",
+    "Students took longer to finish and remembered less."
+   ],
+   "answer": 3,
+   "explain": "第二段说边读边收短信的一组比安静组多花约四分之一时间，且记住的内容更少，故选 D。"
+  },
+  {
+   "q": "What does attention residue mean?",
+   "options": [
+    "The tiredness caused by long hours of reading.",
+    "The habit of checking messages late at night.",
+    "Part of the mind staying on a previous task.",
+    "A technique for taking better notes in class."
+   ],
+   "answer": 2,
+   "explain": "第三段把 attention residue 解释为放下手机后仍有一部分注意力留在刚才的对话上，故选 C。"
+  },
+  {
+   "q": "What solution does the text suggest?",
+   "options": [
+    "Keep phones away or turn off notifications.",
+    "Stop using technology for studying entirely.",
+    "Study only in the early morning.",
+    "Read the same chapter twice every day."
+   ],
+   "answer": 0,
+   "explain": "最后一段说把手机放到另一个房间或关闭一小时通知，学生并没有太大困难，反而更快完成任务，故选 A。"
+  }
+ ]
+}

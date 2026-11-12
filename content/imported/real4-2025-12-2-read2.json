@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-12-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年12月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-2",
+ "paperTitle": "2025年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "passage": "P1 Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams.\n\nP2 But scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages.\n\nP3 Since your baby doesn't dream at this stage of brain development, it's safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life.\n\nP4 Are you wondering, what do babies dream about? Good question, but the answer is nothing! So, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall.\n\nP5 Foulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too.\n\nP6 Dreams of very small kids are usually just snapshots(快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes, \"Children's dream life…seems to be similar to their waking imagination and narration.\" Kids ages 5 – 9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9.\n\nP7 So, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+ "questions": [
+  {
+   "q": "What do scientists think of REM?",
+   "options": [
+    "It is a sign of dreaming in adults and infants alike.",
+    "It is essential to human beings' language learning.",
+    "It determines the formation of connections in the brain.",
+    "It performs a different function in babies than in adults."
+   ],
+   "answer": 3,
+   "explain": "What do scientists think of REM? 直接问科学家对 REM 的看法，是对原文具体观点的客 观转述。 51. What do scientists think of REM? A) It is a sign of dreaming in adults and infants alike. B) It is essential to human beings' language learning. C) It …"
+  },
+  {
+   "q": "What can we infer about nightmares from the passage?",
+   "options": [
+    "They occur often in people with an active imagination.",
+    "They occur in people suffering from emotional stress.",
+    "They vary in different stages of brain development.",
+    "They appear in the sleep of both adults and infants."
+   ],
+   "answer": 1,
+   "explain": "What can we infer about nightmares from the passage? 含 infer，属推断而非细节。 Q52 主干 \"What can we infer about nightmares\"，about 引出推断对象，from the passage 是状语，结构简单。 Nightmares stem from exposure to trauma(创伤), an overactive imagina…"
+  },
+  {
+   "q": "What is the aim of psychologist David Foulkes' study?",
+   "options": [
+    "To reveal the secrets of children's dreams.",
+    "To see if children start dreaming at age two.",
+    "To solve the mystery of dreaming and brain growth.",
+    "To confirm the general consensus on when kids dream."
+   ],
+   "answer": 0,
+   "explain": "What is the aim of psychologist David Foulkes' study? 直接问研究目的，是对原文目的 句的客观转述。 Q53 结构是 \"What is the aim of psychologist David Foulkes' study?\"，of 短语限定 aim，psychologist 是 David Foulkes 的同位身份说明，无陷阱。 Psychologist David Foulke…"
+  },
+  {
+   "q": "What are Foulkes' findings about kids' dreams?",
+   "options": [
+    "They feature strange animals.",
+    "They are unsurprising to adults.",
+    "They grow and evolve with age.",
+    "They reflect kids' waking life."
+   ],
+   "answer": 2,
+   "explain": "What are Foulkes' findings about kids' dreams? 直接问研究结论是什么，是细节题。 Q54 结构是 \"What are Foulkes' findings about kids' dreams?\"，about kids' dreams 限定 findings 的范围，没有从句也没有否定，无陷阱。 Foulkes' findings are unsurprising. Basically, li…"
+  },
+  {
+   "q": "What can we assume about babies who appear upset upon waking?",
+   "options": [
+    "They have been roused against their will.",
+    "They have been disturbed by a nightmare.",
+    "They have trouble recollecting the images of their dreams.",
+    "They have been affected by something other than dreaming."
+   ],
+   "answer": 3,
+   "explain": "What can we assume about babies who appear upset upon waking? 含 assume，按 推断题处理。 Q55 结构是 \"What can we assume about babies who appear upset upon waking?\"， who 引导定语从句修饰 babies，upon waking 是时间状语 \"一醒来时\"，整句无否定无比 较，理解关键是把 who 从…"
+  }
+ ]
+}

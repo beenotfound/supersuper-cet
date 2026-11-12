@@ -1,0 +1,71 @@
+{
+ "id": "real4-2022-12-3-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2022年12月四级真题 第3套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-3",
+ "paperTitle": "2022年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "P1 Research shows that in developed countries, more affluent and educated people tend to consume higher-quality diets—including more fruits and vegetables, fish and whole grains. On the contrary, economically disadvantaged people report diets that are nutrient-poor and energy-dense. They are less likely to have food-purchasing habits that conform to public health recommendations.\n\nP2 These dietary differences are often accompanied by higher rates of obesity and diabetes among lower-income people. This relationship between social class and diet quality and health is extensively documented. However, the research does not explain why this is the case—a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases.\n\nP3 Public-health initiatives to promote healthy diets often focus on providing nutrition education and recipes(食谱). These approaches, however, often presume less food literacy (i.e., food knowledge and skills) among low-income people. Are unhealthy diets really the result of poor choices, limited food skills and knowledge?\n\nP4 Research suggests that adults in food-insecure households are just as likely as those in food- secure households to adjust recipes to make them more healthy. They are also just as proficient in food preparation and cooking skills. There is no indication that increasing food skills or budgeting skills will reduce food insecurity.\n\nP5 Instead, disadvantaged groups are constrained by their economic, material and social circumstances. For example, low income is the strongest predictor of food insecurity in Canada, where one in eight households experiences insufficient access to nutritious foods.\n\nP6 It's well-established that food prices are an important determinant of food choice. Low-income households report that they find it difficult to adopt dietary guidelines because food prices are a barrier to improving their diets.\n\nP7 When researchers estimate the cost of diets people actually eat, higher-quality diets are typically more costly.\n\nP8 While this may be so, it does not, in itself, prove that healthy diets are necessarily more expensive or cost-prohibitive. After all, not all socioeconomically disadvantaged people consume poor diets.\n\nP9 We can easily think of a number of foods and recipes that are both inexpensive and nutritious. The internet is full of recipes for \"eating well on a budget.\"",
+ "questions": [
+  {
+   "q": "What can we learn from research on diets in developed countries?",
+   "options": [
+    "Dietary recommendations are not fit for underprivileged people.",
+    "People from different social groups vary in their dietary habits.",
+    "People's choice of food depends on their individual taste",
+    "There is no consensus on what high-quality diets are."
+   ],
+   "answer": 1,
+   "explain": "What can we learn from research on diets in developed countries 没有 infer/imply 等 推断信号，问的是研究的客观结论。 题干 What can we learn from research on diets in developed countries 是 What 引导 的特殊疑问句，主干是 What can we learn，后接介词短语 from rese…"
+  },
+  {
+   "q": "What does the author say is important in formulating policies to improve diets and health?",
+   "options": [
+    "A better understanding of the relationship between social class and health.",
+    "A greater emphasis on studying the cause of obesity and chronic diseases.",
+    "Prioritizing the provision of better nutrition for lower classes.",
+    "Designing education programs and initiatives on public health."
+   ],
+   "answer": 0,
+   "explain": "What does the author say is important 直接索取作者的明示判断，不是要考生自己 推断。 题干 What does the author say is important in formulating policies to improve diets and health 是嵌套疑问句，主语 the author，谓语 say，宾语为省略 that 的从句 What ... is important …"
+  },
+  {
+   "q": "What does research reveal about adults in food-insecure households?",
+   "options": [
+    "Their eating habits need to be changed.",
+    "Their food literacy has been improving.",
+    "They do not pay much attention to their food recipes.",
+    "They do not lack food knowledge or budgeting skills."
+   ],
+   "answer": 3,
+   "explain": "What does research reveal about adults in food-insecure households 问的是研究客观 结论，正确项是原文一句的同义改写。 题干 What does research reveal about adults in food-insecure households 主干 research reveal，宾语为 What，about adults in food-insecure…"
+  },
+  {
+   "q": "What would help improve food security among the disadvantaged groups in Canada?",
+   "options": [
+    "Teaching them budgeting skills.",
+    "Increasing their food choices.",
+    "Enabling them to have more access to nutritious foods.",
+    "Taking more effective measures to increase food supplies."
+   ],
+   "answer": 2,
+   "explain": "What would help improve food security among the disadvantaged groups in Canada 问对应措施，原文应有明确陈述，不必推断。 题干 What would help improve food security among the disadvantaged groups in Canada 主干 What would help improve food securi…"
+  },
+  {
+   "q": "What does the author suggest disadvantaged people do to improve their health?",
+   "options": [
+    "Adopt a positive attitude towards dietary guidelines.",
+    "Choose diets that are both healthy and affordable.",
+    "Make sure to purchase healthy foods on the internet.",
+    "Change their eating habits and consumption patterns."
+   ],
+   "answer": 1,
+   "explain": "What does the author suggest disadvantaged people do to improve their health 问 作者明示的建议，不是要考生跨段推断。 题干 What does the author suggest disadvantaged people do to improve their health 是含 suggest 的特殊疑问句，宾语从句省略了 that 与 should，故 …"
+  }
+ ]
+}

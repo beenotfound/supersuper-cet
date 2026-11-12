@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-10-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-10",
+ "paperTitle": "大学英语四级标准模拟卷 10",
+ "paperLevel": "cet4",
+ "paperYear": "mock-10",
+ "sectionOrder": 0,
+ "prompt": "Directions: Suppose your university has started using delivery robots, self-service machines and other automated services on campus. Write an essay on the advantages and disadvantages of bringing robots and automation into campus life. Your essay should include: 1) examples of the changes automation has brought to your campus; 2) the benefits and the problems it creates; 3) your own view on how the university should use such technology. You should write at least 120 words but no more than 180 words.",
+ "reference": "Over the past year our campus has changed in ways few of us expected. Delivery robots now cross the square with breakfast, a chatbot answers questions in the library, and course registration is handled by an algorithm. These changes bring real benefits. Meals and parcels arrive faster, the long queues outside the canteen have almost disappeared, and students with part-time jobs find it easier to save time. Automation also frees staff from repetitive work, so they can spend more energy on teaching and advising.\n\nThe problems are equally real. Some students say they no longer talk to the people who serve them, and older staff worry that their jobs are being quietly replaced. When a system fails, one small technical fault can stop everything for a whole afternoon.\n\nIn my view, the university should welcome automation without letting it replace human contact. Robots can carry parcels; only people can give advice and encouragement. If technology handles the routine tasks and people keep the work that needs understanding, the campus will lose nothing that matters.",
+ "keyPoints": []
+}

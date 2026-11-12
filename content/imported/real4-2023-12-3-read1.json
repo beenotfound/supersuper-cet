@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-12-3-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年12月四级真题 第3套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-12-3",
+ "paperTitle": "2023年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "passage": "P1 In the history of horse racing, few horses have captured the affection of the British public like Red Rum. Today, three decades after his retirement, he is still one of the best-known and most beloved racehorses of all time.\n\nP2 Red Rum was passed around to several owners before being purchased for Noel Le Mar. The agent who made the purchase was the now-legendary horse trainer Donald \"Ginger\" McCain.\n\nP3 It wasn't apparent at the time, but Red Rum had a serious bone disease in his foot. For many horses (and many trainers) this would mean the end of a racing career before it even began. For Ginger and Red Rum, though, it was just an obstacle to greatness that had to be overcome.\n\nP4 Red Rum's true talent came out in steeplechases( 障碍赛马). His power, speed and jumping ability carried him to his first Grand National title in 1973. The very next year, Red Rum returned to take his second title. He was the first horse to take successive firsts since Reynoldstown in 1935-1936. Red Rum's spirit and grace had already begun to charm the leagues of Grand National fans.\n\nP5 In the following two years, Red Rum lost out on the title, coming in second both times. When he returned in 1977 to try again, he was largely regarded as past his prime. He was 12 years old and not expected to place highly. He surprised sporting fans around the world when he came in a remarkable 25 lengths ahead of the nearest horse, taking his third Grand National win. To this day, Red Rum's third win is known as one of the greatest moments in horse racing history.\n\nP6 Red Rum was headed for the Grand National once again in 1978 but suffered an injury in one of his heels shortly before the race. He was retired soon after, but his public life and fame by no means decreased with the end of his career. Red Rum traveled all over the country for various engagements. He often led pre-race parades at Aintree Racecourse and was a popular guest at charity benefits and public events.",
+ "questions": [
+  {
+   "q": "What do we learn from the passage about Red Rum the racehorse?",
+   "options": [
+    "He captured public affection long before he won national titles.",
+    "He won enormous fame and love from British people.",
+    "He became a myth three decades after his retirement.",
+    "He owed his great success to several well-known horse trainers."
+   ],
+   "answer": 1,
+   "explain": "What do we learn from the passage about Red Rum the racehorse 问对赛马的整体了 解，落点仍是文中可直接找到的客观陈述，而非要求读者跨段推断或归纳全文主旨。 What do we learn from the passage about Red Rum the racehorse 主干是 What do we learn，介词短语 from the passage 表来源，ab…"
+  },
+  {
+   "q": "What did the serious bone disease in Red Rum's foot mean to himself and his trainer?",
+   "options": [
+    "It was simply a hindrance they had to get over to excel.",
+    "It was surely a disadvantage though not considered fatal.",
+    "It was actually the end of a racing career that had just begun.",
+    "It was really a major obstacle hard to overcome on their own."
+   ],
+   "answer": 0,
+   "explain": "题干问 the serious bone disease 对二者意味着什么，答案是一句可直接从原文复制的评 价，不需要推断。 47. What did the serious bone disease in Red Rum's foot mean to himself and his trainer? A) It was simply a hindrance they had to get over to excel. B) It wa…"
+  },
+  {
+   "q": "What does the author say Red Rum did with his power, speed and jumping ability?",
+   "options": [
+    "He won his first Grand National title at 12.",
+    "He took two firsts successively in 1935-1936.",
+    "He surprised sporting fans worldwide in 1973.",
+    "He took three Grand National wins in the 1970s."
+   ],
+   "answer": 3,
+   "explain": "What does the author say Red Rum did with his power, speed and jumping ability 问 凭这三种能力做成了什么，原文里必有承接句直接给出结果。 What does the author say Red Rum did with his power, speed and jumping ability 句 中 the author say 是插入性主语从句框架，真正…"
+  },
+  {
+   "q": "What did people generally think of Red Rum when he returned to the racecourse in 1977?",
+   "options": [
+    "He had already passed the peak of his racing life.",
+    "He would have no rival in Grand National steeplechases.",
+    "He had lost his charm with the leagues of Grand National fans.",
+    "He could be expected to repeat his glory in the prime of his career."
+   ],
+   "answer": 0,
+   "explain": "What did people generally think of Red Rum when he returned to the racecourse in 1977 问的是原文中直接表述过的公众看法，不需要跨段推断。 What did people generally think of Red Rum when he returned to the racecourse in 1977 主干 What did people thi…"
+  },
+  {
+   "q": "What became of Red Rum after his career ended?",
+   "options": [
+    "He suffered from severe pain in a heel.",
+    "He spent almost all his time traveling.",
+    "He lived on various charity benefits.",
+    "He remained famous and popular."
+   ],
+   "answer": 3,
+   "explain": "What became of Red Rum after his career ended 问退役后的整体情况，原文末段直接 给出概括语句，无需跨段归纳。 What became of Red Rum after his career ended 主干 What became of Red Rum， become of 是固定搭配，意为“……后来怎样了”，时间状语从句 after his career ended 限 定时间范围。考生容…"
+  }
+ ]
+}

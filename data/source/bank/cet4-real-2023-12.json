@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-real-2023-12",
+      "title": "2023年12月大学英语四级真题风格卷（原创题面）",
+      "level": "CET4",
+      "year": "2023-12",
+      "durationMinutes": 130,
+      "tags": ["真题风格", "2023-12", "原创题面"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Write a short passage to describe the most impressive campus activity you have taken part in. Your passage should include: 1) what the activity was and when it took place; 2) what you did during the activity; 3) how you felt about it and why it impressed you. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "请写一篇短文，描述你参加过的一次最令人印象深刻的校园活动。内容包括：1）活动是什么、什么时候举行；2）你在活动中做了什么；3）你的感受，以及这次活动为何令你印象深刻。词数 120–180 词。",
+          "reference": "Last October I joined the International Food Festival on the sports ground, and it remains the most impressive campus activity I have ever taken part in. Our class was asked to run a stall serving dumplings, while students from twelve other countries cooked their own dishes.\n\nI arrived at seven in the morning to help set up the tables. My job was to fold dumplings, which sounded easy until the first twenty fell apart in the pot. A retired cook from the canteen stood beside me and showed me how much filling to use, and by noon I could make a neat row without thinking. In the afternoon I walked around the stalls, tasting food I could not name and trying to repeat the names correctly.\n\nWhat impressed me most was not the food but the noise: four hundred students laughing, arguing about recipes and asking each other questions. For one day the campus felt like a small world, and I understood that a shared meal can do what a lecture about culture cannot.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供（本卷无音频，请先阅读下面的文字稿再做题）。Conversation One 对应第 1–4 题，Passage One 对应第 5–8 题。\n\nConversation One:\nMan: Good morning. I am here about the swimming course that starts next month. The website says registration opened yesterday, but when I tried to sign up it told me the class was full.\nWoman: Let me have a look. Ah, yes - the Tuesday evening class filled up within two hours. It is always the most popular one because the instructor is very good with beginners.\nMan: That is exactly why I wanted it. I have never learned to swim properly, and I would rather not be in a class with children.\nWoman: I understand. There is a Thursday evening class with the same instructor, and there are still six places. It runs from seven to eight.\nMan: Thursday is difficult for me. I have a lab report due every Friday morning. What about the weekend?\nWoman: On Saturdays we have an adult beginners' class at ten, but that one is taught by a different instructor, a former national team swimmer. She is stricter, but students who finish her course usually swim very well.\nMan: Stricter sounds fine. I need someone who will tell me what I am doing wrong. How much is it?\nWoman: For students it is forty yuan for eight lessons, and you also need a medical form signed by the campus clinic. You can download it from the sports centre website.\nMan: Do I need to bring my own cap and goggles?\nWoman: A cap is required, but we lend goggles to beginners for the first month. Just bring your student card on Saturday.\nMan: Great. I will fill in the form this afternoon and come back tomorrow.\n\nPassage One:\nSitting for long periods is often called the new smoking, and office workers in many countries now have standing desks to prove it. But a study from Australia suggests that the position of the body matters less than what people do during the day. Researchers followed three thousand office employees for five years, measuring how long they sat, how often they stood up and how much they moved. The results were unexpected. People who sat for eight hours but took a five-minute walk every hour had healthier hearts than people who stood still at a desk for eight hours. Standing, it turns out, is not exercise. The team also found that the total amount of movement mattered more than one long trip to the gym. Employees who walked for two or three minutes every hour, even just to the printer and back, showed lower blood pressure than those who exercised hard twice a week and sat for the rest of the time. The lead author explains the reason simply: when muscles are still for a long time, the body stops using sugar from the blood efficiently, and short, frequent movements switch that process back on. The message, she says, is not that gyms are a waste of time. It is that a visit to the gym cannot undo a day of stillness, and that small habits are easier to keep than heroic ones. Several companies that joined the study have since introduced alarms that remind staff to stand up, and one manager reported that the short walks have become the place where new ideas are shared.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Why did the man go to the sports centre?",
+              "transcript": "",
+              "options": [
+                "A. To book a private swimming lesson.",
+                "B. To meet the swimming instructor.",
+                "C. To ask why he could not sign up for a class.",
+                "D. To collect a medical form."
+              ],
+              "answer": "C",
+              "explanation": "男士开场说明来意：网站上报名，但系统提示班级已满，因此他来问原因，故选 C。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "Why is the Tuesday evening class so popular?",
+              "transcript": "",
+              "options": [
+                "A. The instructor is good with beginners.",
+                "B. It is the cheapest class on offer.",
+                "C. It is held in a newly built pool.",
+                "D. It is taught by a former national swimmer."
+              ],
+              "answer": "A",
+              "explanation": "女士说 It is always the most popular one because the instructor is very good with beginners，故选 A；前国家队选手教的是周六班，D 张冠李戴。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What do we learn about the instructor of the Saturday class?",
+              "transcript": "",
+              "options": [
+                "A. She teaches children only.",
+                "B. She is stricter than the other instructor.",
+                "C. She has just joined the sports centre.",
+                "D. She gives private lessons only."
+              ],
+              "answer": "B",
+              "explanation": "女士说周六班由另一位教练任教，她 is stricter，即要求更严格，故选 B。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What does the man have to do before Saturday?",
+              "transcript": "",
+              "options": [
+                "A. Buy a pair of goggles.",
+                "B. Pay for the eight lessons by card.",
+                "C. Borrow a swimming cap from a friend.",
+                "D. Have a medical form signed at the campus clinic."
+              ],
+              "answer": "D",
+              "explanation": "女士说 you also need a medical form signed by the campus clinic，男士表示下午就填表，可见他需先到校医院签署体检表，故选 D；泳镜可借用、泳帽自带，A、C 与原文不符。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What did the Australian researchers measure?",
+              "transcript": "",
+              "options": [
+                "A. How much coffee the employees drank.",
+                "B. How long the employees sat, stood and moved.",
+                "C. The number of stairs in each office building.",
+                "D. The size of the employees' desks."
+              ],
+              "answer": "B",
+              "explanation": "短文说研究者测量 how long they sat, how often they stood up and how much they moved，即坐、站与活动的时间，故选 B。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What was the unexpected finding of the study?",
+              "transcript": "",
+              "options": [
+                "A. Short walks every hour were better for the heart than standing still.",
+                "B. Standing desks caused back pain.",
+                "C. Employees who went to the gym were the healthiest.",
+                "D. Sitting for eight hours had no effect at all."
+              ],
+              "answer": "A",
+              "explanation": "文中说结果是出乎意料的：每小时散步五分钟的人比站着不动八小时的人心脏更健康，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "Why do frequent short movements help, according to the lead author?",
+              "transcript": "",
+              "options": [
+                "A. They burn more energy than a gym class.",
+                "B. They reduce the total time people spend sitting.",
+                "C. They make the muscles much stronger.",
+                "D. They help the body use sugar in the blood efficiently."
+              ],
+              "answer": "D",
+              "explanation": "短文解释原因是 the body stops using sugar from the blood efficiently，而短促的频繁活动能重新开启这一过程，故选 D。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the lead author emphasize?",
+              "transcript": "",
+              "options": [
+                "A. Gyms are a complete waste of money.",
+                "B. Employees should stand all day long.",
+                "C. A visit to the gym cannot undo a day of stillness.",
+                "D. Short walks are better than all other exercise."
+              ],
+              "answer": "C",
+              "explanation": "作者强调 a visit to the gym cannot undo a day of stillness，即健身房的锻炼无法抵消一整天的静坐，故选 C；她并未说健身房纯属浪费，A 过于绝对。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "从下面 A–O 词库中为短文中的 26–35 空选出最恰当的单词，每个词只能使用一次。\n\n词库：\nA. almost\nB. complete\nC. expect\nD. fixed\nE. gradually\nF. join\nG. learn\nH. likely\nI. pleasure\nJ. prepare\nK. rarely\nL. share\nM. simple\nN. tired\nO. whole\n\n短文：\nFew habits have changed as quickly as the family dinner. Thirty years ago most parents could (26) that everyone would be at the table by seven; today work, sport and screens make that (27) impossible. Sociologists who study family life are not surprised. What does surprise them is how much is lost when the shared meal disappears. Families that eat together at least four times a week (28) far more about each other's lives, and children in such families are (29) to do well at school. The meal also passes on culture: recipes, manners and stories travel from one generation to the next around a table, not through a screen. Some busy households now keep one (30) dinner a week and treat it as an appointment that cannot be moved. Others (31) the cooking among all members, so that nobody has to (32) a whole meal alone. Experts advise parents to keep the food plain and to let children (33) the conversation. A (34) dish cooked by a child may be the beginning of a lifelong habit. The point, they say, is not the food but the (35) of sitting down together.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "(26) Thirty years ago most parents could ____ that everyone would be at the table by seven.",
+              "answer": "expect",
+              "explanation": "选 C. expect。expect that... 意为「预料到、指望」，与后半句如今「几乎不可能」形成时间对比。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "(27) Today work, sport and screens make that ____ impossible.",
+              "answer": "almost",
+              "explanation": "选 A. almost。almost impossible 意为「几乎不可能」，是常见搭配；complete 作定语时不能修饰 impossible，表示「完全不可能」须用副词 completely。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "(28) Families that eat together at least four times a week ____ far more about each other's lives.",
+              "answer": "learn",
+              "explanation": "选 G. learn。learn about each other's lives 意为「了解彼此的生活」，与前句「一起吃饭」构成因果。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "(29) Children in such families are ____ to do well at school.",
+              "answer": "likely",
+              "explanation": "选 H. likely。be likely to do 意为「有可能做某事」，此处指常一起吃饭家庭的孩子学业表现更好。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "(30) Some busy households now keep one ____ dinner a week and treat it as an appointment that cannot be moved.",
+              "answer": "fixed",
+              "explanation": "选 D. fixed。a fixed dinner 意为「固定的一顿晚餐」，与后文「当作不能改期的约定」呼应。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "(31) Others ____ the cooking among all members, so that nobody has to (32) a whole meal alone.",
+              "answer": "share",
+              "explanation": "选 L. share。share sth among sb 意为「在……之间分摊」，与后半句「没有人需要独自做一整顿饭」一致。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "(32) With the work divided among all members, nobody has to ____ a whole meal alone.",
+              "answer": "prepare",
+              "explanation": "选 J. prepare。prepare a meal 意为「做一顿饭」，是固定搭配；空格后为 a whole meal，需要及物动词。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "(33) Experts advise parents to keep the food plain and to let children ____ the conversation.",
+              "answer": "join",
+              "explanation": "选 F. join。join the conversation 意为「加入交谈」，说明专家建议让孩子参与饭桌对话。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "(34) A ____ dish cooked by a child may be the beginning of a lifelong habit.",
+              "answer": "simple",
+              "explanation": "选 M. simple。a simple dish 意为「一道简单的菜」，与上句「食物保持简单」相承；whole 与 a dish 搭配不合逻辑。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "(35) The point, they say, is not the food but the ____ of sitting down together.",
+              "answer": "pleasure",
+              "explanation": "选 I. pleasure。the pleasure of doing sth 意为「做某事的乐趣」，与 not the food but... 的对比结构相符。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文。短文共 A–F 六个段落，每段前给出该段的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落（答案填段落字母，有一个段落不会用到）。\n\nParagraph A: A late start, a real benefit\nResearchers who study the brain have good news for anyone over thirty who has always wanted to play an instrument. In several studies, adults who took up music in middle age showed improvements in memory and in the ability to follow two conversations at once. The changes were smaller than those seen in children who practise for years, but they appeared after only six months of weekly lessons. The researchers think the effort itself, rather than the result, is what keeps the brain busy.\n\nParagraph B: The first month is the hardest\nAsk any teacher of adult beginners where students give up, and the answer is almost always the same: the fourth or fifth week. The first lesson is exciting, the second is confusing, and by the fourth the fingers hurt and the music sounds nothing like the recording. Teachers say the students who survive this stage are not the most talented ones but those who booked the lessons in advance and told a friend about them.\n\nParagraph C: Practice in small pieces\nOne piece of advice appears in almost every method book for beginners: do not practise the whole piece. Divide it into sections of four or eight bars, play each one slowly, and join them only when every section is comfortable. Experienced players spend most of their practice time on the two or three bars that cause trouble, while beginners tend to start again from the beginning each time they make a mistake. The second approach feels like progress and is mostly a waste of time.\n\nParagraph D: Finding the right teacher\nBefore choosing a teacher, adults should ask themselves what they actually want. Someone who dreams of playing in a band needs a teacher who will teach chords and rhythm; someone who loves classical music needs one who will correct the position of the hand. A good teacher asks about these goals in the first lesson. It is also worth asking whether the teacher has experience with adult learners, who need explanations and often want to know why.\n\nParagraph E: Playing with others\nLearning alone is possible, especially with the help of videos, but the students who keep going are usually the ones who play with others. A local band, a church choir or a monthly gathering of amateur players gives the practice a purpose and a date. One group of adult beginners in Leeds meets in a pub every second Sunday; nobody is paid, nobody is judged, and the oldest member is eighty-one.\n\nParagraph F: What it costs\nThe cost of learning an instrument is often exaggerated. A decent second-hand violin or keyboard can cost less than a mobile phone, and many libraries now lend instruments for a term. Lessons are the larger expense, but group classes and online sessions have brought prices down. Teachers point out that money spent on a forgotten instrument is the real waste, so it is sensible to rent before buying.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Adults who take up an instrument often give up in the first few weeks.",
+              "options": [
+                "A. A late start, a real benefit",
+                "B. The first month is the hardest",
+                "C. Practice in small pieces",
+                "D. Finding the right teacher",
+                "E. Playing with others",
+                "F. What it costs"
+              ],
+              "answer": "B",
+              "explanation": "B 段指出 where students give up, and the answer is almost always the same: the fourth or fifth week，即放弃多发生在第四五周，与题干一致，故选 B。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Research suggests that learning an instrument in later life can help the brain.",
+              "options": [
+                "A. A late start, a real benefit",
+                "B. The first month is the hardest",
+                "C. Practice in small pieces",
+                "D. Finding the right teacher",
+                "E. Playing with others",
+                "F. What it costs"
+              ],
+              "answer": "A",
+              "explanation": "A 段提到中年开始学琴的成年人在记忆力和同时处理两条对话的能力上有提高，并说 the effort itself... keeps the brain busy，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Beginners are advised to divide a piece into short sections instead of playing it from start to finish.",
+              "options": [
+                "A. A late start, a real benefit",
+                "B. The first month is the hardest",
+                "C. Practice in small pieces",
+                "D. Finding the right teacher",
+                "E. Playing with others",
+                "F. What it costs"
+              ],
+              "answer": "C",
+              "explanation": "C 段首句即说 do not practise the whole piece，并建议 Divide it into sections of four or eight bars，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Making music with other people gives practice a purpose and helps learners continue.",
+              "options": [
+                "A. A late start, a real benefit",
+                "B. The first month is the hardest",
+                "C. Practice in small pieces",
+                "D. Finding the right teacher",
+                "E. Playing with others",
+                "F. What it costs"
+              ],
+              "answer": "E",
+              "explanation": "E 段说 the students who keep going are usually the ones who play with others，并提到合奏 gives the practice a purpose and a date，故选 E。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "A good teacher should ask new students what they hope to achieve.",
+              "options": [
+                "A. A late start, a real benefit",
+                "B. The first month is the hardest",
+                "C. Practice in small pieces",
+                "D. Finding the right teacher",
+                "E. Playing with others",
+                "F. What it costs"
+              ],
+              "answer": "D",
+              "explanation": "D 段建议先想清楚自己真正想要什么，并说 A good teacher asks about these goals in the first lesson，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: Not long ago, an audiobook meant a set of CDs borrowed from a library. Today it is the fastest-growing part of the publishing industry: sales have risen by double digits every year for a decade, and in some markets one book in five is now read through headphones. The reasons are practical. A commute, a gym session or a pile of washing-up becomes reading time, and listeners who had stopped buying paper books often become readers again.\n\nPublishers responded quickly, hiring actors and paying for studios and sound effects. Some well-known titles now have two versions, one in a single familiar voice and one with a full cast, and a few authors have begun to write with narration in mind, shortening long descriptions that sound slow when spoken. For language learners the format has an obvious attraction: the written text and its careful pronunciation are never far apart.\n\nNot everyone is delighted. Teachers who study reading worry that listening is a different skill. A reader who skips back to check a sentence is doing something a listener rarely does, and the attention demanded by a complicated argument may be lost when the voice continues without pause. A study of university students found that those who only listened remembered fewer details of a chapter than those who read it on paper, although they remembered the main idea equally well.\n\nThe most sensible view may be that the two forms do different jobs. Stories and interviews suit the ear, while a textbook or a contract still asks for the eye. What is striking, however, is that the argument itself has changed. A decade ago people asked whether listening counted as reading. Now they ask when it is the better choice.\n\nPassage 2: The Rex was the only cinema in a town of nine thousand people, and when it closed in 2011 the building was sold and used for storing animal feed. For four years the town had nothing but the television in the pub. Then a retired teacher, Mary Appleton, asked at a public meeting whether people would pay five pounds a month to own a cinema. To her surprise, three hundred households said yes on the spot.\n\nThe Rex reopened two years later as a community cinema. It is run by a committee of twelve volunteers: a former electrician looks after the projector, two teenagers run the ticket desk on Saturdays, and Mary, now seventy-eight, chooses most of the films. The programme mixes new releases with old favourites, and once a month a local historian introduces a film connected with the area. Tickets are cheaper than in the city, and a small grant pays for free screenings for school classes.\n\nRunning a cinema is not easy. The projector broke down twice last year, and the committee spent a month deciding whether to spend nearly all its savings on a digital system. Membership has slipped slightly as streaming services have grown. Yet the audiences keep coming, and not always for the film. On a Friday night in winter, the Rex is one of the few warm, noisy places in town where people of different ages sit in the same room. Mary says that is the point. The films matter, she explains, but what people are really buying is an evening out with their neighbours.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What is said about audiobook sales?",
+              "options": [
+                "A. They have grown by double digits every year for a decade.",
+                "B. They fell as soon as streaming services appeared.",
+                "C. They are now larger than printed book sales.",
+                "D. They depend mainly on university libraries."
+              ],
+              "answer": "A",
+              "explanation": "Passage 1 首段说 sales have risen by double digits every year for a decade，即连续十年保持两位数增长，故选 A；文中只说在某些市场每五本书有一本以有声形式阅读，并未说销量超过纸质书，C 过度推断。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) Why have some authors begun to write with narration in mind?",
+              "options": [
+                "A. They are paid more for audio editions.",
+                "B. They no longer write for libraries.",
+                "C. They want their books to be made into films.",
+                "D. They want their books to sound good when read aloud."
+              ],
+              "answer": "D",
+              "explanation": "第二段说有些作者开始 with narration in mind, shortening long descriptions that sound slow when spoken，即为了让文字朗读出来效果好，故选 D。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the study of university students find?",
+              "options": [
+                "A. Listeners understood the main idea worse than readers.",
+                "B. Listeners remembered the main idea but fewer details.",
+                "C. Students preferred audio to paper in every subject.",
+                "D. Most students gave up halfway through the chapter."
+              ],
+              "answer": "B",
+              "explanation": "第三段说 those who only listened remembered fewer details of a chapter than those who read it on paper, although they remembered the main idea equally well，故选 B。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What is the author's conclusion about the two forms of reading?",
+              "options": [
+                "A. They suit different kinds of books.",
+                "B. Paper books will disappear within a decade.",
+                "C. Listening should replace reading in schools.",
+                "D. Audio editions are cheaper to produce."
+              ],
+              "answer": "A",
+              "explanation": "末段说 the two forms do different jobs，故事与访谈适合听，教科书与合同仍需用眼，即两种形式适合不同种类的书，故选 A。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What happened to the cinema building after the cinema closed in 2011?",
+              "options": [
+                "A. It was turned into a pub.",
+                "B. It stood empty for ten years.",
+                "C. It was used for storing animal feed.",
+                "D. It became a school hall."
+              ],
+              "answer": "C",
+              "explanation": "Passage 2 首段说 the building was sold and used for storing animal feed，故选 C；文中说此后四年小镇只有酒馆里的电视，并未说电影院变成了酒馆，A 为张冠李戴。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) How is the Rex run now?",
+              "options": [
+                "A. By a national cinema chain.",
+                "B. By a committee of twelve volunteers.",
+                "C. By the local government alone.",
+                "D. By the retired teacher on her own."
+              ],
+              "answer": "B",
+              "explanation": "第二段说 It is run by a committee of twelve volunteers，故选 B；Mary 只是其中负责选片的一员，并非独自经营，D 不准确。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What difficulty is mentioned in the passage?",
+              "options": [
+                "A. Few films are available for the small screen.",
+                "B. Young people are unwilling to work there.",
+                "C. The town has decided to close the cinema again.",
+                "D. Membership has slipped as streaming services have grown."
+              ],
+              "answer": "D",
+              "explanation": "第三段说 Membership has slipped slightly as streaming services have grown，即流媒体兴起使会员人数略有下降，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "元旦前夕，学校礼堂里举行了一场联欢晚会。师生们自己编排节目，有合唱、舞蹈，也有小品和乐器演奏。晚会开始时，校长发表了简短的新年致辞，随后屏幕上播放了一年来校园生活的照片。最受欢迎的环节是抽奖，幸运的同学得到了书和文具。午夜钟声敲响时，全场一起倒数，互相祝福新年快乐。这样的晚会不仅让大家放松，也让师生之间的关系更加亲近。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "On New Year's Eve, a gala was held in the school hall. Teachers and students put on the performances themselves, including a chorus, dances, short plays and instrumental music. At the beginning of the gala, the headmaster gave a short New Year speech, and then photos of campus life over the past year were shown on the screen. The most popular part was the lucky draw, in which lucky students received books and stationery. When the clock struck midnight, everyone counted down together and wished each other a happy New Year. Such a gala not only helps people relax but also brings teachers and students closer to each other.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

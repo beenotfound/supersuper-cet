@@ -1,0 +1,83 @@
+{
+ "id": "real4-2021-06-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2021年6月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-2",
+ "paperTitle": "2021年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "Social isolation poses more health risks than obesity or smoking 15 cigarettes a day, according to research published by Brigham Young University. The  {{1}} is that loneliness is a huge, if silent, risk factor. Loneliness affects physical health in two ways. First, it produces stress hormones that can lead to many health problems. Second, people who live alone are less likely to go to doctor {{2}}  , to exercise or to eat a healthy diet. Public health experts in many countries are {{3}}  how to address widespread loneliness in our society. Last year Britain even appointed a minister for loneliness. \"Loneliness  {{4}} almost every one of us at some point,\" its minister for loneliness Baroness Barran said. \"It can lead to very serious health {{5}}  for individuals who become isolated and disconnected.\" Barran started a \"Let's Talk Loneliness\" campaign that {{6}}  difficult conversations across Britain. He is now supporting \"  {{7}} benches,\" which are public seating areas where people are encouraged to go and chat with one another. The minister is also  {{8}} to stop public transportation from being cut in ways that leave people isolated. More than one-fifth of adults in both the United States and Britain said in a 2018  {{9}} that they often or always feel lonely. More than half of American adults are unmarried, and researchers have found that even among those who are married, 30% of relationships are {{10}}  strained. A quarter of Americans now live alone, and as the song says, one is the loneliest number.",
+ "bank": [
+  "abruptly",
+  "appointments",
+  "consequences",
+  "debating",
+  "dimensions",
+  "friendly",
+  "hindered",
+  "idiom",
+  "implication",
+  "pushing",
+  "severely",
+  "sparked",
+  "splitting",
+  "survey",
+  "touches"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "implication",
+   "explain": "定冠词 The 后作主语的名词 \"言外之意/启示是……\" The __(26)__ is that loneliness is a huge, if silent, risk factor：承接首句\"孤独危害比肥胖 吸烟还大\"的研究，这里说\"由此得出的含意／启示是：孤独是巨大却无声的风险因素\"， implication（言外之意、启示）正是对前述研究结论的提炼，单数与 The...is 一致。 E) dimensions 义不对且数不合…"
+  },
+  {
+   "n": 2,
+   "answer": "appointments",
+   "explain": "go to doctor 后接名词作宾语 doctor appointments = 看病预约 go to doctor __(27)__：doctor appointments 是地道固定搭配，指\"去看医生的预约\"。本 段在说独居者\"不太会去看病、运动或健康饮食\"，\"看病预约\"正好与 exercise、healthy diet 并列成三件健康行为。 E) dimensions 搭配不成立 \"go to doctor dimension…"
+  },
+  {
+   "n": 3,
+   "answer": "debating",
+   "explain": "be 动词 are 后接 -ing 作谓语 \"正在讨论如何应对\" experts ... are __(28)__ how to address widespread loneliness：专家们\"正在争论／讨论 如何应对孤独\"，debating（讨论、争论）后接 \"how to ...\" 地道，语义正是\"探讨对策\"， 与下文\"英国甚至任命了孤独事务大臣\"的应对行动衔接。 J) pushing 搭配指向不同 pushing 表\"推动、努…"
+  },
+  {
+   "n": 4,
+   "answer": "touches",
+   "explain": "主语 Loneliness 后缺谓语，宾语 us \"孤独影响着我们几乎每个人\" Loneliness touches almost every one of us at some point：touches 在此取\"触及、影 响\"义，\"孤独在某些时刻几乎触及我们每一个人\"，单三形态与主语 Loneliness 一致，语义 贴合\"孤独普遍\"这一全文论点。"
+  },
+  {
+   "n": 5,
+   "answer": "consequences",
+   "explain": "形容词 serious 后接名词 \"导致严重后果\"是固定搭配 lead to very serious health __(30)__：lead to（导致）后接的、又能被 serious（严重 的）修饰的、还是讲健康层面的，正是 consequences（后果）。\"严重的健康后果\" 语义最 顺，且与全文\"孤独危害健康\"的主旨完全咬合。 E) dimensions 义不对：维度而非后果 dimensions 指\"维度／方面\"，\"严重的健…"
+  },
+  {
+   "n": 6,
+   "answer": "sparked",
+   "explain": "that 引导定语从句缺谓语 \"引发了……对话\" campaign that __(31)__ difficult conversations across Britain：一场运动\"在英国各地引 发／激起了难以启齿的对话\"，sparked（引发、激起）与 conversations 搭配地道， sparked discussions/conversations 是高频组合，语义指向\"运动带来积极效果\"。 O) touches 时态与搭…"
+  },
+  {
+   "n": 7,
+   "answer": "friendly",
+   "explain": "名词 benches 前作定语 \"友好长椅\"鼓励陌生人交谈 \"friendly benches,\" which are public seating areas where people are encouraged to go and chat with one another：后面的定语从句解释这是\"鼓励人们去和彼此聊天的公共 座椅\"，正好印证 friendly（友好的）——\"友好长椅\"，主题是化解孤独、促进交流。"
+  },
+  {
+   "n": 8,
+   "answer": "pushing",
+   "explain": "be 动词 is 后接 -ing，再接 to do push to do = 努力争取做某事 is also __(33)__ to stop public transportation from being cut：pushing to stop（努力 争取阻止）地道，\"大臣还在努力争取阻止削减公共交通\"，push to do 是固定搭配，语义 指向\"主动推动政策\"，与上文\"支持友好长椅\"的积极行动并列。 M) splitting 搭…"
+  },
+  {
+   "n": 9,
+   "answer": "survey",
+   "explain": "冠词 a 后、介词 that 从句前的名词 \"在一项调查中表示\" said in a 2018 __(34)__ that they often or always feel lonely：人们\"在 2018 年的一项调 查中表示……\"，survey（调查）正是承载\"超五分之一成年人说常感孤独\"这类数据结论的载 体，搭配 said in a survey 地道自然。 I) implication 义不对且已被占用 implication…"
+  },
+  {
+   "n": 10,
+   "answer": "severely",
+   "explain": "修饰形容词 strained 的状语 \"严重紧张\"程度副词 30% of relationships are __(35)__ strained：severely（严重地）修饰 strained，\"30% 的关系严重紧张\"，程度副词与\"strained（紧张）\"语义同向、自然加强，呼应本段\"即便已 婚也有大量关系出问题\"的论点。 A) abruptly 义不对：突然 vs 程度 abruptly 表\"突然地\"，强调方式/时间，不是程度；…"
+  }
+ ]
+}

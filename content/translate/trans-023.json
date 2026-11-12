@@ -1,0 +1,18 @@
+{
+  "id": "trans-023",
+  "type": "translation",
+  "level": "cet4",
+  "title": "中国烹饪",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["ingredient", "seasoning", "fry", "recipe"],
+  "prompt": "中国烹饪讲究火候和调料的搭配，同样的食材，不同的做法会带来完全不同的味道。炒菜时锅要热，油要适量，动作要快，这样蔬菜才能保持清脆。炖汤则需要小火慢煮，让食材的味道慢慢融进汤里。中国人做菜很少严格照着食谱，更多依靠经验和感觉，盐多盐少全凭口味。一家人围在厨房里择菜、切菜，边聊天边做饭，是很温馨的场景。对许多人来说，家常菜的味道就是家的味道。",
+  "reference": "Chinese cooking pays attention to heat control and the matching of seasonings: the same ingredient can taste completely different when it is cooked in different ways. When stir-frying, the wok should be hot, the oil should be just right and the movements should be quick, so that vegetables stay crisp. Making soup, by contrast, calls for slow cooking over a low flame so that the flavours of the ingredients melt into the liquid. Chinese people seldom follow a recipe strictly; they rely more on experience and feeling, and the amount of salt depends on personal taste. A family standing in the kitchen to wash and cut vegetables, chatting while they cook, makes a warm scene. Even simple dishes can be improved by a little patience and by using fresh ingredients bought that morning, and that is the secret behind many family tables. For many people, the taste of home cooking is the taste of home itself.",
+  "keyPoints": [
+    "“火候”可译为 heat control。",
+    "“调料搭配”用 the matching of seasonings。",
+    "“保持清脆”译为 stay crisp。",
+    "“小火慢煮”用 slow cooking over a low flame。",
+    "“家的味道”译为 the taste of home。"
+  ]
+}

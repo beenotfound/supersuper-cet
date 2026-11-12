@@ -1,0 +1,83 @@
+{
+ "id": "real4-2022-06-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2022年6月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-06-2",
+ "paperTitle": "2022年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-06",
+ "passage": "If you've ever looked at the ingredients list while grocery shopping, chances are you've seen the term \"natural flavors\". But have you taken a  {{1}} to consider what these natural flavors actually are? Most of us might think that \"natural flavors\" are, well, naturally good for us. A recent study in the journal Appetite found that when the word \"natural\" appears on packaging, people  {{2}} that the food within is indeed healthier. In truth, natural flavors do not {{3}}  much, at least chemically speaking, from their flavor-boosting {{4}}  : artificial flavors. Both can be made in a lab by trained flavorists, but artificial flavors use chemicals to give a product a {{5}}  smell or taste. Natural flavors come from plant or animal {{6}}  , like fruit, vegetable, meat, fish or milk that is then processed or refined in some way. In short, natural flavors are  {{7}} from plants and animals to create specific flavors for processed foods. But that does not  {{8}} make it easier to tell what is really in your food. Because the Food and Drug Administration (FDA) has not {{9}}  the term, companies can use it to refer to pretty much anything derived from a plant or animal. And natural flavors can also include a variety of chemical additives, such as preservatives. The FDA doesn't require companies to reveal what additional chemicals a specific item {{10}}  . So if you want to know for certain what you're getting with your groceries, you might want to stick to the farmer's market.",
+ "bank": [
+  "acknowledge",
+  "chance",
+  "contains",
+  "counterparts",
+  "defined",
+  "differ",
+  "especially",
+  "extracted",
+  "implies",
+  "necessarily",
+  "particular",
+  "perceive",
+  "second",
+  "sources",
+  "strange"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "second",
+   "explain": "动词 take + 不定冠词 a 后，要填名词作宾语 take a second = 花点时间，固定搭配 have you taken a __(26)__ to consider 意为\"你有没有花点时间去想想\"，take a second （second 此处指\"片刻、一会儿\"）是地道搭配，单数可数也吻合 \"a\"。 B) chance 搭配指向不对 take a chance 意为\"冒险、碰运气\"，放进 taken a __(26)_…"
+  },
+  {
+   "n": 2,
+   "answer": "perceive",
+   "explain": "主语 people 后缺谓语，要填动词 \"人们认为食物更健康\"是主观感知 people __(27)__ that the food within is indeed healthier，承接前句 \"natural\" 带来的错 觉，这里说人们\"认为/觉得\"里面的食物更健康，perceive（主观认为、感知）正贴这层\"误 以为\"的语境。 A) acknowledge \"承认\"含已确认事实，与误解语境反 acknowledge 是\"承认（某…"
+  },
+  {
+   "n": 3,
+   "answer": "differ",
+   "explain": "助动词 do not 后接动词原形 differ from = 与……不同，搭配定死 natural flavors do not __(28)__ much, at least chemically speaking, from their flavor- boosting __(29)__: artificial flavors，意为\"天然香精与人工香精差别不大\"，differ from 是 固定搭配，且呼应全文\"两者其实差不多\"的…"
+  },
+  {
+   "n": 4,
+   "answer": "counterparts",
+   "explain": "形容词 flavor-boosting 后、their 之后作名词中心词 人工香精是天然香精的\"对应物\" natural flavors do not differ much ... from their flavor-boosting __(29)__: artificial flavors，把 artificial flavors 称作 natural flavors 的 counterparts（对应物/对等物），正 是两类香精互…"
+  },
+  {
+   "n": 5,
+   "answer": "particular",
+   "explain": "空在名词 smell/taste 前作定语，要填形容词 \"给产品某种特定气味\"逻辑顺 use chemicals to give a product a __(30)__ smell or taste，人工香精用化学物质赋予产 品一种\"特定的\"气味或味道，particular（特定的）正契合\"定制某种风味\"的语境。 O) strange 感情色彩偏负面，与语境冲突 strange 意为\"奇怪的、古怪的\"，带贬义；本句在客观说明香精\"赋予…"
+  },
+  {
+   "n": 6,
+   "answer": "sources",
+   "explain": "from plant or animal 后作介词宾语中心词 \"来自植物或动物来源\" Natural flavors come from plant or animal __(31)__, like fruit, vegetable, meat, fish or milk，sources（来源）指天然香精的\"植物或动物来源\"，后面列举的水果、蔬菜、肉、 鱼、奶正是这些来源的具体例子。"
+  },
+  {
+   "n": 7,
+   "answer": "extracted",
+   "explain": "be 动词 are 后接过去分词构成被动 \"从动植物中被提取出来\" natural flavors are __(32)__ from plants and animals to create specific flavors for processed foods，be extracted from（从……中被提取）正是天然香精的制取方式，搭配 与语义双双吻合。"
+  },
+  {
+   "n": 8,
+   "answer": "necessarily",
+   "explain": "does not 与实义动词 make 之间，要填副词 not necessarily = 未必，固定搭配 But that does not __(33)__ make it easier to tell what is really in your food，意为\"但这 未必就让你更容易弄清食物里到底有什么\"，not necessarily（未必、不一定）是地道搭 配，且与转折 But 及后文\"FDA 没定义\"的语境吻合。 G) e…"
+  },
+  {
+   "n": 9,
+   "answer": "defined",
+   "explain": "has not + 空 + the term，要填过去分词 FDA 没有\"定义\"这个术语 Because the Food and Drug Administration (FDA) has not __(34)__ the term, companies can use it to refer to pretty much anything，正因 FDA 没给\"natural flavors\"这个术语下定义，企业才能随便用——defi…"
+  },
+  {
+   "n": 10,
+   "answer": "contains",
+   "explain": "what 从句里 a specific item 后缺谓语 某产品\"含有\"哪些额外化学物 The FDA doesn't require companies to reveal what additional chemicals a specific item __(35)__，意为\"FDA 不要求企业披露某个产品含有哪些额外化学物\"，contains（含 有）正对应\"产品里有什么成分\"，且单三与 a specific item 一致。"
+  }
+ ]
+}

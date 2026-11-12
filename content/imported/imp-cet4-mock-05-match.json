@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-05-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-05",
+ "paperTitle": "大学英语四级标准模拟卷 05",
+ "paperLevel": "cet4",
+ "paperYear": "mock-05",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "The story began with a piece of land behind a bus stop, covered in weeds and broken bottles. In 2016 a group of residents asked the city council whether they could grow vegetables there. The answer was a one-year trial. They cleared the ground with borrowed tools, built twelve raised beds and carried the soil in wheelbarrows. Nothing about the site was beautiful, yet by the end of the first summer strangers were stopping to look over the fence and to ask whether they could join the waiting list."
+  },
+  {
+   "label": "B",
+   "text": "A garden with forty members needs a system. Each household looks after one bed and one shared job: the compost, the water pipes, the tools or the notice board. Two people open the gate on weekday mornings, and a rota covers the weekends. Nobody is paid, and nobody is allowed to do everything. Members say the rota matters more than the rules on paper, because it shows new members how much work one tomato plant demands."
+  },
+  {
+   "label": "C",
+   "text": "Nearby primary schools treat the garden as an open-air classroom. Classes come in spring and autumn to plant beans, measure growth and draw what they see. One teacher uses the garden to teach science, another to discuss healthy eating. Children who refuse vegetables at school lunch often eat them raw here. For many of them this is the first time they have seen food growing in soil rather than arriving in a plastic bag on a supermarket shelf."
+  },
+  {
+   "label": "D",
+   "text": "Harvest day falls on the last Saturday of the month. Members keep what they need, and the rest goes to a small table by the gate with a sign saying 'help yourself'. Some of it reaches elderly neighbours who can no longer shop easily, and some goes to a food bank two streets away. The gardeners do not regard this as charity; they simply believe that a place which grows food should also feed the street around it."
+  },
+  {
+   "label": "E",
+   "text": "No garden is peaceful all the time. Arguments have been about water bills, about loud music and about a plum tree that shaded someone's tomatoes. The committee's answer is to meet for twenty minutes on harvest day, with a rule that nobody may discuss a problem at the gate. Most disagreements are settled there; when one is not, the member who feels unheard may bring it to the council officer who supervises the site."
+  },
+  {
+   "label": "F",
+   "text": "The one-year trial ended long ago, but the land remains uncertain. The council could sell the site for housing, and the gardeners know that a good season proves nothing about the lease. In 2022 they helped to write a neighbourhood plan which keeps the garden in public use for fifteen years. Meanwhile they plant fruit trees, which will take years to fruit. 'You do not plant a tree for yourself,' one member says. 'You plant it for whoever comes next.'"
+  }
+ ],
+ "statements": [
+  {
+   "text": "The garden started when residents turned an empty piece of land into something productive.",
+   "answer": "A"
+  },
+  {
+   "text": "Members take turns to look after shared jobs, and the rota teaches newcomers how much work is involved.",
+   "answer": "B"
+  },
+  {
+   "text": "School classes visit the garden so that pupils can see how vegetables are grown.",
+   "answer": "C"
+  },
+  {
+   "text": "Part of the produce is given to older neighbours and to a food bank.",
+   "answer": "D"
+  },
+  {
+   "text": "It is still not certain that the garden can stay on the land in the long term.",
+   "answer": "F"
+  }
+ ]
+}

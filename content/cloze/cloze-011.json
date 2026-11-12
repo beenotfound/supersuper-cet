@@ -1,0 +1,63 @@
+{
+  "id": "cloze-011",
+  "type": "cloze",
+  "level": "cet4",
+  "title": "A Notebook by the Bed",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["practice", "selective", "benefits"],
+  "passage": "Many people buy a notebook in January, write in it for a week, and then leave it in a drawer. Keeping a diary sounds easy, but it asks for a habit that most of us never build. Those who do keep one often say the same thing: the value comes not from style but from {{1}}.\n\nA diary does not need to be a work of art. You can {{2}} down a few lines about what you ate, who you met, or how you felt. The point is to {{3}} the day before it disappears. Memory is {{4}}, and small details that seem unimportant today may be the ones you most want to read in ten years.\n\nThere are practical {{5}}, too. Writing about a worry can make it smaller, because putting it into words {{6}} you to see its shape. Some doctors even suggest a diary for people who find it hard to sleep, since a page of notes can {{7}} the mind for rest.\n\nThe habit is easier to keep if you make it {{8}}. Keep the notebook beside your bed, choose a fixed time, and do not worry about grammar. If you miss a day, simply start again; nobody is marking your work. It also pays to write in the same {{9}} each time, so that opening the notebook becomes a signal that the day is over.\n\nAfter a year, the reward is clear. You will have a record of ordinary life that no photograph can {{10}}, and you may understand yourself a little better than when you began.",
+  "bank": ["practice", "publish", "jot", "selective", "furniture", "helps", "wooden", "capture", "benefits", "settle", "holiday", "simple", "place", "punish", "match"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "practice",
+      "explain": "the value comes not from style but from practice 指写日记的价值来自“坚持练习”，而非文笔。"
+    },
+    {
+      "n": 2,
+      "answer": "jot",
+      "explain": "jot down a few lines 是固定搭配，意为“随手记下几行”；publish、punish 不能接 down。"
+    },
+    {
+      "n": 3,
+      "answer": "capture",
+      "explain": "capture the day before it disappears 指在一天消失前“捕捉”它，形象地表达记录的作用。"
+    },
+    {
+      "n": 4,
+      "answer": "selective",
+      "explain": "memory is selective 指记忆是“有选择的”，所以小细节日后可能格外珍贵；wooden 不合。"
+    },
+    {
+      "n": 5,
+      "answer": "benefits",
+      "explain": "there are practical benefits 指写日记有实际的“好处”，需要复数名词，后文列举的正是这些好处。"
+    },
+    {
+      "n": 6,
+      "answer": "helps",
+      "explain": "putting it into words helps you to see its shape 指把烦恼写下来“有助于”看清它的形状。"
+    },
+    {
+      "n": 7,
+      "answer": "settle",
+      "explain": "settle the mind for rest 指让大脑“安定”下来准备休息，与睡眠话题一致。"
+    },
+    {
+      "n": 8,
+      "answer": "simple",
+      "explain": "make it simple 指把写日记这件事变得“简单”，后文的建议都是简化做法。"
+    },
+    {
+      "n": 9,
+      "answer": "place",
+      "explain": "write in the same place each time 指每次在同一个“地方”写，与 opening the notebook becomes a signal 呼应。"
+    },
+    {
+      "n": 10,
+      "answer": "match",
+      "explain": "a record that no photograph can match 指照片也无法“比得上”的记录；publish、punish 不合。"
+    }
+  ]
+}

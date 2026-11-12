@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-real-2025-06-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-06",
+ "paperTitle": "2025年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "sectionOrder": 2,
+ "passage": "Every day, university canteens across the country serve millions of meals, and a surprising {{1}} of food ends up in the bin. A recent {{2}} at one university found that students {{3}} away about sixty grams of food per meal on average. Much of it had never been touched: rice left on the plate, vegetables pushed to one side, half a dish that was simply too large.\n\nThe reasons are not hard to find. When the {{4}} offers only large dishes at a low price, people tend to take more than they can eat, and busy students are often not {{5}} of how much they leave behind.\n\nSeveral universities are now trying to {{6}} the problem. Some canteens offer smaller {{7}} at a lower price, so that a light eater is not forced to waste food. Others put up posters and {{8}} students to take {{9}} home in {{10}} boxes. Managers say the results are encouraging: in one canteen, waste fell by almost a third within a single term.",
+ "bank": [
+  "amount",
+  "aware",
+  "bins",
+  "consumers",
+  "encourage",
+  "entirely",
+  "leftovers",
+  "menu",
+  "portions",
+  "reduce",
+  "reusable",
+  "survey",
+  "throw",
+  "wasted",
+  "weight"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "amount",
+   "explain": "a surprising amount of 表示数量惊人的，用于不可数名词 food，说明食堂浪费量很大。"
+  },
+  {
+   "n": 2,
+   "answer": "survey",
+   "explain": "此处需要名词作主语，survey 意为调查，与 found 搭配，指一项调查发现了这一数据。"
+  },
+  {
+   "n": 3,
+   "answer": "throw",
+   "explain": "throw away 是固定搭配，意为扔掉，与 food 和 bin 呼应，指学生每餐平均扔掉约六十克食物。"
+  },
+  {
+   "n": 4,
+   "answer": "menu",
+   "explain": "此处需要名词作从句主语，menu 意为菜单；菜单上只有大份菜品且价格便宜，学生就容易取得过多。"
+  },
+  {
+   "n": 5,
+   "answer": "aware",
+   "explain": "be aware of 是固定搭配，意为意识到，说明忙碌的学生往往没注意自己剩下多少食物。"
+  },
+  {
+   "n": 6,
+   "answer": "reduce",
+   "explain": "此处需要动词，reduce 意为减少，与 problem 搭配，指高校正努力减少浪费问题。"
+  },
+  {
+   "n": 7,
+   "answer": "portions",
+   "explain": "portion 意为一份饭菜，smaller portions 指分量更小的餐食，价格为 lower，符合语境。"
+  },
+  {
+   "n": 8,
+   "answer": "encourage",
+   "explain": "encourage sb. to do sth. 意为鼓励某人做某事，与 put up posters 并列，都是减少浪费的做法。"
+  },
+  {
+   "n": 9,
+   "answer": "leftovers",
+   "explain": "leftovers 意为剩饭菜，take leftovers home 指把没吃完的饭菜带回家，符合食堂减少浪费的做法。"
+  },
+  {
+   "n": 10,
+   "answer": "reusable",
+   "explain": "此处需要形容词修饰 boxes，reusable 意为可重复使用的，与减少垃圾的目标一致。"
+  }
+ ]
+}

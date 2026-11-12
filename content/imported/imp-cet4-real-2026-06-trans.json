@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-real-2026-06-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2026-06",
+ "paperTitle": "2026年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "sectionOrder": 5,
+ "prompt": "Directions: For this part, you are allowed 30 minutes to translate the following Chinese passage into English. The passage is about table manners in China.\n\n在中国人的餐桌上，礼仪往往体现在细节里。长辈先动筷，客人坐在主人的右侧或上座；夹菜时要用公筷，不要把筷子插在饭里。主人会不断为客人添菜，这既是热情，也是一种含蓄的关心。客人不必把饭菜全部吃完，但应当尝一尝主人推荐的菜。用餐结束时，主人通常会把客人送到门口，说一句慢走。这些看似简单的习惯，体现了中国人重视长幼、尊重客人的传统。",
+ "reference": "At a Chinese dinner table, good manners are often shown in small details. The elders start eating first, and guests are seated on the host's right or in the seat of honour. When taking food, people use serving chopsticks, and they never stand their chopsticks upright in a bowl of rice. The host keeps adding dishes to the guests' plates; this is both generosity and a quiet way of showing care. Guests do not have to finish everything, but they should taste the dishes the host recommends. At the end of the meal, the host usually walks the guests to the door and asks them to take care on their way home. These simple habits reflect a tradition in which age and respect for guests matter.",
+ "keyPoints": []
+}

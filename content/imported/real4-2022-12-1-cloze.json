@@ -1,0 +1,83 @@
+{
+ "id": "real4-2022-12-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2022年12月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-1",
+ "paperTitle": "2022年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "Researchers, writing in the journal Heart, pooled data from 23 studies and found that social isolation or feelings of loneliness were tied to an increased risk of coronary heart disease(冠心病) and strokes. The studies included data from 181,006 men and women ages 18 and over. There were 4,628 coronary events and 3,002 strokes in follow-up periods  {{1}} from three to 21 years. Three of the papers {{2}}  loneliness, 18 looked at social isolation and two included both. Social isolation and loneliness were determined with questionnaires; the researchers depended on medical records and death {{3}}  for determining coronary events and strokes. The scientists found that loneliness and social isolation increased the  {{4}} risk of having a heart attack or a death from heart disease by 29 percent, and the risk of stroke by 32 percent. There were no  {{5}} between men and women. \"People have tended to focus from a policy point of view on {{6}}  lonely people to make them more {{7}}  ,\" said the lead author, Nicole K. Valtorta, a research fellow at the University of York in England. \"Our study  {{8}} that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\" The authors  {{9}} that this was a review of observational studies and did not  {{10}} cause and effect.",
+ "bank": [
+  "acknowledge",
+  "certificates",
+  "connected",
+  "demonstrates",
+  "differences",
+  "establish",
+  "formats",
+  "measured",
+  "narrow",
+  "permanent",
+  "produces",
+  "ranging",
+  "relative",
+  "submitting",
+  "targeting"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "ranging",
+   "explain": "follow-up periods 后接非谓语，需现在分词引出范围 ranging from…to… 表\"随访期为 3 到 21 年\"，搭配天然成立 代回即 follow-up periods __(26)__ from three to 21 years → 随访期\"范围从 3 年到 21 年\"，ranging from A to B 是描述区间的固定说法，语义与语法都严丝合缝。 33 34 35"
+  },
+  {
+   "n": 2,
+   "answer": "measured",
+   "explain": "Three of the papers + 空 + loneliness，主语后缺谓语，需动词（过去式） measured loneliness = 测量 / 衡量孤独，与并列句 looked at social isolation 对仗 整句 Three of the papers __(27)__ loneliness, 18 looked at social isolation and two included both 在说\"各…"
+  },
+  {
+   "n": 3,
+   "answer": "certificates",
+   "explain": "death + 空 作 for 的宾语，需名词 death certificates = 死亡证明，与 medical records 并列、是判定死亡的依据 上下文 the researchers depended on medical records and death __(28)__ for determining coronary events and strokes：研究者靠\"病历\"和\"死亡——\"来判定冠心病 事件与中风。d…"
+  },
+  {
+   "n": 4,
+   "answer": "relative",
+   "explain": "the + 空 + risk，名词前作定语，需形容词 relative risk = 相对风险，是医学统计术语，紧扣\"增加 29%\" 下文 by 29 percent, and the risk of stroke by 32 percent 给的是百分比增幅，这正是流 行病学里 relative risk（相对风险）的典型表述。relative 修饰 risk 构成专业术语，与本文 医学研究语境高度契合。 I) narrow 搭配 /…"
+  },
+  {
+   "n": 5,
+   "answer": "differences",
+   "explain": "There were no + 空，需复数名词 no differences between men and women = 男女之间无差异 结合上一句风险数据 increased the __(29)__ risk … by 29 percent, and the risk of stroke by 32 percent，紧跟一句 There were no __(30)__ between men and women 自然是 说\"男…"
+  },
+  {
+   "n": 6,
+   "answer": "targeting",
+   "explain": "介词 on 后 + 空 + lonely people，需动名词（-ing） targeting lonely people = 针对孤独人群（采取政策），与后文呼应 整句 People have tended to focus from a policy point of view on __(31)__ lonely people to make them more __(32)__：政策一向\"针对\"孤独人群、好让他们更有联结。 t…"
+  },
+  {
+   "n": 7,
+   "answer": "connected",
+   "explain": "make them more + 空，make sb more + 形容词 make them more connected = 让他们更有联结，正对\"孤独\"的反面 上下文 focus … on __(31)__ lonely people to make them more __(32)__：针对孤独者， 目的当然是让他们\"更有连接 / 更合群\"。connected（有联系的）正是 loneliness（孤独） 的反面，与全文 soc…"
+  },
+  {
+   "n": 8,
+   "answer": "demonstrates",
+   "explain": "Our study + 空 + that 从句，主语后缺谓语、需三单动词 study demonstrates that … = 研究表明……，引出研究结论 下文是研究者的观点 if this is a risk factor, then we should be trying to prevent the risk factor，前面用 demonstrates that（表明 / 说明）来引出这一论断最自然。study demons…"
+  },
+  {
+   "n": 9,
+   "answer": "acknowledge",
+   "explain": "The authors + 空 + that 从句，复数主语后缺谓语，需动词原形 authors acknowledge that … = 作者们承认 / 坦言（局限性） that 从句的内容 this was a review of observational studies——研究者坦承本文只是\"观 察性研究综述\"，这是在主动承认研究局限。acknowledge that（承认）正贴这种\"自陈不 足\"的语气。 F) establis…"
+  },
+  {
+   "n": 10,
+   "answer": "establish",
+   "explain": "did not + 空 + cause and effect，助动词 did 后需动词原形 establish cause and effect = 确立 / 证实因果关系，是固定搭配 结合 34 空整句 this was a review of observational studies and did not __(35)__ cause and effect——观察性研究\"无法证实因果关系\"，establish cause and…"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-10-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-10",
+ "paperTitle": "大学英语四级标准模拟卷 10",
+ "paperLevel": "cet4",
+ "paperYear": "mock-10",
+ "sectionOrder": 2,
+ "passage": "短文：\nMost of us believe that changing a habit depends on willpower, but research suggests something different. When people try to {{1}}into a new routine, the hardest part is usually the first three weeks. Scientists who {{2}}the behaviour of two hundred volunteers found that a habit is built when an action is repeated in the same place at the same time. The setting, rather than the effort, does much of the work. In one study, students who put {{3}}on their desks to drink more water were far more {{4}}to succeed than those who simply promised to try harder. The pattern was {{5}}in offices and in schools. Researchers therefore advise people to increase the difficulty only {{6}}, and never to {{7}}themselves to change everything at once. A football beside the door, for example, is more useful than a lecture about exercise. After a few months the new action becomes {{8}}, and the effort disappears. The real {{9}}is not a perfect week but a routine you can {{10}}even when you are tired or busy.",
+ "bank": [
+  "automatic",
+  "benefit",
+  "effective",
+  "eventually",
+  "force",
+  "gradually",
+  "likely",
+  "maintain",
+  "reminders",
+  "settle",
+  "similar",
+  "tracked",
+  "unexpected",
+  "whole",
+  "wrongly"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "settle",
+   "explain": "选 J. settle。settle into a new routine 意为「适应、安顿于新的日常安排」，与后文「最难的是头三周」呼应；force 与 into 搭配不当。"
+  },
+  {
+   "n": 2,
+   "answer": "tracked",
+   "explain": "选 L. tracked。track the behaviour of sb 意为「追踪某人的行为」，是本句研究方法的准确表达；maintain 意为「维持」，与「研究发现」的语境不符。"
+  },
+  {
+   "n": 3,
+   "answer": "reminders",
+   "explain": "选 I. reminders。put reminders on their desks 意为「在桌上放提醒物」，与后文「只靠发誓要更努力」形成对照；此处需复数名词。"
+  },
+  {
+   "n": 4,
+   "answer": "likely",
+   "explain": "选 G. likely。be likely to do 意为「有可能做某事」，far more likely to succeed 表示「成功的可能性大得多」；effective 不能接 to do。"
+  },
+  {
+   "n": 5,
+   "answer": "similar",
+   "explain": "选 K. similar。the pattern was similar in ... and ... 意为「这一规律在……和……中相似」，说明结论具有普遍性；unexpected 与上文一致的研究发现相矛盾。"
+  },
+  {
+   "n": 6,
+   "answer": "gradually",
+   "explain": "选 F. gradually。仅用程度副词 gradually 与 increase 搭配，表示「只应逐步提高难度」；此处不能填形容词或名词。"
+  },
+  {
+   "n": 7,
+   "answer": "force",
+   "explain": "选 E. force。force oneself to do 意为「强迫自己去做」，never to force themselves 与句中 at once 形成劝阻语气。"
+  },
+  {
+   "n": 8,
+   "answer": "automatic",
+   "explain": "选 A. automatic。become automatic 意为「变得自然而然、自动发生」，与后半句 the effort disappears 对应。"
+  },
+  {
+   "n": 9,
+   "answer": "benefit",
+   "explain": "选 B. benefit。空格前有 The real，需填名词；benefit 意为「益处」，说明真正的收获是可长期坚持的习惯，而非完美的一周。"
+  },
+  {
+   "n": 10,
+   "answer": "maintain",
+   "explain": "选 H. maintain。maintain a routine 意为「维持一种日常习惯」，与从句 even when you are tired or busy 的让步语气一致。"
+  }
+ ]
+}

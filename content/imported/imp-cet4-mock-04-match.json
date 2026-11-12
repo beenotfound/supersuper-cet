@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-04-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-04",
+ "paperTitle": "大学英语四级标准模拟卷 04",
+ "paperLevel": "cet4",
+ "paperYear": "mock-04",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For most of the twentieth century a museum was a quiet hall of glass cases, and the visitor's job was to look. Curators now describe their work differently: they want people to leave with a story rather than a list of dates. Labels have grown longer, and rooms are arranged around questions instead of centuries. In one city museum, the first object a visitor meets is not a crown but a schoolboy's letter written in 1916."
+  },
+  {
+   "label": "B",
+   "text": "Families were once tolerated rather than welcomed. Today many museums run special mornings when the lights are brighter, the paths are shorter and touching is allowed. Staff are trained to kneel down when they speak to a six-year-old. The change is not only generous; it is practical. Children who enjoy a visit bring their parents back, and school groups have become one of the most reliable sources of income for smaller museums."
+  },
+  {
+   "label": "C",
+   "text": "Museums are also opening their back doors. Several now rent desk space to researchers, run evening language classes and allow students to use their libraries after dark. A museum in Manchester offers a quiet study room to local teenagers during the exam season. Its director argues that a building which belongs to the public should be useful every day, not only on the two afternoons a week when most tourists appear."
+  },
+  {
+   "label": "D",
+   "text": "None of this is easy to pay for. Government grants have fallen in many countries, and the cost of heating an old stone building keeps rising. Some museums have introduced ticket prices, a decision that always causes argument. Others lend objects to commercial exhibitions abroad. Most directors agree that a museum cannot survive on charm alone, and that a clear financial plan matters as much as a good exhibition."
+  },
+  {
+   "label": "E",
+   "text": "In the past, decisions were made by experts behind closed doors. Some museums now invite residents to choose what should be displayed. In one town, a public meeting decided that the museum's largest room should be given to the history of local factories rather than to a collection of coins. Attendance doubled within a year. Visitors say they come because the place finally speaks about their own streets and families."
+  },
+  {
+   "label": "F",
+   "text": "The danger of chasing visitors is that a museum may lose the very thing that makes it valuable. If every room must be interactive and every label amusing, objects become background. Critics point out that serious research and slow-looking exhibitions are expensive and rarely attract headlines. The best institutions, they argue, keep a balance: a noisy family morning on Saturday does not mean that Tuesday afternoon has to be full of screens."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Some museums hold special mornings so that young children may touch objects and walk shorter distances.",
+   "answer": "B"
+  },
+  {
+   "text": "Curators now hope visitors will remember a story instead of a series of facts.",
+   "answer": "A"
+  },
+  {
+   "text": "Some museums let students use their libraries and offer quiet rooms during exam seasons.",
+   "answer": "C"
+  },
+  {
+   "text": "Falling public funding and rising heating costs have led some museums to charge for entry.",
+   "answer": "D"
+  },
+  {
+   "text": "In one town, residents chose to give the largest room to the history of local industry.",
+   "answer": "E"
+  }
+ ]
+}

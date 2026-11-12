@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-10-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-10",
+ "paperTitle": "大学英语四级标准模拟卷 10",
+ "paperLevel": "cet4",
+ "paperYear": "mock-10",
+ "sectionOrder": 5,
+ "prompt": "数字经济正成为中国经济增长的重要动力。随着5G网络的普及，人们可以在几秒钟内下载一部电影，偏远地区的病人也能通过视频接受城市医生的诊断。在工厂里，5G技术让机器之间的配合更加精确，生产效率明显提高。专家认为，数字技术不仅创造了新的产业，也改变了普通人的生活方式。未来，如何让更多人分享数字红利，将是一项重要的社会课题。",
+ "reference": "The digital economy is becoming an important driver of China's economic growth. With the spread of 5G networks, people can download a film within seconds, and patients in remote areas can be diagnosed by city doctors through video calls. In factories, 5G technology allows machines to work together more precisely, and production efficiency has improved markedly. Experts believe that digital technology has not only created new industries but also changed the way ordinary people live. In the future, how to let more people share the benefits of the digital economy will be an important social question.",
+ "keyPoints": []
+}

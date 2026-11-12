@@ -1,0 +1,17 @@
+{
+  "id": "write-004",
+  "type": "writing",
+  "level": "cet4",
+  "title": "Part-time Jobs for College Students",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["part-time", "experience", "balance"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on whether college students should take part-time jobs. You should write at least 120 words but no more than 180 words.",
+  "reference": "Opinions differ on whether college students should take part-time jobs. In my view, the answer depends on the job and the hours it takes.\n\nOn the positive side, a part-time job offers experience that a classroom cannot provide. Working in a shop or a small company, students learn how to talk to customers, follow rules and deal with unexpected problems. They also learn how hard it is to earn money, which makes them spend more wisely.\n\nHowever, there are risks. If a student works too many hours, study and rest will suffer, and a tired student learns little in class. Some jobs, such as delivering parcels at night, are poorly paid and teach little.\n\nIn my view, balance matters most. A student should choose a job related to his interests, work limited hours and never let wages replace learning. Used wisely, a part-time job is a valuable addition to college life.",
+  "keyPoints": [
+    "首段提出观点：关键在选什么工作、投入多少时间。",
+    "正面论述从获得经验和理解赚钱不易两方面展开。",
+    "同时承认风险，体现辩证思考。",
+    "结尾给出具体建议：与兴趣相关、限定时长。"
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-10",
+      "title": "大学英语四级标准模拟卷 10",
+      "level": "CET4",
+      "year": "mock-10",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Suppose your university has started using delivery robots, self-service machines and other automated services on campus. Write an essay on the advantages and disadvantages of bringing robots and automation into campus life. Your essay should include: 1) examples of the changes automation has brought to your campus; 2) the benefits and the problems it creates; 3) your own view on how the university should use such technology. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "假定你校已在校园里启用配送机器人、自助设备等自动化服务。请写一篇短文，论述机器人/自动化进入校园生活的利与弊：1）举例说明自动化给你校带来的变化；2）说明它带来的好处与问题；3）就学校应当如何使用此类技术提出你自己的看法。词数 120–180 词。",
+          "reference": "Over the past year our campus has changed in ways few of us expected. Delivery robots now cross the square with breakfast, a chatbot answers questions in the library, and course registration is handled by an algorithm. These changes bring real benefits. Meals and parcels arrive faster, the long queues outside the canteen have almost disappeared, and students with part-time jobs find it easier to save time. Automation also frees staff from repetitive work, so they can spend more energy on teaching and advising.\n\nThe problems are equally real. Some students say they no longer talk to the people who serve them, and older staff worry that their jobs are being quietly replaced. When a system fails, one small technical fault can stop everything for a whole afternoon.\n\nIn my view, the university should welcome automation without letting it replace human contact. Robots can carry parcels; only people can give advice and encouragement. If technology handles the routine tasks and people keep the work that needs understanding, the campus will lose nothing that matters.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供（本卷无音频，请先阅读下面的文字稿再做题）。Conversation One 对应第 1–4 题，Passage One 对应第 5–8 题。\n\nConversation One:\nWoman: You look like you are waiting for something. Are you expecting a parcel?\nMan: Yes, a robotics kit for my design project. The delivery robot should be here in a minute.\nWoman: A delivery robot? Do you mean the small white machines that move along the paths beside the library?\nMan: That is the one. The company started using them on campus last month. You order on the app, and the robot brings the parcel from the depot to a pickup point near your dormitory.\nWoman: How does it get past people? The paths are always crowded at lunchtime.\nMan: It has sensors and cameras. If someone stands in front of it, it simply stops and waits, and then says, in a very polite voice, 'Excuse me, may I pass?' The first time I heard that, I laughed out loud.\nWoman: That sounds lovely. But I have heard some complaints too. My roommate says the robots have replaced two of the campus delivery staff.\nMan: That is partly true. One of the three drivers now works in the depot, checking parcels and helping with broken machines. The manager says the robots only handle the short, simple trips.\nWoman: Still, I would miss the chat with the driver who used to bring things to our building. He always knew when the lift was out of order.\nMan: I know what you mean. My mother said the same thing about self-service checkouts in the supermarket. Convenient, but a little colder.\nWoman: So what do you think of them?\nMan: Honestly, I like them for small things like batteries or a notebook. For anything important, I still go to the counter and ask a person.\nWoman: That seems a sensible balance.\n\nPassage One:\nEvery few months a headline warns that machines are about to take our jobs. The truth, according to a team of economists in Germany, is both less frightening and more complicated. The team studied twenty years of employment records from regions where factories introduced industrial robots. They found that the total number of jobs hardly changed. What changed was the kind of work people did. Robots took over tasks that were repetitive and physically demanding, such as lifting heavy parts or checking the same measurement a thousand times a day. Workers whose jobs disappeared were usually able to move into maintenance, quality control or logistics. The transition, however, was not easy. In the first two years after a factory automated, workers over fifty were far more likely to leave the labour market than younger colleagues, because they received less training and had fewer chances to learn new software. The lesson, the team argues, is that governments should not try to stop automation but should invest in retraining, especially for people in mid-career. One of the authors adds that the workers who coped best were those who had learned a second skill early in life, not because it was directly useful, but because learning something new had already become a habit.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What is the man waiting for?",
+              "transcript": "",
+              "options": [
+                "A. A friend from his design class.",
+                "B. A delivery robot with his parcel.",
+                "C. A bus to the city centre.",
+                "D. A repairman for his computer."
+              ],
+              "answer": "B",
+              "explanation": "对话开头女士问 Are you expecting a parcel，男士回答 Yes, a robotics kit... The delivery robot should be here in a minute，可见他在等送快递的机器人，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What does the robot do when someone stands in front of it?",
+              "transcript": "",
+              "options": [
+                "A. It stops, waits and politely asks to pass.",
+                "B. It turns around and takes another path.",
+                "C. It plays a piece of music to warn people.",
+                "D. It calls a member of staff for help."
+              ],
+              "answer": "A",
+              "explanation": "男士说 If someone stands in front of it, it simply stops and waits, and then says... 'Excuse me, may I pass?'，即机器人会停下、等待并有礼貌地请人让路，故选 A。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What has happened to the campus delivery staff?",
+              "transcript": "",
+              "options": [
+                "A. All of them have lost their jobs.",
+                "B. They now repair the robots at night.",
+                "C. One driver has moved to work in the depot.",
+                "D. They have been sent to another campus."
+              ],
+              "answer": "C",
+              "explanation": "男士承认 That is partly true，并说明 One of the three drivers now works in the depot, checking parcels，即三名司机中有一人转到仓库工作，故选 C；原文并未说司机全部失业，A 属过度推断。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What does the man prefer to do about important deliveries?",
+              "transcript": "",
+              "options": [
+                "A. Order them through a friend.",
+                "B. Collect them from the depot himself.",
+                "C. Ask the robot to carry them to his room.",
+                "D. Go to the counter and ask a person."
+              ],
+              "answer": "D",
+              "explanation": "男士说 For anything important, I still go to the counter and ask a person，说明重要物品他仍愿意找人工柜台，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What did the German team study?",
+              "transcript": "",
+              "options": [
+                "A. The cost of robots in car factories.",
+                "B. Interviews with factory managers.",
+                "C. Twenty years of employment records from automated regions.",
+                "D. Sales figures of robot producers."
+              ],
+              "answer": "C",
+              "explanation": "短文说 The team studied twenty years of employment records from regions where factories introduced industrial robots，即研究了自动化地区二十年的就业记录，故选 C。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What kind of tasks did the robots take over?",
+              "transcript": "",
+              "options": [
+                "A. Repetitive and physically demanding tasks.",
+                "B. Tasks that require creativity and judgement.",
+                "C. Management decisions and planning.",
+                "D. Face-to-face customer service."
+              ],
+              "answer": "A",
+              "explanation": "文中说 Robots took over tasks that were repetitive and physically demanding，如搬运重件、重复测量，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "Which group of workers was most likely to leave the labour market after automation?",
+              "transcript": "",
+              "options": [
+                "A. Young graduates.",
+                "B. Workers with software skills.",
+                "C. Newly hired employees.",
+                "D. Workers over fifty."
+              ],
+              "answer": "D",
+              "explanation": "文中明确指出 workers over fifty were far more likely to leave the labour market than younger colleagues，原因是他们得到的培训较少，故选 D。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What do the researchers recommend governments do?",
+              "transcript": "",
+              "options": [
+                "A. Slow down the introduction of robots.",
+                "B. Invest in retraining, especially for mid-career workers.",
+                "C. Raise the retirement age for factory workers.",
+                "D. Limit the number of automated factories."
+              ],
+              "answer": "B",
+              "explanation": "短文结论是 governments should not try to stop automation but should invest in retraining, especially for people in mid-career，故选 B，A 与原文主张相反。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "从下面 A–O 词库中为短文中的 26–35 空选出最恰当的单词，每个词只能使用一次。\n\n词库：\nA. automatic\nB. benefit\nC. effective\nD. eventually\nE. force\nF. gradually\nG. likely\nH. maintain\nI. reminders\nJ. settle\nK. similar\nL. tracked\nM. unexpected\nN. whole\nO. wrongly\n\n短文：\nMost of us believe that changing a habit depends on willpower, but research suggests something different. When people try to (26) into a new routine, the hardest part is usually the first three weeks. Scientists who (27) the behaviour of two hundred volunteers found that a habit is built when an action is repeated in the same place at the same time. The setting, rather than the effort, does much of the work. In one study, students who put (28) on their desks to drink more water were far more (29) to succeed than those who simply promised to try harder. The pattern was (30) in offices and in schools. Researchers therefore advise people to increase the difficulty only (31), and never to (32) themselves to change everything at once. A football beside the door, for example, is more useful than a lecture about exercise. After a few months the new action becomes (33), and the effort disappears. The real (34) is not a perfect week but a routine you can (35) even when you are tired or busy.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "(26) When people try to ____ into a new routine, the hardest part is usually the first three weeks.",
+              "answer": "settle",
+              "explanation": "选 J. settle。settle into a new routine 意为「适应、安顿于新的日常安排」，与后文「最难的是头三周」呼应；force 与 into 搭配不当。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "(27) Scientists who ____ the behaviour of two hundred volunteers found that a habit is built when an action is repeated in the same place at the same time.",
+              "answer": "tracked",
+              "explanation": "选 L. tracked。track the behaviour of sb 意为「追踪某人的行为」，是本句研究方法的准确表达；maintain 意为「维持」，与「研究发现」的语境不符。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "(28) In one study, students who put ____ on their desks to drink more water were far more successful than those who simply promised to try harder.",
+              "answer": "reminders",
+              "explanation": "选 I. reminders。put reminders on their desks 意为「在桌上放提醒物」，与后文「只靠发誓要更努力」形成对照；此处需复数名词。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "(29) In that study, students who made the new behaviour easy were far more ____ to succeed than those who simply promised to try harder.",
+              "answer": "likely",
+              "explanation": "选 G. likely。be likely to do 意为「有可能做某事」，far more likely to succeed 表示「成功的可能性大得多」；effective 不能接 to do。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "(30) The pattern was ____ in offices and in schools.",
+              "answer": "similar",
+              "explanation": "选 K. similar。the pattern was similar in ... and ... 意为「这一规律在……和……中相似」，说明结论具有普遍性；unexpected 与上文一致的研究发现相矛盾。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "(31) Researchers therefore advise people to increase the difficulty only ____.",
+              "answer": "gradually",
+              "explanation": "选 F. gradually。仅用程度副词 gradually 与 increase 搭配，表示「只应逐步提高难度」；此处不能填形容词或名词。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "(32) Researchers therefore advise people never to ____ themselves to change everything at once.",
+              "answer": "force",
+              "explanation": "选 E. force。force oneself to do 意为「强迫自己去做」，never to force themselves 与句中 at once 形成劝阻语气。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "(33) After a few months the new action becomes ____, and the effort disappears.",
+              "answer": "automatic",
+              "explanation": "选 A. automatic。become automatic 意为「变得自然而然、自动发生」，与后半句 the effort disappears 对应。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "(34) The real ____ is not a perfect week but a routine you can (35) even when you are tired or busy.",
+              "answer": "benefit",
+              "explanation": "选 B. benefit。空格前有 The real，需填名词；benefit 意为「益处」，说明真正的收获是可长期坚持的习惯，而非完美的一周。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "(35) A routine that you can ____ even when you are tired or busy is worth far more than one perfect week.",
+              "answer": "maintain",
+              "explanation": "选 H. maintain。maintain a routine 意为「维持一种日常习惯」，与从句 even when you are tired or busy 的让步语气一致。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文。短文共 A–F 六个段落，每段前给出该段的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落（答案填段落字母，有一个段落不会用到）。\n\nParagraph A: Queues that vanished\nAt half past twelve the main canteen used to look like a stadium entrance. Students queued for twenty minutes, ate in ten and complained for the rest of the afternoon. Since the university introduced app ordering last term, the queue has almost disappeared: you pay on your phone, walk to the collection shelf and pick up a box with your number on it. The canteen manager says it now serves about four hundred more meals a day with the same number of staff.\n\nParagraph B: Robots behind the counter\nTwo machines have also appeared in the kitchen. One stirs large pots of soup, and the other fries eggs in a line, six at a time. The staff admit that the egg machine is faster than any of them, especially at breakfast. Head chef Zhou insists this is good news: the machines handle the boring work, while his team designs the weekly menu and talks to students. Nobody became a cook because they wanted to fry eight hundred eggs, he says.\n\nParagraph C: What students miss\nNot every change has been welcomed. A small group of students has started a petition asking the university to keep at least one counter where a person serves you and asks how your day is going. Their argument is not about price or speed; it is about being treated as a person rather than a number. One of them told the campus paper that she lives alone, and that the cook who remembers her name is the only person she speaks to before noon.\n\nParagraph D: Data on the menu\nBehind the scenes, the new system has produced a surprising amount of information. Managers can now see that the vegetarian dish is popular on Wednesdays, that soup sells badly on hot days and that food is often wasted on Friday evenings. This has changed the menu, and not always in the way students expected: portions are smaller, but the kitchen has cut waste by nearly a third and now buys vegetables from a local farm twice a week.\n\nParagraph E: A cheaper way to run a canteen\nAutomation is often described as a way to save money, and here the numbers are honest. But the savings have come mostly from planning, not from replacing people. No one has been dismissed since the system arrived; two staff members have gone back to night school to learn data analysis and are now in charge of the ordering. The canteen also spends far less on food that nobody eats.\n\nParagraph F: What comes next\nThe team is now testing something more ambitious: a menu that adjusts to each student's health data, offering a lighter lunch before a sports match and more iron to those who need it. The idea raises questions, since the university insists that health information stays private. For now the trial is voluntary, and only three hundred students have signed up. The results will be studied before any decision is made.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Managers use information about what is ordered to decide what to cook.",
+              "options": [
+                "A. Queues that vanished",
+                "B. Robots behind the counter",
+                "C. What students miss",
+                "D. Data on the menu",
+                "E. A cheaper way to run a canteen",
+                "F. What comes next"
+              ],
+              "answer": "D",
+              "explanation": "D 段说 Managers can now see that the vegetarian dish is popular on Wednesdays... This has changed the menu，即管理者依据销售数据调整菜单，与题干对应，故选 D。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Some of the routine cooking in the kitchen is now done by machines.",
+              "options": [
+                "A. Queues that vanished",
+                "B. Robots behind the counter",
+                "C. What students miss",
+                "D. Data on the menu",
+                "E. A cheaper way to run a canteen",
+                "F. What comes next"
+              ],
+              "answer": "B",
+              "explanation": "B 段介绍厨房里的两台机器，一台搅汤、一台煎蛋，并说 the machines handle the boring work，正是题干所说「部分常规烹饪由机器完成」，故选 B。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Some students feel that the personal side of mealtimes has been lost.",
+              "options": [
+                "A. Queues that vanished",
+                "B. Robots behind the counter",
+                "C. What students miss",
+                "D. Data on the menu",
+                "E. A cheaper way to run a canteen",
+                "F. What comes next"
+              ],
+              "answer": "C",
+              "explanation": "C 段提到学生发起请愿，希望保留至少一个人工窗口，其理由 being treated as a person rather than a number，即怀念用餐时的人情味，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Waiting in long lines is no longer part of the lunch break.",
+              "options": [
+                "A. Queues that vanished",
+                "B. Robots behind the counter",
+                "C. What students miss",
+                "D. Data on the menu",
+                "E. A cheaper way to run a canteen",
+                "F. What comes next"
+              ],
+              "answer": "A",
+              "explanation": "A 段对比过去排队二十分钟与如今 the queue has almost disappeared，说明排队已基本消失，故选 A。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "The next stage may involve menus designed around each student's health needs.",
+              "options": [
+                "A. Queues that vanished",
+                "B. Robots behind the counter",
+                "C. What students miss",
+                "D. Data on the menu",
+                "E. A cheaper way to run a canteen",
+                "F. What comes next"
+              ],
+              "answer": "F",
+              "explanation": "F 段介绍正在试验 a menu that adjusts to each student's health data，并说明该试验先小范围自愿参与，与题干「下一阶段可能按个人健康需求设计菜单」对应，故选 F。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: Heading to a hotel in central Singapore, a guest may be greeted by a machine about a metre tall. It can check in guests, carry their luggage to the lift and answer simple questions in four languages. Robots like this one, once a rare sight, are becoming ordinary in hotels, hospitals, restaurants and shopping centres. According to industry data, the number of service robots sold worldwide has more than tripled in five years, and the pandemic accelerated the trend: businesses that had lost staff to illness or quarantine needed help fast.\n\nSupporters point to clear advantages. Service robots work without breaks and handle repetitive tasks such as delivering medicine in hospitals or cleaning floors in shopping centres at night. In hospitals in Japan, robots carry meals and laundry, which saves nurses perhaps two hours a day, time that can be spent with patients. In some restaurants a small robot delivers dishes while the human staff talk to customers, which many managers say is a better use of their skills.\n\nYet the picture is not entirely bright. One survey of hotel guests found that although most people were curious about the robots, fewer than a third said they would trust one with a problem such as a lost booking. Others complained that asking a machine for advice felt cold and unhelpful. Cost is another barrier: a delivery robot may cost as much as a year's salary for a member of staff, and small businesses rarely have the money. Researchers in the field add a further warning. Robots work well when a task can be described step by step, and badly when the unexpected happens. A child running into the corridor or a confused elderly patient can stop a robot completely, and the solution usually arrives on two legs. The best results, these researchers say, come from teams in which robots do the carrying and people do the deciding.\n\nPassage 2: For most of the twentieth century, the phrase learning a trade meant learning one skill well and using it for thirty years. Automation has made that model much less reliable. A machine can now handle the filing, the calculations and even some of the writing that once filled a working day, and the tasks it cannot yet handle change faster than any syllabus can be rewritten. The result is a quiet shift in what employers say they need.\n\nA survey of two thousand companies in Asia and Europe found that the three abilities most often named in job advertisements were not technical at all. They were the ability to communicate clearly, to solve unfamiliar problems and to learn something new quickly. Technical skills still matter, the report says, but they are no longer a guarantee of security; they are the entry ticket. What keeps a person employed is the capacity to add a second, related skill: a driver who learns to service electric vehicles, a nurse who learns to manage health data, a warehouse worker who becomes a robot maintenance assistant.\n\nSome governments have begun to design training around this idea. Instead of funding short courses in one occupation, they offer workers paid time to study for a certificate in a nearby field, and some companies have copied the scheme. The early results are encouraging but modest. In one programme, about sixty per cent of participants finished the course, and three quarters of those who finished were still in work a year later. The researchers who evaluated the programme noted one unexpected detail: workers who studied with a colleague were twice as likely to finish. The deeper lesson may be about schools rather than factories. Students who have learned how to learn, and who are not afraid of being beginners, adapt most easily. A curriculum that rewards the right answer above the honest question may be training people for a world that is already disappearing.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the passage say about the number of service robots sold worldwide?",
+              "options": [
+                "A. It has doubled in ten years.",
+                "B. It has more than tripled in five years.",
+                "C. It fell sharply during the pandemic.",
+                "D. It has stayed the same for a decade."
+              ],
+              "answer": "B",
+              "explanation": "Passage 1 首段说 the number of service robots sold worldwide has more than tripled in five years，即五年间增长了两倍多，故选 B；疫情期间是加快了趋势而非下降，C 错。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What do robots do in Japanese hospitals, according to the passage?",
+              "options": [
+                "A. They carry out operations on patients.",
+                "B. They talk to patients about their illness.",
+                "C. They carry meals and laundry, saving nurses about two hours a day.",
+                "D. They check the work of doctors."
+              ],
+              "answer": "C",
+              "explanation": "第二段说 In hospitals in Japan, robots carry meals and laundry, which saves nurses perhaps two hours a day，故选 C；文中并未说机器人做手术或与病人讨论病情。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the survey of hotel guests find?",
+              "options": [
+                "A. Fewer than a third would trust a robot with a problem such as a lost booking.",
+                "B. Most guests refused to enter a hotel with robots.",
+                "C. Guests preferred robots to human staff in every situation.",
+                "D. Guests were willing to pay more for robot service."
+              ],
+              "answer": "A",
+              "explanation": "第三段说虽然多数客人对机器人好奇，but fewer than a third said they would trust one with a problem such as a lost booking，故选 A。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What do researchers say about the limits of service robots?",
+              "options": [
+                "A. They are too expensive for hospitals to buy.",
+                "B. They make more mistakes than tired people do.",
+                "C. They need to be replaced every two years.",
+                "D. They work badly when the unexpected happens."
+              ],
+              "answer": "D",
+              "explanation": "末段说 Robots work well when a task can be described step by step, and badly when the unexpected happens，并举小孩跑进走廊为例，故选 D。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What has made the old model of learning a trade unreliable?",
+              "options": [
+                "A. Fewer young people want to work in factories.",
+                "B. Automation now does tasks that once filled a working day.",
+                "C. Companies have stopped offering training.",
+                "D. Trade schools have closed down."
+              ],
+              "answer": "B",
+              "explanation": "Passage 2 首段说 Automation has made that model much less reliable，并说明机器已能处理归档、计算乃至部分写作，「曾占满工作日」的任务被机器接手，故选 B。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) Which abilities did the survey find most often named in job advertisements?",
+              "options": [
+                "A. Programming and bookkeeping.",
+                "B. Driving and operating machines.",
+                "C. Clear communication, problem solving and quick learning.",
+                "D. Foreign languages and public speaking."
+              ],
+              "answer": "C",
+              "explanation": "第二段列出招聘广告中最常提到的三项能力：communicate clearly, solve unfamiliar problems, learn something new quickly，故选 C。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What unexpected detail did the researchers note about the training programme?",
+              "options": [
+                "A. Older workers finished faster than young ones.",
+                "B. The courses were too expensive to continue.",
+                "C. Most participants left their jobs afterwards.",
+                "D. Workers who studied with a colleague were twice as likely to finish."
+              ],
+              "answer": "D",
+              "explanation": "第三段说 the researchers noted one unexpected detail: workers who studied with a colleague were twice as likely to finish，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "数字经济正成为中国经济增长的重要动力。随着5G网络的普及，人们可以在几秒钟内下载一部电影，偏远地区的病人也能通过视频接受城市医生的诊断。在工厂里，5G技术让机器之间的配合更加精确，生产效率明显提高。专家认为，数字技术不仅创造了新的产业，也改变了普通人的生活方式。未来，如何让更多人分享数字红利，将是一项重要的社会课题。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "The digital economy is becoming an important driver of China's economic growth. With the spread of 5G networks, people can download a film within seconds, and patients in remote areas can be diagnosed by city doctors through video calls. In factories, 5G technology allows machines to work together more precisely, and production efficiency has improved markedly. Experts believe that digital technology has not only created new industries but also changed the way ordinary people live. In the future, how to let more people share the benefits of the digital economy will be an important social question.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

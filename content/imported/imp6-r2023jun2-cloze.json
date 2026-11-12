@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2023jun2-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2023年6月六级第二套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023jun2",
+ "paperTitle": "2023年6月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-06",
+ "passage": "People are {{1}} accurate judges of only some of their behaviors. While most previous studies on how well people know themselves have relied on surveys, this new study {{2}} how well people understand their own behavior using audio recorders that automatically {{3}} every 9.5 minutes. These participants emailed surveys a day asking them to {{4}} how outgoing, agreeable, or conscientious they were during a particular hour of the day. The study used data from 248 participants, all of whom answered questions about their behavior for two {{5}} weeks and wore the audio device for one of those weeks. Six laboratory assistants rated each participant’s audio clips to see how their observations compared with people’s {{6}} of themselves. Some of this {{7}} could be because the observers used only audio clips, and thus could not read {{8}} like body language, but there are {{9}} other explanations, as people should be able to hear when a participant is being kind observers heard could be because people would rather {{10}} rude behavior.",
+ "bank": [
+  "A. activated",
+  "B. articulates",
+  "C. assessment",
+  "D. consecutive",
+  "E. cues",
+  "F. deny",
+  "G. discrepancy",
+  "H. probably",
+  "I. probes",
+  "J. random",
+  "K. recall",
+  "L. relatively",
+  "M. saturated",
+  "N. symptoms",
+  "O. terminate"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "H. probably",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "I. probes",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "J. random",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "A. activated",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "K. recall",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "M. saturated",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "G. discrepancy",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "N. symptoms",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "E. cues",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "B. articulates",
+   "explain": ""
+  }
+ ]
+}

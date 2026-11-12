@@ -1,0 +1,71 @@
+{
+ "id": "real4-2022-12-1-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2022年12月四级真题 第1套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-1",
+ "paperTitle": "2022年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "P1 To write his 2010 book, The 5-Factor World Diet, nutritionist Harley Pasternak traveled to the healthiest countries around the world to learn more about what made their meals extra nourishing.\n\nP2 He noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal. Pasternak also came away with some valuable observations about how different the North American way of life was, compared with many other countries.\n\nP3 For starters, Americans eat much bigger portions than people in other countries. \"We don't prioritize eating seasonally or locally, and we also add lots of salt, sugar and thickening agents to our foods,\" explained Pasternak. Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak's book. They all seem to stick to the ethos(特质) of regional, seasonal produce.\n\nP4 For example, a traditional Mediterranean diet includes fruits, vegetables, whole grains, nuts and olive oil as the main components of nutritional intake. Fish, chicken and red wine make moderate appearances, while red meat, salt and sugar are used much less often. The benefits of a traditional Mediterranean diet have been studied since the 1970s, and researchers have found that living that olive oil life can help people lose weight, lower their heart disease risk and reverse diabetes.\n\nP5 Most other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal above the kitchen sink and calling it dinner.\n\nP6 Each of the healthy eating cultures has its own unique feature. But Pasternak did take note of one unifying factor in all of the healthy societies he observed. \"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak, \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"",
+ "questions": [
+  {
+   "q": "What characterizes Japanese and Chinese foods?",
+   "options": [
+    "Variety.",
+    "Flavor.",
+    "Color.",
+    "Naturalness."
+   ],
+   "answer": 0,
+   "explain": "题干 What characterizes Japanese and Chinese foods? 是 what 直接询问客观特征，没 有 infer/suggest/imply 之类的推断信号，要的就是原文写明的事实。 题干 What characterizes Japanese and Chinese foods? 是标准的 what 主语疑问句： what 作主语，characterizes 作谓语，Japanese and Ch…"
+  },
+  {
+   "q": "What is typical of Americans in the way of eating?",
+   "options": [
+    "They emphasize nutrition.",
+    "They tend to eat quite a lot.",
+    "They prioritize convenience.",
+    "They care about flavors."
+   ],
+   "answer": 1,
+   "explain": "题干 What is typical of Americans in the way of eating? 用 typical 直接问\"典型\"，要求 原文里被作者明确点出的美国人吃饭特征。 题干主干是 what is typical of Americans，in the way of eating 是修饰 typical 的范围介 词短语；结构平铺直叙，无陷阱。 For starters, Americans eat much big…"
+  },
+  {
+   "q": "What features are in Mediterranean, Nordic and Okinawan diets?",
+   "options": [
+    "Fruits and vegetables.",
+    "Olive oil and red wine.",
+    "Seasonal local produce.",
+    "Unprocessed ingredients."
+   ],
+   "answer": 2,
+   "explain": "题干 What features are in Mediterranean, Nordic and Okinawan diets? 直接询问几种 饮食\"具备什么特征\"，答案应是原文明写的共同特征。 题干 What features are in Mediterranean, Nordic and Okinawan diets?：what features 作主语、are 系动词、in Mediterranean, Nordic and …"
+  },
+  {
+   "q": "What do people in most healthy eating cultures have in common?",
+   "options": [
+    "They get the whole family to eat at a table.",
+    "They eat their meals regularly and punctually.",
+    "They consume plenty of cereal for breakfast.",
+    "They attach great importance to their meals."
+   ],
+   "answer": 3,
+   "explain": "题干 What do people in most healthy eating cultures have in common? 直问\"共同之 处\"，不含推断信号词，只要找原文的归纳句即可。 题干 What do people in most healthy eating cultures have in common?：what 作 have 的宾语前置，主语是 people in most healthy eating cultu…"
+  },
+  {
+   "q": "Compared with the average American, people in healthy societies ___________.",
+   "options": [
+    "walk at least 4 miles a day",
+    "do considerably more walking",
+    "pay more attention to body shape",
+    "consume a lot more organic food"
+   ],
+   "answer": 1,
+   "explain": "题干 Compared with the average American, people in healthy societies ___________. 是补全句、内容来自原文的事实性对比陈述，不要求做推断，按细节题走。 题干 Compared with the average American, people in healthy societies ___________. 是不完整陈述句：Compared with the …"
+  }
+ ]
+}

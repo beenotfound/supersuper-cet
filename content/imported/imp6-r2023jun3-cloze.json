@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2023jun3-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2023年6月六级第三套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023jun3",
+ "paperTitle": "2023年6月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-06",
+ "passage": "Imagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for dessert. After eating so much, you should be too full to eat another bite. But some people experience a powerful urge to keep eating, even after {{1}} in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with {{2}} health issues and is even linked to increased {{3}} risk. But some people still keep eating long after ( 永 不满 足的) characterized by two main {{4}} : not being satisfied by eating, and having a desire to stay sedentary (久 This is at {{5}} with how humans are biologically programmed. When there was a great deal of food available, ancient people would gorge on calories; this massive calorie intake was accompanied by an urge to get active. Humans were also programmed for something called “compensation,” which is the brain’s {{6}} mechanism for preventing the accumulation of excess weight. With compensation, if you eat one large meal in the morning, you are naturally {{7}} to eat less for the rest of the day. But recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse {{8}} , a significant number of them report {{9}} hunger halfway through an eating session, but, by the end of the meal, they feel the same or higher levels of hunger than when they sat down. Dr. Thompson argues that the main cause of this phenomenon is the modern diet, which is {{10}} of food high in sugar, carbohydrates and calories. ",
+ "bank": [
+  "A. attributes",
+  "B. comprised",
+  "C. conceded",
+  "D. conservation",
+  "E. diminishing",
+  "F. far",
+  "G. inclined",
+  "H. indulging",
+  "I. innumerable",
+  "J. mortality",
+  "K. odds",
+  "L. plights",
+  "M. regulatory",
+  "N. still",
+  "O. unmatchable"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "L. plights",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "I. innumerable",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "A. attributes",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "K. odds",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "D. conservation",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "C. conceded",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "G. inclined",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "E. diminishing",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "H. indulging",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "F. far",
+   "explain": ""
+  }
+ ]
+}

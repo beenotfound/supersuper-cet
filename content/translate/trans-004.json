@@ -1,0 +1,18 @@
+{
+  "id": "trans-004",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国高铁",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["network", "journey", "efficient", "connect"],
+  "prompt": "过去，中国人出远门常常要坐很久的火车，一趟旅程往往要花上一两天。如今，高速铁路把许多城市连接起来，人们的出行方式发生了很大变化。相距遥远的城市之间，坐高铁只需几个小时，不少人当天就能往返。高铁不仅方便了探亲和旅游，也让一些小城市获得了新的发展机会。沿线的车站周边逐渐形成新的商业区，年轻人不必再背井离乡就能找到工作。可以说，高铁改变了人们对距离的感受。",
+  "reference": "In the past, when Chinese people travelled far from home, they often had to take long train journeys that lasted a day or two. Today high-speed rail connects many cities, and the way people travel has changed a great deal. Between cities that used to seem distant, a high-speed train now takes only a few hours, and many people can make the round trip within a single day. High-speed rail has made it easier not only to visit relatives and go sightseeing but also to bring new opportunities to smaller cities. Business districts are gradually taking shape around stations along the lines, and young people no longer have to leave their hometowns to find work. Tickets can be booked on a phone minutes before departure, which saves passengers a great deal of time. For students and workers alike, a journey that once meant packing for days has become as ordinary as a morning commute. In a real sense, high-speed rail has changed the way people feel about distance.",
+  "keyPoints": [
+    "“出远门”意译为 travel far from home，不直译 go out far。",
+    "“往返”用 make the round trip。",
+    "“背井离乡”意译为 leave their hometowns，避免逐字直译。",
+    "“沿线的车站周边”可译为 around stations along the lines。",
+    "“改变了人们对距离的感受”宜译为 changed the way people feel about distance。"
+  ]
+}

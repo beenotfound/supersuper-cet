@@ -1,0 +1,23 @@
+{
+ "id": "imp6-tr2025jun2-trans",
+ "type": "translation",
+ "level": "cet6",
+ "title": "2025年6月六级翻译：南水北调工程",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025jun2",
+ "paperTitle": "2025年6月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-06",
+ "prompt": "自古以来，中国的水资源北缺南丰，分布极不均衡。为了有效解决北方严重缺水问题，中国政府实施了南水北调工程（the South-to-North Water Diversion Project）。这是一项跨区域配置水资源的宏大水利工程。历经数十年的规划与筹备，工程于2002年开工建设，分为东、中、西3条线路，总长4350公里，惠及人口将超过4亿。自2014年通水以来，工程向北方调水累计已超500亿立方米，有效缓解了北方地区的水资源短缺问题，改善了沿线地区的生态环境，促进了区域经济社会的协调发展。",
+ "reference": "Since ancient times, China's water resources have been scarce in the north and abundant in the south, with extremely uneven distribution. To effectively address the serious water shortage in the north, the Chinese government implemented the South-to-North Water Diversion Project. This is a grand water conservancy project for cross-regional allocation of water resources. After decades of planning and preparation, construction began in 2002, divided into three routes — eastern, central, and western — with a total length of 4,350 kilometers, benefiting a population of more than 400 million. Since water was first diverted in 2014, the project has transferred a cumulative total of more than 50 billion cubic meters of water to the north, effectively alleviating the water shortage in northern regions, improving the ecological environment along the routes, and promoting the coordinated development of regional economy and society.",
+ "keyPoints": [
+  "南水北调 → South-to-North Water Diversion",
+  "水资源 → water resources",
+  "水利工程 → water conservancy project",
+  "跨区域 → cross-regional",
+  "生态环境 → ecological environment",
+  "协调发展 → coordinated development"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-04-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-04",
+ "paperTitle": "大学英语四级标准模拟卷 04",
+ "paperLevel": "cet4",
+ "paperYear": "mock-04",
+ "sectionOrder": 5,
+ "prompt": "敦煌莫高窟位于中国西北的沙漠之中，是世界上规模最大的佛教艺术宝库之一。自公元四世纪起，人们在洞窟中绘制壁画、塑造佛像，历经千余年，留下了大量珍贵的艺术品。这些洞窟不仅记录了佛教在中国的传播，也反映了古代丝绸之路上的商贸往来与文化交流。近年来，研究人员利用数字技术对壁画进行高精度拍摄，建立了完整的图像档案，使这些脆弱的艺术珍品得以长久保存，也让世界各地的人们可以在线欣赏它们的美丽。",
+ "reference": "The Mogao Caves in Dunhuang, located in the desert of northwest China, are one of the largest treasure houses of Buddhist art in the world. Since the fourth century, people have painted murals and made statues of Buddha in these caves. Over more than a thousand years they left behind a great number of precious works of art. The caves not only record how Buddhism spread in China but also reflect the trade and cultural exchanges along the ancient Silk Road. In recent years, researchers have used digital technology to photograph the murals at high resolution and have built a complete image archive. As a result, these fragile treasures can be preserved for a long time, and people all over the world can enjoy their beauty online.",
+ "keyPoints": []
+}

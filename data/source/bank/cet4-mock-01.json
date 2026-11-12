@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-01",
+      "title": "大学英语四级标准模拟卷 01",
+      "level": "CET4",
+      "year": "mock-01",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Some people argue that university libraries should be open to the general public, while others believe that they should serve students first. What is your opinion? Write an essay on this topic. In your essay you should: 1) state your opinion clearly; 2) give two reasons to support it; 3) suggest how the possible problems could be solved. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "一些人认为大学图书馆应当向社会公众开放，另一些人则认为它应首先服务学生。请就这一话题发表你的看法，写一篇议论文，内容包括：1）明确你的观点；2）给出两条支持理由；3）对可能出现的问题提出解决办法。词数 120–180 词。",
+          "reference": "Some people believe that university libraries should open their doors to the public. I largely agree, provided that students' needs come first. A library is funded by society, so it seems reasonable that society should benefit from it. Adults who never went to university can use the reference collection, and retired people can attend talks or borrow books. This also helps the university build a better relationship with the town around it. However, I would not open every floor. During the exam period students need silent space, and a busy public library would make that impossible. A practical solution is to admit visitors after ten in the morning and to keep two floors for students only. Everyone gains if the building is shared with care.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。请先阅读以下两段材料（Conversation One 与 Passage One），再回答下面的 8 道题。\n\nConversation One:\nMan: Good morning. Is this the information desk?\nWoman: Yes, it is. How can I help you?\nMan: I'm looking for a quiet place to study. The library in my department closes at six, and I have three exams next week.\nWoman: You've come to the right place. This is the main library, and we're open until eleven during the exam period. But I should warn you that the reading rooms on the second floor are usually full by nine in the morning.\nMan: That's a problem. I finish my lab at half past nine. Is there anywhere else?\nWoman: There is a silent study zone on the fourth floor. It's smaller, only about sixty seats, and phones must be switched off. Most students don't know about it, so you may find space there.\nMan: Sounds good. Do I need to book a seat?\nWoman: Not for the silent zone. But if you want one of the small group rooms, you must reserve it online at least a day in advance. The booking system opens at eight in the morning.\nMan: I see. And can I bring coffee?\nWoman: Sorry, no drinks except water in the silent zone. But there is a café on the ground floor where you can take a break.\nMan: One more thing — my student card expired last month. Can I still get in?\nWoman: You need to renew it at the office next to the entrance. It only takes a few minutes, and you will need your student number.\nMan: Great. I'll do that now. Oh, are you open at the weekend as well?\nWoman: We are, from eight in the morning on Saturdays during the exam period. Sundays are quieter, so the third floor closes at six.\nMan: That's useful. I usually study best in the morning. Thanks for your help.\n\nPassage One:\nA small wooden box standing beside a bus stop may not look important, but it is part of a quiet movement that has spread across thousands of neighbourhoods. These boxes are community bookshelves, often called little free libraries. Anyone can take a book, and anyone can leave one. There is no membership, no fee and no due date. The idea began in a small town in the United States in the early 2000s, when a man built a box shaped like a schoolhouse for his neighbours. Today similar shelves can be found outside parks, hospitals and railway stations, and a map on the internet shows more than a hundred thousand of them. Supporters say they do more than share books. In streets where neighbours rarely speak to each other, a shared shelf gives people a reason to stop and talk. Parents with young children often use the shelves to exchange picture books, while older readers leave novels they have finished. However, not every shelf works well. Some are damaged by rain, and others fill up with old textbooks that nobody wants. Community groups in several cities have started to check the shelves regularly, repair them and remove unsuitable books. They have also set a simple rule: leave a book you would be happy to borrow yourself. According to one organiser, the shelves succeed when they are treated as a shared space rather than a free rubbish bin for unwanted paper.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What is the man's main problem?",
+              "transcript": "",
+              "options": [
+                "A. He cannot find the information desk.",
+                "B. He needs a quiet place to prepare for his exams.",
+                "C. His lab work finishes too early.",
+                "D. He has lost his student card."
+              ],
+              "answer": "B",
+              "explanation": "对话开头男士说 I'm looking for a quiet place to study，并说明下周有三门考试，可见他的主要问题是需要一个安静的复习场所，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What does the woman say about the reading rooms on the second floor?",
+              "transcript": "",
+              "options": [
+                "A. They are open all night.",
+                "B. They are only for graduate students.",
+                "C. They are usually full by nine in the morning.",
+                "D. They must be booked one day ahead."
+              ],
+              "answer": "C",
+              "explanation": "女士提醒 the reading rooms on the second floor are usually full by nine in the morning，即二楼阅览室早上九点前通常就满了，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What must the man do to use a small group room?",
+              "transcript": "",
+              "options": [
+                "A. Reserve it online at least a day in advance.",
+                "B. Ask the librarian for a key.",
+                "C. Pay a small fee at the entrance.",
+                "D. Arrive before eight in the morning."
+              ],
+              "answer": "A",
+              "explanation": "女士说想用小研讨室必须 reserve it online at least a day in advance，即至少提前一天在网上预约，故选 A。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What will the man do next?",
+              "transcript": "",
+              "options": [
+                "A. Buy a cup of coffee.",
+                "B. Go back to his lab.",
+                "C. Book a seat in the silent zone.",
+                "D. Renew his student card at the office."
+              ],
+              "answer": "D",
+              "explanation": "对话末尾男士得知学生证过期，需要到入口旁的办公室续办，并说 I'll do that now，所以下一步是去续学生证，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What does the passage say about little free libraries?",
+              "transcript": "",
+              "options": [
+                "A. They charge a small monthly fee.",
+                "B. They are run by local governments.",
+                "C. Anyone can take or leave a book without membership.",
+                "D. They only accept children's books."
+              ],
+              "answer": "C",
+              "explanation": "短文说明这些社区书架 There is no membership, no fee and no due date，任何人都可以取书、留书，故选 C。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "Where did the idea of community bookshelves begin?",
+              "transcript": "",
+              "options": [
+                "A. In a small town in the United States.",
+                "B. In a railway station in Britain.",
+                "C. In a hospital in Canada.",
+                "D. At a university in Australia."
+              ],
+              "answer": "A",
+              "explanation": "文中说 The idea began in a small town in the United States in the early 2000s，即这一做法起源于美国的小镇，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What benefit do supporters mention besides sharing books?",
+              "transcript": "",
+              "options": [
+                "A. They help publishers sell more books.",
+                "B. They give neighbours a reason to stop and talk.",
+                "C. They reduce the price of new books.",
+                "D. They provide free textbooks to schools."
+              ],
+              "answer": "B",
+              "explanation": "支持者指出 In streets where neighbours rarely speak to each other, a shared shelf gives people a reason to stop and talk，即除分享图书外，还让邻居有交谈的契机，故选 B。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What problem do some community bookshelves have?",
+              "transcript": "",
+              "options": [
+                "A. They are too expensive to build.",
+                "B. They attract too many tourists.",
+                "C. They are closed by local councils.",
+                "D. They are damaged by rain or fill up with unwanted books."
+              ],
+              "answer": "D",
+              "explanation": "文中说 Some are damaged by rain, and others fill up with old textbooks that nobody wants，即有的书架被雨淋坏，有的堆满没人要的旧课本，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "选词填空：阅读下面短文，从词库 A–O 中选出 10 个词填入短文中的空白处（编号 26–35），每个词只能使用一次。\n\n词库：\nA. asking\nB. benefit\nC. compare\nD. copy\nE. equally\nF. focus\nG. forbid\nH. general\nI. hinder\nJ. obviously\nK. quickly\nL. recall\nM. struggle\nN. useful\nO. wandering\n\n短文：\nMany students now type their lecture notes on a laptop, yet a growing number of teachers encourage them to write by hand. One reason is speed: typing allows a student to record almost every word, but this can actually (26) ____ understanding. When people write slowly, they must decide what matters and express it in their own words, which makes the material easier to (27) ____ later. A study at an American university found that students who took notes by hand performed better on questions that required them to explain ideas, although the two groups scored (28) ____ on simple factual questions. Handwriting also seems to keep the mind from (29) ____ during long lectures, because the writer cannot simply copy words without thinking. Of course, laptops remain (30) ____ for courses with large amounts of data, and no teacher should (31) ____ students who genuinely need them. The (32) ____ message is that the method matters less than the thinking behind it. Teachers can help by (33) ____ fewer but better questions and by giving students time after class to (34) ____ their notes with a partner. In the end, good notes are not a (35) ____ of the lecture but a record of the student's own ideas.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. Typing lets a student record almost every word, but this can actually ____ understanding.",
+              "answer": "hinder",
+              "explanation": "选 I. hinder。hinder 意为“阻碍、妨碍”，hinder understanding 指反而妨碍理解；benefit 虽也可接宾语，但与句中 but 的转折逻辑相反。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. When people write slowly, they must decide what matters, which makes the material easier to ____ later.",
+              "answer": "recall",
+              "explanation": "选 L. recall。recall 意为“回想起、忆起”，与后面的 later 呼应，说明用自己的话记笔记能帮助日后回忆内容。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. The two groups scored ____ on simple factual questions.",
+              "answer": "equally",
+              "explanation": "选 E. equally。空格修饰动词 scored，需要程度副词；equally 表示两组在简单事实题上“得分相同”，与 although 引导的让步关系一致。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Handwriting also seems to keep the mind from ____ during long lectures.",
+              "answer": "wandering",
+              "explanation": "选 O. wandering。keep sb from doing sth 为固定结构，wandering 指“走神、思绪游移”，说明手写让人无法不假思索地抄写，从而保持专注。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Of course, laptops remain ____ for courses with large amounts of data.",
+              "answer": "useful",
+              "explanation": "选 N. useful。remain 后接形容词作表语，useful 表示笔记本电脑在数据量大的课程中仍然“有用”，与前面的转折语气相符。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. No teacher should ____ students who genuinely need them.",
+              "answer": "forbid",
+              "explanation": "选 G. forbid。forbid sb to do sth 意为“禁止某人做某事”，此处指不应禁止确实需要笔记本电脑的学生使用它。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. The ____ message is that the method matters less than the thinking behind it.",
+              "answer": "general",
+              "explanation": "选 H. general。the general message 意为“总的信息、总体结论”，空格需形容词修饰 message，概括前文的对比。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Teachers can help by ____ fewer but better questions.",
+              "answer": "asking",
+              "explanation": "选 A. asking。by 后接动名词，ask questions 意为“提问”，fewer but better questions 说明问题应少而精。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. Teachers can also give students time after class to ____ their notes with a partner.",
+              "answer": "compare",
+              "explanation": "选 C. compare。compare A with B 意为“把 A 与 B 作比较”，与 with a partner 搭配，指课后和同伴对照、补充笔记。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. Good notes are not a ____ of the lecture but a record of the student's own ideas.",
+              "answer": "copy",
+              "explanation": "选 D. copy。a copy of the lecture 意为“讲义的复制品”，与后面的 a record of the student's own ideas 形成对比。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，选项 A–F 为各段落主题的短标题。请为下面的每个陈述句选择对应的段落。\n\nParagraph A: Every year thousands of books are left in the green boxes outside the charity's office. Some come from families whose children have grown up; others are sent by schools replacing their library stock, and a few publishers donate damaged but readable copies. A small van collects the boxes twice a week and takes them to a warehouse on the edge of the city. Last year alone the charity received more than ninety thousand books, which is both a wonderful problem and a serious one, because every single copy has to be handled.\n\nParagraph B: Inside the warehouse, volunteers work in teams of six. One group checks each book for missing pages, water damage and writing on the pages, and anything beyond repair goes to a recycling centre. Another group sorts the rest into categories: picture books, novels, science, history and reference. A third group stamps the charity's name inside the cover. On a busy Saturday the teams can process about four thousand books, which sounds impressive until you remember how many are waiting.\n\nParagraph C: Before a box is sent anywhere, staff contact the school that will receive it. They ask the head teacher how many students there are, what ages they teach and which subjects need materials. A school with no laboratory may ask for science books, while one in a rural area may simply want stories to encourage reading in English. Sending the wrong books wastes money and disappoints children, so the charity keeps a list of requests and matches each donation to a school.\n\nParagraph D: Getting the boxes to the schools is the hardest part. Lorries can reach towns on main roads, but many schools lie at the end of dirt tracks that become mud in the rainy season. In those places the boxes are transferred to motorbikes, which carry two at a time up the hills. Drivers sometimes wait for days for the weather to improve. The charity now stores books in regional depots so that the final journey is short, even if the first one is long.\n\nParagraph E: Books alone do not create readers. Before a delivery, two trainers spend a week with the teachers, showing them how to run a reading club, how to read aloud with expression and how to let children choose books for themselves. The teachers are also given simple record cards so that they can see which pupils are reading and which are not. Most schools ask for the training again the following year, and some have started their own libraries with the skills they learned.\n\nParagraph F: The results are easiest to see in the children's faces. In one mountain school, a girl of ten told a volunteer that she had never owned a book before and asked whether she could keep it. Teachers report that pupils who join the reading club attend school more regularly and write longer stories. Numbers cannot measure everything, but the charity's own survey found that reading confidence had risen sharply in almost every school it visited.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Donated books are examined and sorted into groups before they are sent out.",
+              "options": [
+                "A. Where the books come from",
+                "B. Sorting and checking",
+                "C. Choosing the right schools",
+                "D. Reaching remote areas",
+                "E. Training local teachers",
+                "F. The difference it makes"
+              ],
+              "answer": "B",
+              "explanation": "B 段说明志愿者先检查 each book for missing pages, water damage and writing，再把 the rest 分成 categories，与题干“先检查再分类”一致，故选 B。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Some books have to be carried by motorbike where lorries cannot reach.",
+              "options": [
+                "A. Where the books come from",
+                "B. Sorting and checking",
+                "C. Choosing the right schools",
+                "D. Reaching remote areas",
+                "E. Training local teachers",
+                "F. The difference it makes"
+              ],
+              "answer": "D",
+              "explanation": "D 段提到 In those places the boxes are transferred to motorbikes, which carry two at a time up the hills，与题干“卡车到不了的地方改用摩托车”直接对应，故选 D。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "The charity asks each school which titles and subjects its students actually need.",
+              "options": [
+                "A. Where the books come from",
+                "B. Sorting and checking",
+                "C. Choosing the right schools",
+                "D. Reaching remote areas",
+                "E. Training local teachers",
+                "F. The difference it makes"
+              ],
+              "answer": "C",
+              "explanation": "C 段说 staff contact the school ... They ask the head teacher how many students there are, what ages they teach and which subjects need materials，即先了解学校的实际需求，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Books come from families, schools and publishers rather than being bought new.",
+              "options": [
+                "A. Where the books come from",
+                "B. Sorting and checking",
+                "C. Choosing the right schools",
+                "D. Reaching remote areas",
+                "E. Training local teachers",
+                "F. The difference it makes"
+              ],
+              "answer": "A",
+              "explanation": "A 段说明书来自 families whose children have grown up、schools replacing their library stock 以及 a few publishers，即旧书主要由家庭、学校和出版社捐赠，故选 A。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Teachers are given training so that they can use the books in their lessons.",
+              "options": [
+                "A. Where the books come from",
+                "B. Sorting and checking",
+                "C. Choosing the right schools",
+                "D. Reaching remote areas",
+                "E. Training local teachers",
+                "F. The difference it makes"
+              ],
+              "answer": "E",
+              "explanation": "E 段说 two trainers spend a week with the teachers, showing them how to run a reading club and how to read aloud，即教师会接受如何使用图书的培训，故选 E。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: For most of the twentieth century, the university library was a quiet building whose main purpose was to keep books safe. Students came in, found a title in the catalogue, read it at a table and left. The librarian's job was to protect the collection and to make sure that nothing was lost.\n\nThat model has changed almost beyond recognition. A modern university library is more likely to be judged by how many students use it than by how many volumes it owns. Many libraries have moved the shelves to make room for group study areas, computer rooms and small studios where students can record videos or practise presentations. Some have opened cafés, and a few even lend equipment such as cameras, laptops and musical instruments.\n\nThe change has not been welcomed by everyone. Older academics sometimes complain that a library without silent reading rooms is no longer a library at all, and that students who work in groups distract those who need quiet. Librarians reply that they have simply followed the students.\n\nSurveys at several universities show that most students still use the building, but for a wider range of activities than their parents did. They borrow fewer printed books, yet they ask more questions, attend more workshops and use more online resources. The most successful libraries, according to a recent report, are those that offer both worlds: a silent floor for those who want it, and lively spaces for those who need to work together. The building has not lost its purpose, the report argues; it has gained several. A library that once stored knowledge now helps students to make it, argue with it and present it, which is a harder job and a more interesting one.\n\nPassage 2: Reading has never been easier, yet many people say they read less than they used to. The explanation is not that books have become less interesting, but that attention has become harder to hold. A phone on the desk offers a constant supply of short messages, and each one gives the brain a small reward. In this environment, a novel that takes three pages to describe a single afternoon can feel slow, even boring.\n\nTeachers and researchers who study reading call the alternative deep reading. They mean the kind of reading in which a person follows an argument, notices the writer's tone and pauses over a sentence that seems especially well made. This does not happen automatically; it requires a quiet place, an unhurried mind and, above all, a decision to stay with one text.\n\nDigital devices are not the enemy. Many readers do their deep reading on tablets, and audiobooks have allowed busy people to return to books they would otherwise never open. What matters is whether the reading is planned or merely squeezed into gaps between messages.\n\nA growing number of universities have therefore introduced short courses on reading habits, in which students are asked to keep a record of when, where and how long they read. The results are often surprising. Students discover that thirty minutes of concentration in the morning is worth more than three hours of half-attention, and that the books they remember most are the ones they read slowly. Perhaps the lesson is simply that reading, like any other skill, improves when it is given time.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What was the main purpose of university libraries in the past?",
+              "options": [
+                "A. To protect books and keep the collection safe.",
+                "B. To provide group study rooms for students.",
+                "C. To lend cameras and laptops.",
+                "D. To offer workshops on research skills."
+              ],
+              "answer": "A",
+              "explanation": "第一段说 the university library was a quiet building whose main purpose was to keep books safe，即过去大学图书馆的主要目的是保护藏书的安全，故选 A。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What change have many modern university libraries made?",
+              "options": [
+                "A. They have built more silent reading rooms.",
+                "B. They have replaced some shelves with group study areas.",
+                "C. They have stopped lending printed books.",
+                "D. They have closed the cafés inside them."
+              ],
+              "answer": "B",
+              "explanation": "第二段提到 Many libraries have moved the shelves to make room for group study areas, computer rooms and small studios，即把书架移开腾出小组学习区等空间，故选 B。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What do some older academics complain about?",
+              "options": [
+                "A. Libraries are too quiet for group work.",
+                "B. Students borrow too many books.",
+                "C. Silent reading rooms have gone and students distract each other.",
+                "D. Librarians ask too many questions."
+              ],
+              "answer": "C",
+              "explanation": "第三段说 Older academics sometimes complain that a library without silent reading rooms is no longer a library at all, and that students who work in groups distract those who need quiet，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the recent report suggest about successful libraries?",
+              "options": [
+                "A. They should own more printed volumes.",
+                "B. They should keep students quiet at all times.",
+                "C. They should close social spaces during exams.",
+                "D. They should offer both silent and social spaces."
+              ],
+              "answer": "D",
+              "explanation": "最后一段引述报告说 the most successful libraries ... offer both worlds: a silent floor for those who want it, and lively spaces for those who need to work together，即兼顾安静与社交空间，故选 D。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What do researchers mean by deep reading?",
+              "options": [
+                "A. Following a writer's argument and pausing over sentences.",
+                "B. Reading as many short messages as possible.",
+                "C. Listening to audiobooks while working.",
+                "D. Skimming a book to find facts quickly."
+              ],
+              "answer": "A",
+              "explanation": "第二段解释 deep reading 指 a person follows an argument, notices the writer's tone and pauses over a sentence that seems especially well made，故选 A。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the author's view of digital devices?",
+              "options": [
+                "A. They have destroyed the habit of reading.",
+                "B. They are not the enemy and can support deep reading.",
+                "C. They should not be used by university students.",
+                "D. They are only useful for short messages."
+              ],
+              "answer": "B",
+              "explanation": "第三段明确说 Digital devices are not the enemy，并举出在平板上深读、用有声书重读书本等例子，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What do students learn from the short courses on reading habits?",
+              "options": [
+                "A. Reading in the morning is always boring.",
+                "B. Audiobooks are better than printed books.",
+                "C. A short period of full attention is worth more than hours of half-attention.",
+                "D. Books should be read as quickly as possible."
+              ],
+              "answer": "C",
+              "explanation": "最后一段说学生发现 thirty minutes of concentration in the morning is worth more than three hours of half-attention，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "中国是茶的故乡，饮茶的历史已有数千年。茶不仅是一种饮品，也是一种生活方式。客人来访时，主人通常会先奉上一杯热茶，以表示欢迎与尊重。不同地区的人们喜爱不同的茶：南方人偏爱绿茶，北方人则更常喝花茶。近年来，越来越多的年轻人开始学习茶艺，茶馆也成了朋友聚会的好去处。茶文化强调平静与分享，这或许正是它在快节奏的现代生活中依然受欢迎的原因。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "China is the home of tea, and the history of tea drinking there goes back thousands of years. Tea is not only a drink but also a way of life. When guests visit, the host usually offers them a cup of hot tea first as a sign of welcome and respect. People in different regions prefer different kinds of tea: those in the south favour green tea, while those in the north more often drink scented tea. In recent years, more and more young people have begun to learn the art of tea making, and tea houses have become popular places for friends to meet. Tea culture stresses calmness and sharing, which may explain why it is still welcome in the fast pace of modern life.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

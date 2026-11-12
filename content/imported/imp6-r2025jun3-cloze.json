@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2025jun3-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2025年6月六级第三套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025jun3",
+ "paperTitle": "2025年6月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-06",
+ "passage": "No beast on Earth is tougher than the tiny tardigrade (缓步类动物). It can {{1}} being frozen at −272º Celsius, being exposed to the vacuum of outer space and even being {{2}} with 500 times the dose of X-rays that would kill a human. In other words, the creature can endure conditions that don’t even exist on Earth. And researchers are looking to the microscopic animals to learn how to prepare humans and crops to handle the {{3}} of space travel. The tardigrade’s indestructibility stems from its {{4}} to its environment — which may seem surprising, since it lives in {{5}} comfortable places, like the cool, wet patches of moss (青苔) that dot a garden wall. But it turns out that a tardigrade’s damp, mossy home can dry out many times each year. Drying is pretty {{6}} for most living things. It does damage to cells in some of the same ways that freezing, vacuum and radiation do. Tardigrades, however, have {{7}} special strategies for dealing with these kinds of damage. animals. In water, the proteins are shapeless. But as water disappears, the proteins self-assemble into long fibers that fill the cell’s {{8}} . The fibers support the cell’s membranes (细胞膜) and proteins, preventing them from breaking or {{9}} . radiation are elevated compared with on Earth. So if humans ever succeed in reaching the stars, they may accomplish this {{10}} , in part, by standing on the shoulders of the tiny eight-legged endurance specialists in your backyard.",
+ "bank": [
+  "A. adaptations",
+  "B. blasted",
+  "C. catastrophic",
+  "D. evolved",
+  "E. feat",
+  "F. interior",
+  "G. probing",
+  "H. recurrence",
+  "I. rigors",
+  "J. seemingly",
+  "K. survive",
+  "L. tempt",
+  "M. thrill",
+  "N. unanimously",
+  "O. unfolding"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "C. catastrophic",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "H. recurrence",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "M. thrill",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "F. interior",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "N. unanimously",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "O. unfolding",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "E. feat",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "A. adaptations",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "G. probing",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "B. blasted",
+   "explain": ""
+  }
+ ]
+}

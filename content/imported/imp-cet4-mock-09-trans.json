@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-09-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-09",
+ "paperTitle": "大学英语四级标准模拟卷 09",
+ "paperLevel": "cet4",
+ "paperYear": "mock-09",
+ "sectionOrder": 5,
+ "prompt": "近年来，中国许多城市修建了绿道，把公园、河流和居民区连接起来。绿道两旁种满树木，设有步道和自行车道，市民可以在那里散步、跑步或骑行。这些绿色空间不仅改善了城市环境，也为邻里交往提供了场所。周末，常能看到父母带着孩子骑车，老人在树荫下聊天。专家认为，城市在建设绿道时，应当考虑不同人群的需要，并做好日常维护，让这些空间真正融入居民的生活。",
+ "reference": "In recent years, many Chinese cities have built greenways that connect parks, rivers and residential areas. The greenways are lined with trees and provided with footpaths and cycle lanes, where citizens can walk, run or ride. These green spaces not only improve the urban environment but also offer places for neighbours to meet. At weekends, it is common to see parents cycling with their children and elderly people chatting in the shade of the trees. Experts believe that when building greenways, cities should take the needs of different groups into account and carry out regular maintenance, so that these spaces truly become part of residents' lives.",
+ "keyPoints": []
+}

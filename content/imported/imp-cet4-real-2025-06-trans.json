@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-real-2025-06-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-06",
+ "paperTitle": "2025年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "sectionOrder": 5,
+ "prompt": "中国园林有着悠久的历史，是中华文化的重要组成部分。与中国北方的皇家园林不同，江南的私家园林往往面积不大，却通过假山、水池、花木和曲折的回廊营造出变化丰富的空间。设计者讲究「借景」和「步移景异」，让游人在有限的地方感受到自然的意趣。园林中的亭台楼阁不仅是休息之处，也常被用来读书、作画和会友。今天，许多古典园林已成为著名的旅游景点，吸引着世界各地的游客。保护这些园林，就是保护一种独特的生活方式和审美传统。",
+ "reference": "Chinese gardens have a long history and form an important part of Chinese culture. Unlike the royal gardens of northern China, private gardens in the region south of the Yangtze are often small in size, yet they create a rich variety of space through rockeries, ponds, flowers and trees, and winding corridors. Their designers paid great attention to borrowing views from the surroundings and to making the scenery change with every step, so that visitors can feel the charm of nature within a limited area. The pavilions and towers in these gardens were not only places to rest, but also places to read, paint and meet friends. Today many classical gardens have become famous tourist attractions that draw visitors from all over the world. To protect them is to protect a distinctive way of life and a tradition of beauty.",
+ "keyPoints": []
+}

@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2023dec1-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2023年12月六级第一套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023dec1",
+ "paperTitle": "2023年12月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-12",
+ "passage": "Our brains respond to language expressing facts differently than they do to words conveying possibility, scientists at New York University have recently found. Their work offers new insights into the impact word choice has on how we {{1}} between statements expressing what is real versus what is merely possible. The researchers assert their findings are important because we are presented with false information all the time. {{2}} , advertisements, individuals who believe they are sharing correct information. The problem is {{3}} by individuals who believe they are sharing correct information. Thus, it is more important than ever to separate the factual from the possible or merely {{4}} in how we communicate. This is especially true as the study makes clear that information presented as fact {{5}} special responses in our brains, which are distinct from when we process the same content with clear indicators of {{6}} . In their new study, the scientists intended to {{7}} how the brain computes possibilities as expressed by words such as “may,” “might,” and “if.” The researchers compared brain responses to statements expressing factual {{8}} and those expressing possibility. “There is a monster under my bed” exemplifies a factual “There might be a monster under my bed,” or “If it rains, I will stay home.” The results of the study showed that factual language {{9}} a rapid increase in brain activity, with the brain responding more powerfully and showing more engagement with factual phrases compared to those communicating possibility. Thus, facts rule possibilities. Further, these regions respond in a much more robust fashion to factual statements. Brain regions involved in processing {{10}} respond rapidly and powerfully to factual language.",
+ "bank": [
+  "A. activated",
+  "B. aggravated",
+  "C. ascertain",
+  "D. deliberate",
+  "E. differentiate",
+  "F. discourse",
+  "G. evokes",
+  "H. inhibit",
+  "I. manuscript",
+  "J. marvels",
+  "K. remnants",
+  "L. scenarios",
+  "M. speculative",
+  "N. unanimous",
+  "O. uncertainty"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "D. deliberate",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "A. activated",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "F. discourse",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "C. ascertain",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "B. aggravated",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "N. unanimous",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "L. scenarios",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "H. inhibit",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "M. speculative",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "O. uncertainty",
+   "explain": ""
+  }
+ ]
+}

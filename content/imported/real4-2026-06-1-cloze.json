@@ -1,0 +1,83 @@
+{
+ "id": "real4-2026-06-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2026年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-1",
+ "paperTitle": "2026年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "passage": "One of the biggest controversies over the Industrial Revolution is how it affected the working class. The oldest debates were over whether the standards of living rose or fell. Those that believed they fell claimed that the capitalists {{1}}  every ounce of surplus they could from the working class. Those that believed the standards of living rose claimed that the environment was consumer-friendly, with more and more goods  {{2}} to the working class every year. Today's historians agree that overall, the standards of living {{3}}  . They do not agree, however, on when this improvement {{4}}  . In an effort to solve this controversy, historians have attempted to define {{5}}  what \"standard of living\" means. They all seem to agree that it should mean happiness, but happiness is impossible to measure. Instead, historians  {{6}} use \"real income\" as the measure for the standards of living. Real income is money  {{7}} and then adjusted according to the cost of living. However, it does not take into account unemployment, pollution, health, life expectancy, or free time. After  {{8}} debate and analysis of the average income, historians have agreed to disagree on whether there was rapid or slow economic growth during the Industrial Revolution. Instead, they have decided to  {{9}} how the Industrial Revolution was affected by other events. They have determined that the Industrial Revolution had an overall positive {{10}}  , but it quite possibly was neutralized by negative events such as wars, high taxes, and rapid population growth.",
+ "bank": [
+  "available",
+  "deteriorating",
+  "earned",
+  "effect",
+  "enhance",
+  "exactly",
+  "exhausting",
+  "experience",
+  "increased",
+  "interpret",
+  "occurred",
+  "peculiar",
+  "probably",
+  "squeezed",
+  "typically"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "squeezed",
+   "explain": "主语 the capitalists 后缺谓语，宾语从句用过去时 → 过去式及物动词 squeeze...from... 压榨搭配，贴合\"生活水平下降\"一方的控诉 squeezed 填入得 the capitalists squeezed every ounce of surplus they could from the working class（资本家从工人阶级身上榨取每一盎司剩余）——squeeze...from... 是\"从……"
+  },
+  {
+   "n": 2,
+   "answer": "available",
+   "explain": "with+名词+补足语结构，空后是介词 to → 形容词 available to sb. 固定搭配，且呼应 consumer-friendly available 填入得 more and more goods available to the working class（越来越多商品 对工人阶级\"可得\"）——available to sb. 是四级核心搭配。句内更有铁证：前面说 the environment was consume…"
+  },
+  {
+   "n": 3,
+   "answer": "increased",
+   "explain": "宾语从句主语 the standards of living 后缺谓语 → 动词 increased 呼应下句 this improvement，定调\"总体上升\" increased 填入得 overall, the standards of living increased（总体上生活水平上升了）。 铁证在下一句：They do not agree, however, on when this improvement __(29)__…"
+  },
+  {
+   "n": 4,
+   "answer": "occurred",
+   "explain": "从句主语 this improvement 后缺谓语 → 动词（过去式） improvement occurred：改善\"发生\"，与 when 天然搭配 occurred 填入得 when this improvement occurred（这一改善何时发生）——occur （发生）的主语正是事件类名词，improvement occurred 是自然搭配；且本句讨论的就是 时间分歧（史学家 agree 总体上升了，但不 agree \"…"
+  },
+  {
+   "n": 5,
+   "answer": "exactly",
+   "explain": "动词 define 与宾语从句之间 → 副词修饰 define define exactly：精确界定，呼应下句\"幸福无法测量\" exactly 填入得 define exactly what \"standard of living\" means（精确定义\"生活水平\"的 含义）。下一句立刻给出理由：They all seem to agree that it should mean happiness, but happiness is…"
+  },
+  {
+   "n": 6,
+   "answer": "typically",
+   "explain": "主语 historians 与谓语 use 之间 → 副词 typically：通常采用，陈述学界的惯例做法 typically 填入得 historians typically use \"real income\" as the measure（史学家通常 以\"实际收入\"为衡量标准）。句首 Instead 承接上句\"幸福无法测量\"：既然幸福测不了，史 学界的惯常做法就是退而用实际收入——typically 描述的正是这种通行惯例，与上文…"
+  },
+  {
+   "n": 7,
+   "answer": "earned",
+   "explain": "money 后与 adjusted 并列 → 过去分词作后置定语 money earned：挣到的钱，正合 real income 的定义 earned 填入得 money earned and then adjusted according to the cost of living（挣 到的钱，再按生活成本加以调整）——这正是\"实际收入\"的标准定义：名义收入（你挣的 钱）剔除物价因素。earned 作后置定语修饰 money，语法语…"
+  },
+  {
+   "n": 8,
+   "answer": "exhausting",
+   "explain": "介词 After 后、名词 debate 前 → 形容词作定语 exhausting debate：旷日持久、令人疲惫的争论，呼应首段\"最古老之争\" exhausting 填入得 After exhausting debate and analysis（在令人筋疲力尽的辩论与分 析之后）——本词的最大佐证在全文开头：The oldest debates were over whether the standards of living …"
+  },
+  {
+   "n": 9,
+   "answer": "interpret",
+   "explain": "decide to 后接原形动词，且空后带 how 宾语从句 → 及物动词原形 interpret + how 从句，顺接\"史学家的研究动作\" interpret 意为\"解读、解释\"，interpret how the Industrial Revolution was affected by other events 即\"解读工业革命如何受其他事件影响\"。上文刚说史学家对经济增长快慢 historians have agreed to…"
+  },
+  {
+   "n": 10,
+   "answer": "effect",
+   "explain": "形容词 positive 后、had 的宾语位 → 名词 positive effect 是固定搭配，且呼应下文 neutralized effect 填入得 an overall positive effect（总体上的积极影响），是英语里最常见的评价框 架；更关键的是后半句 but it quite possibly was neutralized by negative events such as wars, high taxe…"
+  }
+ ]
+}

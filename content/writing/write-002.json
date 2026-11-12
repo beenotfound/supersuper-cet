@@ -1,0 +1,17 @@
+{
+  "id": "write-002",
+  "type": "writing",
+  "level": "cet4",
+  "title": "More Families Raising Pets",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["trend", "ownership", "responsibility"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the chart below, which shows that the proportion of Chinese families keeping pets has risen steadily over the past decade. You should write at least 120 words but no more than 180 words.",
+  "reference": "The chart clearly shows a steady rise in the proportion of Chinese families that keep pets over the past decade. Several reasons may explain this trend.\n\nTo begin with, living standards have improved, so more families can afford the food, medical care and toys that a pet needs. Secondly, many young people live alone in big cities. A cat or a dog brings warmth to an empty flat and gives them a reason to go out and meet other owners. Thirdly, public attitudes have changed: pets are now widely seen as members of the family rather than mere animals.\n\nThis trend has visible effects. The pet industry is growing quickly, creating jobs in shops, clinics and online services. At the same time, owning a pet is a long-term duty. Owners should think carefully before buying an animal and should never abandon it when it becomes inconvenient. In short, the rising number of pets reflects a warmer and wealthier society, but it also calls for greater responsibility.",
+  "keyPoints": [
+    "第一段概括图表趋势，不逐一罗列数字。",
+    "第二段用 To begin with / Secondly / Thirdly 分析原因。",
+    "第三段谈影响并提醒养宠物的责任。",
+    "描述趋势使用 rise steadily、upward trend 等表达。"
+  ]
+}

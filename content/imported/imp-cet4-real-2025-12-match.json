@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-real-2025-12-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-12",
+ "paperTitle": "2025年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Peer tutoring in the library. Every weekday evening, two floors of the main library are set aside for peer tutoring. Second- and third-year students who did well in a subject offer free hour-long sessions to first-year students. No appointment is needed: a student simply checks the timetable, arrives with questions and joins a small group. Last year more than two thousand first-year students used the service, and most said it helped them adjust to university-level work."
+  },
+  {
+   "label": "B",
+   "text": "Study rooms open until midnight. During the exam period, the university keeps three study rooms open until midnight, and from this term they will stay open all year. Each room has movable tables, fast internet and a small kitchen. Students book a slot online, and a monitor makes sure that groups do not occupy a room without using it. The rooms are designed for group discussion rather than silent study."
+  },
+  {
+   "label": "C",
+   "text": "Subject guides on the library website. The library website hosts more than three hundred subject guides, written by librarians who know each field. A guide lists the best databases, key journals and a short video on how to search them. They are free and always available, yet only a small number of students know that they exist. The library is now linking each guide to the relevant course page."
+  },
+  {
+   "label": "D",
+   "text": "Equipment training for researchers. Anyone planning to use the research equipment in the science building must first attend an afternoon of training. Students learn how to book a machine, how to prepare a sample and what to do in an emergency. After the training they receive a card that allows them into the laboratory. The department says the training has cut accidents to almost zero and has made booking far fairer."
+  },
+  {
+   "label": "E",
+   "text": "Careers advice from the first year. Most students visit the careers service only in their final month. The office is trying to change that by offering first-year workshops on writing a CV, finding internships and talking to employers. Advisers are available for individual appointments, and a notice board lists part-time jobs and summer projects. The service is not only about finding a job; it also helps students see what their course can lead to."
+  },
+  {
+   "label": "F",
+   "text": "Small research grants for students. A small fund pays for students to carry out their own research projects. Groups can apply for up to five thousand yuan to buy materials, travel to a site or attend a conference. The application is short, and a supervisor must agree to support the project. Last year thirty projects were funded, including a study of local birds and an experiment on low-cost water filters."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Which paragraph mentions online guides that help students find materials for their subject?",
+   "answer": "C"
+  },
+  {
+   "text": "Which paragraph mentions free help given by senior students in the library?",
+   "answer": "A"
+  },
+  {
+   "text": "Which paragraph mentions training that students must complete before using research equipment?",
+   "answer": "D"
+  },
+  {
+   "text": "Which paragraph mentions rooms that can be booked for group discussion?",
+   "answer": "B"
+  },
+  {
+   "text": "Which paragraph mentions advice on careers offered from the first year?",
+   "answer": "E"
+  }
+ ]
+}

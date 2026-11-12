@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-06-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年6月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-06-1",
+ "paperTitle": "2025年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "passage": "P1 With those born with natural talents, it feels as if they excel without really trying. But what about those of us who don't have a natural talent? We've been told all our lives that if you work hard, you too can succeed. But with the release of Angela Duckworth's Grit, we are given a new key to success.\n\nP2 \"As much as talent counts, effort counts twice,\" says Duckworth in Grit. She introduces a new concept that talent may be overrated, and if you want real success, what you need is grit, the perfect combination of passion and persistence. Even if you have natural talent, it's nothing without grit.\n\nP3 Duckworth says grit is the difference between success and failure. A person who has grit is more likely to succeed than a person who does not. When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn. If you want that new job, you have to learn the job skills, then the interview skills, then the dress part—and you must be perfect at all of them. Grit is different because it tells us that perfection isn't the goal.\n\nP4 Grit lifts the unreasonable expectations off our shoulders. Grit tells us that the door is open wider than we first thought possible. Grit allows us to redefine our goals. Think about it: what's something you've always wanted to do, but gave up because you \"don't have the skills for it\"? What's something you love but aren't good at?\n\nP5 The real workings of grit are to have sustainable passion and continue to try. Effort means more than your natural ability. Even if you haven't mastered a skill, grit tells you that you can still succeed if you can transform your passion into action. In a way, Duckworth is giving new hope to people who have shut the doors on their dreams. She is saying it is possible that you can accomplish anything. If at first you fail, then try one more time with grit.",
+ "questions": [
+  {
+   "q": "What does the passage say about people born with natural talents?",
+   "options": [
+    "They seem to outdo others without hard work.",
+    "They appear to know all the secrets to success.",
+    "They feel it only too logical to succeed.",
+    "They are bound to excel effortlessly."
+   ],
+   "answer": 0,
+   "explain": "What does the passage say about people born with natural talents 直接问文章对一个 具体对象的陈述，没有 infer/imply/mainly about 这类字眼，是典型细节复述题。 主干是 What does the passage say about people，过去分词短语 born with natural talents 作后置定语修饰 people，结构平铺…"
+  },
+  {
+   "q": "What does Duckworth say about talent?",
+   "options": [
+    "It is a new concept much too overrated.",
+    "It proves necessary for big achievements.",
+    "It plays a lesser role in one's success.",
+    "It is a guarantee for real success in life."
+   ],
+   "answer": 2,
+   "explain": "What does Duckworth say about talent 问的是特定人物对特定对象的陈述，是细节题。 结构与 51 题平行：What does Duckworth say about talent，主谓宾完整，无修饰 从句。 As much as talent counts, effort counts twice. 虽然才能很重要，但努力的重要性是它的两倍。 52. What does Duckworth say ab…"
+  },
+  {
+   "q": "What does the passage say about people thinking of attaining success?",
+   "options": [
+    "They are puzzled how to present their best to the employer.",
+    "They are burdened by their expectation of perfection.",
+    "They will try hard to land a job that fits their skills best.",
+    "They will find themselves lacking in all the skills they need."
+   ],
+   "answer": 1,
+   "explain": "What does the passage say about people thinking of attaining success 仍是 say 句 型，针对一个具体场景，是细节题。 主干仍是 What does the passage say about people，现在分词短语 thinking of attaining success 作后置定语修饰 people；其中 attaining 是动名词作 of 的宾语，整体 …"
+  },
+  {
+   "q": "How does the author think grit can be helpful to us?",
+   "options": [
+    "It allows us to know what we are good at.",
+    "It opens our eyes to new opportunities.",
+    "It focuses our attention on what we do.",
+    "It lets us reconsider the goals to achieve."
+   ],
+   "answer": 3,
+   "explain": "How does the author think grit can be helpful to us 问的是 grit 的具体作用，不是隐含 推断，是细节题。 How does the author think grit can be helpful to us 是宾语从句嵌套结构：think 后接 省略 that 的从句 grit can be helpful to us，how 修饰整个 think 的方式逻辑——实际问 的是「作…"
+  },
+  {
+   "q": "What message does Duckworth try to convey in her book Grit?",
+   "options": [
+    "We should perfect ourselves to ensure success.",
+    "We should stay persistent even in face of failures.",
+    "We can never master a skill without constant practice.",
+    "We can never expect to reach our goals without passion."
+   ],
+   "answer": 1,
+   "explain": "What message does Duckworth try to convey in her book Grit 问的是整本书的核心信 息，是典型主旨题。 What message does Duckworth try to convey in her book Grit：宾语前置 What message，主干 Duckworth try to convey，介词短语 in her book Grit 作地点状语，无 难点。 55…"
+  }
+ ]
+}

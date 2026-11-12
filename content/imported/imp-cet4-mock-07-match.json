@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-07-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-07",
+ "paperTitle": "大学英语四级标准模拟卷 07",
+ "paperLevel": "cet4",
+ "paperYear": "mock-07",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Growing demand Farmers' markets were once a small weekend activity in a few towns. Over the past decade their number has grown steadily, and many now run twice a week. Part of the reason is that shoppers ask more questions about food: where it was grown, when it was picked and how it was transported. Stallholders can answer these questions directly, which supermarkets, with their long supply chains, find much harder to do."
+  },
+  {
+   "label": "B",
+   "text": "A shorter journey Food sold at a market usually travels only a few miles from field to stall. That means it can be picked closer to ripeness, and it does not need the cold storage that long-distance transport requires. Several studies suggest that local produce can also lose fewer nutrients. The saving in transport is real, though researchers caution that small deliveries made by many individual vans may not always be greener overall."
+  },
+  {
+   "label": "C",
+   "text": "Bringing people together A market is more than a place to buy vegetables. Regular customers learn the names of stallholders, and neighbours meet while queuing for bread. In some towns the market has become the centre of community life, hosting cooking demonstrations and children's activities. Shopkeepers nearby report that the visitors also spend money in their businesses, so the benefit spreads beyond the stalls themselves."
+  },
+  {
+   "label": "D",
+   "text": "Challenges for small farmers Running a stall is hard work. Farmers must leave home before dawn, pay for the pitch and still look after their land. Bad weather can ruin a whole day's income. Some smaller producers have joined together to share a stall and transport costs. Without such cooperation, many would find that selling directly takes more time than they can spare from actual farming."
+  },
+  {
+   "label": "E",
+   "text": "Changing habits of young people Market organisers say the average customer is getting younger. Students and young professionals come for a cheap lunch, then leave with unfamiliar vegetables they have never cooked before. Online videos have helped: a short clip showing how to prepare a strange-looking root can turn it into a bestseller the following weekend. This experimentation is slowly changing the way young people plan their meals."
+  },
+  {
+   "label": "F",
+   "text": "What the future may hold Most people involved in farmers' markets are optimistic. As food prices rise and concern about the environment grows, buying directly from producers looks attractive. Permanent indoor market halls, card payments and home delivery are already appearing in some cities. Observers warn, however, that rising rents may push markets away from the very neighbourhoods that need them most."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Shoppers increasingly want to know where their food comes from and how it was produced.",
+   "answer": "A"
+  },
+  {
+   "text": "Markets give local residents a place to meet and talk, not just to shop.",
+   "answer": "C"
+  },
+  {
+   "text": "Younger customers are trying unfamiliar vegetables and changing how they plan meals.",
+   "answer": "E"
+  },
+  {
+   "text": "Selling locally means the food is fresher and needs less transport and storage.",
+   "answer": "B"
+  },
+  {
+   "text": "Organisers believe markets will keep growing as people seek sustainable food.",
+   "answer": "F"
+  }
+ ]
+}

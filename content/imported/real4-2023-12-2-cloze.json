@@ -1,0 +1,83 @@
+{
+ "id": "real4-2023-12-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2023年12月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-12-2",
+ "paperTitle": "2023年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "passage": "A number of studies have looked at how family life can affect productivity and satisfaction in the workplace. However, there has been  {{1}} little research on the influence of leisure activities. So Ciara Kelly and colleagues recruited 129 hobbyists to look at how the time spent on their hobbies {{2}}  their work life. The researchers found that when participants spent longer than {{3}}  on their leisure activity, their belief in their ability to perform their job was strengthened. But this was only the  {{4}} when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it {{5}}  . When their hobby was both serious and similar to their job, then spending more time on it actually decreased their work {{6}}  . Why might that be? To maintain a serious hobby, people need to invest significant psychological resources, say the authors—so if the activity has the same kinds of demands as their work, they may be left  {{7}} and unable to perform well at their job. But if their hobby is quite different from their career, it may not  {{8}} in the same way but instead help them develop other knowledge and skills that can {{9}}  their confidence at work. \"Consider a scientist who is a keen rock climber,\" says Kelly. \"Since climbing is so far  {{10}} from their day-to-day work activities, they can still recover from the demands of their job with plenty of resources.\"",
+ "bank": [
+  "boost",
+  "case",
+  "casually",
+  "efficiency",
+  "estate",
+  "exhausted",
+  "faculty",
+  "interfere",
+  "normal",
+  "prevalent",
+  "relative",
+  "removed",
+  "scratch",
+  "shaped",
+  "surprisingly"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "surprisingly",
+   "explain": "形容词 little 前缺修饰语，填副词 呼应 However 的转折与意外感 However, there has been __(26)__ little research on the influence of leisure activities：However 表明\"家庭对工作影响研究很多，却出人意料地少有关于休闲的研 究\"——surprisingly（令人惊讶地）正强调这种\"本该有却很少\"的反差。 C) casually 语…"
+  },
+  {
+   "n": 2,
+   "answer": "shaped",
+   "explain": "从句主语后缺谓语动词 对应全文核心动词\"影响/塑造\" to look at how the time spent on their hobbies __(27)__ their work life呼应开篇 how family life can affect productivity——研究的正是爱好时间如何\"影响、塑造\"工作生活。 shape（塑造、影响）与 affect 同义，是本句最贴的谓语动词。 M) scratch 词义不搭 …"
+  },
+  {
+   "n": 3,
+   "answer": "normal",
+   "explain": "than 后跟比较基准，此处填名词化形容词 than normal=\"比平常更久\" participants spent longer than __(28)__：longer than normal 是地道说法，意为\"花的时 间比平常（正常水平）更长\"，normal 正好充当\"平常\"这个比较基准，与下文\"花更久会增 强工作信心\"衔接。 K) relative 被 longer 诱导但不成基准 relative\"相对的/亲戚\"，句中有比…"
+  },
+  {
+   "n": 4,
+   "answer": "case",
+   "explain": "the + ___ 作 was 的表语，缺名词 the case=\"实情如此\"固定表达 But this was only the __(29)__ when…：this was only the case when… 意为\"只有在… 时才是这种情况\"，the case 是地道固定搭配，承接上句\"花更久会增强信心\"并加上限定 条件。 E) estate 词义离题 estate\"房地产\"，the estate 与本句\"这只在…时成立\"的逻…"
+  },
+  {
+   "n": 5,
+   "answer": "casually",
+   "explain": "句末修饰 did it 的方式状语 与 only 呼应\"只是随便做做\" hobby was similar to their work but they only did it __(30)__与前半句 a serious hobby （认真的爱好）对照：but they only（只是）暗示这里是\"不认真、随便玩玩\"，casually （随意地）正好。"
+  },
+  {
+   "n": 6,
+   "answer": "efficiency",
+   "explain": "形容词 work 后缺名词作宾语中心 与 work 搭配且贴合\"损耗工作表现\"主线 decreased their work __(31)__承接上句\"爱好既认真又与工作相似时，多花时间反而坏 事\"。work efficiency（工作效率）是地道搭配，\"降低了工作效率\"正是这种损耗的体现， 与 productivity（生产力）一脉相承。 B) case 搭配与逻辑都不合 case\"情况\"，decreased their work c…"
+  },
+  {
+   "n": 7,
+   "answer": "exhausted",
+   "explain": "be left + ___ 表状态，需形容词 承接\"耗尽心理资源\" 前句说维持认真的爱好要 invest significant psychological resources，若爱好与工作要求 相同，人就 left __(32)__ and unable to perform well——被掏空、累垮，exhausted（精 疲力竭的）与\"and 后无法好好工作\"因果相承。 I) normal 义为\"正常\"，与负面状态相反 norma…"
+  },
+  {
+   "n": 8,
+   "answer": "interfere",
+   "explain": "情态动词 may not 后缺动词原形 对应\"不会以同样方式妨碍\" 本句与上句构成转折：上句说相似爱好会把人掏空，But if their hobby is quite different from their career, it may not __(33)__ in the same way——若爱好与工作不同，就\"不会 以同样方式干扰\"工作。interfere（干扰、妨碍）正好顶上这个\"不会妨碍\"，且 interfere 不 及…"
+  },
+  {
+   "n": 9,
+   "answer": "boost",
+   "explain": "that 引导定语从句缺谓语动词 与 confidence 正搭，承\"积极作用\"语境 本句讲不同类型的爱好能 help them develop other knowledge and skills，进而\"增强工 作中的信心\"。boost one's confidence（提升信心）是固定正向搭配，与 help develop 的 积极语气一致。 M) scratch 词义不搭（抓挠） scratch意为抓、挠或\"从零开始（from s…"
+  },
+  {
+   "n": 10,
+   "answer": "removed",
+   "explain": "so far ___ from 中作形容词 far removed from=\"与…相去甚远\"固定搭配 Since climbing is so far __(35)__ from their day-to-day work activities：far removed from 是固定搭配，意为\"与日常工作活动相去甚远\"，呼应下文 they can still recover from the demands of their job…"
+  }
+ ]
+}

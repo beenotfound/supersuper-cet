@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2024jun2-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2024年6月六级第二套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024jun2",
+ "paperTitle": "2024年6月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-06",
+ "passage": "It’s quite remarkable how different genres of music can spark unique feelings, emotions, and memories. Studies have shown that music can reduce stress and anxiety before surgeries and we are all attracted toward our own unique life soundtrack. If you’re looking to {{1}} stress, you might want to give classical music a try. The sounds of classical music produce a calming effect letting {{2}} pleasure-inducing dopamine (多巴胺) in response, resulting in an overall happier mood. It turns out a pleasant mood can lead to {{3}} in a person’s thinking. Although there are many great {{4}} of classical music like Bach, Beethoven and Handel, none of these artists’ music compares to Mozart’s ability to improve brain wave activity and improve {{5}} function. Hospitals in the maternity {{6}} use Mozart to help newborn babies adapt to life outside of the mother’s belly. It has been found that listening to classical music {{7}} reduces a person’s blood pressure. Researchers believe that the calming sounds of classical music may help your heart {{8}} from stress. Classical music can also be a great to help while they were listening to classical music. Whether classical music is something that you listen to on a regular basis or not, it wouldn’t {{9}} to take time out of your day to listen to music that you find {{10}} . You will be surprised at how good it makes you feel and the potentially positive change in your health. ",
+ "bank": [
+  "A. alleviate",
+  "B. clarity",
+  "C. cognitive",
+  "D. composers",
+  "E. hurt",
+  "F. inhibiting",
+  "G. interrogation",
+  "H. intrinsically",
+  "I. loose",
+  "J. majestic",
+  "K. mandatory",
+  "L. recover",
+  "M. significantly",
+  "N. soothing",
+  "O. wards"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "I. loose",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "O. wards",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "H. intrinsically",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "E. hurt",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "G. interrogation",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "N. soothing",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "A. alleviate",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "F. inhibiting",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "J. majestic",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "D. composers",
+   "explain": ""
+  }
+ ]
+}

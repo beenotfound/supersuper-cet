@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-03-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-03",
+ "paperTitle": "大学英语四级标准模拟卷 03",
+ "paperLevel": "cet4",
+ "paperYear": "mock-03",
+ "sectionOrder": 4,
+ "passage": "Universities are often described as small cities, and like cities they consume a great deal of energy, produce a great deal of waste and own a great many buildings. It is not surprising, therefore, that a growing number of campuses have started to treat sustainability as a practical problem rather than a subject for discussion. The measures they take are rarely dramatic. One university replaced the lights in its library with sensors that switch off when nobody is in the room, which cut electricity use in the building by a fifth. Another began serving smaller portions in its dining halls and charging less for them, and found that food waste fell by almost a third in a year. Some have built cycle lanes between halls and lecture rooms or offered free bus passes to students who choose not to bring a car.\n\nWhat interests researchers most is not the technology but the way these changes are introduced. Projects that begin with a student society tend to last longer than those announced by the administration, because students keep using them after the official launch. A survey of twelve campuses found that the most successful projects were small, visible and easy to join: a repair workshop, a book swap, a garden behind the science building. Big targets may look impressive in a report, but a student is more likely to change one habit than to rethink an entire lifestyle. That, the researchers conclude, is how change actually starts.",
+ "questions": [
+  {
+   "q": "What did one university achieve by replacing library lights with sensors?",
+   "options": [
+    "It served smaller meals in the dining hall.",
+    "It cut the building's electricity use by a fifth.",
+    "It built cycle lanes on campus.",
+    "It opened a repair workshop."
+   ],
+   "answer": 1,
+   "explain": "第一段说 One university replaced the lights in its library with sensors ... which cut electricity use in the building by a fifth，故选 B。"
+  },
+  {
+   "q": "Why did food waste fall at another university?",
+   "options": [
+    "Students were given free bus passes.",
+    "The university built a garden behind the science building.",
+    "Dining halls served smaller portions at lower prices.",
+    "Students cooked for themselves."
+   ],
+   "answer": 2,
+   "explain": "第一段提到 Another began serving smaller portions in its dining halls and charging less for them, and found that food waste fell by almost a third，故选 C。"
+  },
+  {
+   "q": "What does the survey of twelve campuses suggest?",
+   "options": [
+    "Large official targets work best.",
+    "Technology is the key to change.",
+    "Students ignore projects started by societies.",
+    "Small, visible projects that are easy to join are most successful."
+   ],
+   "answer": 3,
+   "explain": "第二段说 A survey of twelve campuses found that the most successful projects were small, visible and easy to join，故选 D。"
+  },
+  {
+   "q": "What do the researchers conclude?",
+   "options": [
+    "Change starts when students change one habit at a time.",
+    "Students should rethink their whole lifestyle.",
+    "Big targets are the only way to succeed.",
+    "Campuses should be treated as cities."
+   ],
+   "answer": 0,
+   "explain": "第二段说 a student is more likely to change one habit than to rethink an entire lifestyle. That, the researchers conclude, is how change actually starts，故选 A。"
+  }
+ ]
+}

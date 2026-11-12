@@ -1,0 +1,83 @@
+{
+ "id": "real4-2023-06-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2023年6月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-06-3",
+ "paperTitle": "2023年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-06",
+ "passage": "Whether you're just having a down day or a down period, taking a walk can instantly lift your mood, especially when you go outdoors. Not only can walking make you less depressed, but according to a new study, depression sufferers who took a {{1}}  walk showed just as much improvement in their {{2}}  as people taking medicine. In fact, 60-70 percent of the participants in the study could no longer even be {{3}}  as depressed. Bone density may not be one of the most exciting health benefits of walking, but it's an important one. People with stronger bones avoid osteoporosis(骨质疏松症) and all the problems that {{4}}  with it, like breaks and other disabilities. And the best way to get strong, healthy bones is by doing weight-bearing exercises like running, dancing and walking, according to a large study. But as regards bones, it's  {{5}} use it or lose it: To keep your bones strong you have to keep exercising. The researchers found that adults who walked regularly had better bone density throughout their lives than their {{6}}  friends. Taking a walk can be great for {{7}}  your head or blowing off some steam. It also provides a great opportunity to  {{8}} with friends and family, far away from electronics and other {{9}}  at home. Even better, you set a powerful example because when they see you  {{10}} the benefits of walking, they'll be encouraged to walk more, too.",
+ "bank": [
+  "accompany",
+  "approved",
+  "bond",
+  "classified",
+  "clearing",
+  "come",
+  "daily",
+  "definitely",
+  "distractions",
+  "exclusively",
+  "inactive",
+  "occurrences",
+  "reaping",
+  "symptoms",
+  "typical"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "daily",
+   "explain": "冠词 a 与名词 walk 之间作定语 \"每日散步\"才有持续疗效 本句把走路效果与 people taking medicine\"吃药\"相比——吃药是规律按日进行的，与之 相提并论的走路自然是\"每日的\"daily walk，强调坚持，才能解释 60-70 percent of the participants... could no longer even be __(28)__ as depressed 的明显改善。 O) typic…"
+  },
+  {
+   "n": 2,
+   "answer": "symptoms",
+   "explain": "形容词性物主代词 their 后必跟名词 抑郁\"症状\"的改善才对应吃药 本句说抑郁症患者走路后 showed just as much improvement in their __(27)__ as people taking medicine——和\"吃药的人\"作对比，能像吃药一样改善的、抑郁者身上的东 西，正是\"症状\"。symptoms（症状）扣住了上文 depression sufferers 的语境。 I) distractio…"
+  },
+  {
+   "n": 3,
+   "answer": "classified",
+   "explain": "be 之后、过去分词构成被动 be classified as 固定搭配\"被归类为\" be classified as 是固定搭配，意为\"被归类/划分为\"。could no longer even be __(28)__ as depressed\"不再能被归类为抑郁\"正合上文\"症状像吃药一样改善\"，逻辑顺畅。 B) approved 搭配与义皆不合 approved as 不是\"被认定为\"的常用搭配，且 approved（批准、认可）说…"
+  },
+  {
+   "n": 4,
+   "answer": "come",
+   "explain": "定语从句 that 后缺谓语 come with\"伴随……而来\" come with 意为\"随……一起出现、伴随而来\"。all the problems that __(29)__ with it, like breaks and other disabilities\"伴随骨质疏松而来的所有问题，如骨折等\"，come with 既 搭配成立、复数 problems 对应原形 come，语法语义双通。"
+  },
+  {
+   "n": 5,
+   "answer": "definitely",
+   "explain": "be 与短语之间作状语强调 强调\"确实是用进废退\" 本句承上文\"想骨骼强壮就得一直锻炼\"，it's __(30)__ use it or lose it\"这确实是用进废退\"， definitely（确实地）加强\"就是这么个道理\"的肯定语气，与 To keep your bones strong you have to keep exercising 的告诫一致。 J) exclusively 义不合 exclusively 是\"唯一地、…"
+  },
+  {
+   "n": 6,
+   "answer": "inactive",
+   "explain": "名词 friends 前作定语 与\"经常走路\"形成对比 本句说 adults who walked regularly had better bone density... than their __(31)__ friends——\"经常走路\"的人骨密度更好，对比的对象自然是\"不爱运动的\"朋友。inactive （不活动的、久坐不动的）正好与 walked regularly 反向呼应，对比成立。 O) typical 不构成对比 ty…"
+  },
+  {
+   "n": 7,
+   "answer": "clearing",
+   "explain": "介词 for 之后接动名词 clear your head\"理清思绪\" clear one's head 意为\"清醒头脑、理清思绪\"。great for __(32)__ your head or blowing off some steam\"利于清空头脑或发泄压力\"，clearing 与并列的 blowing off steam（释放 压力）同属\"放松减压\"语义，贴合本段走路怡心的主旨。"
+  },
+  {
+   "n": 8,
+   "answer": "bond",
+   "explain": "to 不定式后接动词原形 bond with sb.\"与某人增进感情\" bond with 意为\"与……建立情感纽带、增进感情\"。a great opportunity to __(33)__ with friends and family\"与亲友增进感情的好机会\"，正合本段走路有益人际关系的主旨。 A) accompany 及物动词不接 with accompany 是及物动词，\"陪伴某人\"直接说 accompany sb.，不说 a…"
+  },
+  {
+   "n": 9,
+   "answer": "distractions",
+   "explain": "other 后接名词、与 electronics 并列 电子产品等\"分心物\" 本句说走路让人 far away from electronics and other __(34)__ at home\"远离电子产品和 家里其他的__\"，与 electronics 并列、又能让人\"远离\"的，正是\"分心的事物\"distractions ——电子产品本身就是典型的 distraction，并列贴切。 L) occurrences 义偏、与并列项…"
+  },
+  {
+   "n": 10,
+   "answer": "reaping",
+   "explain": "see sb. do/doing 中作宾补的动词 reap the benefits 固定搭配\"收获好处\" reap the benefits 是固定搭配，意为\"获得/收获好处\"。when they see you __(35)__ the benefits of walking\"看见你收获走路的好处\"，正承接后半句 they'll be encouraged to walk more\"于是受激励也多走\"，逻辑顺。 A) accompa…"
+  }
+ ]
+}

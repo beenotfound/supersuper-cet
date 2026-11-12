@@ -1,0 +1,83 @@
+{
+ "id": "real4-2024-12-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2024年12月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-12-2",
+ "paperTitle": "2024年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "passage": "Scientists have known that depriving adult mice of vision can increase the sensitivity of individual neurons( 神经元) in the part of the brain devoted to hearing. New research from biologists at the University of Maryland {{1}}  that sight deprivation also changes the way brain cells {{2}}  with one another, shifting the mice's sensitivity to different frequencies. \"This study  {{3}} what we are learning about how manipulating vision can have a  {{4}} effect on the ability of an animal to hear long after the window for auditory(听觉的) learning was thought to have {{5}}  ,\" said Patrick Kanold, senior author of the study. It was once thought that the sensory regions of the brain were not {{6}}  after a critical period in childhood. This is why children learn languages much more {{7}}  than adults. Kanold's earlier research disproved this idea by showing that depriving adult mice of vision for a short period increased the sensitivity of individual neurons in the auditory cortex(皮质), which is devoted to hearing. Young brains wire themselves according to the sounds they hear frequently, assigning areas of the auditory cortex to  {{8}} frequencies based on what they are used to hearing. The researchers found that, in adult mice, a week in the dark also changed the {{9}}  of space to different frequencies. \"We don't know why we are seeing these patterns,\" Kanold said. \"We  {{10}} that it may have to do with what the mice are paying attention to while they are in the dark.\"",
+ "bank": [
+  "adaptable",
+  "closed",
+  "distribution",
+  "interact",
+  "narration",
+  "neutral",
+  "permanently",
+  "prescribes",
+  "readily",
+  "registered",
+  "reinforces",
+  "revealed",
+  "significant",
+  "specific",
+  "speculate"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "revealed",
+   "explain": "主语 New research 后缺谓语，需要单数动词 research revealed that... 是科研报道高频搭配 句子是典型的\"新研究揭示……\"句式，New research from biologists at the University of Maryland __(26)__ that sight deprivation also changes the way brain cells __(27)__ with …"
+  },
+  {
+   "n": 2,
+   "answer": "interact",
+   "explain": "主语 brain cells 后做谓语，需原形动词 interact with one another = \"相互作用\"，神经科学固定搭配 changes the way brain cells __(27)__ with one another 描述的是脑细胞之间的相互作用 方式，interact with one another\"彼此相互作用\"是生物/神经科学的标准说法，与全文主 旨\"剥夺视觉改变脑细胞间互动\"完美对应。 H) pr…"
+  },
+  {
+   "n": 3,
+   "answer": "reinforces",
+   "explain": "主语 This study 后缺谓语，需要三单形式 study reinforces what we are learning =\"研究强化/印证了我们的认识\" 上一段已经讲了\"剥夺视觉影响脑细胞相互作用\"，本句作者引述研究者评价\"这项研究 ___ 我 们正在学到的东西\"，逻辑上是\"再次印证/强化\"既有认识，reinforces what we are learning 搭配地道，This study __(28)__ what we …"
+  },
+  {
+   "n": 4,
+   "answer": "significant",
+   "explain": "冠词 a 与名词 effect 之间，要填形容词作定语 搭配 have a significant effect on 是四级高频固定表达 have a significant effect on \"对……有显著影响\" 是四级阅读和写作里反复出现的高频搭 配，配合上下文 manipulating vision can have a __(29)__ effect on the ability of an animal to hear，作…"
+  },
+  {
+   "n": 5,
+   "answer": "closed",
+   "explain": "have to have + ___，需要过去分词，构成完成时态被动表达 the window has closed =\"窗口已关闭\"，比喻关键期结束 原文用 the window for auditory learning 比喻\"听觉学习的关键期\"，long after the window for auditory learning was thought to have __(30)__ 说\"这个窗口被认为早已关 闭\"，对应下段第…"
+  },
+  {
+   "n": 6,
+   "answer": "adaptable",
+   "explain": "系动词 were 后做表语 下一段反驳\"不可塑\"，正好对应 adaptable 本段是先立后破：先说\"曾经认为感觉区在童年关键期后就不再 ___\"，紧接着 Kanold's earlier research disproved this idea by showing that depriving adult mice of vision for a short period increased the sensitivity of i…"
+  },
+  {
+   "n": 7,
+   "answer": "readily",
+   "explain": "修饰动词 learn，且夹在 more 比较级里 readily =\"容易地、轻松地\"，对应\"小孩学语言比成人快\"的常识 全段强调\"成年大脑感觉区曾被认为不再可塑\"，这是为什么 children learn languages much more __(32)__ than adults——比较的是\"学得容易、学得快\"，readily\"轻易地、迅 速地\"正中靶心。 G) permanently 义为\"永久地\"，与\"比成人……\"的比较语义…"
+  },
+  {
+   "n": 8,
+   "answer": "specific",
+   "explain": "形容词修饰复数名词 frequencies specific frequencies = \"特定频率\"，正中神经科学语境 上下文说\"幼年大脑根据常听到的声音连线，把听觉皮层的区域分配给\"___ 的频率，意思 是\"对应到某些特定的频率\"，specific frequencies 是听觉/神经科学论文中的高频搭配，意 思贴合 assigning areas of the auditory cortex to __(33)__ frequen…"
+  },
+  {
+   "n": 9,
+   "answer": "distribution",
+   "explain": "the ___ of space to different frequencies，定冠词 the 后 of 短语前的名词位 distribution of space to frequencies =\"空间向不同频率的分配\" 上文 Young brains wire themselves according to the sounds they hear frequently, assigning areas of the audit…"
+  },
+  {
+   "n": 10,
+   "answer": "speculate",
+   "explain": "主语 We 后缺谓语，原形动词作一般现在时 speculate that =\"推测\"，与从句的 may have to do with 完美呼应 从句里有 may，表明说话人不下定论，主句的动词应同样表\"推测、猜测\"，We __(35)__ that it may have to do with what the mice are paying attention to while they are in the dark. 整句意思是…"
+  }
+ ]
+}

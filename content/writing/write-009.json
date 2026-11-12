@@ -1,0 +1,17 @@
+{
+  "id": "write-009",
+  "type": "writing",
+  "level": "cet6",
+  "title": "Finding Opportunity in Difficulty",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["opportunity", "hardship", "adapt"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the saying 'In the middle of difficulty lies opportunity.' You should write at least 150 words but no more than 200 words.",
+  "reference": "The remark that in the middle of difficulty lies opportunity is easy to repeat and hard to believe. Yet history and everyday life both suggest that it is true more often than we expect.\n\nA difficulty forces us to stop and look at our situation honestly. When a familiar method fails, we are pushed to learn a new one; when a plan is ruined, we are forced to ask what we really want. Many people discover a talent or a new career only because something they relied on was taken away. The crisis itself is not good, but the change of direction it brings can be.\n\nThis view is not a reason to be careless about hardship. Suffering should not be romanticised, and those in trouble need help, not advice. What the remark offers is a way of facing difficulty, not a way of ignoring it. Instead of asking why this happened to me, we can ask what this situation makes possible. That question does not remove the pain, but it turns a dead end into a starting point.",
+  "keyPoints": [
+    "开头承认名言“说起来容易”，再转向其合理性，形成张力。",
+    "用“旧方法失效”“计划被打乱”两个场景说明转向的可能。",
+    "第三段澄清观点：不是美化苦难，而是改变提问方式。",
+    "结尾用 remove the pain / turns a dead end into a starting point 收束。"
+  ]
+}

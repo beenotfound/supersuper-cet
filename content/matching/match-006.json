@@ -1,0 +1,63 @@
+{
+  "id": "match-006",
+  "type": "matching",
+  "level": "cet6",
+  "title": "Too Much Choice",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["overload", "default", "comparison"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "A shelf holding six kinds of jam feels generous; a shelf holding sixty feels exhausting. The same shopper who enjoys comparing two options may freeze in front of twenty. Researchers describe the effect as choice overload, and the pattern is easy to recognise in daily life. A restaurant with an enormous menu can leave diners anxious that they have ordered the wrong thing, while a short menu often produces a happier table. Variety promises freedom but can deliver paralysis. The feeling is common enough to have a name."
+    },
+    {
+      "label": "B",
+      "text": "Part of the difficulty is the effort of comparison. Each additional option must be examined, weighed against the others and remembered long enough to make a decision. That work is invisible but real, and it competes with everything else demanding attention. By the end of a day full of small decisions, the mind is tired in a way that sleep does not immediately fix, which is why a complicated choice at night is often postponed. The cost of choosing is paid in energy, not money."
+    },
+    {
+      "label": "C",
+      "text": "Businesses have learned to use this fatigue. A default option, presented as the normal or recommended choice, saves the customer the trouble of deciding. Defaults are powerful because most people accept them, and they can be used well or badly. A pension scheme that enrols employees automatically may help them save, while a preselected expensive add-on exploits the same tendency for someone else's benefit. The same mechanism can serve the customer or the seller. The nudge is invisible unless someone points it out."
+    },
+    {
+      "label": "D",
+      "text": "The opposite problem is just as real. When there are too few options, people feel trapped and resentful. A shop that stocks only one brand of coffee offers nothing to someone who dislikes it, and a service with a single plan forces customers into a shape that may not fit. The useful range seems to lie in the middle: enough variety to match different needs, but not so much that the choosing becomes the task. Too little choice is a cage; too much is a maze."
+    },
+    {
+      "label": "E",
+      "text": "Online filters have changed the arithmetic. Good search tools let a buyer narrow a vast catalogue to a handful of plausible items, which restores the feeling of a manageable shelf. The quality of the filter matters more than the size of the catalogue. A site that ranks results by the seller's interests rather than the buyer's needs simply moves the confusion one step later. Better sorting can rescue a huge range; worse sorting can ruin a small one."
+    },
+    {
+      "label": "F",
+      "text": "Some firms have responded by cutting their ranges. A restaurant that reduces its dishes serves food faster and wastes less, and a clothing brand with fewer designs can predict demand more accurately. Customers sometimes mourn a lost favourite, but many report that ordering became easier and mistakes rarer. The saving is not only financial: the staff also spend less time explaining options nobody wanted. A shorter list can be a form of respect. Waste falls, and so does the time spent explaining."
+    },
+    {
+      "label": "G",
+      "text": "Regret is the companion of choice. Every option that is taken leaves others behind, and a person who has compared twenty possibilities can imagine the nineteen alternatives more vividly than someone who saw only two. This is why a crowded market can produce less satisfaction even when the chosen item is objectively better. The mind compares against what it almost had. Satisfaction depends as much on imagination as on the object itself."
+    },
+    {
+      "label": "H",
+      "text": "Time is the hidden cost. Researching a purchase, reading reviews, comparing prices and asking friends all consume hours that cannot be spent elsewhere. For a small decision the cost is trivial, but for a large one the research may grow until it outweighs the benefit of choosing well. Some people respond by setting a limit in advance: they will consider three options and then decide. A decision given a boundary is easier to make and easier to accept."
+    },
+    {
+      "label": "I",
+      "text": "Personality plays a part. Some shoppers enjoy the search and treat comparison as a hobby, while others find it draining and prefer to decide quickly. The same wide selection that delights one customer irritates another. Sellers who assume that more choice always attracts more buyers may be ignoring the substantial group that pays for simplicity, and who will pay a premium to avoid a decision. Variety is a benefit to some and a tax on others."
+    },
+    {
+      "label": "J",
+      "text": "The practical lesson is not to avoid choice but to structure it. Deciding what matters before looking, ignoring options that fail a basic test and accepting a good enough result can all reduce the burden. The aim is a decision that can be defended and then forgotten, rather than one that is revisited every time a new alternative appears. Good choosing is a skill, and like any skill it improves with a method. Freedom works best inside a frame."
+    }
+  ],
+  "statements": [
+    { "text": "A very large set of options can make people uneasy instead of satisfied.", "answer": "A" },
+    { "text": "Comparing alternatives uses effort that adds to the day's mental fatigue.", "answer": "B" },
+    { "text": "Defaults exploit the wish to avoid deciding and may serve either side.", "answer": "C" },
+    { "text": "Too little variety also frustrates people, so a middle range works best.", "answer": "D" },
+    { "text": "Effective filters, not catalogue size, restore a sense of control.", "answer": "E" },
+    { "text": "Cutting ranges can make ordering simpler and operations more efficient.", "answer": "F" },
+    { "text": "Extensive comparison sharpens awareness of the options that were given up.", "answer": "G" },
+    { "text": "Research can consume more time than a decision is worth, so some set limits.", "answer": "H" },
+    { "text": "Attraction to variety differs between people, and simplicity can command a premium.", "answer": "I" },
+    { "text": "The answer is to organise the decision, not to escape it.", "answer": "J" }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "read-003",
+  "type": "reading",
+  "level": "cet6",
+  "title": "The Quiet Return of Repair",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["discard", "durable", "hazard", "persuasive"],
+  "passage": "Not long ago, throwing away a broken object was a practical decision. A faulty kettle or a torn jacket often cost less to replace than to mend, and repair services were scarce in many neighborhoods. In recent years, however, a counter-movement has taken shape, driven less by nostalgia than by a simple calculation: the things we discard carry materials, energy, and labor that are expensive to replace.\n\nRepair events and community workshops have appeared in many towns, where volunteers help visitors fix small appliances, bicycles, and clothing. Their appeal lies partly in money saved, but also in the experience itself. A person who opens a device and finds a loose connection learns that the object is not a mysterious sealed box. That shift in perception can change how people shop, and how long they keep what they buy.\n\nManufacturers influence this more than any campaign. Products that can be opened, that share standard parts, and that come with spare components are far easier to repair. Some companies have begun to publish manuals and sell parts, partly in response to consumer pressure, partly because durable products can build loyalty. The trend is uneven, and sealed designs remain common, but the direction of the conversation has changed.\n\nRepair culture also raises awkward questions. Some fixes are genuinely risky, particularly when they involve electricity, gas, or safety equipment, and a well-meaning attempt can create a new hazard. There is also the matter of time: many people would rather buy a new item than spend an afternoon learning to mend an old one. Campaigns that ignore these realities tend to preach to the converted.\n\nThe most persuasive argument for repair may be the least dramatic. It is not that everyone should become a technician, but that keeping some objects in use should be an ordinary option rather than an unusual act. When spare parts, clear instructions, and skilled help are within reach, repair stops being a hobby for enthusiasts and becomes what it once was: a normal part of owning things.",
+  "questions": [
+    {
+      "q": "What reason does the author give for the growth of repair culture?",
+      "options": [
+        "A widespread longing for the habits of an earlier age",
+        "New laws that require manufacturers to offer repairs",
+        "The high cost of the materials and energy contained in discarded goods",
+        "The growing difficulty of finding new products to buy"
+      ],
+      "answer": 2,
+      "explain": "首段指出这场运动更多出于“计算”而非怀旧：被丢弃的物品内含昂贵的材料、能源与劳动，故选第三项。第一项恰好被作者否定，第二、四项文中无据。"
+    },
+    {
+      "q": "According to paragraph 2, what is one effect of opening a device at a repair event?",
+      "options": [
+        "People realize that objects are not sealed and mysterious after all",
+        "People are encouraged to buy replacements more often",
+        "People begin to doubt the skills of the volunteers",
+        "People conclude that every repair is simple and quick"
+      ],
+      "answer": 0,
+      "explain": "第二段说打开设备的人会发现物件并非神秘的黑箱，这种认知转变会影响购买习惯，故第一项正确。第二项与原文相反，第三项无据，第四项过度概括，文中也承认部分维修有风险。"
+    },
+    {
+      "q": "What role do manufacturers play according to the passage?",
+      "options": [
+        "They have no real influence on how long products last",
+        "They have stopped producing sealed designs altogether",
+        "They sell parts only to professional repair shops",
+        "Their design choices largely determine how repairable a product is"
+      ],
+      "answer": 3,
+      "explain": "第三段明确说厂商比任何宣传都更有影响力：能否打开、是否通用零件、是否供应备件决定可修性，故第四项正确。第一项与原文相反，第二项被“密封设计仍常见”否定，第三项文中未提。"
+    },
+    {
+      "q": "The word \"converted\" in paragraph 4 most probably means people who",
+      "options": [
+        "have changed their religious beliefs",
+        "are already convinced and need no persuasion",
+        "repair objects in exchange for payment",
+        "design products for large companies"
+      ],
+      "answer": 1,
+      "explain": "“preach to the converted”指只对已经认同的人说教，故指“已被说服的人”。第一项是字面宗教义，此处为比喻；第三、四项与语境无关。"
+    },
+    {
+      "q": "What can be inferred about the author's view of repair?",
+      "options": [
+        "Everyone should train to become a professional technician",
+        "Repair is a temporary fashion that will soon disappear",
+        "Repair should become an everyday option supported by parts and guidance",
+        "Repair is too dangerous to be encouraged at all"
+      ],
+      "answer": 2,
+      "explain": "末段提出维修应成为普通选项，前提是备件、说明与熟练帮助触手可及，故第三项正确。第一项被“不必人人成为技师”否定，第二项与全文趋势相反，第四项夸大了第四段对风险的提醒。"
+    }
+  ]
+}

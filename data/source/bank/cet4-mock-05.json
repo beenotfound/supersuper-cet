@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-05",
+      "title": "大学英语四级标准模拟卷 05",
+      "level": "CET4",
+      "year": "mock-05",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Suppose you took part in a volunteer activity in your community last term. Write an essay of 120 to 150 words describing the experience. In your essay you should: 1) describe what you did; 2) explain what you gained from the activity; 3) encourage your classmates to take part in similar activities.",
+          "promptZh": "假定你上学期参加了社区的一项志愿活动。请写一篇 120–150 词的短文：1）描述你做了什么；2）说明你从中的收获；3）鼓励同学也参加类似活动。",
+          "reference": "Last term I spent every Saturday morning at a community centre three streets away from my university. My job sounded simple: to help serve breakfast to about forty elderly people and then clean the tables. For the first two weeks I was slow and confused. By the third Saturday, though, I knew who took sugar, who needed a chair near the window, and who simply wanted someone to sit down and listen.\n\nWhat struck me most was how much the visits changed my idea of being useful. I had expected to give my time, but I received lessons in patience and in asking questions instead of giving advice. I also made friends with people whose lives are very different from mine.\n\nIf your schedule allows two hours a week, I would encourage you to sign up. The centre always needs helping hands, and you will probably come back with more than you give.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题，请阅读下面的文字稿后作答。\n\nConversation One:\nMan: Hello, is this the community volunteer service centre? I am Wang Lei, a first-year student at the university nearby.\nWoman: Yes, welcome. Are you looking for short-term or long-term volunteering?\nMan: I would prefer something regular, perhaps once a week on Saturday mornings.\nWoman: Then the after-school reading club might suit you. It meets on Saturday mornings in the library on Green Street, and we need two more helpers.\nMan: What exactly would I do?\nWoman: You would read with children aged eight to eleven, help them choose books, and keep a simple record of what they have finished.\nMan: Do I need any training?\nWoman: There is a one-hour introduction on Friday afternoon, mainly about safety rules and how to work with shy children.\nMan: That sounds manageable. How many children are there?\nWoman: About fifteen, and they come from families in this neighbourhood. Some parents work at weekends, so the reading club is also a place where children can stay safely.\nMan: I am glad to help. Is there anything I should bring?\nWoman: Just a notebook. And patience, because the first two weeks are usually noisy.\nMan: May I bring a classmate?\nWoman: Of course. In fact we are short of volunteers for the autumn term, so please do.\n\nPassage One:\nFor years, Mrs. Chen knew only three of her neighbours, even though she had lived in the same building for thirty-two years. People passed in the corridor, nodded and disappeared behind their doors. Then last winter she broke her ankle and could not leave her flat for six weeks.\nThe first help came from a young man on the fourth floor whom she had never spoken to. He bought her vegetables, refused her money and said he was going to the supermarket anyway. A few days later a note appeared under her door with a mobile phone number: a group of neighbours had started a small chat group. Within a week, someone was collecting her post, someone else was walking her dog, and two women from the fifth floor were taking turns to bring hot soup in the evening.\nWhen Mrs. Chen could walk again, she did not want the group to disappear. She suggested a monthly Saturday lunch in the courtyard. Eight people came the first time; two years later, the number is closer to forty. There is no committee and no membership fee. An old wooden board near the gate is used to list what people need and what they can offer: a lift to the hospital, a spare chair, help with a form, a bicycle that a child has outgrown.\nMrs. Chen says she now understands why the building feels different. 'We are not friends with everybody,' she explains. 'But we know whom to call, and we know that somebody will come. That is not a small thing when you are old.'",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What kind of volunteering does the man prefer?",
+              "transcript": "",
+              "options": [
+                "A. Regular work on Saturday mornings.",
+                "B. A one-day event next month.",
+                "C. Evening work during the week.",
+                "D. Work during the summer holidays."
+              ],
+              "answer": "A",
+              "explanation": "男士说 I would prefer something regular, perhaps once a week on Saturday mornings，故选 A。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What would the man do at the reading club?",
+              "transcript": "",
+              "options": [
+                "A. Teach the children mathematics.",
+                "B. Cook meals for the children.",
+                "C. Read with children and help them choose books.",
+                "D. Take the children to a museum."
+              ],
+              "answer": "C",
+              "explanation": "女士说明工作内容是 You would read with children aged eight to eleven, help them choose books, and keep a simple record，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What is the Friday afternoon training mainly about?",
+              "transcript": "",
+              "options": [
+                "A. How to repair old books.",
+                "B. How to improve reading speed.",
+                "C. How to organise a small library.",
+                "D. Safety rules and working with shy children."
+              ],
+              "answer": "D",
+              "explanation": "女士说 There is a one-hour introduction on Friday afternoon, mainly about safety rules and how to work with shy children，故选 D。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "Why is the reading club important for some parents?",
+              "transcript": "",
+              "options": [
+                "A. It gives them free books to take home.",
+                "B. They work at weekends and need a safe place for their children.",
+                "C. It teaches them to read English.",
+                "D. It offers them part-time jobs."
+              ],
+              "answer": "B",
+              "explanation": "女士说 Some parents work at weekends, so the reading club is also a place where children can stay safely，故选 B。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What happened to Mrs. Chen last winter?",
+              "transcript": "",
+              "options": [
+                "A. She moved into a new flat.",
+                "B. She lost her job in the neighbourhood.",
+                "C. She broke her ankle and had to stay at home.",
+                "D. She fell out with the neighbours."
+              ],
+              "answer": "C",
+              "explanation": "短文说 Then last winter she broke her ankle and could not leave her flat for six weeks，故选 C。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "Who first brought Mrs. Chen vegetables?",
+              "transcript": "",
+              "options": [
+                "A. A young man on the fourth floor.",
+                "B. Two women from the fifth floor.",
+                "C. The manager of the local shop.",
+                "D. A colleague from her office."
+              ],
+              "answer": "A",
+              "explanation": "短文说 The first help came from a young man on the fourth floor whom she had never spoken to. He bought her vegetables，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "How did the neighbours help her during those six weeks?",
+              "transcript": "",
+              "options": [
+                "A. They collected money to pay her bills.",
+                "B. They helped with her post, her dog and her meals.",
+                "C. They took her to work every morning.",
+                "D. They cleaned her flat once a month."
+              ],
+              "answer": "B",
+              "explanation": "短文说 someone was collecting her post, someone else was walking her dog, and two women were taking turns to bring hot soup，故选 B。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does Mrs. Chen think is important for old people?",
+              "transcript": "",
+              "options": [
+                "A. Living close to their children.",
+                "B. Having a large flat in the city.",
+                "C. Knowing all their neighbours well.",
+                "D. Knowing that neighbours will come when needed."
+              ],
+              "answer": "D",
+              "explanation": "她最后说 We know whom to call, and we know that somebody will come. That is not a small thing when you are old，故选 D；C 与她说的 We are not friends with everybody 不符。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "阅读下面的短文，从词库中选出最恰当的单词填入第 26–35 空，每个单词只能使用一次，其中 5 个词为多余选项。\n\n词库（A–O）：\nA. awkward\nB. consistency\nC. formed\nD. give\nE. include\nF. learn\nG. matters\nH. offer\nI. recognise\nJ. reliable\nK. seriously\nL. take\nM. trust\nN. usual\nO. weekly\n\n短文：\nVolunteering is usually described as a gift of time, but its benefits do not flow in one direction only. Students who spend a few hours a week at a community centre often say they gain as much as they (26) ____. The first weeks, though, can feel (27) ____: a new place, unfamiliar faces and tasks that look simple but are not.\n\nWhat makes the difference is (28) ____ — turning up every week rather than once, when nothing else is planned. Organisers say the most (29) ____ volunteers are not always the most talented ones, but those who keep their promises.\n\nVolunteering also teaches skills that are hard to (30) ____ in a classroom, such as listening patiently and explaining an idea in simple words. Employers have begun to (31) ____ such experience, and some universities now (32) ____ volunteer work in the record students take to interviews.\n\nThere are limits, of course. Volunteering should not (33) ____ the place of paid work, nor should it damage a student's studies. What (34) ____ is a modest but steady commitment, and the habit, once (35) ____, often lasts for life.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. Students who spend a few hours a week at a community centre often say they gain as much as they ____.",
+              "answer": "give",
+              "explanation": "选 D. give（对应第 26 空）。gain as much as they give 意为‘收获与付出一样多’，与前半句 benefits do not flow in one direction only 呼应。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. The first weeks, though, can feel ____: a new place, unfamiliar faces and tasks that look simple but are not.",
+              "answer": "awkward",
+              "explanation": "选 A. awkward（对应第 27 空）。冒号后列举‘陌生的地方、陌生的面孔’，说明最初几周会感到别扭、不自在。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. What makes the difference is ____ — turning up every week rather than once, when nothing else is planned.",
+              "answer": "consistency",
+              "explanation": "选 B. consistency（对应第 28 空）。破折号后的解释‘每周都来，而不是没别的事才来一次’正是 consistency（坚持一致）的含义。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Organisers say the most ____ volunteers are not always the most talented ones, but those who keep their promises.",
+              "answer": "reliable",
+              "explanation": "选 J. reliable（对应第 29 空）。but those who keep their promises 说明组织者看重的是‘可靠’，与 talented 形成对比。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Volunteering also teaches skills that are hard to ____ in a classroom, such as listening patiently and explaining an idea in simple words.",
+              "answer": "learn",
+              "explanation": "选 F. learn（对应第 30 空）。‘在课堂上难以学到的技能’与后文列举的倾听、解释能力相配，learn 与 skills 构成动宾搭配。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Employers have begun to ____ such experience.",
+              "answer": "recognise",
+              "explanation": "选 I. recognise（对应第 31 空）。recognise 在此意为‘认可、重视’，表示雇主开始看重这类经历。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. Some universities now ____ volunteer work in the record students take to interviews.",
+              "answer": "include",
+              "explanation": "选 E. include（对应第 32 空）。include A in B 意为‘把 A 列入 B’，即把志愿工作写入求职材料。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Volunteering should not ____ the place of paid work, nor should it damage a student's studies.",
+              "answer": "take",
+              "explanation": "选 L. take（对应第 33 空）。take the place of 意为‘取代’，本句表示志愿服务不应取代有报酬的工作。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. What ____ is a modest but steady commitment.",
+              "answer": "matters",
+              "explanation": "选 G. matters（对应第 34 空）。What matters is... 意为‘重要的是……’，总结全文对志愿服务的态度。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. The habit, once ____, often lasts for life.",
+              "answer": "formed",
+              "explanation": "选 C. formed（对应第 35 空）。once formed 为‘连词 + 过去分词’结构，表示习惯一旦养成便会持续一生。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nParagraph A: The story began with a piece of land behind a bus stop, covered in weeds and broken bottles. In 2016 a group of residents asked the city council whether they could grow vegetables there. The answer was a one-year trial. They cleared the ground with borrowed tools, built twelve raised beds and carried the soil in wheelbarrows. Nothing about the site was beautiful, yet by the end of the first summer strangers were stopping to look over the fence and to ask whether they could join the waiting list.\n\nParagraph B: A garden with forty members needs a system. Each household looks after one bed and one shared job: the compost, the water pipes, the tools or the notice board. Two people open the gate on weekday mornings, and a rota covers the weekends. Nobody is paid, and nobody is allowed to do everything. Members say the rota matters more than the rules on paper, because it shows new members how much work one tomato plant demands.\n\nParagraph C: Nearby primary schools treat the garden as an open-air classroom. Classes come in spring and autumn to plant beans, measure growth and draw what they see. One teacher uses the garden to teach science, another to discuss healthy eating. Children who refuse vegetables at school lunch often eat them raw here. For many of them this is the first time they have seen food growing in soil rather than arriving in a plastic bag on a supermarket shelf.\n\nParagraph D: Harvest day falls on the last Saturday of the month. Members keep what they need, and the rest goes to a small table by the gate with a sign saying 'help yourself'. Some of it reaches elderly neighbours who can no longer shop easily, and some goes to a food bank two streets away. The gardeners do not regard this as charity; they simply believe that a place which grows food should also feed the street around it.\n\nParagraph E: No garden is peaceful all the time. Arguments have been about water bills, about loud music and about a plum tree that shaded someone's tomatoes. The committee's answer is to meet for twenty minutes on harvest day, with a rule that nobody may discuss a problem at the gate. Most disagreements are settled there; when one is not, the member who feels unheard may bring it to the council officer who supervises the site.\n\nParagraph F: The one-year trial ended long ago, but the land remains uncertain. The council could sell the site for housing, and the gardeners know that a good season proves nothing about the lease. In 2022 they helped to write a neighbourhood plan which keeps the garden in public use for fifteen years. Meanwhile they plant fruit trees, which will take years to fruit. 'You do not plant a tree for yourself,' one member says. 'You plant it for whoever comes next.'",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "The garden started when residents turned an empty piece of land into something productive.",
+              "options": [
+                "A. From waste ground to a waiting list",
+                "B. Sharing the work through a rota",
+                "C. Children learning where food comes from",
+                "D. Sharing the harvest with the neighbourhood",
+                "E. Settling disagreements in a fixed way",
+                "F. A future that depends on the land"
+              ],
+              "answer": "A",
+              "explanation": "Paragraph A 讲一片杂草丛生的空地如何被居民开垦成菜园，最后还有人排队等候加入，与题干对应，故选 A。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Members take turns to look after shared jobs, and the rota teaches newcomers how much work is involved.",
+              "options": [
+                "A. From waste ground to a waiting list",
+                "B. Sharing the work through a rota",
+                "C. Children learning where food comes from",
+                "D. Sharing the harvest with the neighbourhood",
+                "E. Settling disagreements in a fixed way",
+                "F. A future that depends on the land"
+              ],
+              "answer": "B",
+              "explanation": "Paragraph B 说 a rota covers the weekends，并提到 rota matters more than the rules on paper, because it shows new members how much work one tomato plant demands，故选 B。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "School classes visit the garden so that pupils can see how vegetables are grown.",
+              "options": [
+                "A. From waste ground to a waiting list",
+                "B. Sharing the work through a rota",
+                "C. Children learning where food comes from",
+                "D. Sharing the harvest with the neighbourhood",
+                "E. Settling disagreements in a fixed way",
+                "F. A future that depends on the land"
+              ],
+              "answer": "C",
+              "explanation": "Paragraph C 说 Nearby primary schools treat the garden as an open-air classroom，孩子们 first time they have seen food growing in soil，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Part of the produce is given to older neighbours and to a food bank.",
+              "options": [
+                "A. From waste ground to a waiting list",
+                "B. Sharing the work through a rota",
+                "C. Children learning where food comes from",
+                "D. Sharing the harvest with the neighbourhood",
+                "E. Settling disagreements in a fixed way",
+                "F. A future that depends on the land"
+              ],
+              "answer": "D",
+              "explanation": "Paragraph D 说 Some of it reaches elderly neighbours... and some goes to a food bank two streets away，故选 D。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "It is still not certain that the garden can stay on the land in the long term.",
+              "options": [
+                "A. From waste ground to a waiting list",
+                "B. Sharing the work through a rota",
+                "C. Children learning where food comes from",
+                "D. Sharing the harvest with the neighbourhood",
+                "E. Settling disagreements in a fixed way",
+                "F. A future that depends on the land"
+              ],
+              "answer": "F",
+              "explanation": "Paragraph F 说 the land remains uncertain, The council could sell the site for housing，因此才要写入社区规划，故选 F。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: When universities advertise volunteering, they usually stress what students can do for the community. A growing number of careers advisers are more interested in the opposite question: what the community does for students.\n\nThe evidence suggests that this second effect is larger than students expect. A study following two hundred undergraduates over a year found that those who volunteered for two hours a week were more likely to say they could cope with difficult people and unexpected problems. The improvement did not depend on the sort of work they did. Sorting clothes in a charity shop and teaching children to swim produced similar changes, possibly because both require turning up, paying attention and being useful to someone who does not care about your grades.\n\nEmployers seem to notice. In a survey of graduate recruiters, more than half said that volunteering was useful evidence of qualities that interviews cannot easily reveal, such as reliability. One recruiter admitted that a student who had run a weekend football club for three years told her more about commitment than any number of prizes.\n\nThere is a risk of exaggeration. Students who volunteer mainly to fill a line on their CV often stop after a few weeks, and a single afternoon of painting a wall proves very little. Advisers therefore suggest choosing one organisation and staying with it for a year. They also warn against letting hours push aside sleep, study or paid work, since a student who is exhausted helps nobody.\n\nThe most lasting benefit may be quieter than any of these. Volunteers meet people whose lives they would otherwise never enter, and they learn that a community is not managed by officials alone. That lesson is hard to test, which may be why it is so rarely advertised.\n\nPassage 2: In many cities, the people who live closest together know least about each other. A recent experiment in three neighbourhoods tried to change that with a very old idea: a list of what neighbours can offer one another.\n\nThe project began with a simple questionnaire delivered to eight hundred homes. Residents were asked to write down one skill they would be willing to share, such as repairing a bicycle or filling in a form, and one thing they needed help with. The replies were surprising in two ways. Only about a fifth of the forms came back, yet those who replied offered far more than the organisers had expected. More importantly, the most frequent request was not practical at all: many people asked for company, someone to walk with in the evenings, or a neighbour willing to knock on the door once a week.\n\nThe organisers resisted the temptation to build an app. They printed a small booklet instead and asked the manager of the local shop to keep copies behind the counter. Older residents told them that a screen was exactly the thing that had made them feel excluded. A booklet, by contrast, could be read at the bus stop and passed on to a friend.\n\nTwo years later the project survives in a modest form: a monthly repair afternoon, a walking group on Tuesdays, and a list of people who will lend a ladder or a drill. The organisers measure success not by the number of services exchanged but by how quickly newcomers are noticed. 'In a good network,' one of them says, 'a new family is invited to something within a month, without anyone being officially asked to do it.'",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What are some careers advisers more interested in?",
+              "options": [
+                "A. What students gain from the community.",
+                "B. How much money volunteering raises.",
+                "C. Why charities refuse student helpers.",
+                "D. Which subjects volunteers should study."
+              ],
+              "answer": "A",
+              "explanation": "第一段说 careers advisers are more interested in the opposite question: what the community does for students，即关注学生从社区得到什么，故选 A。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the study find about the improvement in students?",
+              "options": [
+                "A. It only appeared in students of medicine.",
+                "B. It disappeared when the volunteering stopped.",
+                "C. It did not depend on the type of work done.",
+                "D. It was greater for those who worked longer hours."
+              ],
+              "answer": "C",
+              "explanation": "第二段说 The improvement did not depend on the sort of work they did，并举例说整理旧衣物与教孩子游泳效果相似，故选 C。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the survey of graduate recruiters show?",
+              "options": [
+                "A. Most recruiters ignore volunteering completely.",
+                "B. Recruiters prefer students with high grades.",
+                "C. Recruiters doubt whether volunteering is real work.",
+                "D. Over half of them linked volunteering with qualities such as reliability."
+              ],
+              "answer": "D",
+              "explanation": "第三段说 more than half said that volunteering was useful evidence of qualities... such as reliability，故选 D。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What do advisers warn students against?",
+              "options": [
+                "A. Choosing more than one organisation.",
+                "B. Letting volunteering push aside sleep and study.",
+                "C. Working with children without training.",
+                "D. Taking part in activities that last a year."
+              ],
+              "answer": "B",
+              "explanation": "第四段说 They also warn against letting hours push aside sleep, study or paid work，故选 B；A 恰恰相反，顾问建议只选一家机构。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What surprised the organisers about the replies to the questionnaire?",
+              "options": [
+                "A. Almost every household returned a form.",
+                "B. Very few residents offered any skills.",
+                "C. The most common request was for company.",
+                "D. Residents asked for an app instead of a booklet."
+              ],
+              "answer": "C",
+              "explanation": "第二段说 Only about a fifth of the forms came back，与 A 相反；但 the most frequent request was not practical at all: many people asked for company，故选 C。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) Why did the organisers print a booklet instead of building an app?",
+              "options": [
+                "A. An app would have cost too much to develop.",
+                "B. The local shop offered to pay for the printing.",
+                "C. A booklet could be updated more easily.",
+                "D. Older residents said screens made them feel excluded."
+              ],
+              "answer": "D",
+              "explanation": "第三段说 Older residents told them that a screen was exactly the thing that had made them feel excluded，因此改印小册子，故选 D。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) How do the organisers judge whether the project is working?",
+              "options": [
+                "A. By how quickly a new family is invited to something.",
+                "B. By the number of services exchanged each month.",
+                "C. By the number of booklets printed.",
+                "D. By how much money the project raises."
+              ],
+              "answer": "A",
+              "explanation": "最后一段说 The organisers measure success not by the number of services exchanged but by how quickly newcomers are noticed，并以 a new family is invited to something within a month 作具体说明，故选 A。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "春节是中国最重要的传统节日。每到农历新年，人们会提前几周打扫房屋、贴春联、准备丰盛的年夜饭。除夕之夜，全家人尽量聚在一起吃团圆饭，长辈还会给孩子压岁钱。许多地方还保留着放鞭炮、舞龙舞狮的习俗，寓意辞旧迎新、祈求来年吉祥。如今，虽然城市里对燃放烟花有严格限制，但人们通过视频通话、电子红包等方式，同样传递着对亲友的祝福和对新年的期盼。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "The Spring Festival is the most important traditional festival in China. As the lunar new year approaches, people clean their houses, put up spring couplets and prepare a rich dinner several weeks in advance. On New Year's Eve, the whole family tries to get together for a reunion meal, and elders give children lucky money. In many places the old customs of setting off firecrackers and performing dragon and lion dances are still kept, which means saying goodbye to the old year and praying for good luck in the coming one. Today, although setting off fireworks is strictly limited in cities, people still send their good wishes and hopes for the new year to relatives and friends through video calls and electronic red envelopes.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

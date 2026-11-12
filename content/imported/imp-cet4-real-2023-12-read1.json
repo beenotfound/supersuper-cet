@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-real-2023-12-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2023-12",
+ "paperTitle": "2023年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "sectionOrder": 4,
+ "passage": "Not long ago, an audiobook meant a set of CDs borrowed from a library. Today it is the fastest-growing part of the publishing industry: sales have risen by double digits every year for a decade, and in some markets one book in five is now read through headphones. The reasons are practical. A commute, a gym session or a pile of washing-up becomes reading time, and listeners who had stopped buying paper books often become readers again.\n\nPublishers responded quickly, hiring actors and paying for studios and sound effects. Some well-known titles now have two versions, one in a single familiar voice and one with a full cast, and a few authors have begun to write with narration in mind, shortening long descriptions that sound slow when spoken. For language learners the format has an obvious attraction: the written text and its careful pronunciation are never far apart.\n\nNot everyone is delighted. Teachers who study reading worry that listening is a different skill. A reader who skips back to check a sentence is doing something a listener rarely does, and the attention demanded by a complicated argument may be lost when the voice continues without pause. A study of university students found that those who only listened remembered fewer details of a chapter than those who read it on paper, although they remembered the main idea equally well.\n\nThe most sensible view may be that the two forms do different jobs. Stories and interviews suit the ear, while a textbook or a contract still asks for the eye. What is striking, however, is that the argument itself has changed. A decade ago people asked whether listening counted as reading. Now they ask when it is the better choice.",
+ "questions": [
+  {
+   "q": "What is said about audiobook sales?",
+   "options": [
+    "They have grown by double digits every year for a decade.",
+    "They fell as soon as streaming services appeared.",
+    "They are now larger than printed book sales.",
+    "They depend mainly on university libraries."
+   ],
+   "answer": 0,
+   "explain": "Passage 1 首段说 sales have risen by double digits every year for a decade，即连续十年保持两位数增长，故选 A；文中只说在某些市场每五本书有一本以有声形式阅读，并未说销量超过纸质书，C 过度推断。"
+  },
+  {
+   "q": "Why have some authors begun to write with narration in mind?",
+   "options": [
+    "They are paid more for audio editions.",
+    "They no longer write for libraries.",
+    "They want their books to be made into films.",
+    "They want their books to sound good when read aloud."
+   ],
+   "answer": 3,
+   "explain": "第二段说有些作者开始 with narration in mind, shortening long descriptions that sound slow when spoken，即为了让文字朗读出来效果好，故选 D。"
+  },
+  {
+   "q": "What did the study of university students find?",
+   "options": [
+    "Listeners understood the main idea worse than readers.",
+    "Listeners remembered the main idea but fewer details.",
+    "Students preferred audio to paper in every subject.",
+    "Most students gave up halfway through the chapter."
+   ],
+   "answer": 1,
+   "explain": "第三段说 those who only listened remembered fewer details of a chapter than those who read it on paper, although they remembered the main idea equally well，故选 B。"
+  },
+  {
+   "q": "What is the author's conclusion about the two forms of reading?",
+   "options": [
+    "They suit different kinds of books.",
+    "Paper books will disappear within a decade.",
+    "Listening should replace reading in schools.",
+    "Audio editions are cheaper to produce."
+   ],
+   "answer": 0,
+   "explain": "末段说 the two forms do different jobs，故事与访谈适合听，教科书与合同仍需用眼，即两种形式适合不同种类的书，故选 A。"
+  }
+ ]
+}

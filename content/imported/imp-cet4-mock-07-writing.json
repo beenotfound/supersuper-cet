@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-07-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-07",
+ "paperTitle": "大学英语四级标准模拟卷 07",
+ "paperLevel": "cet4",
+ "paperYear": "mock-07",
+ "sectionOrder": 0,
+ "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on how college students can prepare for the job market through internships. Your essay should include: 1) the importance of internships for career preparation; 2) the main difficulties students face in finding a suitable internship; 3) what you think students should do to make the most of internship opportunities. You should write at least 120 words but no more than 180 words.",
+ "reference": "Internships have become an important bridge between the classroom and the workplace. A well-chosen internship allows students to test their interests, learn how an organisation really works and discover which skills they still need to develop. In a competitive job market, such experience often makes a graduate's application far more convincing.\n\nHowever, many students struggle to find a suitable placement. Some positions are unpaid or badly paid, while others are far from home. Students also complain that employers prefer candidates with previous experience, which creates a frustrating circle.\n\nIn my view, students should start early and look beyond famous companies. A small firm may offer more responsibility and closer guidance. During the internship, they should keep a simple record of what they do, ask for feedback and build relationships with colleagues, because a good reference is as valuable as a line on a CV.",
+ "keyPoints": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "trans-001",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国茶文化",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["heritage", "beverage", "fragrant", "ritual"],
+  "prompt": "中国是茶的故乡，饮茶的历史可以追溯到数千年前。对中国人来说，茶不仅是一种饮品，更是一种生活方式。客人进门，主人常常先奉上一杯热茶，以此表示欢迎和尊重。不同地区的人偏爱不同的茶：江南一带多喝清香的绿茶，北方人则更喜欢浓郁的花茶。近年来，不少年轻人重新走进茶馆，在忙碌的生活中寻找片刻安静。茶文化讲究慢下来、静下来，这种生活态度正被越来越多的人接受。",
+  "reference": "China is the homeland of tea, and the history of tea drinking can be traced back thousands of years. For the Chinese, tea is not merely a beverage but a way of life. When a guest comes to the door, the host often offers a cup of hot tea first as a gesture of welcome and respect. A cup of tea also eases the conversation when strangers meet or when business is discussed, which explains why tea is served on so many social occasions. People in different regions prefer different kinds of tea: those living south of the Yangtze River tend to drink light and fragrant green tea, while northerners favour a stronger flower-scented tea. In recent years, quite a few young people have returned to tea houses, looking for a moment of quiet in their busy lives. The way tea is prepared, from warming the pot to pouring in a slow circle, has become a small ceremony in itself. Tea culture values slowing down and staying calm, and this attitude towards life is now being accepted by more and more people.",
+  "keyPoints": [
+    "“茶的故乡”可译为 the homeland of tea，避免直译为 the hometown of tea。",
+    "“不仅……更是……”用 not merely... but... 结构，突出递进关系。",
+    "“客人进门”宜处理为 When a guest comes to the door 的时间状语从句。",
+    "“江南一带”译为 south of the Yangtze River，让读者明白大致地理位置。",
+    "“慢下来、静下来”用动词短语 slow down and stay calm，比堆形容词更自然。"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "write-008",
+  "type": "writing",
+  "level": "cet6",
+  "title": "The Rise of Remote Work",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["remote", "productivity", "commute"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the chart below, which shows that the proportion of employees working from home in a large city has grown noticeably over the past eight years. You should write at least 150 words but no more than 200 words.",
+  "reference": "The chart shows that the proportion of employees working from home in a large city has grown noticeably over the past eight years. This shift deserves attention because it changes not only where we work but how we live.\n\nSeveral factors lie behind the trend. Faster internet and better collaboration tools let people do office work almost anywhere. Employees value the time saved on commuting and the freedom to arrange their day. Companies have also found that remote work cuts office costs and lets them hire talent from far away.\n\nThe benefits, however, come with costs. Working at home blurs the line between work and rest, and some employees find themselves answering messages long after dinner. New staff may learn little about company culture, and casual conversations that once produced ideas may disappear. Isolation is another risk, especially for those who live alone.\n\nThe lesson is that remote work is a tool rather than a solution. With clear rules, proper equipment and regular contact, the benefits can outweigh the drawbacks. The future of work is likely to be a mixture of the office and the home, not one replacing the other.",
+  "keyPoints": [
+    "第一段描述图表趋势，并点明其意义不只是工作地点变化。",
+    "第二段从技术、员工和公司三个角度分析原因。",
+    "第三段用 however 转折，指出远程办公的代价。",
+    "结尾给出条件式结论，避免绝对化。"
+  ]
+}

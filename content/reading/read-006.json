@@ -1,0 +1,67 @@
+{
+  "id": "read-006",
+  "type": "reading",
+  "level": "cet6",
+  "title": "Museums That Tell Stories",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["narrative", "immersive", "candor", "uncertainty"],
+  "passage": "A museum is often imagined as a quiet hall of objects, each displayed behind glass. That image is not wrong, but it is incomplete. In practice, every exhibition makes choices: what to include, where to place it, and what to say about it. A single label can decide whether a visitor sees a pot as a technical achievement, a household tool, or a sign of trade with distant places.\n\nIn recent decades, many museums have become more openly storytelling institutions. Exhibitions are arranged to guide visitors through an argument, and digital guides, audio trails, and immersive rooms are used to provide context. The intention is generous: to make collections meaningful to people who arrive without specialist knowledge, and to show that objects were made and used by human beings.\n\nNot everyone is persuaded. Some historians worry that a strong narrative can smooth over uncertainty, presenting as settled what is still debated. A story is easier to follow than a set of competing interpretations, and visitors may leave with confidence that experts do not share. Others argue that a museum should not pretend to be neutral, since its choices already express values.\n\nThe more interesting question is how to combine narrative with honesty. Curators who do it well make the process visible: they explain why an object matters, admit where evidence is thin, and show that collections themselves have histories, including the difficult ways in which some objects were acquired. Visitors respond well to this candor. Being trusted with complexity, it turns out, is more engaging than being told a tidy story.\n\nMuseums are not merely storehouses; they are places where a society decides what to remember and how to explain it to itself. That responsibility argues for imagination and care in equal measure. A good exhibition leaves visitors not with a finished message but with a question they did not have before they walked in.",
+  "questions": [
+    {
+      "q": "What does the author say about exhibition choices in the first paragraph?",
+      "options": [
+        "They are neutral because museums avoid value judgments",
+        "Only the objects on display really matter",
+        "Decisions about inclusion and labels shape what visitors understand",
+        "Museums deliberately avoid explaining objects to visitors"
+      ],
+      "answer": 2,
+      "explain": "首段说每场展览都在做选择：展什么、放哪里、如何说明，一块标签就能决定观众如何理解一件器物，故选第三项。第一项与后文“选择本身已表达价值”矛盾，第二、四项与展签说明的例子相反。"
+    },
+    {
+      "q": "Why have many museums turned toward storytelling?",
+      "options": [
+        "To attract specialist researchers rather than general visitors",
+        "To make collections meaningful to people without specialist knowledge",
+        "To reduce the cost of maintaining their buildings",
+        "To avoid taking any position on difficult subjects"
+      ],
+      "answer": 1,
+      "explain": "第二段明确说其用心是让没有专业背景的观众也能理解藏品，并展示器物由人制作和使用，故选第二项。第一项与“非专业观众”相反，第三项无据，第四项与后文“不必假装中立”相悖。"
+    },
+    {
+      "q": "The word \"candor\" in paragraph 4 most probably means",
+      "options": [
+        "a confident and forceful tone",
+        "careful avoidance of difficult topics",
+        "detailed visual decoration",
+        "frank honesty about what is known and unknown"
+      ],
+      "answer": 3,
+      "explain": "上文说策展人承认证据薄弱、说明藏品来历，下文说观众乐于被信任去面对复杂性，故指“坦率诚实”。第一项侧重语气，第二项与“承认薄弱”相反，第三项与语境无关。"
+    },
+    {
+      "q": "According to the author, how do visitors respond to complexity?",
+      "options": [
+        "They engage with it when they are trusted to handle it",
+        "They prefer to be given a tidy message",
+        "They become confused and leave the museum",
+        "They reject any narrative offered by curators"
+      ],
+      "answer": 0,
+      "explain": "第四段末句说“被信任去面对复杂性，比被灌输一个整洁的故事更有吸引力”，故选第一项。第二项正是作者所否定的做法，第三项无据，第四项与观众“反响良好”相反。"
+    },
+    {
+      "q": "What can be inferred about a good exhibition from the last paragraph?",
+      "options": [
+        "It answers every question a visitor might have",
+        "It avoids raising any question at all",
+        "It provokes new questions rather than delivering a finished message",
+        "It presents one settled interpretation of the past"
+      ],
+      "answer": 2,
+      "explain": "末段说好展览留给观众的不是完成的信息，而是一个此前没有的问题，故选第三项。第一、二项与“不是完成的信息”矛盾，第四项与全文倡导的诚实呈现分歧相反。"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "match-001",
+  "type": "matching",
+  "level": "cet6",
+  "title": "The Second-Hand Market",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["resale", "durable", "reputation"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Buying used goods once carried a faint smell of hardship. Today the same act is presented as clever, thrifty and even stylish. Influential voices online show off furniture rescued from skips and coats found in charity shops, and their audiences copy the behaviour. The shift is partly economic and partly cultural: people want their purchases to say something about their values as well as their taste. Parents who once hid a second-hand purchase now mention it proudly. As a result, a market that was once hidden at the edge of town has moved into the mainstream."
+    },
+    {
+      "label": "B",
+      "text": "The environmental argument is straightforward. Every object that changes hands a second time is an object that does not have to be manufactured, shipped and eventually buried. That saves materials, energy and space in landfill. Campaigners point out that the greenest item is usually the one already in existence, and that buying nothing new is more effective than buying something labelled sustainable. For a generation worried about waste, this logic is difficult to argue with. The calculation differs from person to person, but the direction is the same."
+    },
+    {
+      "label": "C",
+      "text": "Second-hand shopping requires a different kind of attention. A buyer cannot assume that a coat has been cleaned or that a chair has all its legs. Photographs may hide stains, and a description that sounds enthusiastic may omit a fault. Experienced shoppers inspect seams, ask about measurements and request extra images before they commit. They also learn to walk away from a bargain that will cost more to repair than to replace. A little patience saves both money and disappointment."
+    },
+    {
+      "label": "D",
+      "text": "Online platforms have solved the trust problem in a simple way: they let strangers rate each other. A seller with hundreds of positive reviews is unlikely to risk a bad one for a small gain, and buyers who feel cheated can warn others. Some sites hold the payment until the item arrives, which removes the fear of paying for nothing. These small mechanisms have made it normal to send money to somebody you have never met. Reputation, in other words, has replaced the handshake."
+    },
+    {
+      "label": "E",
+      "text": "For many sellers the motivation is not money but space. A flat fills up with clothes that no longer fit and gadgets that were used twice, and throwing them away feels wasteful. Listing an item takes minutes, and the buyer often collects it from the doorstep. The result is a home that feels lighter and a small sum that appears in the bank. Sellers describe the process as a form of tidying that pays for itself. Some describe selling as a way of learning what they never use."
+    },
+    {
+      "label": "F",
+      "text": "Older objects have an advantage that new ones often lack. Furniture built decades ago was frequently made from solid wood and designed to be mended, while a cheap modern equivalent may be glued together and impossible to repair. Collectors seek out such pieces for their materials and their character, and some manufacturers have noticed, reissuing classic designs or emphasising durability in their marketing. The appeal is not only nostalgia; it is also a judgement about quality that buyers can test with their hands."
+    },
+    {
+      "label": "G",
+      "text": "The risks are real. Counterfeit goods, stolen bicycles and items that arrive broken are all part of the picture. Most platforms offer some protection, but a buyer who pays in cash on a doorstep has little recourse. Consumer groups advise meeting in public places, keeping a record of the conversation, and checking serial numbers where possible. They also warn that a price far below the market rate is usually a warning sign. Vigilance, rather than trust, is the price of a good bargain."
+    },
+    {
+      "label": "H",
+      "text": "Retailers have responded not by fighting the trend but by joining it. Several chains now buy back worn clothing and resell it, and electronics shops offer trade-in credit against a new purchase. The motive is partly ethical and partly commercial: a customer who returns to sell is a customer who may also buy. For the shops, the second-hand section attracts people who would otherwise never enter the store. For them the used rail is less a threat than an extra shop window."
+    },
+    {
+      "label": "I",
+      "text": "Clothing shows the pattern most clearly. Fashion cycles now move quickly, and garments are often worn a few times before losing their appeal. Resale gives them a second life and gives buyers a way to follow trends without paying full price. Some young shoppers build whole wardrobes from used items and treat the hunt as entertainment. Critics worry that this simply speeds up consumption rather than reducing it. The industry has noticed, and some labels now design clothes with resale in mind."
+    },
+    {
+      "label": "J",
+      "text": "Lawmakers are beginning to catch up. Rules that once applied only to shops are being extended to individuals who sell regularly, and platforms are expected to check that goods are not stolen. Consumer protection bodies want the same guarantees for used products that new ones receive. Sellers complain about paperwork, but the direction of travel is clear: the second-hand market is no longer a private arrangement between neighbours. What was once a favour between friends is becoming a market with obligations."
+    }
+  ],
+  "statements": [
+    { "text": "Buying second-hand is now treated as a smart and principled choice rather than a sign of poverty.", "answer": "A" },
+    { "text": "Choosing an object that already exists is greener than buying a new one marketed as sustainable.", "answer": "B" },
+    { "text": "Used goods demand close inspection because sellers may not mention every defect.", "answer": "C" },
+    { "text": "Reputation scores and delayed payment let strangers trade safely without meeting.", "answer": "D" },
+    { "text": "Many people sell mainly to clear space and feel better about their homes.", "answer": "E" },
+    { "text": "Well-made old furniture is prized because cheap modern versions cannot be repaired.", "answer": "F" },
+    { "text": "Shoppers are warned about unusually low prices and advised to keep evidence.", "answer": "G" },
+    { "text": "Established shops join resale because it brings in people who rarely visit.", "answer": "H" },
+    { "text": "Fast fashion drives resale while also raising doubts about total consumption.", "answer": "I" },
+    { "text": "Rules once aimed at businesses are being applied to frequent individual sellers.", "answer": "J" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "trans-008",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国教育的发展",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["compulsory", "literacy", "access", "curriculum"],
+  "prompt": "教育在中国一直被视为改变命运的重要途径。几十年来，国家大力普及义务教育，越来越多的孩子有机会走进学校。绝大多数儿童都能完成小学和初中阶段的学习，识字率大幅提高。与此同时，高等教育的规模不断扩大，上大学不再是少数人的特权。教育也面临新的挑战：城乡之间的资源差距仍然存在，学生的课业负担也引起广泛讨论。如何在公平与质量之间取得平衡，是全社会共同关心的问题。",
+  "reference": "Education has long been seen in China as an important way to change one's fate. Over the past decades the state has worked hard to make compulsory education available, and more and more children have had the chance to go to school. Today the great majority of children complete primary and junior secondary schooling, and literacy has risen substantially. At the same time, higher education has kept expanding, so that going to university is no longer a privilege for a small number of people. Yet education also faces new challenges: the gap in resources between city and countryside remains, and the workload placed on students has aroused wide discussion. Parents still invest heavily in after-school classes, while teachers are urged to give children more time to play and think for themselves. How to strike a balance between fairness and quality is a question the whole society cares about. In the end, what matters is not only how many students enter university but how well they learn to learn.",
+  "keyPoints": [
+    "“义务教育”固定译法为 compulsory education。",
+    "“改变命运”可译为 change one's fate。",
+    "“少数人的特权”译为 a privilege for a small number of people。",
+    "“课业负担”用 the workload placed on students。",
+    "“取得平衡”用 strike a balance。"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-06-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年6月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-06-2",
+ "paperTitle": "2023年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-06",
+ "passage": "P1 Supermarkets have long been suffering as one of the thinnest-margined businesses in existence and one of the least-looked-forward-to places to work or visit. For more than a decade, they have been under attack from e-commerce giants, blamed for making Americans fat, and accused of contributing to climate change.\n\nP2 Supermarkets can technically be defined as giants housing 15,000 to 60,000 different products. The revolutionary idea of a self-service grocery, where people could hunt and gather food from aisles rather than asking a clerk to fetch items from behind a counter, first came about in America. There is some debate about which was the very first, but over the years a consensus has built around King Kullen Supermarket, founded in New York in 1930.\n\nP3 For some 300 years, Americans had fed themselves from small stores and public markets. Shopping for food involved mud, noisy chickens, clouds of flies, nasty smells, bargaining, and getting short-changed. The supermarket imitated the Fordist factory, with its emphasis on efficiency and standardization, and reimagined it as a place to buy food. Supermarkets may not feel cutting-edge now, but they were a revolution in distribution at the time. They were such strange marvels that, on her first official state visit to the United States in 1957, Queen Elizabeth II insisted on an impromptu(即兴的) tour of a suburban-Maryland Giant Food.\n\nP4 The typical supermarket layout has barely changed over the past 90 years. Most stores open with flowers, fruit and vegetables at the front as a breath of freshness to arouse our appetite. Meanwhile, they keep the milk, eggs, and other daily basics all the way back so you'll travel through as much of the store as possible, and be tempted along the way.\n\nP5 In the early days, as the supermarket multiplied, so did our suspicion of it. We have long feared that this \"revolution in distribution\" uses corporate black magic on our appetite. The book The Hidden Persuaders, published in 1957, warned that supermarkets were putting women in a \"hypnoidal trance(催眠恍惚状态),\" causing them to wander aisles bumping into boxes and \"picking things off shelves at random.\"",
+ "questions": [
+  {
+   "q": "What problem have supermarkets been facing?",
+   "options": [
+    "They are actually on the way to bankruptcy.",
+    "They have been losing customers and profits.",
+    "They are forced to use e-commerce strategies.",
+    "They have difficulty adapting to climate change."
+   ],
+   "answer": 1,
+   "explain": "题干 What problem have supermarkets been facing? 直接问一个具体事实——超市在面 临什么难处，答案应能在原文找到明确对应句。 46. What problem have supermarkets been facing? A) They are actually on the way to bankruptcy. B) They have been losing customers and p…"
+  },
+  {
+   "q": "What does the passage say about the idea of a self-service grocery?",
+   "options": [
+    "It was put forward by King Kullen.",
+    "It originated in the United States.",
+    "It has been under constant debate.",
+    "It proves revolutionary even today."
+   ],
+   "answer": 1,
+   "explain": "题干 What does the passage say about the idea of a self-service grocery? 问的是原文 就这个想法\"说了什么\"，是对原文具体陈述的核对，属细节题。 47. What does the passage say about the idea of a self-service grocery? A) It was put forward by King Kullen. B) …"
+  },
+  {
+   "q": "What did supermarkets do by adopting the Fordist factory approach?",
+   "options": [
+    "They modernized traditional groceries in many ways.",
+    "They introduced cutting-edge layout of their stores.",
+    "They improved the quality of the food they sold.",
+    "They revolutionized the distribution of goods."
+   ],
+   "answer": 3,
+   "explain": "题干 What did supermarkets do by adopting the Fordist factory approach? 问超市靠 这一做法\"做成了什么\"，是对原文一个具体结果的核对，属细节题。 What did supermarkets do by adopting the Fordist factory approach? 主干是\"超市做 了什么\"，by adopting... 是 by + 动名词的方式状语，表示…"
+  },
+  {
+   "q": "What is the typical supermarket layout intended to do?",
+   "options": [
+    "Arouse customers' appetite to buy flowers, fruit and vegetables.",
+    "Provide customers easy access to items they want to buy.",
+    "Induce customers to make more unplanned purchases.",
+    "Enable customers to have a more enjoyable shopping experience."
+   ],
+   "answer": 2,
+   "explain": "题干 What is the typical supermarket layout intended to do? 问布局的具体意图，是对 原文一处目的陈述的核对，属细节题。 What is the typical supermarket layout intended to do? 主干是\"布局意在做什么\"，be intended to do 是\"被设计用来做……\"的固定结构，是被动语态，主语 layout 是被设计的 对象，看懂这个…"
+  },
+  {
+   "q": "What have people long feared about supermarkets?",
+   "options": [
+    "They use tricky strategies to promote their business.",
+    "They are going to replace the local groceries entirely.",
+    "They apply corporate black magic to the goods on display.",
+    "They take advantage of the weaknesses of women shoppers."
+   ],
+   "answer": 0,
+   "explain": "题干 What have people long feared about supermarkets? 问人们长期害怕的具体内 容，是对原文一处陈述的核对，属细节题。 What have people long feared about supermarkets? 主干是\"人们长期害怕超市什么\"， have long feared 是现在完成时夹一个副词 long，强调\"长久以来一直害怕\"，about supermarkets 是 fe…"
+  }
+ ]
+}

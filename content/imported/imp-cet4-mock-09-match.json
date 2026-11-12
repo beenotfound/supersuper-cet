@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-09-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-09",
+ "paperTitle": "大学英语四级标准模拟卷 09",
+ "paperLevel": "cet4",
+ "paperYear": "mock-09",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Slower journeys, richer experiences A journey that takes ten hours is usually seen as a problem. Supporters of slow travel see it differently: the hours are part of the holiday. From a train window you notice villages, rivers and fields that disappear when you fly. You can also stop halfway, spend a night in a town you had never heard of, and continue the next morning. Many travellers say the unplanned stops are what they remember longest."
+  },
+  {
+   "label": "B",
+   "text": "Night trains return to the timetable After years of decline, overnight trains are appearing again on European timetables. New routes link cities such as Vienna, Paris and Stockholm, and several more are planned. The appeal is obvious: you sleep while you move, and you arrive in the centre of a city rather than at an airport far from it. Tickets are not always cheap, however, and popular cabins sell out months in advance."
+  },
+  {
+   "label": "C",
+   "text": "The cost of going slowly Slow travel has a price. A train ticket booked late can cost more than a budget flight, and every extra night in a hotel adds to the total. People with limited holidays may also find that two days of travelling leaves less time for the destination. For families, the cheaper option is often still the car, especially when luggage and children are taken into account. The choice, travellers admit, is rarely simple."
+  },
+  {
+   "label": "D",
+   "text": "A smaller footprint Transport is a major source of greenhouse gases, and aviation is one of the fastest-growing parts of it. Measured per passenger, a train journey within Europe typically produces a small fraction of the carbon dioxide of the same trip by plane. This is the strongest argument for slow travel, and it is the one that governments mention most often when they promote rail. Yet the total number of flights continues to rise."
+  },
+  {
+   "label": "E",
+   "text": "Business travellers stay away For all the enthusiasm, slow travel remains a leisure activity. Companies rarely pay for an employee to spend two days on a train when a flight takes two hours, and video meetings have removed many short trips altogether. Some employers now allow extra travel days as part of a green policy, but such schemes are still unusual. Until business travel changes, the market for slow journeys will stay small."
+  },
+  {
+   "label": "F",
+   "text": "Planning a route Slow travel rewards preparation more than fast travel does. Timetables must be checked, because a missed connection can mean a whole day lost. It helps to book seats on busy services and to keep the number of changes low. Experienced travellers also build in spare time, avoid the last train of the day and carry fewer bags. The aim is not a perfect plan but one that can survive a delay."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Travelling by train produces far less carbon than flying the same distance.",
+   "answer": "D"
+  },
+  {
+   "text": "Several countries are bringing back overnight services that had been cancelled.",
+   "answer": "B"
+  },
+  {
+   "text": "Travellers need to check connections and timetables carefully before setting off.",
+   "answer": "F"
+  },
+  {
+   "text": "A slow journey lets travellers see places that planes and motorways pass by.",
+   "answer": "A"
+  },
+  {
+   "text": "Slow travel is not always cheaper, because extra nights add to the expense.",
+   "answer": "C"
+  }
+ ]
+}

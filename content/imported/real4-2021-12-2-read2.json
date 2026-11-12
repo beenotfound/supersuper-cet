@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-12-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年12月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-2",
+ "paperTitle": "2021年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "P1 Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. Research has found that having access to diverse teachers is beneficial for children. For the youngest learners, it means they are more likely to get exposed to different varieties of play and communication. It also helps them develop healthy ideas around gender.\n\nP2 \"In our world and our society, we have very specific stereotypes(模式化形象) of gender roles,\" said Mindi Reich-Shapiro, an assistant professor in the teacher education department of the Borough of Manhattan Community College, and one of the authors of a recent study. \"It's important for children to see other possibilities and other paths they can take.\"\n\nP3 Despite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. Some also reported that there were parents surprised or concerned that their child had a male teacher. And they had been advised by colleagues or other staff not to hug children.\n\nP4 Reich-Shapiro and fellow researchers made several recommendations to increase male representation in the field. Low pay has long been acknowledged as a major issue in the early childhood field. Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. The report suggests paying all early childhood educators the way elementary school teachers are paid.\n\nP5 Cities and programs should establish support groups for male early childhood educators and provide mentoring and professional development advice for male educators and their program leaders.\n\nP6 The authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.",
+ "questions": [
+  {
+   "q": "What do we learn from the first paragraph about early childhood education in the U.S.?",
+   "options": [
+    "It helps raise children's awareness of gender roles.",
+    "It exposes children to different ways of interaction.",
+    "It is negatively impacted by a lack of male teachers.",
+    "It clearly aims to form children's identity through play."
+   ],
+   "answer": 2,
+   "explain": "What do we learn from the first paragraph about early childhood education in the U.S.?是典型的「从某段我们了解到什么」句式，要的是段内已写明的客观信息，而非推断或 主旨。 51. What do we learn from the first paragraph about early childhood education in the U.S.? …"
+  },
+  {
+   "q": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?",
+   "options": [
+    "The importance of broadening children's horizons.",
+    "The responsibilities of fathers for children's growth.",
+    "The urgency of creating teacher education programs.",
+    "The role of teachers in motivating children to learn."
+   ],
+   "answer": 0,
+   "explain": "What does Mindi Reich-Shapiro emphasize in her comment on childhood education?问的是某具体人物在评论中强调的内容，答案就在她说的话里，不是全篇主旨。 52. What does Mindi Reich-Shapiro emphasize in her comment on childhood education? A) The importance of br…"
+  },
+  {
+   "q": "What do we learn about male teachers from their responses in the study?",
+   "options": [
+    "Some of them find it awkward when hugging children.",
+    "They feel pressured to keep up with female colleagues.",
+    "They find it hard to meet the expectations of kids' parents.",
+    "Many of them feel prejudiced against socially and culturally."
+   ],
+   "answer": 3,
+   "explain": "What do we learn about male teachers from their responses in the study?要的是受访 男教师在调查中说了什么，是研究汇报里的显性细节。 题干What do we learn about male teachers from their responses in the study?主干是 What do we learn about male teachers，from…"
+  },
+  {
+   "q": "What is needed for men to commit to early childhood education?",
+   "options": [
+    "Higher pay.",
+    "Job security.",
+    "Social recognition.",
+    "Better working conditions."
+   ],
+   "answer": 0,
+   "explain": "What is needed for men to commit to early childhood education?问的是文章显性提到 的留任条件，答案是原文中具体写出的因素。 题干What is needed for men to commit to early childhood education?主干是 What is needed，for men to commit to early childhood educati…"
+  },
+  {
+   "q": "What do the authors of the study recommend to bridge the gender gap in early childhood education?",
+   "options": [
+    "Recruiting young men who have a passion for educating young children.",
+    "Taking measures to attract prospective male teachers to work in the field.",
+    "Persuading prospective fathers to consider a change in their career.",
+    "Providing male teachers with more opportunities for advancement."
+   ],
+   "answer": 1,
+   "explain": "What do the authors of the study recommend to bridge the gender gap in early childhood education?问的是作者明文给出的建议，是显性细节而非主旨。 题干What do the authors of the study recommend to bridge the gender gap in early childhood education?…"
+  }
+ ]
+}

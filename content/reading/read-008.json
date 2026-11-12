@@ -1,0 +1,67 @@
+{
+  "id": "read-008",
+  "type": "reading",
+  "level": "cet4",
+  "title": "Why Small Public Spaces Matter",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["neighborhood", "shelter", "modest", "recognition"],
+  "passage": "City planners once paid most attention to large parks and grand squares. These places are important, but they are not the whole story. A small public space at the end of a street can matter just as much to the people who live nearby. A few benches, a little shade, and a place to sit can turn an empty corner into a spot where neighbors meet.\n\nSmall spaces work best when they are easy to reach. Most people will not walk far for a short rest, so a tiny garden near a bus stop may be used more often than a large park across town. Older residents, parents with young children, and workers on a lunch break all benefit from places that fit easily into their day.\n\nComfort is a practical matter. Shade in summer, shelter from rain, and seats at the right height make a space usable across the seasons. Lighting matters too, because a place that feels pleasant in daylight may feel unsafe after dark. Good design is therefore less about costly statues than about small decisions that show someone has thought about how people will sit and wait.\n\nSuch spaces also support community life. When people see the same faces regularly, they begin to recognize one another, and that recognition can make a neighborhood feel more friendly and safer. This does not happen automatically; a space must be cared for, and it helps if local people have some say in how it is managed.\n\nThe lesson is simple. Cities often measure their success by large projects, but daily life is shaped mostly by small ones. A bench in the right place costs little and is used every day. Paying attention to these modest spaces is one of the least dramatic ways to improve urban life.",
+  "questions": [
+    {
+      "q": "What does the author say about large parks and squares?",
+      "options": [
+        "They are unimportant compared with small gardens",
+        "They are important, but they are not the whole story",
+        "They should be replaced by seats at bus stops",
+        "They are used mainly by visitors from other cities"
+      ],
+      "answer": 1,
+      "explain": "首段承认大公园很重要，但“并非全部”，小型公共空间同样重要，故选第二项。第一项贬低了大公园的作用，第三项文中无此建议，第四项未提及。"
+    },
+    {
+      "q": "Why may a tiny garden near a bus stop be used more often than a large park?",
+      "options": [
+        "It is usually cleaner and more beautiful",
+        "It offers more sports facilities",
+        "It fits easily into people's daily routes",
+        "It is open for longer hours"
+      ],
+      "answer": 2,
+      "explain": "第二段说人们不会为短暂休息走很远，因此靠近公交站的小花园比城另一头的大公园更常被使用，即它融入日常路线，故选第三项。其余三项文中均未提及。"
+    },
+    {
+      "q": "According to paragraph 3, what matters most in the design of small spaces?",
+      "options": [
+        "Practical comfort such as shade, seating, and lighting",
+        "Expensive statues in the center",
+        "Very large fountains and pools",
+        "Tall buildings around the space"
+      ],
+      "answer": 0,
+      "explain": "第三段强调遮阴、避雨、合适高度的座椅与照明，并说好设计“不在于昂贵的雕像”，故选第一项。第二项被原文否定，第三、四项无据。"
+    },
+    {
+      "q": "The word \"modest\" in paragraph 5 most probably means",
+      "options": [
+        "expensive to build",
+        "crowded and noisy",
+        "famous among planners",
+        "small in scale and not impressive"
+      ],
+      "answer": 3,
+      "explain": "本段与“大型项目”对比，说长椅成本低却每天被使用，故 modest 指“规模小、不起眼”，与第四项相符。其余三项与上下文相反或无关。"
+    },
+    {
+      "q": "What can be inferred about community life in small spaces?",
+      "options": [
+        "It develops automatically once a space is built",
+        "It depends entirely on large public budgets",
+        "It grows when people meet regularly and have some control over the space",
+        "It mainly benefits older residents"
+      ],
+      "answer": 2,
+      "explain": "第四段说熟悉的面孔带来相互识别，使社区更友好安全，但强调这“不会自动发生”，需要维护并让本地人参与管理，故选第三项。第一项被原文否定，第二项与“成本低”相反，第四项缩小了受益人群。"
+    }
+  ]
+}

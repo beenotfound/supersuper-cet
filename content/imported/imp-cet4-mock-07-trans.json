@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-07-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-07",
+ "paperTitle": "大学英语四级标准模拟卷 07",
+ "paperLevel": "cet4",
+ "paperYear": "mock-07",
+ "sectionOrder": 5,
+ "prompt": "中国的移动支付已经成为日常生活中很普通的一部分。无论是在超市结账，还是在路边买一份早点，人们只要拿出手机扫一下二维码，几秒钟就能完成付款。这种方式不仅省去了排队找零的麻烦，也让许多小摊主不必准备大量现金。对游客来说，移动支付同样方便，他们可以在手机上绑定银行卡，用一部手机完成旅行中的大部分消费。不过，也有老人表示，自己不太会使用这些软件，希望商家仍然保留现金支付的选项。",
+ "reference": "Mobile payment has become an ordinary part of daily life in China. Whether paying at a supermarket checkout or buying breakfast at a roadside stall, people only need to take out their phones and scan a QR code, and the payment is completed within seconds. This method not only saves the trouble of queuing and making change, but also means that many small stallholders no longer need to keep large amounts of cash. For visitors, mobile payment is convenient as well: they can link a bank card to their phone and use a single device for most of their spending during a trip. Some elderly people, however, say that they are not good at using these apps and hope that shops will still keep the option of paying in cash.",
+ "keyPoints": []
+}

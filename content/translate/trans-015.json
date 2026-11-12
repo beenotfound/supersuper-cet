@@ -1,0 +1,18 @@
+{
+  "id": "trans-015",
+  "type": "translation",
+  "level": "cet6",
+  "title": "志愿服务在中国",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["volunteer", "community", "welfare", "participate"],
+  "prompt": "志愿服务在中国越来越普遍，参与者从大学生扩展到上班族和退休老人。社区里，志愿者帮独居老人买菜、陪他们聊天，还组织义诊和法律咨询。大型活动中，志愿者负责引导观众、维持秩序，成为城市形象的一部分。对年轻人来说，参加志愿服务既能帮助别人，也能锻炼沟通能力和责任感。有人担心，有些志愿活动流于形式，拍完照就结束了。因此，如何让志愿服务真正满足需要，而不是为了完成任务，值得思考。",
+  "reference": "Volunteering is becoming more and more common in China, and those who take part now range from university students to office workers and retired people. In local communities, volunteers buy groceries for elderly neighbours who live alone, keep them company, and organise free medical checks and legal advice. At large events, volunteers guide the audience and keep order, and in this way they become part of a city's image. For young people, volunteering is a chance not only to help others but also to improve their communication skills and sense of responsibility. Some people worry, however, that a few activities are merely formal: a photograph is taken and then the work stops. It is therefore worth thinking about how volunteering can truly meet real needs rather than simply fulfil a task. Good organisation matters, and so does the willingness to listen to the people being helped. In the end, what counts is not the number of hours but the difference those hours make.",
+  "keyPoints": [
+    "“独居老人”译为 elderly neighbours who live alone。",
+    "“义诊”可译为 free medical checks。",
+    "“维持秩序”用 keep order。",
+    "“流于形式”意译为 merely formal。",
+    "“不是为了完成任务”用 rather than simply fulfil a task。"
+  ]
+}

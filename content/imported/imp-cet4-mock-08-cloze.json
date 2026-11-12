@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-08-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-08",
+ "paperTitle": "大学英语四级标准模拟卷 08",
+ "paperLevel": "cet4",
+ "paperYear": "mock-08",
+ "sectionOrder": 2,
+ "passage": "When you pick up a packet in a supermarket, the front is designed to {{1}} your attention. Words such as 'natural' or 'light' are chosen to sound healthy, but they have no {{2}} legal meaning in many countries. The information that really matters is printed on the back, often in very small type.\n\nLearning to read a label takes only a few minutes. First, check the size of the portion the numbers {{3}} to. A bag that seems to contain 200 calories may in fact hold three portions. Second, compare the same kind of product rather than two different foods, because {{4}} values are easier to judge.\n\nNutritionists advise shoppers to {{5}} products with a long list of unfamiliar ingredients. Usually a short list means the food has been processed less. They also {{6}} that sugar appears under many names, so a product may contain three kinds of sweetener and still look {{7}} at first glance.\n\nFood companies argue that labels give consumers {{8}} to make their own choices. Campaigners agree in principle but want the {{9}} to be clearer. Until then, shoppers can protect themselves with one simple {{10}}: turn the packet over and read the small print before you decide.",
+ "bank": [
+  "attract",
+  "avoid",
+  "budget",
+  "decline",
+  "frequently",
+  "freedom",
+  "generous",
+  "harmless",
+  "maintain",
+  "precise",
+  "refer",
+  "rule",
+  "similar",
+  "warn",
+  "wording"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "attract",
+   "explain": "选 A. attract。attract attention 意为吸引注意力，与主语 the front of a packet 搭配；maintain 意为维持，无法与 attention 构成吸引之意。"
+  },
+  {
+   "n": 2,
+   "answer": "precise",
+   "explain": "选 J. precise。no precise legal meaning 意为没有明确的法律含义，修饰 legal meaning 最贴切；generous 意为慷慨的，与此处语义无关。"
+  },
+  {
+   "n": 3,
+   "answer": "refer",
+   "explain": "选 K. refer。refer to 意为指的是，此处说明包装上的数字对应的是哪一份的量；decline 意为下降，不能与 to 构成此义。"
+  },
+  {
+   "n": 4,
+   "answer": "similar",
+   "explain": "选 M. similar。similar values 意为相近的数值，同类产品的营养成分更容易比较；frequently 是副词，不能修饰名词 values。"
+  },
+  {
+   "n": 5,
+   "answer": "avoid",
+   "explain": "选 B. avoid。avoid products 意为避开这类产品，与前文「成分表越短加工越少」的观点一致；maintain products 搭配不当。"
+  },
+  {
+   "n": 6,
+   "answer": "warn",
+   "explain": "选 N. warn。warn that 意为提醒、警告，营养学家提醒消费者糖会以多种名称出现；decline 后接 that 从句表示拒绝，语义不符。"
+  },
+  {
+   "n": 7,
+   "answer": "harmless",
+   "explain": "选 H. harmless。look harmless 意为看起来无害，与前面暗中含多种甜味剂形成对比；generous 不能描述食品是否无害。"
+  },
+  {
+   "n": 8,
+   "answer": "freedom",
+   "explain": "选 F. freedom。give sb freedom to do sth 意为给予某人做某事的自由，符合食品公司为标签辩护的立场；budget 指预算，与选择权无关。"
+  },
+  {
+   "n": 9,
+   "answer": "wording",
+   "explain": "选 O. wording。the wording 指标签上的措辞，与 clearer 搭配自然；budget 与措辞是否清晰无关。"
+  },
+  {
+   "n": 10,
+   "answer": "rule",
+   "explain": "选 L. rule。one simple rule 意为一条简单的规则，冒号后正是这条规则的内容；maintain 是动词，不能作介词 with 的宾语。"
+  }
+ ]
+}

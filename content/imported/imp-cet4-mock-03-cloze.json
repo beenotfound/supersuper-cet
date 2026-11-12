@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-03-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-03",
+ "paperTitle": "大学英语四级标准模拟卷 03",
+ "paperLevel": "cet4",
+ "paperYear": "mock-03",
+ "sectionOrder": 2,
+ "passage": "短文：\nEvery year the world produces far more clothes than people can wear. Prices are low, designs change quickly, and a T-shirt may be worn a few times before it is {{1}} away. The results are easy to see: mountains of clothing in landfills and rivers polluted by the dyes used in factories. Some companies have begun to {{2}} the problem by collecting old clothes in their shops, but only a small share of what is collected is turned into new fabric. Most is sold to other countries or burned. Consumers have more {{3}} than they realise. Washing clothes at a lower temperature and drying them in the air can {{4}} their life by years, and simple repairs can save a favourite jacket from the bin. Buying {{5}}, well-made clothes costs more at first but saves money later. Campaigners also encourage people to organise swap events, where friends bring clothes they no longer wear and take home something {{6}}. None of these actions is {{7}} on its own, but together they {{8}} the pressure on the planet. The most {{9}} change, campaigners argue, is to buy less and choose {{10}}.",
+ "bank": [
+  "different",
+  "durable",
+  "effective",
+  "enough",
+  "entire",
+  "extend",
+  "obvious",
+  "power",
+  "rarely",
+  "reduce",
+  "surely",
+  "tackle",
+  "thrown",
+  "wisely",
+  "collect"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "thrown",
+   "explain": "选 M. thrown。be thrown away 意为“被扔掉”，与上衣只穿几次就被丢弃的语境一致，空格需过去分词构成被动。"
+  },
+  {
+   "n": 2,
+   "answer": "tackle",
+   "explain": "选 L. tackle。tackle the problem 意为“应对、处理问题”，与 by collecting old clothes 的方式说明相搭配。"
+  },
+  {
+   "n": 3,
+   "answer": "power",
+   "explain": "选 H. power。have more power than they realise 意为“拥有比自己意识到的更大的影响力”，指消费者可以通过选择影响环境。"
+  },
+  {
+   "n": 4,
+   "answer": "extend",
+   "explain": "选 F. extend。extend 意为“延长”，extend the life of clothes by years 即“把衣服的寿命延长数年”。"
+  },
+  {
+   "n": 5,
+   "answer": "durable",
+   "explain": "选 B. durable。durable 意为“耐穿的、结实的”，与 well-made 并列修饰 clothes；虽然初期花费更高，但此后更省钱。"
+  },
+  {
+   "n": 6,
+   "answer": "different",
+   "explain": "选 A. different。something different 意为“不一样的东西”，说明交换活动让旧衣换成别的衣物，减少购买。"
+  },
+  {
+   "n": 7,
+   "answer": "enough",
+   "explain": "选 D. enough。none of these actions is enough on its own 意为“单靠其中任何一项都不够”，与 but 后的 together 形成对比。"
+  },
+  {
+   "n": 8,
+   "answer": "reduce",
+   "explain": "选 J. reduce。reduce the pressure on the planet 意为“减轻对地球的压力”，是常见的动宾搭配。"
+  },
+  {
+   "n": 9,
+   "answer": "effective",
+   "explain": "选 C. effective。the most effective change 意为“最有效的改变”，形容词最高级修饰 change，表示倡导者认为最管用的做法。"
+  },
+  {
+   "n": 10,
+   "answer": "wisely",
+   "explain": "选 N. wisely。choose wisely 意为“明智地选择”，需要副词修饰动词 choose，与 buy less 并列说明消费态度。"
+  }
+ ]
+}

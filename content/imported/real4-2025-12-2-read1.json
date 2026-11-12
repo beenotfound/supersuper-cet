@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-12-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年12月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-2",
+ "paperTitle": "2025年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "passage": "P1 Junk food is now a staple of many Americans' diets. Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise. But recent studies show a lack of exercise is not to blame for rising obesity rates. Bad diets are.\n\nP2 Interventions(干预) to help reduce junk food consumption are especially important for children and teenagers. Prevention is better than cure because obesity is so difficult to treat. Unfortunately, while health education has shown some success among young children, teens have been harder to reach.\n\nP3 Now a large-scale study has tried an innovative approach to change teenagers' attitudes towards healthy eating, and the results are promising. The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers. In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice.\n\nP4 To do this, researchers had students read an article on the food industry. It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy. The article also explained how advertising campaigns specifically target very young and poor people, causing harm for these vulnerable groups. Afterwards, the participants read a fictional survey of teens who wanted to \"fight back against the companies by buying and eating less processed food\"\n\nP5 After the intervention, participants associated healthy eating with autonomy and social justice. The teenagers also rated healthy eating as being more appealing. Importantly, there were also some promising effects of the new intervention on actual behavior. A day later the students were offered a choice of snacks and drinks in a seemingly unrelated context. The teens chose healthy snacks and drinks (such as fruit or water) more often over unhealthy options (like biscuits and soda). Apparently associating a healthy diet with teenagers' own values seems to be a promising avenue to prevent obesity.",
+ "questions": [
+  {
+   "q": "What do we learn about advertising campaigns from the snack food companies?",
+   "options": [
+    "They convey the idea that their products are ok if consumers exercise more.",
+    "They send the message that bad diets are responsible for Americans' obesity.",
+    "They usually feature sports stars to emphasize the benefits of their snack foods.",
+    "They claim that lack of exercise is to blame for the increasing obesity rates."
+   ],
+   "answer": 0,
+   "explain": "What do we learn about advertising campaigns from the snack food companies? 是 What do we learn about X 句式，问的是关于 X 的已知事实，不 含 infer/suggest/imply。 What do we learn about advertising campaigns from the snack food companies?…"
+  },
+  {
+   "q": "What does the passage say about health education?",
+   "options": [
+    "It has shed light on teens' instinct for rebellion and autonomy.",
+    "It has placed much more emphasis on cure than on prevention.",
+    "It has contributed little to the campaigns against obesity.",
+    "It has largely failed to turn teens away from junk food."
+   ],
+   "answer": 3,
+   "explain": "What does the passage say about health education? 直接问\"文章关于 X 怎么说\"，要 求复述事实。 What does the passage say about health education? 主干 What does the passage say about X，X = health education，结构无陷阱。 Unfortunately, while health ed…"
+  },
+  {
+   "q": "What is a major flaw in previous interventions to help reduce junk food consumption?",
+   "options": [
+    "They motivated teens to stay away from junk food only temporarily.",
+    "They focused on the benefits young people would reap in the future.",
+    "They were based on the assumption that motivation was the only key.",
+    "They were incapable of appealing to teens' instinct for rebelliousness."
+   ],
+   "answer": 1,
+   "explain": "What is a major flaw in previous interventions to help reduce junk food consumption? 直问 What is，要的是文中明确写出的具体缺陷。 48. What is a major flaw in previous interventions to help reduce junk food consumption? A) They motivated t…"
+  },
+  {
+   "q": "In what way is the new intervention innovative?",
+   "options": [
+    "It emphasizes people's sense of social responsibility.",
+    "It cleverly exploits teenagers' personal weaknesses.",
+    "It takes advantage of teenagers' natural inclination.",
+    "It promises immediate rather than future benefits."
+   ],
+   "answer": 2,
+   "explain": "In what way is the new intervention innovative? 问的是\"以何种方式\"，答案在原文有具 体描述。 In what way is the new intervention innovative? 主干 the new intervention is innovative，前置 In what way 提问。innovative 是表语形容词，整句结构简单。 In contrast, the n…"
+  },
+  {
+   "q": "What conclusion can be drawn from the new research?",
+   "options": [
+    "A totally different approach could be adopted to combat advertising campaigns for snack food.",
+    "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle.",
+    "Obesity can be hopefully prevented by building links between teenagers' values and healthy eating.",
+    "An innovative way to beat obesity is to expose food companies' manipulative and deceptive"
+   ],
+   "answer": 2,
+   "explain": "What conclusion can be drawn from the new research? 让你为整篇研究下结论，覆盖 全文而非某一段。 What conclusion can be drawn from the new research? 被动结构 conclusion can be drawn from X，相当于 What conclusion does the new research lead to。注意 draw…"
+  }
+ ]
+}

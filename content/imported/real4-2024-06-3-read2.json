@@ -1,0 +1,71 @@
+{
+ "id": "real4-2024-06-3-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2024年6月四级真题 第3套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-06-3",
+ "paperTitle": "2024年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "passage": "P1 The art of persuasion means convincing others to agree with your point of view or to follow your course of action. For some of us, persuasion is an instinctive quality and the power of influencing comes naturally. For the rest of us, persuasion skills can be learned and developed over time.\n\nP2 Employers place a great value on employees with persuasion skills because they can impact several aspects of job performance. Besides, teamwork and leadership rely heavily on the power of persuasion to get things done. Without persuasion skills, employees may not be as committed to or convinced of the importance of an organization's vision and long-term mission. Effective use of persuasion skills will not only help get your coworkers excited about your ideas, it'll also help you motivate them to achieve a common goal.\n\nP3 In order to learn the art of persuasion at the workplace, you need to understand how to handle conflicts and reach agreements. Good communication is the first step in effective persuasion, but logic and reasoning are just as important. Before you can get somebody on-board with your goal, you should help them understand why they should pursue it. Using visual aids to back up your ideas can help communicate your ideas better and make compelling arguments so your listeners will come to a logical choice and become fully committed to your ideas and plans.\n\nP4 Successful persuasion skills are based on your ability to have positive interactions and maintain meaningful relationships with people. In order to sustain those relationships, you must be able to work in their best interests as well. Your coworkers are more likely to agree with you when they succeed alongside you. The more they achieve and the greater progress they make, the more they trust your judgement and strength.\n\nP5 We persuade and get persuaded every day—we're either convincing or being convinced. A vast majority of people prefer collaboration and teamwork over traditional organizational structures; no one likes to be told what to do or to be pushed around. Therefore, organizations and leaders should adopt powerful persuasion skills to bring about necessary changes.",
+ "questions": [
+  {
+   "q": "What does the author say about the ability to be persuasive in the first paragraph?",
+   "options": [
+    "People may either be born with it or be able to cultivate it.",
+    "It proves crucial in making others follow one's course of action.",
+    "It refers to the natural and instinctive power of influencing one's coworkers.",
+    "People may view it as both a means to convince others and an art of communication."
+   ],
+   "answer": 0,
+   "explain": "What does the author say about the ability to be persuasive in the first paragraph? 是典型的 What does the author say + 段落限定，问的是作者在指定段落对某事的具体说 法，无 infer/imply 字样。 51. What does the author say about the ability to be persuasi…"
+  },
+  {
+   "q": "Why are persuasion skills greatly valued in the workplace?",
+   "options": [
+    "They enable employees to be convinced of their long-term gains.",
+    "They enable employees to trust their leaders unconditionally.",
+    "They help motivate coworkers to strive for a common goal.",
+    "They help an organization to broaden its vision effectively."
+   ],
+   "answer": 2,
+   "explain": "Why are persuasion skills greatly valued in the workplace? 问的是被广泛重视的具体原 因，是文中可直接读出的事实，不要求跨段综合推断。 52. Why are persuasion skills greatly valued in the workplace? A) They enable employees to be convinced of their long-term …"
+  },
+  {
+   "q": "What should people do to learn the art of persuasion at the workplace?",
+   "options": [
+    "Acquire effective communication skills.",
+    "Avoid getting involved in conflicts with others.",
+    "Understand the reason for pursuing their goals.",
+    "Commit themselves fully to their ideas and plans."
+   ],
+   "answer": 0,
+   "explain": "What should people do to learn the art of persuasion at the workplace? 提问“为达成 X 该做什么”，答案是原文中显性陈述的前置条件，无需推断。 53. What should people do to learn the art of persuasion at the workplace? A) Acquire effective communication sk…"
+  },
+  {
+   "q": "When are you more likely to succeed in persuading your coworkers?",
+   "options": [
+    "When they are convinced you work in their interests while sacrificing your own",
+    "When they become aware of the potential strength of the judgements you make",
+    "When they become aware of the meaningful relationships you keep with them.",
+    "When they are convinced they will make achievements together with you."
+   ],
+   "answer": 3,
+   "explain": "When are you more likely to succeed in persuading your coworkers? 问的是某客观条 件下的可能性，文中第四段直陈条件句，可直接定位。 题干 When are you more likely to succeed in persuading your coworkers? 主干是 When are you more likely to succeed，to succeed i…"
+  },
+  {
+   "q": "Why are organizations and leaders advised to adopt powerful persuasion skills to bring about",
+   "options": [
+    "To convince employees of the value of collaboration",
+    "To allow for the preferences of most people of today",
+    "To improve on traditional organizational structures",
+    "To adapt to employees' ever-changing working styles"
+   ],
+   "answer": 1,
+   "explain": "Why are organizations and leaders advised to adopt powerful persuasion skills to bring about necessary changes? 问的是该建议的事实依据，文中末段直陈，无须推断。 题干 Why are organizations and leaders advised to adopt powerful persuasion skills to…"
+  }
+ ]
+}

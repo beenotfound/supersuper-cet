@@ -1,0 +1,63 @@
+{
+  "id": "cloze-008",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "The Usefulness of Boredom",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["automatic", "rewarding", "creativity"],
+  "passage": "Reach for a phone whenever a queue forms or a train stops in a tunnel, and you will rarely be bored. That reflex has become so {{1}} that many people cannot remember the last time they sat with nothing to do. The result may be a quiet loss of something valuable.\n\nBoredom has a bad name, and for good reason: nobody enjoys the restless feeling of a dull afternoon. Yet boredom is also a signal. It tells us that the current activity is not {{2}} us, and it pushes us to look for something better. In that sense it works like pain, which we dislike but which keeps us from harm.\n\nThe trouble is that we now treat every gap in the day as a problem to be {{3}}. A moment of inactivity is filled with a video, a game, or a stream of messages. Convenient as this is, it may {{4}} the mind's habit of wandering. When the brain is not occupied by a task, it {{5}} to connect ideas that seemed unrelated, and these connections are the raw material of {{6}}.\n\nPsychologists who study attention suggest a simple experiment. Leave the phone in another room for an hour and see what happens. The first ten minutes may feel {{7}}. Then the mind begins to drift, and the drift is not a failure; it is the mind exercising. People who {{8}} this practice often report that they notice details around them and arrive at solutions they had been {{9}} for days.\n\nNone of this argues for a duller life. It argues for a life with more {{10}} between the interesting parts.",
+  "bank": ["automatic", "sudden", "solved", "weaken", "annual", "tends", "creativity", "punish", "unbearable", "fold", "maintain", "ceiling", "seeking", "space", "rewarding"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "automatic",
+      "explain": "so automatic 指掏手机已变成“下意识的”反应，与 cannot remember the last time 呼应；sudden 不合。"
+    },
+    {
+      "n": 2,
+      "answer": "rewarding",
+      "explain": "not rewarding us 指当前活动“不能带来回报”，所以无聊会推动我们寻找更好的事；annual 不合。"
+    },
+    {
+      "n": 3,
+      "answer": "solved",
+      "explain": "a problem to be solved 是常见搭配，指每个空档都被当作“要解决的问题”；folded、punished 不合。"
+    },
+    {
+      "n": 4,
+      "answer": "weaken",
+      "explain": "it may weaken the mind's habit 指用视频填满空档可能“削弱”大脑走神的习惯；punish 不合。"
+    },
+    {
+      "n": 5,
+      "answer": "tends",
+      "explain": "it tends to connect ideas 表示大脑“倾向于”把不相干的想法联系起来，主语为 it。"
+    },
+    {
+      "n": 6,
+      "answer": "creativity",
+      "explain": "the raw material of creativity 指这些联系是“创造力”的原料；ceiling 不合。"
+    },
+    {
+      "n": 7,
+      "answer": "unbearable",
+      "explain": "feel unbearable 指最初的十分钟可能“难以忍受”，与后文 Then the mind begins to drift 形成转折。"
+    },
+    {
+      "n": 8,
+      "answer": "maintain",
+      "explain": "people who maintain this practice 指“坚持”这种做法的人；punish、fold 语义不合。"
+    },
+    {
+      "n": 9,
+      "answer": "seeking",
+      "explain": "solutions they had been seeking for days 指苦寻数日的答案，过去完成进行时需现在分词。"
+    },
+    {
+      "n": 10,
+      "answer": "space",
+      "explain": "more space between the interesting parts 指在有趣之事之间留出“空白”，与全文倡导的留白呼应。"
+    }
+  ]
+}

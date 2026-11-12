@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-06-3-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年6月四级真题 第3套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-3",
+ "paperTitle": "2021年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "P1 Boredom has become trendy. Studies point to how boredom is good for creativity and innovation, as well as mental health. It is found that people are more creative following the completion of a tedious task. When people are bored, they have an increase in \"associative thought\"—the process of making new connections between ideas, which is linked to innovative thinking. These studies are impressive, but in reality, the benefits of boredom may be related to having time to clear your mind, be quiet, or daydream.\n\nP2 In our stimulation-rich world, it seems unrealistic that boredom could occur at all. Yet, there are valid reasons boredom may feel so painful. As it turns out, boredom might signal the fact that you have a need that isn't being met.\n\nP3 Our always-on world of social media may result in more connections, but they are superficial and can get in the way of building a real sense of belonging. Feeling bored may signal the desire for a greater sense of community and the feeling that you fit in with others around you. So take the step of joining an organization to build face-to-face relationships. You'll find depth that you won't get from your screen no matter how many likes you get on your post.\n\nP4 Similar to the need for belonging, bored people often report that they feel a limited sense of meaning. It's a fundamental human need to have a larger purpose and to feel like we're part of something bigger than ourselves. When people are bored, they're more likely to feel less meaning in their lives. If you want to reduce boredom and increase your sense of meaning, seek work where you can make a unique contribution, or find a cause you can support with your time and talent.\n\nP5 If your definition of boredom is being quiet, mindful, and reflective, keep it up. But if you're struggling with real boredom and the emptiness it provokes, consider whether you might seek new connections and more significant challenges. These are the things that will genuinely relieve boredom and make you more effective in the process.",
+ "questions": [
+  {
+   "q": "What have studies found about boredom?",
+   "options": [
+    "It facilitates innovative thinking.",
+    "It is a result of doing boring tasks.",
+    "It helps people connect with others.",
+    "It does harm to one's mental health."
+   ],
+   "answer": 0,
+   "explain": "题干 What have studies found about boredom? 直接问研究的客观发现，未出现 infer/imply/mainly about 等推断或主旨信号 现在完成时一般疑问句 What have studies found about boredom?，主干是 studies have found what about boredom；about boredom 是 found 的范围状语，结构平铺直 叙，无…"
+  },
+  {
+   "q": "What does the author say boredom might indicate?",
+   "options": [
+    "A need to be left alone.",
+    "A desire to be fulfilled.",
+    "A conflict to be resolved.",
+    "A feeling to be validated."
+   ],
+   "answer": 1,
+   "explain": "题干 What does the author say boredom might indicate? 是对作者陈述的直接发问，无 推断或主旨信号 宾语从句 What does the author say boredom might indicate?，主句 the author say + 宾语从句 boredom might indicate what；what 是宾语从句里 indicate 的宾语前移；结 构常见，无陷阱 As…"
+  },
+  {
+   "q": "What do we learn about social media from the passage?",
+   "options": [
+    "It may be an obstacle to expanding one's connections.",
+    "It may get in the way of enhancing one's social status.",
+    "It may prevent people from developing a genuine sense of community.",
+    "It may make people feel that they ought to fit in with the outside world."
+   ],
+   "answer": 2,
+   "explain": "题干 What do we learn about social media from the passage? 问文章告诉我们关于 social media 的什么事实，无推断或主旨信号 一般疑问句 What do we learn about social media from the passage?，主干 we learn what about social media；from the passage 是状语，提示答案在文章里…"
+  },
+  {
+   "q": "What does the author suggest people do to get rid of boredom?",
+   "options": [
+    "Count the likes they get on their posts.",
+    "Reflect on how they relate to others.",
+    "Engage in real-life interactions.",
+    "Participate in online discussions."
+   ],
+   "answer": 2,
+   "explain": "题干 What does the author suggest people do to get rid of boredom? 问作者明文给 出的建议，无推断信号 宾语从句 + 不定式状语 What does the author suggest people do to get rid of boredom?，主句 the author suggest + 宾语 people do what；to get rid of boredo…"
+  },
+  {
+   "q": "What should people do to enhance their sense of meaning?",
+   "options": [
+    "Try to do something original.",
+    "Confront significant challenges.",
+    "Define boredom in their unique way.",
+    "Devote themselves to a worthy cause."
+   ],
+   "answer": 3,
+   "explain": "题干 What should people do to enhance their sense of meaning? 直接问该做什么，无 推断信号 情态动词疑问句 + 不定式状语 What should people do to enhance their sense of meaning?，主干 people should do what；to enhance... 是目的状语；结构清晰，无 陷阱 If you want to re…"
+  }
+ ]
+}

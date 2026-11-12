@@ -1,0 +1,18 @@
+{
+  "id": "trans-024",
+  "type": "translation",
+  "level": "cet4",
+  "title": "学习历史的意义",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["history", "lesson", "civilization", "reflect"],
+  "prompt": "历史是一门让人了解过去的学科，也是一面镜子。通过历史，我们知道前人曾经犯过哪些错误，取得过哪些成就。一个民族如果忘记自己的历史，就很难看清未来的方向。在中国，历史教育一直受到重视，学生从小就要学习朝代更替和重要事件。不过，学历史不只是背诵年份和名字，更重要的是学会思考：为什么会发生这件事，它给后人留下了什么。今天，越来越多的人走进博物馆，愿意花时间了解文物背后的故事。",
+  "reference": "History is a subject that helps people understand the past, and it is also a mirror. Through history we learn what mistakes earlier generations made and what they achieved. If a nation forgets its own history, it will find it hard to see clearly where it should go. In China history education has always been valued, and students learn about the rise and fall of dynasties and about important events from an early age. Learning history, however, is not just about memorising years and names; it is more important to learn to think: why did this happen, and what has it left to later generations? Today more and more people visit museums and are willing to spend time discovering the stories behind the objects on display. The past is not dead; it shapes the way we live and the choices we make. A person who understands history is less likely to be fooled by simple answers.",
+  "keyPoints": [
+    "“一面镜子”译为 a mirror。",
+    "“朝代更替”用 the rise and fall of dynasties。",
+    "“不只是……更重要的是……”用 not just ... it is more important to ...。",
+    "“文物”可译为 objects on display 或 cultural relics。",
+    "“留下”可译为 left to later generations。"
+  ]
+}

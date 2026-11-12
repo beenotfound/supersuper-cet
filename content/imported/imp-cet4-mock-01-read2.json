@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-01-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-01",
+ "paperTitle": "大学英语四级标准模拟卷 01",
+ "paperLevel": "cet4",
+ "paperYear": "mock-01",
+ "sectionOrder": 4,
+ "passage": "Reading has never been easier, yet many people say they read less than they used to. The explanation is not that books have become less interesting, but that attention has become harder to hold. A phone on the desk offers a constant supply of short messages, and each one gives the brain a small reward. In this environment, a novel that takes three pages to describe a single afternoon can feel slow, even boring.\n\nTeachers and researchers who study reading call the alternative deep reading. They mean the kind of reading in which a person follows an argument, notices the writer's tone and pauses over a sentence that seems especially well made. This does not happen automatically; it requires a quiet place, an unhurried mind and, above all, a decision to stay with one text.\n\nDigital devices are not the enemy. Many readers do their deep reading on tablets, and audiobooks have allowed busy people to return to books they would otherwise never open. What matters is whether the reading is planned or merely squeezed into gaps between messages.\n\nA growing number of universities have therefore introduced short courses on reading habits, in which students are asked to keep a record of when, where and how long they read. The results are often surprising. Students discover that thirty minutes of concentration in the morning is worth more than three hours of half-attention, and that the books they remember most are the ones they read slowly. Perhaps the lesson is simply that reading, like any other skill, improves when it is given time.",
+ "questions": [
+  {
+   "q": "What do researchers mean by deep reading?",
+   "options": [
+    "Following a writer's argument and pausing over sentences.",
+    "Reading as many short messages as possible.",
+    "Listening to audiobooks while working.",
+    "Skimming a book to find facts quickly."
+   ],
+   "answer": 0,
+   "explain": "第二段解释 deep reading 指 a person follows an argument, notices the writer's tone and pauses over a sentence that seems especially well made，故选 A。"
+  },
+  {
+   "q": "What is the author's view of digital devices?",
+   "options": [
+    "They have destroyed the habit of reading.",
+    "They are not the enemy and can support deep reading.",
+    "They should not be used by university students.",
+    "They are only useful for short messages."
+   ],
+   "answer": 1,
+   "explain": "第三段明确说 Digital devices are not the enemy，并举出在平板上深读、用有声书重读书本等例子，故选 B。"
+  },
+  {
+   "q": "What do students learn from the short courses on reading habits?",
+   "options": [
+    "Reading in the morning is always boring.",
+    "Audiobooks are better than printed books.",
+    "A short period of full attention is worth more than hours of half-attention.",
+    "Books should be read as quickly as possible."
+   ],
+   "answer": 2,
+   "explain": "最后一段说学生发现 thirty minutes of concentration in the morning is worth more than three hours of half-attention，故选 C。"
+  }
+ ]
+}

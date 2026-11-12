@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2024jun1-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2024年6月六级第一套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024jun1",
+ "paperTitle": "2024年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-06",
+ "passage": "rainbow are produced by the reflection and {{1}} of light through water droplets (小滴) present in the atmosphere. An observer colors of a may {{2}} a rainbow to be located either near or far away, but this phenomenon is not actually located at any specific spot. Instead, the appearance of a rainbow depends entirely upon the position of the observer in {{3}} to the direction of light. In essence, a rainbow is an {{4}} illusion. Rainbows present a {{5}} made up of seven colors in a specific order. In fact, school children in many English- speaking countries are taught to remember the name “Roy G. Biv” as an aid for remembering the colors of a rainbow and their order. “Roy G. Biv” {{6}} for: red, orange, yellow, green, blue, indigo, and violet. The outer edge of the rainbow arc is red, while the inner edge is violet. A rainbow is formed when light (generally sunlight) passes through water droplets {{7}} in the atmosphere. The refraction (折射). When light reflects off a water droplet, it simply {{8}} back in the opposite direction from where it {{9}} . When light refracts, it takes a different direction. Some individuals refer to refracted light as “bent light waves.” A rainbow is formed because white light enters the water droplet, where it bends in several different directions. When these bent light waves reach the other side of the water droplet, they reflect back out of the droplet instead of {{10}} passing through the water. Since the white light is separated inside of the water, the refracted light appears as separate colors to the human eye.",
+ "bank": [
+  "A. bounces",
+  "B. completely",
+  "C. dispersion",
+  "D. eccentric",
+  "E. hanging",
+  "F. optical",
+  "G. originates",
+  "H. perceive",
+  "I. permeates",
+  "J. ponder",
+  "K. preceding",
+  "L. recklessly",
+  "M. relation",
+  "N. spectrum",
+  "O. stands"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "A. bounces",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "I. permeates",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "B. completely",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "D. eccentric",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "C. dispersion",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "O. stands",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "M. relation",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "L. recklessly",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "E. hanging",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "N. spectrum",
+   "explain": ""
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "real4-2021-12-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2021年12月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-3",
+ "paperTitle": "2021年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "The sheets are damp with sweat. You're cold, but your heart is racing as if a killer just chased you down a dark street. It was just a nightmare, you tell yourself; there's nothing to be afraid of. But you're still filled with {{1}}  . Given how unsettling and haunting nightmares can be, is there a way for dreamers to ,  {{2}} or even turn off, these bad dreams as they happen? Research is ,  {{3}} but some studies suggest that people who can master lucid dreaming—that is, the ability to be  {{4}} that a nightmare is happening and possibly even control it without waking up—may hold the {{5}}  . Nightmares are part of the human experience, especially for kids. Doctors  {{6}} don't consider occasional nightmares a problem. They can just be symptoms of a sleep disorder that can  {{7}} from an unpleasant experience, stress, or certain drugs. To treat the disorder, there are a number of medicines and therapies that are backed by {{8}}  research, according to the American Academy of Sleep Medicine, which analyzed the available research on the treatment of nightmare disorder in a recent  {{9}} published in the Journal of Clinical Sleep Medicine. However, nightmares are complicated, and researchers are still struggling to understand them, said Dr. Rachel Salas, an expert on sleep disorders and an associate professor at Johns Hopkins Medicine in Baltimore. What we do know is that people  {{10}} to have different kinds of nightmares at different points during the sleep cycle.",
+ "bank": [
+  "amount",
+  "answer",
+  "avoid",
+  "aware",
+  "depart",
+  "drastically",
+  "fear",
+  "limited",
+  "mechanical",
+  "result",
+  "review",
+  "rigorous",
+  "tend",
+  "timidity",
+  "typically"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "fear",
+   "explain": "介词 with 后作宾语 承接上文\"被吓到\",filled with fear = 充满恐惧 上文 your heart is racing as if a killer just chased you down a dark street 与 there's nothing to be afraid of 都在写\"害怕\";be filled with fear\"满心恐惧\"正好收住这股噩梦惊 醒后的情绪,语义最贴。 N) timidit…"
+  },
+  {
+   "n": 2,
+   "answer": "avoid",
+   "explain": "不定式 to 后,要填动词原形 avoid 与 turn off 并列,意为\"避开\"噩梦 avoid 是及物动词\"避免、躲开\",和 turn off(关掉)并列,共同支配 these bad dreams;句意\"有 没有办法让做梦者避开、甚至关掉这些噩梦\",逻辑顺畅。 E) depart depart 是不及物动词,不能直接带宾语 depart 意为\"离开\",一般不及物(depart from),无法像 turn off 那样直接接 t…"
+  },
+  {
+   "n": 3,
+   "answer": "limited",
+   "explain": "be 动词后作表语 but 转折提示\"研究有限\" Research is __(28)__, but some studies suggest... 中 but 表转折:\"研究有限,但有些研究表 明……\";limited\"有限的\"与后文\"but 有部分研究\"的让步—转折逻辑严丝合缝,也呼应全文 researchers are still struggling to understand them\"研究者仍在努力理解\"。 I) mecha…"
+  },
+  {
+   "n": 4,
+   "answer": "aware",
+   "explain": "be 动词 to be 后作表语 be aware that = 意识到,正配清醒梦 aware 构成 be aware that...\"意识到……\";本段在解释清醒梦 lucid dreaming,即 the ability to be __(29)__ that a nightmare is happening and possibly even control it\"能意识到噩 梦正在发生甚至加以控制的能力\",aware 精准对应…"
+  },
+  {
+   "n": 5,
+   "answer": "answer",
+   "explain": "动词 hold + 定冠词 the 后,作宾语名词 hold the answer = 掌握答案/解决之道 本段问\"能否控制噩梦\",说会清醒梦的人 may hold the __(30)__;hold the answer\"握有答 案/解决办法\"正好回应前文 is there a way...to avoid, or even turn off, these bad dreams 的设问,逻辑闭环。 K) review 综述不能\"被人掌…"
+  },
+  {
+   "n": 6,
+   "answer": "typically",
+   "explain": "插在主语与动词之间,只能是副词 表达医生\"通常、一般\"的态度 句意是医生\"通常\"不把偶尔做噩梦当成问题,typically 表示\"一般情况下、惯常如此\",和 occasional nightmares 这种\"偶尔\"的语境正好呼应。 F) drastically 语义不搭:不存在\"剧烈地不认为\" drastically 意为\"剧烈地、大幅度地\",通常修饰 change/reduce 这类有程度变化的动词;说医生 drastically d…"
+  },
+  {
+   "n": 7,
+   "answer": "result",
+   "explain": "助动词 can 后 + 介词 from,要填动词原形 result from = 起因于,正好接成因 result 与 from 搭配 result from 意为\"由……引起\";that can __(32)__ from an unpleasant experience, stress, or certain drugs 列举的正是噩梦/睡眠障碍的几个起因,语义完全 对上。 E) depart depart from 是\"偏离\",语…"
+  },
+  {
+   "n": 8,
+   "answer": "rigorous",
+   "explain": "名词 research 前作定语 rigorous research = 严谨的研究,褒义且常见搭配 rigorous\"严谨的\"与 research 是高频搭配;there are a number of medicines and therapies that are backed by __(33)__ research 说这些疗法\"有……研究支持\",要支持就得 是\"严谨的\"研究,褒义且语义贴切。 H) limited 义反:有限的…"
+  },
+  {
+   "n": 9,
+   "answer": "review",
+   "explain": "形容词 recent 后 + 介词短语修饰,作名词 a recent review = 一篇近期综述,配发表于期刊 review 作名词意为\"综述、评述\";上文说学会 analyzed the available research on the treatment of nightmare disorder\"分析了现有研究\",这种成果正是发表在 the Journal of Clinical Sleep Medicine 上的一篇\"综述…"
+  },
+  {
+   "n": 10,
+   "answer": "tend",
+   "explain": "主语后缺谓语,且后接 to do tend to do 固定搭配,意为\"往往会\" tend 接不定式构成 tend to do,意为\"倾向于、往往会\";people __(35)__ to have different kinds of nightmares at different points 说\"人们往往在睡眠周期的不同阶段做不同的噩 梦\",这是陈述规律,语义贴切。 E) depart 搭配与语义都不对 depart 意为\"离开、…"
+  }
+ ]
+}

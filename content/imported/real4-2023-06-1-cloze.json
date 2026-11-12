@@ -1,0 +1,83 @@
+{
+ "id": "real4-2023-06-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2023年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-06-1",
+ "paperTitle": "2023年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-06",
+ "passage": "You probably haven't taken the time to think of all the work that went into creating the shirt on your back. I mean, how hard it could be to create fabric and {{1}}  it into a shirt shape. Don't machines do all that? Well, creating fabric from cotton, which is the most {{2}}  clothing material, is actually a process that involves a lot of water, 2,700 liters per shirt to be {{3}}  . Take a look at the video below from National Geographic for some more mind-blowing  {{4}} about cotton clothing production. Clean water is  {{5}} becoming one of the most sought-after resources in the world. Given how large the  {{6}} and cotton industries are, they take up a lot of our fresh water demands across the world, according to The Huffington Post. The video from National Geographic was created to spread  {{7}} of how environmentally harmful cotton is. But the situation can be made better. Through better water management and farming practices, water usage in cotton production can be cut down by {{8}}  40 percent. Called \"Better Cotton\", this environmentally conscious product will save millions of liters of water a year simply from {{9}}  the demands of cotton production. Cotton doesn't have to go, since it is, after all, one of the most useful cash crops across the globe. However, as water supplies ,  {{10}} farmers and consumers need to be more conscious of the effect that these products have on the environment as a whole.",
+ "bank": [
+  "abstracts",
+  "abundant",
+  "awareness",
+  "conscience",
+  "exact",
+  "increasingly",
+  "intense",
+  "mend",
+  "nearly",
+  "reckoning",
+  "reducing",
+  "sew",
+  "shrink",
+  "statistics",
+  "textile"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "sew",
+   "explain": "and 并列 + 不定式 to 后接动词原形 把布\"缝\"成衬衫形状，sew 最准 语境是 create fabric and __(26)__ it into a shirt shape——造出布料再把它\"缝\"成衬衫形 状，sew（缝制）正是做衣服的标准动作，与 into a shirt shape 搭配自然。 H) mend 义偏\"修补\"非\"制作\" mend 是\"修补\"已破损的东西，这里是从布料\"从无到有做成\"衬衫，不是修补，方向不符…"
+  },
+  {
+   "n": 2,
+   "answer": "abundant",
+   "explain": "the most + 空 + 名词，形容词最高级作定语 棉花是\"最常见/产量最大\"的衣料，abundant 最贴 句意是棉花作为 the most __(27)__ clothing material——最\"丰富、大量\"的衣料，与下文 one of the most useful cash crops across the globe 呼应，abundant（丰富的、大量 的）正合\"用得最广\"之意。 E) exact 搭配不成立 exa…"
+  },
+  {
+   "n": 3,
+   "answer": "exact",
+   "explain": "to be + 空，系动词后作表语 \"to be exact\"=确切地说，是固定插入语 2,700 liters per shirt to be __(28)__ 在精确数字 2,700 liters 后用 \"to be exact\"（确切地 说）这一固定表达收尾，exact 修饰前面给出的精确数字，框架直接锁死。 G) intense 义不符且无此搭配 intense 是\"强烈的\"，\"to be intense\"在此说不通，也不是固定…"
+  },
+  {
+   "n": 4,
+   "answer": "statistics",
+   "explain": "some more + 空 + about，形容词后接名词 承接上句\"2,700 升\"的数字，statistics=统计数据最贴 前句刚给出 2,700 liters per shirt 这样的数字，叫人去看视频了解\"更多令人震惊的数据\"， statistics（统计数据）与 mind-blowing、about cotton production 完全吻合。 C) awareness 义为\"意识\"，且被第 32 空占用 awarene…"
+  },
+  {
+   "n": 5,
+   "answer": "increasingly",
+   "explain": "is + 空 + becoming，插在系动词与现在分词之间 清洁水\"日益\"变得抢手，increasingly 表渐变正合 Clean water is __(30)__ becoming one of the most sought-after resources in the world 描述一种正在加剧的趋势，increasingly（越来越、日益地）修饰 becoming 表渐 变，语义贴切。"
+  },
+  {
+   "n": 6,
+   "answer": "textile",
+   "explain": "the + 空 + and cotton industries，定语名词 与 cotton 并列指\"纺织业\"，textile 正合 the __(31)__ and cotton industries——\"纺织与棉花产业\"，textile（纺织品/纺织的）和 cotton 同属衣料产业、并列自然，且 textile industry 是固定说法。 D) conscience 义为\"良心\"，不能与 cotton 并列指产业 conscie…"
+  },
+  {
+   "n": 7,
+   "answer": "awareness",
+   "explain": "spread + 空 + of，及物动词后作宾语 \"spread awareness of\"=传播……意识，固定搭配 spread __(32)__ of how environmentally harmful cotton is——视频是为了\"传播对棉花 危害环境的认知\"，spread awareness of 是高频固定搭配，awareness（意识、知晓）完 全契合。 D) conscience 形近义异，无此搭配 conscie…"
+  },
+  {
+   "n": 8,
+   "answer": "nearly",
+   "explain": "空 + 40 percent，修饰数量的副词 修饰 40 percent 表\"将近 40%\"，nearly 最贴 cut down by __(33)__ 40 percent 说节水幅度\"将近 40%\"，nearly（将近、几乎）正是修 饰数字、表示接近某量的标准副词。 F) increasingly 义为\"越来越\"，不修饰固定数字 increasingly 表\"日益、越来越\"，描述渐变趋势，不能修饰 40 percent 这样的固定…"
+  },
+  {
+   "n": 9,
+   "answer": "reducing",
+   "explain": "介词 from 后接动名词 \"减少需求\"用 reducing，且现成-ing 形态 save millions of liters of water a year simply from __(34)__ the demands of cotton production——靠\"减少\"棉花生产的需求来省水，reducing the demands 是地道及物搭 配，且词库直接给的就是-ing 形式，无需变形。 M) shrink 形态需变…"
+  },
+  {
+   "n": 10,
+   "answer": "shrink",
+   "explain": "as 从句主语 supplies 后缺谓语 水供应\"减少\"，shrink 表自身缩减最贴 as water supplies __(35)__, farmers and consumers need to be more conscious 说\"随 着水供应减少\"，shrink（缩小、减少）正描述供应量自身收缩，与全文\"清洁水日益稀 缺\"呼应。"
+  }
+ ]
+}

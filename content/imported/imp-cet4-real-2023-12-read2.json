@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-real-2023-12-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2023-12",
+ "paperTitle": "2023年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "sectionOrder": 4,
+ "passage": "The Rex was the only cinema in a town of nine thousand people, and when it closed in 2011 the building was sold and used for storing animal feed. For four years the town had nothing but the television in the pub. Then a retired teacher, Mary Appleton, asked at a public meeting whether people would pay five pounds a month to own a cinema. To her surprise, three hundred households said yes on the spot.\n\nThe Rex reopened two years later as a community cinema. It is run by a committee of twelve volunteers: a former electrician looks after the projector, two teenagers run the ticket desk on Saturdays, and Mary, now seventy-eight, chooses most of the films. The programme mixes new releases with old favourites, and once a month a local historian introduces a film connected with the area. Tickets are cheaper than in the city, and a small grant pays for free screenings for school classes.\n\nRunning a cinema is not easy. The projector broke down twice last year, and the committee spent a month deciding whether to spend nearly all its savings on a digital system. Membership has slipped slightly as streaming services have grown. Yet the audiences keep coming, and not always for the film. On a Friday night in winter, the Rex is one of the few warm, noisy places in town where people of different ages sit in the same room. Mary says that is the point. The films matter, she explains, but what people are really buying is an evening out with their neighbours.",
+ "questions": [
+  {
+   "q": "What happened to the cinema building after the cinema closed in 2011?",
+   "options": [
+    "It was turned into a pub.",
+    "It stood empty for ten years.",
+    "It was used for storing animal feed.",
+    "It became a school hall."
+   ],
+   "answer": 2,
+   "explain": "Passage 2 首段说 the building was sold and used for storing animal feed，故选 C；文中说此后四年小镇只有酒馆里的电视，并未说电影院变成了酒馆，A 为张冠李戴。"
+  },
+  {
+   "q": "How is the Rex run now?",
+   "options": [
+    "By a national cinema chain.",
+    "By a committee of twelve volunteers.",
+    "By the local government alone.",
+    "By the retired teacher on her own."
+   ],
+   "answer": 1,
+   "explain": "第二段说 It is run by a committee of twelve volunteers，故选 B；Mary 只是其中负责选片的一员，并非独自经营，D 不准确。"
+  },
+  {
+   "q": "What difficulty is mentioned in the passage?",
+   "options": [
+    "Few films are available for the small screen.",
+    "Young people are unwilling to work there.",
+    "The town has decided to close the cinema again.",
+    "Membership has slipped as streaming services have grown."
+   ],
+   "answer": 3,
+   "explain": "第三段说 Membership has slipped slightly as streaming services have grown，即流媒体兴起使会员人数略有下降，故选 D。"
+  }
+ ]
+}

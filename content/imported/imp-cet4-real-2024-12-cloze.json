@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-real-2024-12-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-12",
+ "paperTitle": "2024年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 2,
+ "passage": "Online shopping has changed the way people buy almost everything, and for many older people it has become a {{1}} way to get daily necessities. Instead of carrying heavy bags home, they can place {{2}} on a mobile app and have them {{3}} to their door. However, not everyone finds the technology {{4}} at first. Some seniors {{5}} with small screens and passwords, and they may worry that their money is not safe. Community centres in several cities have started free classes to help them overcome these {{6}}. Volunteers teach them how to search for products, compare prices and pay safely. The results are encouraging: those who attend the classes {{7}} become more confident, and many say the service has made them feel less {{8}}. For them, the greatest benefit is not speed but company, because a delivery worker's knock can be the only conversation of the day. Experts therefore suggest that companies should make their apps simpler and offer more {{9}} support, especially for older customers who are less {{10}} with digital tools than younger users.",
+ "bank": [
+  "access",
+  "barriers",
+  "comfortable",
+  "convenient",
+  "delivered",
+  "elderly",
+  "familiar",
+  "gradually",
+  "improve",
+  "isolated",
+  "orders",
+  "popular",
+  "reliable",
+  "struggle",
+  "technology"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "convenient",
+   "explain": "此处需要形容词修饰 way，convenient 意为方便的，与后文不必提着重物回家相呼应。"
+  },
+  {
+   "n": 2,
+   "answer": "orders",
+   "explain": "place orders 是固定搭配，意为下单；下文说商品被送到家门口，可见此处指订单。"
+  },
+  {
+   "n": 3,
+   "answer": "delivered",
+   "explain": "have sth. done 表示让某事被完成，delivered 与 to their door 搭配，指送货上门。"
+  },
+  {
+   "n": 4,
+   "answer": "familiar",
+   "explain": "find sth. + 形容词，familiar 表示熟悉的；however 提示这里说老年人起初并不熟悉这项技术。"
+  },
+  {
+   "n": 5,
+   "answer": "struggle",
+   "explain": "struggle with 意为在……方面感到吃力，与后面的小屏幕和密码搭配，说明老年人使用困难。"
+  },
+  {
+   "n": 6,
+   "answer": "barriers",
+   "explain": "overcome 后接 barriers（障碍），指前文提到的操作困难和对支付安全的担忧。"
+  },
+  {
+   "n": 7,
+   "answer": "gradually",
+   "explain": "此处需要副词修饰 become，gradually 表示逐渐地，说明信心是慢慢建立起来的。"
+  },
+  {
+   "n": 8,
+   "answer": "isolated",
+   "explain": "feel 后接形容词，isolated 意为孤单的；下文说快递员的敲门可能是全天唯一的交谈，说明服务减少了孤独感。"
+  },
+  {
+   "n": 9,
+   "answer": "reliable",
+   "explain": "此处需要形容词修饰 support，reliable 意为可靠的，与 simpler 并列，都是对企业的建议。"
+  },
+  {
+   "n": 10,
+   "answer": "comfortable",
+   "explain": "be comfortable with 表示对……感到自如，less comfortable 指老年用户对数字工具不太适应。"
+  }
+ ]
+}

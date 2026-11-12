@@ -1,0 +1,63 @@
+{
+  "id": "match-002",
+  "type": "matching",
+  "level": "cet6",
+  "title": "Hiring for Skill, Not for Talk",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["assessment", "criteria", "portfolio"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The traditional job interview is a conversation between strangers, and it is a poor predictor of how someone will actually work. Candidates who are charming and fluent often impress an interviewer without demonstrating any relevant ability, while quieter applicants with stronger skills may be overlooked. Employers have long known this, but the interview survived because it was cheap and familiar. Now that hiring is expensive and mistakes are visible, more companies are looking for evidence rather than impressions. The cost of a poor appointment is easier to notice than the weakness of the conversation that led to it."
+    },
+    {
+      "label": "B",
+      "text": "The most direct alternative is a work sample. A designer is asked to redesign a page, an analyst to interpret a small dataset, and a customer service candidate to answer a set of realistic complaints. Because the task resembles the job, performance on it tells an employer something that no conversation can. Candidates generally prefer this too: a practical test feels fairer than being judged on small talk and a firm handshake. Employers also find that a task reveals how a person handles instructions and deadlines."
+    },
+    {
+      "label": "C",
+      "text": "Practical hiring can widen the pool of applicants. A person without a degree may still write excellent code or manage a project calmly, and a test allows that ability to surface. Employers who drop formal qualification requirements often report a larger and more varied set of candidates. For workers who learned their trade outside universities, this is a rare route past a filter that would otherwise reject them before any human being reads their name. A test, unlike a degree, can be designed around the actual work rather than around a syllabus."
+    },
+    {
+      "label": "D",
+      "text": "There is a catch. A take-home task can amount to hours of unpaid work, and candidates with caring responsibilities cannot always spare an evening. Some firms have responded by keeping tasks short, paying a small fee, or running the exercise during a scheduled session. Without such safeguards, a method that looks objective may simply reward people with free time, which is a poor proxy for talent. The fairness of the process, not its sophistication, decides whether candidates trust it."
+    },
+    {
+      "label": "E",
+      "text": "Skills-based hiring also changes how existing staff are treated. Instead of relying on job titles, an organisation can assess what employees can actually do and move them into roles where those abilities are needed. This is popular with workers who feel stuck in a department because their formal qualifications do not match a vacancy. It also helps employers fill gaps internally when the external market is thin. The result is a workforce that can be redeployed instead of replaced."
+    },
+    {
+      "label": "F",
+      "text": "The approach only works if the people doing the assessing are trained. An untrained interviewer may favour a candidate who reminds them of themselves, or may mark an unusual but effective solution as wrong. Good practice includes agreeing in advance what a strong answer looks like, scoring independently, and comparing notes afterwards. None of this is complicated, but it does require time that many managers say they do not have. Consistency matters more than cleverness: two assessors should reach similar conclusions."
+    },
+    {
+      "label": "G",
+      "text": "Smaller firms face a particular difficulty. Designing, running and marking a realistic task costs money, and a business with a handful of employees may not have anyone free to do it. Some have joined forces with local colleges or industry groups to share the burden, while others use standardised tests bought from specialist providers. The risk is that a cheaper test drifts away from the actual demands of the job. A test borrowed from another industry may measure skills the job never requires."
+    },
+    {
+      "label": "H",
+      "text": "Assessment can also be gamed. Once candidates know what a test involves, coaching services appear, and the results start to measure preparation rather than ability. Companies defend themselves by changing tasks regularly and by observing how people work, not only what they produce. A candidate who has rehearsed an answer may still struggle when asked to explain a decision or to respond to an unexpected change. Honesty about the limits of testing is part of a credible process."
+    },
+    {
+      "label": "I",
+      "text": "Degrees have not become irrelevant, but their role is shifting. A qualification still signals persistence and a certain level of knowledge, yet it is increasingly treated as one piece of evidence among several. In fields where the technology changes quickly, a portfolio of recent work may say more than a certificate earned years ago. Employers who insist on a degree in such fields risk excluding exactly the people who keep their skills current. What a candidate has built recently may matter more than what they studied years ago."
+    },
+    {
+      "label": "J",
+      "text": "The hardest abilities to assess are the ones that matter most in teams: listening, negotiating and noticing when a colleague is struggling. A written exercise cannot easily capture them, and a group task may reward loudness. The best employers combine methods, using tests for technical skill and structured conversations for behaviour, and they accept that no single instrument is decisive. Judgement remains part of hiring, however many tools are added. No method removes the need for judgement, only the need to rely on a single impression."
+    }
+  ],
+  "statements": [
+    { "text": "Interviews tend to reward confidence and fluency instead of evidence of competence.", "answer": "A" },
+    { "text": "Tasks modelled on real duties reveal abilities that conversation cannot.", "answer": "B" },
+    { "text": "Assessment can open doors for candidates without conventional qualifications.", "answer": "C" },
+    { "text": "Unpaid tasks disadvantage people with limited time, so safeguards are needed.", "answer": "D" },
+    { "text": "Existing employees can be moved according to demonstrated ability rather than titles.", "answer": "E" },
+    { "text": "Evaluators must be trained and use consistent criteria to avoid personal bias.", "answer": "F" },
+    { "text": "Small employers may share or buy assessment tools, though relevance can suffer.", "answer": "G" },
+    { "text": "Predictable tests invite coaching, so results reveal preparation as much as ability.", "answer": "H" },
+    { "text": "A degree now counts as one signal among many, especially where skills date quickly.", "answer": "I" },
+    { "text": "Teamwork qualities resist simple testing, so firms combine several methods.", "answer": "J" }
+  ]
+}

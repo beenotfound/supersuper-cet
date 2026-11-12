@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-06-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年6月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-2",
+ "paperTitle": "2021年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "P1 Sugar shocked. That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar's role in heart disease—and put the spotlight(注意的中心) squarely on dietary fat.\n\nP2 What might surprise consumers is just how many present-day nutrition studies are still funded by the food industry. Nutrition scholar Marion Nestle of New York University spent a year informally tracking industry-funded studies on food. \"Roughly 90% of nearly 170 studies favored the sponsor's interest,\" Nestle tells us. Other systematic reviews support her conclusions.\n\nP3 For instance, studies funded by Welch Foods—the brand behind Welch's 100% Grape Juice— found that drinking Concord grape juice daily may boost brain function. Another, funded by Quaker Oats, concluded, as a Daily Mail story put it, that \"hot oatmeal(燕麦粥) breakfast keeps you full for longer.\"\n\nP4 Last year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink. Coca-Cola also released data detailing its funding of several medical institutions and associations between 2010 and 2015.\n\nP5 \"It's certainly a problem that so much research in nutrition and health is funded by industry,\" says Bonnie Liebman, director of nutrition at the Center for Science in the Public Interest. \"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro- industry finding.\n\nP6 Given this environment, consumers should be skeptical(怀疑的) when reading the latest finding in nutrition science and ignore the latest study that pops up on your news feed. \"Rely on health experts who've reviewed all the evidence,\" Liebman says, pointing to the official government Dietary Guidelines, which are based on reviews of hundreds of studies.\n\nP7 \"And that expert advice remains pretty simple,\" says Nestle. \"We know what healthy diets are— lots of vegetables, not too much junk food, balanced calories. Everything else is really difficult to do experimentally.\"",
+ "questions": [
+  {
+   "q": "What did Harvard scientists do 50 years ago?",
+   "options": [
+    "They raised public awareness of the possible causes of heart disease.",
+    "They turned public attention away from the health risks of sugar to fat.",
+    "They placed the sugar industry in the spotlight with their new findings.",
+    "They conducted large-scale research on the role of sugar in people's health."
+   ],
+   "answer": 1,
+   "explain": "What did Harvard scientists do 50 years ago? 问的是过去某个具体行为，答案应是定位 段对该行为的客观陈述。 What did Harvard scientists do 50 years ago? 是 what 引导的一般疑问句，主语 Harvard scientists，时间状语 50 years ago，结构平铺直叙，无陷阱。 Sugar shocked. That describes t…"
+  },
+  {
+   "q": "What does Marion Nestle say about present-day nutrition studies?",
+   "options": [
+    "They took her a full year to track and analyze.",
+    "Most of them are based on systematic reviews.",
+    "They depend on funding from the food industries.",
+    "Nearly all of them serve the purpose of the funders."
+   ],
+   "answer": 3,
+   "explain": "What does Marion Nestle say about present-day nutrition studies? 直接索取一个人对 一事的具体说法，答案应是文中该人原话的转述。 What does Marion Nestle say about present-day nutrition studies? 主干 What...does Marion Nestle say，about 引出宾语补足语限定 say 的内容范围…"
+  },
+  {
+   "q": "What did Coca-Cola-funded studies claim?",
+   "options": [
+    "Exercise is more important to good health than diet.",
+    "Choosing what to eat and drink is key to weight control.",
+    "Drinking Coca-Cola does not contribute to weight gain.",
+    "The food industry plays a major role in fighting obesity."
+   ],
+   "answer": 0,
+   "explain": "What did Coca-Cola-funded studies claim? 问被可口可乐资助的研究主张了什么，答案 是文中明示的论断。 What did Coca-Cola-funded studies claim? 主语 Coca-Cola-funded studies 是\"名词- funded 复合形容词+名词\"结构，意为\"被可口可乐资助的研究\"；句意直白。 Last year, The New York Times reve…"
+  },
+  {
+   "q": "What does Liebman say about industry-funded research?",
+   "options": [
+    "It simply focuses on nutrition and health.",
+    "It causes confusion among consumers.",
+    "It rarely results in objective findings.",
+    "It runs counter to the public interest."
+   ],
+   "answer": 2,
+   "explain": "What does Liebman say about industry-funded research? 同 Q47 同款句式，仍是细节 题，定位到 Liebman 引语即可。 What does Liebman say about industry-funded research? 结构同 Q47；industry- funded 是\"名词-过去分词\"复合形容词，表被动\"被产业资助的\"。 \"When the food industr…"
+  },
+  {
+   "q": "What is the author's advice to consumers?",
+   "options": [
+    "Follow their intuition in deciding what to eat.",
+    "Be doubtful of diet experts' recommendations.",
+    "Ignore irrelevant information on their news feed.",
+    "Think twice about new nutrition research findings."
+   ],
+   "answer": 3,
+   "explain": "What is the author's advice to consumers? 问的是一项具体行动建议，答案是文末作者 明示的劝告，仍属细节题（非笼统主旨）。 What is the author's advice to consumers? What is 主系表结构，主语 the author's advice，介词短语 to consumers 修饰 advice 表对象；无难点。 Given this environment…"
+  }
+ ]
+}

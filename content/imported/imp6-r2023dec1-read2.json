@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2023dec1-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2023年12月六级第一套 阅读2",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023dec1",
+ "paperTitle": "2023年12月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-12",
+ "passage": "Journal editors decide what gets published and what doesn’t, affecting the careers of other academics and influencing the direction that a field takes. You’d hope, then, that journals would do everything they can to establish a diverse editorial board, reflecting a variety of voices, experiences, and identities. Unfortunately a new study in Nature Neuroscience makes for disheartening reading. The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the United States: a situation that may be amplifying existing gender inequalities in the field and influencing the kind of research that gets published. Men were found to account for 60% of the editors of psychology journals. There were significantly more male than female editors at each level of seniority, and men made up the majority of editors in over three quarters of the journals. Crucially, the proportion of female editors was significantly lower than the overall proportion of women psychology researchers. The differences were even starker in the neuroscience journals: 70% of editors were male, and men held the majority of editorial positions in 88% of journals. In this case, the proportion of female editors was not reveals enduring gender disparities in the field more broadly. Based on their results, the team concludes that “the ideas, values and decision-making biases of men are overrepresented Gender inequality in science is often attributed to the fact that senior academics are more likely to be male, because historically science was male-dominated: it’s argued that as time goes on and more women rise psychology journals tended to be held disproportionately by men, despite the fact that there are actually more female than male junior psychology faculty. This implies that a lack of female academics is not the problem. Instead, there are structural reasons that women are disadvantaged in science. Women receive lower salaries and face greater childcare demands, for instance, which can result in fewer publications and grants — the kinds of things that journals look for when deciding who to appoint. Rather than simply blaming the inequality of editorial boards on tradition, we should be actively breaking down these existing barriers. lack of diversity among journal editors also likely contributes to psychology’s WEIRD problem. If journal editors are largely men from the United States, then they will probably place higher value on papers that are relevant to Western, male populations, whether consciously or not.",
+ "questions": [
+  {
+   "q": "What would we expect an editorial board of an academic journal to exhibit in view of its important responsibilities?",
+   "options": [
+    "Insight.",
+    "Expertise.",
+    "Integrity.",
+    "Diversity."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What do we learn from the findings of a new study in Nature Neuroscience?",
+   "options": [
+    "The majority of top psychology and neuroscience journals reflect a variety of voices, experiences, and identities.",
+    "The editorial boards of most psychology and neuroscience journals influence the direction their field takes.",
+    "The editorial boards of the most important journals in psychology and neuroscience are male-dominated.",
+    "The majority of editors in top psychology and neuroscience journals have relevant backgrounds."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What fact does the author highlight concerning the gender differences in editors of psychology journals?",
+   "options": [
+    "There were quite a few female editors who also distinguished themselves as influential psychology researchers.",
+    "The number of female editors was simply disproportionate to that of women engaged in psychology research.",
+    "The proportion of female editors was increasingly lower at senior levels.",
+    "There were few female editors who could move up to senior positions."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What can we infer from the conclusion drawn by the team of the new study on the basis of their findings?",
+   "options": [
+    "Women's views are underrepresented in the editorial boards of top psychology and neuroscience journals.",
+    "Male editors of top psychology and neuroscience journals tend to be biased against their female colleagues.",
+    "Male researchers have enough representation in the editorial boards to ensure their publications.",
+    "Female editors have to struggle to get women's research articles published in academic journals."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What does the author suggest we do instead of simply blaming the inequality of editorial boards on tradition?",
+   "options": [
+    "Strike a balance between male and female editors.",
+    "Increase women’s employment in senior positions.",
+    "Enlarge the body of female academics.",
+    "Implement overall structural reforms."
+   ],
+   "answer": 3,
+   "explain": ""
+  }
+ ]
+}

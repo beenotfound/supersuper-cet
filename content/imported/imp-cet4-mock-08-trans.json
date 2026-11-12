@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-08-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-08",
+ "paperTitle": "大学英语四级标准模拟卷 08",
+ "paperLevel": "cet4",
+ "paperYear": "mock-08",
+ "sectionOrder": 5,
+ "prompt": "中医是中国传统医学的重要组成部分，它强调人体与自然环境的平衡。中医认为，人的健康取决于饮食、情绪、作息等因素是否协调，因此提出了许多日常养生的方法。例如，在寒冷的季节多吃温热的食物，在夏天注意补充水分；保持规律的作息，避免过度劳累。近年来，越来越多的年轻人开始关注中医养生，学习按摩和药膳。不过，专家提醒，养生方法应当根据个人体质选择，不能盲目照搬。",
+ "reference": "Traditional Chinese medicine is an important part of China's traditional medical culture, and it stresses the balance between the human body and the natural environment. In its view, a person's health depends on whether diet, emotions and daily routines are in harmony, so many methods of everyday health care have been developed. For example, people are advised to eat warm food in cold seasons and to drink enough water in summer, and to keep regular hours and avoid overwork. In recent years, more and more young people have become interested in traditional health care and have started learning massage and medicinal dishes. Experts remind them, however, that such methods should be chosen according to individual constitution rather than copied blindly.",
+ "keyPoints": []
+}

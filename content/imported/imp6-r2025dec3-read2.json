@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2025dec3-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2025年12月六级第三套 阅读2",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025dec3",
+ "paperTitle": "2025年12月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-12",
+ "passage": "The other day I had to log into a service I hadn’t used before. Since I was a new user, the website decided that I was presented with an image of a roadside scene over which was laid a grid. My “challenge” was to click on each cell in the grid that contained a traffic sign. I did so, a bit irritated. Then I was presented with another image accepted my input. And then I realised what I had been doing was adding to a dataset for training the machine-learning software that guides self-driving cars. So, to gain access to an automated service that will benefit financially from my input, I first have to do some unpaid labor to help improve the performance of autonomous vehicles. Neat, eh? But note also the delicious additional irony that the Captcha is described as an “automated Turing test”. The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn’t tell whether it was a human or a robot. So we have wandered into a world in which machines make us do tricks to prove that we are humans! The strangest aspect of this unparalleled shift is how under-discussed it has been. The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don’t see what’s been happening to us? Have we been conditioned to accept a world governed by “smart” tech, trading convenience to the point where we become a bit like machines ourselves? Selinger, a philosopher — argue that the answer to that question is “yes”. And they’re right. There’s nothing technophobic (技术恐惧的) about that. We shape our tools and then our machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours. In the process, they reduce us to the status of cheery rats running on treadmills (踏车) designed by before it’s too late? You don’t even have to Google it to know the answer.",
+ "questions": [
+  {
+   "q": "How did the author respond to the Captcha test?",
+   "options": [
+    "He clicked on the cells randomly.",
+    "He accepted the challenge readily.",
+    "He completed it confidently.",
+    "He worked on it submissively."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "What is ironic about the Captcha test?",
+   "options": [
+    "A machine can respond to the test as well as humans do.",
+    "A machine can outperform humans in object identification.",
+    "A test designed to test machines is now used by machines to test humans.",
+    "A test conceived to tell a human from a robot can now do tricks humans can't."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "Why does the author use the metaphor of the boiling frog?",
+   "options": [
+    "To show that humans are unwilling to trade convenience for control by smart tech.",
+    "To show that humans are unaware of the potential danger brought by smart tech.",
+    "To question whether humans are conditioned to accept digital tech.",
+    "To question whether humans are as vulnerable as the boiling frog."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "Why does the author think that Brett Frischmann and Evan Selinger are right?",
+   "options": [
+    "A large part of digital tech is now making use of humans to meet its own ends.",
+    "Humans are now fast locked in a race against digital tech to control the world.",
+    "Digital tech can serve human needs in ways previously thought impossible.",
+    "Digital tech is now doing thinking while humans are doing repetitive work."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What does the author imply by asking “Are we smart enough to jump out before it’s too late?” at the end of the passage?",
+   "options": [
+    "It is not sensible to expect digital tech to take humans’ interest to heart.",
+    "It is hard to say whether technology or humans will get the upper hand.",
+    "We may have to search the web to get the answer to the question.",
+    "We may not awake in time to the danger digital tech poses to us."
+   ],
+   "answer": 3,
+   "explain": ""
+  }
+ ]
+}

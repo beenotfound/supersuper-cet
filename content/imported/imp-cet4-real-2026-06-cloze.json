@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-real-2026-06-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2026-06",
+ "paperTitle": "2026年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "sectionOrder": 2,
+ "passage": "Arriving in a research lab for the first time, many undergraduates imagine that they will spend most of their time making exciting discoveries. In practice, the first weeks are more about observation. A good supervisor will ask new students to {{1}} everything they do, from the temperature of a water bath to the strange noise a machine makes. Keeping a careful record may feel boring, but it is the only way to {{2}} an unexpected result later. Beginners also need to accept that experiments often fail. Rather than hiding a failed attempt, lab members discuss it at weekly meetings, where a problem that seems unusual to one student may be {{3}} to someone else. With time, students learn to {{4}} their methods when the data do not make sense. They also discover that asking a short question early can {{5}} hours of wasted work. Patience is another lesson: some measurements need weeks before any pattern becomes {{6}}. For those who stay, the work brings a quiet {{7}} that no single finished result can offer. Many students say the experience {{8}} their idea of what science really is. They come to see that confidence grows slowly, and that the most valuable habit in a lab is not speed but {{9}}. By the end of a semester, most of them can {{10}} their own small project from start to finish.",
+ "bank": [
+  "adjust",
+  "available",
+  "changed",
+  "complete",
+  "document",
+  "explain",
+  "familiar",
+  "gradually",
+  "measure",
+  "obvious",
+  "patience",
+  "prevent",
+  "replace",
+  "satisfaction",
+  "scientific"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "document",
+   "explain": "document 意为「记录、存档」，document everything they do 即把所做的一切记录下来，与后文 keeping a careful record 呼应。"
+  },
+  {
+   "n": 2,
+   "answer": "explain",
+   "explain": "explain 意为「解释」，此处指只有记录清楚，日后才能解释异常结果出现的原因。"
+  },
+  {
+   "n": 3,
+   "answer": "familiar",
+   "explain": "be familiar to sb 意为「某人对……熟悉」，a problem may be familiar to someone else 指别人可能早已遇到过这个问题。"
+  },
+  {
+   "n": 4,
+   "answer": "adjust",
+   "explain": "adjust 意为「调整」，adjust their methods 指数据说不通时调整实验方法。"
+  },
+  {
+   "n": 5,
+   "answer": "prevent",
+   "explain": "prevent 意为「防止、避免」，prevent hours of wasted work 即避免浪费数小时的工作。"
+  },
+  {
+   "n": 6,
+   "answer": "obvious",
+   "explain": "obvious 意为「明显的」，pattern becomes obvious 指规律变得清晰可见，需要数周的测量。"
+  },
+  {
+   "n": 7,
+   "answer": "satisfaction",
+   "explain": "satisfaction 为名词「满足感」，a quiet satisfaction 指那种安静的满足，与单个实验结果形成对照。"
+  },
+  {
+   "n": 8,
+   "answer": "changed",
+   "explain": "changed 是 change 的过去式，the experience changed their idea 指这段经历改变了他们对科学的认识。"
+  },
+  {
+   "n": 9,
+   "answer": "patience",
+   "explain": "patience 为名词「耐心」，not speed but patience 与前文 Patience is another lesson 呼应。"
+  },
+  {
+   "n": 10,
+   "answer": "complete",
+   "explain": "complete 意为「完成」，complete a project from start to finish 指独立完成一个小项目。"
+  }
+ ]
+}

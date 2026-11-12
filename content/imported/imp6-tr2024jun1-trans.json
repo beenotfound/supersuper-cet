@@ -1,0 +1,23 @@
+{
+ "id": "imp6-tr2024jun1-trans",
+ "type": "translation",
+ "level": "cet6",
+ "title": "2024年6月六级翻译：中国传统婚礼",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024jun1",
+ "paperTitle": "2024年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-06",
+ "prompt": "中国的传统婚礼习俗历史悠久，从周朝开始就逐渐形成了一套完整的婚礼仪式，有些一直沿用至今。如今的中式婚礼习俗已有很大变化，但婚礼庆典仍然十分隆重。婚礼场地经过精心装饰，以象征喜庆（jubilance）的红色为主色调，摆放着许多祝愿新人幸福的物件。在婚礼上，新人要拜天地（bow to Heaven and Earth），感谢父母的养育之恩，并向宾客敬茶。婚礼上的每一个环节都寄托着人们对新人的美好祝愿。",
+ "reference": "Chinese traditional wedding customs have a long history. Starting from the Zhou Dynasty, a complete set of wedding ceremonies gradually formed, some of which are still in use today. Today's Chinese wedding customs have changed greatly, but wedding celebrations are still very grand. The wedding venue is carefully decorated, with red as the main color symbolizing jubilance, and many objects wishing the newlyweds happiness are displayed. At the wedding, the newlyweds bow to Heaven and Earth, express gratitude to their parents for raising them, and serve tea to the guests. Every aspect of the wedding carries people's best wishes for the newlyweds.",
+ "keyPoints": [
+  "传统婚礼 → traditional wedding",
+  "婚礼仪式 → wedding ceremonies",
+  "婚礼庆典 → wedding celebrations",
+  "拜天地 → bow to Heaven and Earth",
+  "养育之恩 → raising them",
+  "敬茶 → serve tea"
+ ]
+}

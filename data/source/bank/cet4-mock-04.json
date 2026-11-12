@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-04",
+      "title": "大学英语四级标准模拟卷 04",
+      "level": "CET4",
+      "year": "mock-04",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Some people believe that every university student should take a compulsory course in traditional culture, while others argue that such knowledge should be left to personal choice. Write an essay of 120 to 150 words on this issue. In your essay you should: 1) state your own view; 2) give two reasons for your view; 3) suggest how such a course could be taught well.",
+          "promptZh": "有人认为传统文化知识应当成为大学生的必修课，也有人认为这应交给学生自由选择。请就此写一篇 120–150 词的短文：1）表明你的观点；2）给出两条理由；3）建议这门课应如何上好。",
+          "reference": "Should traditional culture be a compulsory course at university? I believe it should, as long as the course is well designed.\n\nFirst, tradition gives students a shared frame of reference. A young person who has never read a classical poem or thought about the origin of a festival can hardly understand the literature, films and even the jokes that surround them. Second, a compulsory course reaches everybody, not only the students who are already curious. Elective classes tend to attract the same small group, while a required class gives future engineers and doctors the same starting point.\n\nThe key lies in good teaching. Instead of testing names and dates, the course should ask students to discuss why old ideas still matter today. Taught in this way, it becomes a conversation between past and present rather than a list to be memorised.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题，请阅读下面的文字稿后作答。\n\nConversation One:\nWoman: Good morning. I am Helen Parker, the volunteer coordinator here at the City Museum. You must be Li Wei, the student who applied online.\nMan: Yes, that is me. Thanks for seeing me. I have wanted to work in a museum since I was a child.\nWoman: Good to hear. Tell me, what kind of work are you hoping to do?\nMan: Anything really, though I would especially like to help with school groups. I spent two summers teaching children in my hometown, so I am used to explaining things in simple language.\nWoman: That is useful. At the moment our biggest need is on Saturday mornings, when dozens of primary school children come to see our ancient pottery exhibition.\nMan: I could do that. Should I prepare anything in advance?\nWoman: We will give you a two-hour training session next Wednesday. You will learn how to handle the objects on display and how to answer the questions children ask most often.\nMan: How long does a volunteer usually stay?\nWoman: We ask for at least three months, two mornings a month. Many students continue for a year, and some come back during the summer holidays.\nMan: Three months fits my schedule. One more question: do volunteers get free entry to the special exhibitions?\nWoman: Yes, and you may bring one guest. But the real benefit, I think, is the training. Several former volunteers now work in museums full time.\nMan: That sounds perfect. I will be there on Wednesday.\n\nPassage One:\nOn a narrow street in the old town of Suzhou, a workshop opens its doors every Tuesday afternoon to anyone who wants to learn paper-cutting. The woman who runs it, Zhang Hui, is in her sixties. She learned the craft from her grandmother, and for many years she believed it would die with her generation. 'Young people were too busy,' she says. 'They wanted jobs in offices, not scissors and red paper.'\nThree years ago, a local university asked her to teach a short course. Twenty students signed up, and to her surprise the waiting list was twice as long. Most of them were studying design or education, and they saw the old patterns as a source of new ideas rather than something outdated.\nThe workshop now runs twice a week, and a few of the students have become teachers themselves. One of them, a graphic designer named Chen Luo, uses traditional paper patterns in his work for a children's book publisher. 'The shapes are simple, but the meaning behind them is rich,' he explains. 'Once you understand why a fish stands for abundance, the design stops being decoration.'\nZhang Hui admits that she was once doubtful about teaching beginners. 'I used to think you needed ten years before you could cut anything worth keeping,' she says. 'Now I think ten weeks is enough to fall in love with it, and love is what keeps a craft alive.' Several of her students now teach in their own neighbourhoods, and one has opened a small studio in the countryside. 'The paper is the same,' she says. 'Only the hands have changed.'",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Why does the man want to volunteer at the museum?",
+              "transcript": "",
+              "options": [
+                "A. He needs credit for a university course.",
+                "B. He has been interested in museums since childhood.",
+                "C. His teacher recommended the museum to him.",
+                "D. He hopes to earn some money there."
+              ],
+              "answer": "B",
+              "explanation": "对话开头男士说 I have wanted to work in a museum since I was a child，即他从小就想到博物馆工作，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What kind of work would the man most like to do?",
+              "transcript": "",
+              "options": [
+                "A. Cleaning the exhibition rooms.",
+                "B. Selling tickets at the entrance.",
+                "C. Helping with school groups.",
+                "D. Designing posters for the museum."
+              ],
+              "answer": "C",
+              "explanation": "男士说 though I would especially like to help with school groups，即他最想做的是协助接待学生团体，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What will the man do next Wednesday?",
+              "transcript": "",
+              "options": [
+                "A. Attend a training session.",
+                "B. Meet the museum director.",
+                "C. Start work with school groups.",
+                "D. Take a written test."
+              ],
+              "answer": "A",
+              "explanation": "女士说 We will give you a two-hour training session next Wednesday，男士最后也确认周三会到场，故他是去参加培训，选 A。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What does the woman consider the real benefit of volunteering?",
+              "transcript": "",
+              "options": [
+                "A. Free coffee in the museum cafe.",
+                "B. Invitations to special exhibitions.",
+                "C. The chance to meet famous artists.",
+                "D. Training that can lead to a museum career."
+              ],
+              "answer": "D",
+              "explanation": "女士说 But the real benefit, I think, is the training，并提到 Several former volunteers now work in museums full time，故选 D；B 只是附带好处。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What did Zhang Hui once think about paper-cutting?",
+              "transcript": "",
+              "options": [
+                "A. It would die out with her generation.",
+                "B. It would become popular online.",
+                "C. It would be taught in all schools.",
+                "D. It would make her family rich."
+              ],
+              "answer": "A",
+              "explanation": "短文说 she believed it would die with her generation，并引用她说年轻人只想要办公室的工作，故选 A。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What happened after Zhang Hui taught a short course at a local university?",
+              "transcript": "",
+              "options": [
+                "A. Very few students showed any interest.",
+                "B. More students applied than could be accepted.",
+                "C. The course was cancelled after one term.",
+                "D. The university asked her to close her workshop."
+              ],
+              "answer": "B",
+              "explanation": "短文说 Twenty students signed up, and to her surprise the waiting list was twice as long，说明报名人数远超名额，故选 B。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "How does Chen Luo use the traditional paper patterns?",
+              "transcript": "",
+              "options": [
+                "A. He sells them at weekend markets.",
+                "B. He teaches them in a primary school.",
+                "C. He uses them in designs for a children's book publisher.",
+                "D. He writes books about their history."
+              ],
+              "answer": "C",
+              "explanation": "短文提到 Chen Luo uses traditional paper patterns in his work for a children's book publisher，故选 C。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does Zhang Hui believe now?",
+              "transcript": "",
+              "options": [
+                "A. Ten years are needed to master the craft.",
+                "B. Young people should work in offices.",
+                "C. Beginners usually damage old patterns.",
+                "D. Love for the craft is what keeps it alive."
+              ],
+              "answer": "D",
+              "explanation": "她说 ten weeks is enough to fall in love with it, and love is what keeps a craft alive，即对技艺的热爱才能让它延续，故选 D；A 是她过去的老看法。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "阅读下面的短文，从词库中选出最恰当的单词填入第 26–35 空，每个单词只能使用一次，其中 5 个词为多余选项。\n\n词库（A–O）：\nA. affordable\nB. argue\nC. balance\nD. claimed\nE. creative\nF. essential\nG. forgotten\nH. genuine\nI. gradually\nJ. handled\nK. likely\nL. regular\nM. steady\nN. supply\nO. transport\n\n短文：\nEvery city has buildings that tell its story, yet many of them disappear before residents have time to think. In the past, planners often (26) ____ that old structures were simply in the way of progress. Today a different view is spreading, and heritage protection has become an (27) ____ part of urban planning.\n\nRepair is rarely cheap. A stone arch or a wooden roof may need months of work by specialists whose skills are in short (28) ____. Supporters say repair costs far less than loss. Once a building is gone, the stories attached to it are (29) ____ as well.\n\nSome cities have found (30) ____ solutions. In one old district, a former textile factory became a library. Tourists come, but the (31) ____ visitors are local people who use the reading rooms every day. The project also provided (32) ____ work for craftsmen who might otherwise have left the area.\n\nCritics still (33) ____ that such projects mainly attract wealthy newcomers and push poorer residents out. That risk is real, and it must be (34) ____ seriously. But the answer is not to demolish everything; it is to plan carefully and accept that a city without memory is (35) ____ to lose its identity.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. In the past, planners often ____ that old structures were simply in the way of progress.",
+              "answer": "claimed",
+              "explanation": "选 D. claimed（对应第 26 空）。空格需填过去式动词，claim that... 表示‘声称’，与 In the past 的时态一致。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. Today a different view is spreading, and heritage protection has become an ____ part of urban planning.",
+              "answer": "essential",
+              "explanation": "选 F. essential（对应第 27 空）。an essential part of 意为‘……不可或缺的一部分’，与‘观念正在传播’的语境一致。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. A stone arch or a wooden roof may need months of work by specialists whose skills are in short ____.",
+              "answer": "supply",
+              "explanation": "选 N. supply（对应第 28 空）。in short supply 是固定搭配，意为‘供不应求、十分稀缺’，说明掌握这类技艺的专家很少。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Once a building is gone, the stories attached to it are ____ as well.",
+              "answer": "forgotten",
+              "explanation": "选 G. forgotten（对应第 29 空）。are forgotten 为被动语态，与前半句 Once a building is gone 对应，表示故事也随之被遗忘。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Some cities have found ____ solutions.",
+              "answer": "creative",
+              "explanation": "选 E. creative（对应第 30 空）。下文把旧纺织厂改成图书馆即为‘有创意的’做法，creative 修饰 solutions 最贴切。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Tourists come, but the ____ visitors are local people who use the reading rooms every day.",
+              "answer": "regular",
+              "explanation": "选 L. regular（对应第 31 空）。regular visitors 指‘常客’，与后文‘每天都来阅览室’呼应，并与游客形成对比。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. The project also provided ____ work for craftsmen who might otherwise have left the area.",
+              "answer": "steady",
+              "explanation": "选 M. steady（对应第 32 空）。steady work 意为‘稳定的工作’，正因工作稳定，工匠才不必离开此地。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Critics still ____ that such projects mainly attract wealthy newcomers and push poorer residents out.",
+              "answer": "argue",
+              "explanation": "选 B. argue（对应第 33 空）。argue that 表示‘认为、主张’，此处引出批评者的观点。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. That risk is real, and it must be ____ seriously.",
+              "answer": "handled",
+              "explanation": "选 J. handled（对应第 34 空）。be handled seriously 意为‘被认真对待、处理’，情态动词 must 后接过去分词构成被动。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. The answer is to plan carefully and accept that a city without memory is ____ to lose its identity.",
+              "answer": "likely",
+              "explanation": "选 K. likely（对应第 35 空）。be likely to do 意为‘很可能……’，作者借此强调保护城市记忆的重要性。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nParagraph A: For most of the twentieth century a museum was a quiet hall of glass cases, and the visitor's job was to look. Curators now describe their work differently: they want people to leave with a story rather than a list of dates. Labels have grown longer, and rooms are arranged around questions instead of centuries. In one city museum, the first object a visitor meets is not a crown but a schoolboy's letter written in 1916.\n\nParagraph B: Families were once tolerated rather than welcomed. Today many museums run special mornings when the lights are brighter, the paths are shorter and touching is allowed. Staff are trained to kneel down when they speak to a six-year-old. The change is not only generous; it is practical. Children who enjoy a visit bring their parents back, and school groups have become one of the most reliable sources of income for smaller museums.\n\nParagraph C: Museums are also opening their back doors. Several now rent desk space to researchers, run evening language classes and allow students to use their libraries after dark. A museum in Manchester offers a quiet study room to local teenagers during the exam season. Its director argues that a building which belongs to the public should be useful every day, not only on the two afternoons a week when most tourists appear.\n\nParagraph D: None of this is easy to pay for. Government grants have fallen in many countries, and the cost of heating an old stone building keeps rising. Some museums have introduced ticket prices, a decision that always causes argument. Others lend objects to commercial exhibitions abroad. Most directors agree that a museum cannot survive on charm alone, and that a clear financial plan matters as much as a good exhibition.\n\nParagraph E: In the past, decisions were made by experts behind closed doors. Some museums now invite residents to choose what should be displayed. In one town, a public meeting decided that the museum's largest room should be given to the history of local factories rather than to a collection of coins. Attendance doubled within a year. Visitors say they come because the place finally speaks about their own streets and families.\n\nParagraph F: The danger of chasing visitors is that a museum may lose the very thing that makes it valuable. If every room must be interactive and every label amusing, objects become background. Critics point out that serious research and slow-looking exhibitions are expensive and rarely attract headlines. The best institutions, they argue, keep a balance: a noisy family morning on Saturday does not mean that Tuesday afternoon has to be full of screens.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Some museums hold special mornings so that young children may touch objects and walk shorter distances.",
+              "options": [
+                "A. Telling stories rather than listing dates",
+                "B. Special mornings for young children",
+                "C. Room for study and work",
+                "D. Money remains a problem",
+                "E. Inviting residents to decide",
+                "F. The risk of pleasing everyone"
+              ],
+              "answer": "B",
+              "explanation": "Paragraph B 说 many museums run special mornings when the lights are brighter, the paths are shorter and touching is allowed，与题干对应，故选 B。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Curators now hope visitors will remember a story instead of a series of facts.",
+              "options": [
+                "A. Telling stories rather than listing dates",
+                "B. Special mornings for young children",
+                "C. Room for study and work",
+                "D. Money remains a problem",
+                "E. Inviting residents to decide",
+                "F. The risk of pleasing everyone"
+              ],
+              "answer": "A",
+              "explanation": "Paragraph A 说 they want people to leave with a story rather than a list of dates，与题干同义，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Some museums let students use their libraries and offer quiet rooms during exam seasons.",
+              "options": [
+                "A. Telling stories rather than listing dates",
+                "B. Special mornings for young children",
+                "C. Room for study and work",
+                "D. Money remains a problem",
+                "E. Inviting residents to decide",
+                "F. The risk of pleasing everyone"
+              ],
+              "answer": "C",
+              "explanation": "Paragraph C 提到允许学生晚间使用图书馆，并说 offers a quiet study room to local teenagers during the exam season，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Falling public funding and rising heating costs have led some museums to charge for entry.",
+              "options": [
+                "A. Telling stories rather than listing dates",
+                "B. Special mornings for young children",
+                "C. Room for study and work",
+                "D. Money remains a problem",
+                "E. Inviting residents to decide",
+                "F. The risk of pleasing everyone"
+              ],
+              "answer": "D",
+              "explanation": "Paragraph D 说 Government grants have fallen... the cost of heating... keeps rising，随后 Some museums have introduced ticket prices，故选 D。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "In one town, residents chose to give the largest room to the history of local industry.",
+              "options": [
+                "A. Telling stories rather than listing dates",
+                "B. Special mornings for young children",
+                "C. Room for study and work",
+                "D. Money remains a problem",
+                "E. Inviting residents to decide",
+                "F. The risk of pleasing everyone"
+              ],
+              "answer": "E",
+              "explanation": "Paragraph E 说 In one town, a public meeting decided that the museum's largest room should be given to the history of local factories，故选 E。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: In 2019, a fire broke out in the roof of Notre-Dame in Paris. Within hours, engineers were able to consult a detailed three-dimensional model of the cathedral that had been built a few years earlier by laser scanning. Every stone, every arch and every piece of timber had been recorded to within a few millimetres. The model did not prevent the fire, but it made the rebuilding far more accurate than anyone would have thought possible.\n\nThe example has encouraged museums and heritage sites around the world to digitise their collections. Some use drones to photograph buildings from above, while others carry portable scanners into caves or narrow temples. At Lascaux, researchers have spent decades recording the prehistoric cave paintings at very high resolution, and the images are now used for both research and education.\n\nDigital copies are not only a backup. They allow people to see objects that are too fragile to be displayed. A page from a tenth-century manuscript may be so sensitive to light that it can be shown to the public only once every few years, yet its digital image can be studied by scholars in Beijing, London or Cairo on the same afternoon. Visitors to a museum in a small town can walk through a reconstruction of a palace destroyed six hundred years ago.\n\nCritics warn that a digital copy is not the building itself. Screens may also tempt governments to pay for images rather than for repairs, since a scan is cheaper than a new roof. Supporters accept that risk but reply that recording a site is the first step towards saving it. 'A building that has been properly recorded,' one architect says, 'is a building we can argue for with evidence.'\n\nPassage 2: When Zhou Lan told her parents that she wanted to become a book restorer, they imagined a quiet job in a library. In reality she spends her days in a workshop in Nanjing, bent over a fragile volume with a fine brush, wheat paste and paper of a dozen different weights. One torn sheet may take three hours to mend, and a badly damaged book can keep her busy for a month.\n\nTraditional book repair was once a small trade, passed from master to apprentice inside a few families. For years, young people showed little interest: the pay was low, the work was slow, and success was invisible. The turning point came when a documentary about restorers became unexpectedly popular online. Applications to the national training programme rose from a handful to several hundred, and the average age of the students fell from forty to twenty-six.\n\nZhou Lan says the appeal is partly the silence. 'Everything around us moves fast,' she explains. 'Here, if you hurry, you tear the paper.' She also enjoys the moment when an object returns to use. Recently she spent five weeks repairing an eighteenth-century dictionary that a village school had owned for two hundred years, and she refused to accept payment from the school.\n\nNot everyone is comfortable with the attention. Some older craftspeople complain that television crews now visit the workshop in search of beautiful pictures rather than asking about technique, and that a short film cannot show the ten years needed to train an eye. Zhou Lan understands the complaint, but she thinks the interest is a beginning. 'People come for the pictures,' she says. 'Some of them stay for the paper.'",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What was the three-dimensional model of Notre-Dame used for?",
+              "options": [
+                "A. To guide the rebuilding after the fire.",
+                "B. To attract more tourists to the cathedral.",
+                "C. To replace the damaged stonework.",
+                "D. To train young architects in Paris."
+              ],
+              "answer": "A",
+              "explanation": "第一段说 The model did not prevent the fire, but it made the rebuilding far more accurate，即模型用于指导重建，故选 A。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) How are the high-resolution images of the Lascaux cave paintings used?",
+              "options": [
+                "A. To sell copies to foreign museums.",
+                "B. To replace the paintings inside the caves.",
+                "C. For both research and education.",
+                "D. To keep visitors away from the caves."
+              ],
+              "answer": "C",
+              "explanation": "第二段说 the images are now used for both research and education，故选 C。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) Why are digital images especially useful for fragile objects?",
+              "options": [
+                "A. They are cheaper than a museum ticket.",
+                "B. They can be studied without putting the objects at risk.",
+                "C. They are always more beautiful than the originals.",
+                "D. They can be printed and sold as souvenirs."
+              ],
+              "answer": "B",
+              "explanation": "第三段说 They allow people to see objects that are too fragile to be displayed，并举对光敏感的十世纪手稿为例，说明数字图像可让人研究而不损伤原件，故选 B。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What do critics of digitisation worry about?",
+              "options": [
+                "A. The high cost of training engineers.",
+                "B. Too many visitors to small towns.",
+                "C. The loss of jobs for museum guides.",
+                "D. Money being spent on scans instead of repairs."
+              ],
+              "answer": "D",
+              "explanation": "最后一段说 Screens may tempt governments to pay for images rather than for repairs, since a scan is cheaper than a new roof，故选 D。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) Why did few young people want to learn book repair in the past?",
+              "options": [
+                "A. The work was too physically demanding.",
+                "B. The training programme was too short.",
+                "C. The pay was low and progress was invisible.",
+                "D. The materials were impossible to find."
+              ],
+              "answer": "C",
+              "explanation": "第二段说 the pay was low, the work was slow, and success was invisible，故选 C。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What brought hundreds of new applicants to the training programme?",
+              "options": [
+                "A. A documentary that became popular online.",
+                "B. A large rise in the salary of restorers.",
+                "C. A new law protecting old books.",
+                "D. An article in a school textbook."
+              ],
+              "answer": "A",
+              "explanation": "第二段说 The turning point came when a documentary about restorers became unexpectedly popular online，随后报名人数大增，故选 A。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) How does Zhou Lan view the sudden public interest in her trade?",
+              "options": [
+                "A. She thinks short films describe the work accurately.",
+                "B. She regards it as a useful starting point.",
+                "C. She believes it wastes the restorers' time.",
+                "D. She feels that payment should not be discussed."
+              ],
+              "answer": "B",
+              "explanation": "最后一段说 she thinks the interest is a beginning，并说 People come for the pictures... Some of them stay for the paper，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "敦煌莫高窟位于中国西北的沙漠之中，是世界上规模最大的佛教艺术宝库之一。自公元四世纪起，人们在洞窟中绘制壁画、塑造佛像，历经千余年，留下了大量珍贵的艺术品。这些洞窟不仅记录了佛教在中国的传播，也反映了古代丝绸之路上的商贸往来与文化交流。近年来，研究人员利用数字技术对壁画进行高精度拍摄，建立了完整的图像档案，使这些脆弱的艺术珍品得以长久保存，也让世界各地的人们可以在线欣赏它们的美丽。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "The Mogao Caves in Dunhuang, located in the desert of northwest China, are one of the largest treasure houses of Buddhist art in the world. Since the fourth century, people have painted murals and made statues of Buddha in these caves. Over more than a thousand years they left behind a great number of precious works of art. The caves not only record how Buddhism spread in China but also reflect the trade and cultural exchanges along the ancient Silk Road. In recent years, researchers have used digital technology to photograph the murals at high resolution and have built a complete image archive. As a result, these fragile treasures can be preserved for a long time, and people all over the world can enjoy their beauty online.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

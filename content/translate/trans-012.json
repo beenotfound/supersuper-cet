@@ -1,0 +1,18 @@
+{
+  "id": "trans-012",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国传统戏曲",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["opera", "costume", "stage", "audience"],
+  "prompt": "戏曲是中国传统的舞台艺术，融合了唱、念、做、打四种表演手段。演员在台上几乎没有布景，一根马鞭可以代表骑马，一张桌子可以当作城墙。脸谱和服装也很有讲究，不同颜色暗示人物的性格，观众一看便知忠奸善恶。过去，看戏是普通人最重要的娱乐方式之一，庙会上常常挤满了人。如今，戏曲面临着观众老化的困境，年轻人对它的了解不多。为了让戏曲延续下去，一些剧团开始尝试用短视频和直播吸引新观众。",
+  "reference": "Traditional Chinese opera is a stage art that combines singing, recitation, acting and acrobatic fighting. There is almost no scenery on the stage: a horse whip can stand for a horse, and a table can serve as a city wall. Facial make-up and costumes are also highly symbolic, since different colours hint at a character's personality, so that the audience can tell good from evil at a glance. In the past, going to the opera was one of the most important forms of entertainment for ordinary people, and temple fairs were often crowded with spectators. Today opera faces the difficulty of an ageing audience, and young people know little about it. Even so, many old artists insist that a recording can never replace the excitement of a live performance, where the audience and the actors breathe together. To keep the art alive, some companies have begun to use short videos and live streaming to attract new viewers.",
+  "keyPoints": [
+    "“唱、念、做、打”需译全四项：singing, recitation, acting and acrobatic fighting。",
+    "“一根马鞭可以代表骑马”用 a horse whip can stand for a horse。",
+    "“脸谱”译为 facial make-up。",
+    "“忠奸善恶”意译为 good from evil，不必逐词对应。",
+    "“观众老化”可译为 an ageing audience。"
+  ]
+}

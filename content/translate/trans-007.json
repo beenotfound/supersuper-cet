@@ -1,0 +1,18 @@
+{
+  "id": "trans-007",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中华美食",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["cuisine", "flavour", "steam", "regional"],
+  "prompt": "中国有句老话叫“民以食为天”，可见吃饭在人们心中的分量。中国地域辽阔，各地气候和物产不同，逐渐形成了风格各异的菜系。南方人喜欢米饭，北方人偏爱面食；四川菜麻辣，广东菜清淡，沿海地区则讲究海鲜的鲜美。中国菜讲究色、香、味俱全，烹饪方法也很多，蒸、炒、炖各有讲究。一顿好饭不仅要填饱肚子，还要让一家人围坐在一起，边吃边聊。可以说，美食是把中国人联系在一起的纽带。",
+  "reference": "An old Chinese saying goes that food is the first need of the people, which shows how much weight a meal carries in Chinese minds. China is a vast country, and different climates and local products have gradually given rise to cuisines of very different styles. Southerners prefer rice while northerners favour wheat-based food; Sichuan cooking is hot and spicy, Guangdong dishes are light and fresh, and coastal regions pay special attention to the freshness of seafood. Chinese food values colour, aroma and taste at the same time, and there are many ways of cooking, each with its own rules, from steaming to stir-frying and slow stewing. A good meal is not only about filling the stomach; it is also a chance for a family to sit together, eat and talk. Many dishes are tied to a place and to a story, and tasting them is part of understanding the country. In a sense, good food is the bond that ties the Chinese people together.",
+  "keyPoints": [
+    "“民以食为天”可意译为 food is the first need of the people。",
+    "“菜系”用 cuisines，不要译成 dish systems。",
+    "“色、香、味俱全”译为 values colour, aroma and taste at the same time。",
+    "“讲究”在文中多次出现，可分别处理为 pay attention to、have its own rules。",
+    "“纽带”译为 bond。"
+  ]
+}

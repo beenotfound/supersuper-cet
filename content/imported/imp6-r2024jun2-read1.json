@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2024jun2-read1",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2024年6月六级第二套 阅读1",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024jun2",
+ "paperTitle": "2024年6月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-06",
+ "passage": "intervene when they see someone exhibiting at-risk behavior in the workplace? There are a number of factors that influence whether people intervene. First, they need to be able to see a risky situation beginning to unfold. Second, the company’s culture needs to make them feel safe to speak up. And third, they need to have the communication skills to say something effectively. diffusion of responsibility. Basically, the larger the crowd, the more people assume that someone else will take care of it — meaning no one effectively intervenes or acts in a moment of need. This crowd mentality is strong enough for people to evade their known responsibilities. But it's not only frontline intervene either. When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone. Despite the fact that workers are encouraged to intervene when they observe unsafe operations, this happens less than half of the time. Fear is the ultimate factor in not intervening. There is a fear of penalty, a fear that they’ll have to do more work if they intervene. Unsuccessful attempts in the past are another strong contributing factor to why people don’t intervene — they tend to prefer to defer that action to someone else for all future situations. On many worksites, competent workers must be appointed. Part of their job is to intervene when workers perform a task without the proper equipment or if the conditions are unsafe. Competent workers are also required to stop work from continuing when there’s a danger. Supervisors also play a critical role. Even if a competent person isn’t required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them. Beyond competent workers and supervisors, it’s important to educate everyone within the organization that they supervisor or a frontline worker.",
+ "questions": [
+  {
+   "q": "What is one of the factors contributing to failure of intervention in face of risky behavior in the workplace?",
+   "options": [
+    "Slack supervision style.",
+    "Unfavorable workplace culture.",
+    "Unforeseeable risk.",
+    "Blocked communication."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What does the author mean by “diffusion of responsibility” (Line 4, Para. 3)?",
+   "options": [
+    "The more people are around, the more they need to worry about their personal safety.",
+    "The more people who witness an event, the less likely anyone will venture to participate.",
+    "The more people idling around on the street, the more likely they need taking care of.",
+    "The more people are around, the less chance someone will step forward to intervene."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What happens when unsafe behavior at the workplace is not addressed by the leaders?",
+   "options": [
+    "No one will intervene when they see similar behaviors.",
+    "Everyone will see it as the easiest way to deal with crisis.",
+    "Workers have to take extra caution executing their duties.",
+    "Workers are left to take care of the emergency themselves."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What is the ultimate reason workers won’t act when they see unsafe operations?",
+   "options": [
+    "Preference of deferring the action to others.",
+    "Fear of being isolated by coworkers.",
+    "Anticipation of leadership intervention.",
+    "Fear of having to do more work."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What is critical to ensuring workplace safety?",
+   "options": [
+    "Workers be trained to operate their equipment properly.",
+    "Workers exhibiting at-risk behavior be strictly disciplined.",
+    "Supervisors create a safety environment for timely intervention.",
+    "Supervisors conduct effective communication with frontline workers."
+   ],
+   "answer": 3,
+   "explain": ""
+  }
+ ]
+}

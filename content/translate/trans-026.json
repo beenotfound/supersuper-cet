@@ -1,0 +1,18 @@
+{
+  "id": "trans-026",
+  "type": "translation",
+  "level": "cet4",
+  "title": "人口老龄化",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["ageing", "pension", "care", "generation"],
+  "prompt": "中国正在快速进入老龄化社会，老年人口的比例逐年上升。这一变化带来许多现实问题：养老金压力增大，养老床位紧张，照顾老人的人手不足。许多年轻人工作繁忙，只能把父母托付给护工，心里却常常感到愧疚。老年人的需求也在变化，他们不再只满足于温饱，还希望学习新知识、结交朋友、参与社会。一些社区开设了老年大学和日间照料中心，颇受欢迎。老龄化既是挑战，也是重新思考家庭责任的机会。",
+  "reference": "China is moving quickly into an ageing society, and the share of elderly people is rising year by year. This change brings many practical problems: pressure on pensions is growing, care beds are in short supply, and there are not enough hands to look after older people. Many young people are busy with work and can only entrust their parents to paid carers, which often leaves them feeling guilty. At the same time, the needs of older people are changing: they are no longer content with enough food and warmth, but want to learn new things, make friends and keep taking part in society. Some communities have opened senior colleges and day-care centres, and these are well received. Respecting the old has long been a value in Chinese culture, yet modern life makes it harder to practise than before. An ageing population is both a challenge and a chance to rethink family responsibility.",
+  "keyPoints": [
+    "“老龄化社会”译为 an ageing society。",
+    "“床位紧张”用 care beds are in short supply。",
+    "“托付给护工”可译为 entrust their parents to paid carers。",
+    "“吃饱穿暖”意译为 enough food and warmth。",
+    "“既是挑战，也是机会”用 both a challenge and a chance。"
+  ]
+}

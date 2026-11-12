@@ -1,0 +1,67 @@
+{
+  "id": "read-007",
+  "type": "reading",
+  "level": "cet6",
+  "title": "Science's Invisible Results",
+  "difficulty": 5,
+  "source": "original",
+  "targetWords": ["hypothesis", "asymmetry", "replication", "novelty"],
+  "passage": "Scientific progress is usually described as a sequence of discoveries: a hypothesis is tested, a result is announced, and knowledge advances. This account is tidy but misleading. Most experiments do not produce a striking outcome, and many fail to support the idea that inspired them. Such results are essential, because they tell researchers which paths are worth abandoning, yet they are far less likely to be published or read.\n\nThe asymmetry has consequences. If journals prefer clear, positive findings, then the published record becomes a distorted sample of what was actually tried. Researchers may waste time repeating failures that were never reported, and readers may overestimate how consistent the evidence is. The problem is structural rather than a matter of individual dishonesty: careers depend on visible success, and invisible results do not build reputations.\n\nReformers have proposed several remedies. Some journals now accept studies on the basis of their methods, before the results are known, so that an unexciting outcome cannot be a reason for rejection. Others publish registered reports, in which the design is reviewed in advance, or offer formats devoted to negative results. Each approach has costs, particularly the extra work of reviewing a study twice.\n\nReplication is the related issue. A single demonstration, however elegant, may reflect chance or an unnoticed factor. Confirmation by independent groups is what turns an interesting observation into a dependable one, but such work is often seen as unoriginal, and funding tends to favor novelty. The culture of science therefore rewards the very thing it claims to distrust: isolated, dramatic findings.\n\nThe deeper point concerns honesty about uncertainty. Science works not because its results are always right but because its errors can eventually be found. That requires a record that includes the failures as well as the successes. A field that publishes only its victories slowly loses the information it needs to test itself.",
+  "questions": [
+    {
+      "q": "What does the author say about the results of most experiments?",
+      "options": [
+        "They are dramatic and immediately useful",
+        "They are never worth publishing at all",
+        "They are usually reported before they are checked",
+        "They are unremarkable or unsupportive of the original idea"
+      ],
+      "answer": 3,
+      "explain": "首段指出多数实验不会产生惊人结果，许多甚至不支持原来的设想，故选第四项。第一项与原文相反，第二项与“这些结果至关重要”矛盾，第三项讨论的是报道时机，文中未提。"
+    },
+    {
+      "q": "What does the author identify as the cause of the publication problem?",
+      "options": [
+        "Structural incentives rather than individual dishonesty",
+        "Deliberate fraud committed by most researchers",
+        "A shortage of journals willing to publish results",
+        "A lack of public interest in scientific work"
+      ],
+      "answer": 0,
+      "explain": "第二段明确说问题在于结构性激励——职业发展依赖可见的成功，而非个人不诚实，故选第一项。第二项被原文直接排除，第三、四项文中未提及。"
+    },
+    {
+      "q": "The word \"asymmetry\" in paragraph 2 most probably refers to",
+      "options": [
+        "disagreement among journals about standards",
+        "unequal funding between scientific fields",
+        "the gap between the work that is done and the work that is published",
+        "the balance between theory and experiment"
+      ],
+      "answer": 2,
+      "explain": "上文说大量未产生惊人结果的实验极少被发表，第二段随即讨论这种“做过的”与“发表的”之间的不对等，故选第三项。第一、二、四项均非该词所指。"
+    },
+    {
+      "q": "Why is replication described as being treated as unoriginal?",
+      "options": [
+        "Because it always confirms earlier results",
+        "Because it is seen as unoriginal while funding favors novelty",
+        "Because it requires no funding at all",
+        "Because it is theoretically impossible to carry out"
+      ],
+      "answer": 1,
+      "explain": "第四段说重复验证常被视为缺乏新意，而经费更青睐新颖性，故选第二项。第一项与“可能反映偶然”相反，第三、四项明显与常识和原文矛盾。"
+    },
+    {
+      "q": "What can be inferred from the last paragraph?",
+      "options": [
+        "Science is unreliable because its results are always uncertain",
+        "Publishing only successes is the best way to preserve confidence",
+        "A record limited to successes weakens a field's ability to test itself",
+        "Failures have little to do with scientific progress"
+      ],
+      "answer": 2,
+      "explain": "末段说科学之所以有效，是因为错误最终能被发现，而这需要把失败也记录在案；只发表胜利的领域会慢慢失去自我检验的能力，故选第三项。第一项误读“结果并非总是正确”，第二、四项与原文相反。"
+    }
+  ]
+}

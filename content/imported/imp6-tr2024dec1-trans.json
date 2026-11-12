@@ -1,0 +1,23 @@
+{
+ "id": "imp6-tr2024dec1-trans",
+ "type": "translation",
+ "level": "cet6",
+ "title": "2024年12月六级翻译：北斗卫星导航系统",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024dec1",
+ "paperTitle": "2024年12月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "prompt": "北斗（Beidou）卫星导航系统的成功研制是中国自改革开放以来取得的一项重大科技成就。研发人员经过不懈努力，攻克了一系列技术难题，北斗系统最终实现了全球覆盖和高精度定位，使中国成为世界上少数几个独立拥有全球卫星导航系统的国家之一。北斗系统已广泛应用于交通运输、灾害救援、天气预报、公共安全等诸多领域。北斗系统现在已经在国际上得到广泛认可，开始为越来越多的国家和地区提供优质服务。",
+ "reference": "The successful development of the Beidou Satellite Navigation System is a major scientific and technological achievement China has made since the reform and opening up. After tireless efforts, researchers overcame a series of technical difficulties, and the Beidou system ultimately achieved global coverage and high-precision positioning, making China one of the few countries in the world to independently possess a global satellite navigation system. The Beidou system has been widely applied in many fields such as transportation, disaster relief, weather forecasting, and public safety. The Beidou system has now gained wide international recognition and has begun to provide quality services to an increasing number of countries and regions.",
+ "keyPoints": [
+  "卫星导航系统 → Satellite Navigation System",
+  "高精度定位 → high-precision positioning",
+  "交通运输 → transportation",
+  "灾害救援 → disaster relief",
+  "天气预报 → weather forecasting",
+  "国际认可 → international recognition"
+ ]
+}

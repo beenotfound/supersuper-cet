@@ -1,0 +1,17 @@
+{
+  "id": "write-005",
+  "type": "writing",
+  "level": "cet4",
+  "title": "How People Spend Their Leisure Time",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["leisure", "attention", "balance"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the pie chart below, which shows how urban residents spend their leisure time. You should write at least 120 words but no more than 180 words.",
+  "reference": "The pie chart shows how urban residents in China spend their spare time. Watching short videos and playing games take the largest share, followed by sports, while reading and other activities account for a smaller part.\n\nThis distribution is easy to understand. Short videos and games are cheap, convenient and immediately entertaining: a tired office worker can relax with a phone for ten minutes without leaving his seat. Sports require equipment, time and energy, so they attract fewer people, though the number is growing as health becomes a bigger concern. Reading demands quiet and concentration, which are hard to find in a busy day.\n\nThe chart suggests a warning as well as a description. Leisure should help us recover, not simply consume our attention. If most free time disappears into a screen, people may feel tired rather than refreshed. A reasonable balance might be to keep some time for exercise and for a book, so that leisure restores both the body and the mind.",
+  "keyPoints": [
+    "第一段概述饼图各部分占比，不逐一列举数字。",
+    "第二段分析原因，用 cheap / convenient / demands quiet 等表述。",
+    "第三段提出评价与建议，避免只描述不评论。",
+    "注意非谓语与从句的正确使用，句式要有变化。"
+  ]
+}

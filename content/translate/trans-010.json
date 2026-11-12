@@ -1,0 +1,18 @@
+{
+  "id": "trans-010",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中医",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["herb", "balance", "diagnosis", "remedy"],
+  "prompt": "中医是中国传统医学的总称，已有几千年的历史。它讲究人与自然的和谐，认为身体不舒服往往是因为内部的平衡被打破了。中医看病重视“望闻问切”，医生会观察病人的气色，询问饮食和睡眠，再判断病因。治疗上，中医常用草药、针灸和推拿，副作用相对较小，适合调理慢性病。近年来，中医在海外也受到关注，一些外国医生开始学习针灸。当然，中医需要更多科学研究的支持，才能更好地被世界接受。",
+  "reference": "Traditional Chinese medicine is the general term for China's ancient medical practice, which has a history of several thousand years. It emphasises harmony between people and nature and holds that discomfort in the body usually comes from a broken internal balance. In diagnosis a doctor attaches great importance to observing, listening, asking and feeling the pulse: he watches the patient's complexion, asks about diet and sleep, and then judges the cause of the illness. For treatment, Chinese medicine often uses herbs, acupuncture and massage, which have relatively few side effects and are well suited to adjusting to chronic complaints. In recent years it has also attracted attention overseas, and some foreign doctors have begun to study acupuncture. Many people now turn to it not as a last resort but as part of a healthy daily routine. Of course, traditional medicine needs more support from scientific research before it can be better accepted by the world.",
+  "keyPoints": [
+    "“望闻问切”需意译为 observing, listening, asking and feeling the pulse。",
+    "“平衡被打破”译为 a broken internal balance。",
+    "“调理慢性病”可译为 adjusting to chronic complaints 或 treating chronic conditions。",
+    "“副作用相对较小”用 have relatively few side effects。",
+    "“几千年的历史”译为 a history of several thousand years。"
+  ]
+}

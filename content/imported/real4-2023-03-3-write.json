@@ -1,0 +1,20 @@
+{
+ "id": "real4-2023-03-3-write",
+ "type": "writing",
+ "level": "cet4",
+ "title": "2023年3月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-03-3",
+ "paperTitle": "2023年3月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-03",
+ "prompt": "Suppose you have attended a lecture delivered by a famous scholar. Write a report to the campus newspaper, summarizing its most important points. You should write at least 120 words but no more than 180 words.",
+ "reference": "A Report on Professor Li's Lecture Last week our university had the honor of hosting a lecture by Professor Li, a well-known scholar in education, who spoke to a full hall of students on how to grow during our college years. The speaker raised several important points. First, he pointed out that lifelong learning is the key to coping with a rapidly changing world, arguing that the knowledge we gain today may soon be out of date. He went on to emphasize that we should turn our curiosity into action and never be afraid of making mistakes, since real growth comes from trying rather than waiting. To illustrate this, he cited his own failures as the most valuable lessons in his career. The lecture was warmly received, and many students felt newly inspired to take charge of their own learning. In short, it offered all of us valuable insight into making the most of our college life.",
+ "keyPoints": [
+  "导语交代背景。用『Last week our university had the honor of hosting a lecture by Professor Li... who spoke... on how to grow during our college years』一句答全主讲人、场合、主题 三要素，落实导语功能与 a lecture delivered by a famous scholar 的背景交代，凝练不展开。",
+  "转述句分点报道。用 First... He went on to emphasize... To illustrate this 把两个核心观点 条理化串联，且全用 he pointed out / emphasized 等转述句，凸显是学者所讲，直接兑现 summarizing its most important points。",
+  "一句收束点意义。用『The lecture was warmly received... In short, it offered all of us valuable insight』一句点反响、一句升华意义，收束有力且不再赘述新内容。"
+ ]
+}

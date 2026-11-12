@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-03-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-03",
+ "paperTitle": "大学英语四级标准模拟卷 03",
+ "paperLevel": "cet4",
+ "paperYear": "mock-03",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "A green roof is exactly what its name suggests: a building whose flat top has been covered with soil and plants. Under the visible layer there are several others that most people never see — a waterproof membrane, a drainage system and a root barrier. The weight has to be calculated before anything is planted, and older buildings sometimes need extra support. Once the layers are in place, the roof can be planted with grass, moss, wild flowers or small shrubs, depending on how much weight the structure can carry."
+  },
+  {
+   "label": "B",
+   "text": "Cities are usually several degrees warmer than the countryside around them, because concrete and asphalt absorb heat during the day and release it slowly at night. Plants work in the opposite way. They take up water and release it as vapour, a process that cools the air, and the soil beneath them insulates the building, so less energy is needed for air conditioning. Measurements on a green roof in summer have found the surface temperature to be up to thirty degrees lower than that of a conventional roof next door."
+  },
+  {
+   "label": "C",
+   "text": "When a heavy storm arrives, drains in a modern city can be overwhelmed within minutes. A green roof slows the water down. Rain is caught by the plants and soil, and what does not evaporate or is taken up by the roots runs off more slowly, sometimes hours after the rain has stopped. In cities that have suffered from flooding, this delay is valuable. Green roofs cannot replace proper drainage, engineers warn, but they can reduce the peak load on a system during the worst hour of a storm."
+  },
+  {
+   "label": "D",
+   "text": "A city centre is a difficult place for a bird, a bee or a butterfly. Green roofs create small islands of habitat above the traffic, and research in several European cities has recorded bees, beetles and nesting birds on them. The value depends on the plants chosen: a roof covered with a single type of moss supports far less life than one planted with a mixture of flowers and grasses. Connecting such roofs across a district, rather than building one isolated example, makes a real difference to insects that need stepping stones between green spaces."
+  },
+  {
+   "label": "E",
+   "text": "The obvious objection is cost. Installing a green roof can cost two or three times as much as a standard one, and the building owner may not stay long enough to see the savings. Supporters reply that the calculation is wider than the roof itself. The roof lasts longer because the membrane is protected from sunlight, the building uses less energy for cooling, and the city saves money on drainage. Some cities now offer grants or allow developers to build higher when they include a green roof, which changes the sums for everyone involved."
+  },
+  {
+   "label": "F",
+   "text": "Green roofs are no longer an experiment. In Singapore, new buildings are required to include planting on their roofs, and the city's most famous hotel has a garden that runs along its top like a park. In Germany, the idea has been common for decades, and several cities offer financial support. Closer to home, schools and offices have used their flat roofs for gardens, vegetable plots and even small sports areas. Supporters say the examples are spreading because the benefits are easy to explain, and a visitor can see them from street level."
+  }
+ ],
+ "statements": [
+  {
+   "text": "A green roof can slow the flow of rainwater into drains during heavy storms.",
+   "answer": "C"
+  },
+  {
+   "text": "These roofs offer food and shelter to birds and insects in crowded cities.",
+   "answer": "D"
+  },
+  {
+   "text": "A green roof is a layer of plants and soil placed on top of a building.",
+   "answer": "A"
+  },
+  {
+   "text": "The idea is now required by law in some cities and supported with money in others.",
+   "answer": "F"
+  },
+  {
+   "text": "Plants reduce the heat that buildings absorb and release into the streets.",
+   "answer": "B"
+  }
+ ]
+}

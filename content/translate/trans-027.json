@@ -1,0 +1,18 @@
+{
+  "id": "trans-027",
+  "type": "translation",
+  "level": "cet4",
+  "title": "青年与时代",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["youth", "opportunity", "pressure", "choice"],
+  "prompt": "今天的年轻人成长在一个变化很快的时代，机会多，压力也大。他们从小被鼓励努力读书，考好学校，找一份稳定的工作。然而，现实往往比想象复杂：房价高、竞争激烈，许多人毕业后才发现，人生的路并不只有一条。有的年轻人选择去小城市生活，有的辞职去做自己喜欢的事。他们比父辈更重视个人感受，也更愿意尝试不同的可能。社会应当给年轻人更多理解和空间，让他们按照自己的节奏成长。",
+  "reference": "Today's young people are growing up in an age of rapid change, where there are many opportunities but also great pressure. From childhood they are encouraged to study hard, enter a good school and find a stable job. Reality, however, is often more complicated than the plan: housing is expensive, competition is fierce, and many people discover after graduation that there is more than one road in life. Some young people choose to live in smaller cities, while others leave their jobs to do what they really enjoy. Compared with their parents, they care more about how they feel and are more willing to try different possibilities. This does not mean they are afraid of hard work; it means they want the work to mean something. A society that trusts its young people will be rewarded with their energy and ideas. Society should give them more understanding and space to grow at their own pace.",
+  "keyPoints": [
+    "“变化很快的时代”可译为 an age of rapid change。",
+    "“人生的路并不只有一条”意译为 there is more than one road in life。",
+    "“个人感受”译为 how they feel。",
+    "“按照自己的节奏”用 at their own pace。",
+    "“理解和空间”译为 understanding and space。"
+  ]
+}

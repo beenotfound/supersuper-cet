@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2023dec2-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2023年12月六级第二套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023dec2",
+ "paperTitle": "2023年12月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-12",
+ "passage": "Canyon, it’s just a {{1}} stretch of land with some mountains in the distance and more {{2}} to be a setting for a movie that takes place on Mars. The desert, however, is {{3}} with life, mystery, and magic. The Mojave desert sees less than two inches of rain a year, and like most deserts, is a land of {{4}} . Temperature fluctuations vary from freezing to {{5}} hot, not only between seasons, but even within the same day. At the heart of this vast, 25,000-square-mile desert is Mojave National Preserve. The folks managing and working there wear the wide-brimmed (宽边的) hats that have become {{6}} with places like Yosemite. especially for anyone who loves the outdoors, with endless opportunities to {{7}} your interest in nature. For a photographer, it requires patience and {{8}} a few spare tires to maneuver the network of unpaved “roads”, but the rewards are plenty. Photographing here requires a good, {{9}} pair of shoes and a lot of preparation. Plenty of water, spare tires, and a full tank of gas are needed to explore this unit of the national park system, which is the third largest in the country. Like all deserts. though, if you are patient, you will be rewarded, as they often reveal their secrets slowly. During my last outing, I was surprised to see how much of the area was shaped by ancient volcanoes, giving the area a {{10}} feel, and providing a stunning background for great photographs.",
+ "bank": [
+  "A. apt",
+  "B. burning",
+  "C. extremes",
+  "D. flat",
+  "E. fractions",
+  "F. overflowing",
+  "G. parasites",
+  "H. probably",
+  "I. sparingly",
+  "J. sprinkle",
+  "K. steer",
+  "L. stimulate",
+  "M. sturdy",
+  "N. synonymous",
+  "O. unique"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "H. probably",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "I. sparingly",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "J. sprinkle",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "A. apt",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "K. steer",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "M. sturdy",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "G. parasites",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "N. synonymous",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "E. fractions",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "B. burning",
+   "explain": ""
+  }
+ ]
+}

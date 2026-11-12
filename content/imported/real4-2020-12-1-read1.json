@@ -1,0 +1,71 @@
+{
+ "id": "real4-2020-12-1-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2020年12月四级真题 第1套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-12-1",
+ "paperTitle": "2020年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-12",
+ "passage": "P1 Three children in every classroom have a diagnosable mental health condition. Half of these are behavioural disorders, while one third are emotional disorders such as stress, anxiety and depression, which often become outwardly apparent through self-harm. There was an astonishing 52 percent jump in hospital admissions for children and young people who had harmed themselves between 2009 and 2015.\n\nP2 Schools and teachers have consistently reported the scale of the problem since 2009. Last year, over half of teachers reported that more of their pupils experience mental health problems than in the past. But teachers also consistently report how ill-equipped they feel to meet pupils' mental health needs,\n\nP3 Part of the reason for the increased pressure on schools is that there are now fewer 'early intervention(干预)' and low-level mental health services based in the community. Cuts to local authority budgets since 2010 have resulted in a significant decline of these services, despite strong evidence of their effectiveness in preventing crises further down the line.\n\nP4 The only way to break the pressures on both mental health services and schools is to reinvest in early intervention services inside schools.\n\nP5 There are strong arguments for why schools are best placed to provide mental health services. Schools see young people more than any other service, which gives them a unique ability to get to hard- to-reach children and young people and build meaningful relationships with them over time. Recent studies have shown that children and young people largely prefer to see a counsellor in school rather than in an outside environment. Young people have reported that for low-level conditions such as stress and anxiety, a clinical setting can sometimes be daunting(令人却步的).\n\nP6 There are already examples of innovative schools which combine mental health and wellbeing provision with a strong academic curriculum. This will, though, require a huge cultural shift. Politicians, policymakers, commissioners and school leaders must be brave enough to make the leap towards reimagining schools as providers of health as well as education services.",
+ "questions": [
+  {
+   "q": "What are teachers complaining about?",
+   "options": [
+    "There are too many students requiring special attention.",
+    "They are under too much stress counselling needy students.",
+    "Schools are inadequately equipped to implement any intervention.",
+    "They lack the necessary resources to address pupils' mental problems."
+   ],
+   "answer": 3,
+   "explain": "题干 What are teachers complaining about? 用 what 直接问一个客观事实，没有 infer/suggest/imply 之类的推断信号词。 46. What are teachers complaining about? A) There are too many students requiring special attention. B) They are under too much st…"
+  },
+  {
+   "q": "What do we learn from the passage about community health services in Britain?",
+   "options": [
+    "They have deteriorated due to budget cuts.",
+    "They facilitate local residents' everyday lives.",
+    "They prove ineffective in helping mental patients.",
+    "They cover preventative care for the local resident."
+   ],
+   "answer": 0,
+   "explain": "What do we learn from the passage about community health services in Britain? 中 learn from the passage 是定向取信息，不是推断，问的是文中已陈述的事实。 47. What do we learn from the passage about community health services in Britain? A) They ha…"
+  },
+  {
+   "q": "Where does the author suggest mental health services be placed?",
+   "options": [
+    "At home.",
+    "At school.",
+    "In hospitals.",
+    "In communities."
+   ],
+   "answer": 1,
+   "explain": "题干 Where does the author suggest mental health services be placed? 用 where 直 问地点，配 suggest 提示要找作者明确写出的建议位置，仍是文章里已有的事实陈述。 48. Where does the author suggest mental health services be placed? A) At home. B) At school. C) In…"
+  },
+  {
+   "q": "What do we learn from the recent studies?",
+   "options": [
+    "Students prefer to rely on peers to relieve stress and anxiety.",
+    "Young people are keen on building meaningful relationships.",
+    "Students are more comfortable seeking counselling in school.",
+    "Young people benefit from various kinds of outdoor activities."
+   ],
+   "answer": 2,
+   "explain": "What do we learn from the recent studies? 与第 47 题同句型，问的是研究直接给出的 结论，不需要跨句推断。 题干 What do we learn from the recent studies? 与第 47 题同构，只是把 the passage 换成 the recent studies，结构无陷阱。 49. What do we learn from the recent studies…"
+  },
+  {
+   "q": "What does the author mean by a cultural shift (Line 2, Para. 6)?",
+   "options": [
+    "Simplification of schools' academic curriculums.",
+    "Parents' involvement in schools' policy-making.",
+    "A change in teachers' attitudes to mental health.",
+    "A change in the conception of what schools are."
+   ],
+   "answer": 3,
+   "explain": "题干 What does the author mean by a cultural shift 用 What does … mean by … 这一 固定句型直问引文含义，是典型的词义句意题。 题干 What does the author mean by a cultural shift 是特殊疑问句，主干为 What does the author mean，介词短语 by a cultural shift 引出被询问的短语，注意…"
+  }
+ ]
+}

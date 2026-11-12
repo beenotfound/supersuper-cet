@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-06-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-06",
+ "paperTitle": "大学英语四级标准模拟卷 06",
+ "paperLevel": "cet4",
+ "paperYear": "mock-06",
+ "sectionOrder": 5,
+ "prompt": "丝绸之路是古代连接中国与中亚、欧洲的重要商路。两千多年前，商人们沿着这条道路，把中国的丝绸、茶叶和瓷器运往西方，也把葡萄、香料和音乐带回中国。丝绸之路不仅是一条贸易通道，更是一条文化交流之路。沿着它，佛教传入中国，中国的造纸术也传向世界。今天，这条古老的商路依然吸引着无数旅行者和学者，人们希望从中了解不同文明如何相互学习、共同发展。",
+ "reference": "The Silk Road was an important trade route linking China with Central Asia and Europe in ancient times. More than two thousand years ago, traders carried Chinese silk, tea and porcelain to the West along this road, and brought grapes, spices and music back to China. The Silk Road was not only a trade route but also a road of cultural exchange. Along it, Buddhism spread into China, and Chinese paper-making techniques travelled to the rest of the world. Today this ancient route still attracts countless travellers and scholars, who hope to learn from it how different civilizations can learn from one another and develop together.",
+ "keyPoints": []
+}

@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-08-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-08",
+ "paperTitle": "大学英语四级标准模拟卷 08",
+ "paperLevel": "cet4",
+ "paperYear": "mock-08",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Time away from screens Parents who are tired of arguing about screen time have found a simple alternative: a box of cards or a board. A recent survey of 2,000 families found that four in ten now play games together at least once a week, and most of them say the main reason is to spend an evening without phones. Teachers report similar experiments in classrooms, where short games are used to warm up a lesson."
+  },
+  {
+   "label": "B",
+   "text": "Old games, new players Games that grandparents played are returning to the shelves. Shops report strong demand for new editions of classic word and card games, often bought by people in their twenties and thirties. Designers have improved the artwork and shortened the rules, so a game that once took an hour to explain can now be taught in five minutes. Social media has helped, as players share photographs of their evenings online."
+  },
+  {
+   "label": "C",
+   "text": "A boost for small shops In many cities, board game cafes have opened in the past few years. Customers pay a small fee, borrow games from the shelves and order drinks while they play. For the owners of small shops, this is a way to compete with online retailers: what is being sold is not the box but an evening out. Some cafes also run tournaments that fill quiet weekday evenings."
+  },
+  {
+   "label": "D",
+   "text": "Learning to lose Teachers and psychologists point to benefits that have little to do with the games themselves. Waiting for your turn, explaining a plan, disagreeing without losing your temper and accepting defeat are all practised at the table. One primary school now holds a weekly game afternoon and says arguments in the playground have become less frequent, because pupils have learned to separate the result of a game from the person who won it."
+  },
+  {
+   "label": "E",
+   "text": "Barriers to growth Not everything is easy. Translating and printing a game for a new market can cost far more than the designers expect, and small publishers struggle to compete with large companies. Illegal copies appear quickly online. Designers also complain that a successful idea is imitated within months, and that the law offers little protection to a set of rules or a piece of cardboard."
+  },
+  {
+   "label": "F",
+   "text": "The table as a meeting place For adults who move to a new city, a games evening can be an unusually easy way to meet people. Unlike a party, it gives strangers something to do and a reason to talk. Organisers of public game nights say that regulars often arrive alone and leave in groups, and that the atmosphere is friendlier than in a bar, because everyone is concentrating on the same table."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Independent shops and cafes have appeared where customers pay to play games together.",
+   "answer": "C"
+  },
+  {
+   "text": "Many families choose games as a way to spend an evening without screens.",
+   "answer": "A"
+  },
+  {
+   "text": "Playing games teaches children to accept defeat and wait their turn.",
+   "answer": "D"
+  },
+  {
+   "text": "Game nights give newcomers and neighbours a chance to meet and make friends.",
+   "answer": "F"
+  },
+  {
+   "text": "Classic games are attracting interest from a younger generation.",
+   "answer": "B"
+  }
+ ]
+}

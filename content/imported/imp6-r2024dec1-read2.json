@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2024dec1-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2024年12月六级第一套 阅读2",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024dec1",
+ "paperTitle": "2024年12月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "passage": "An awakening has been taking place in the physical world against the beauty model that has been dictated to us for years. But in the digital arena, social media determines what is considered beautiful. media outlets have presented women whose bodies don’t correspond to the so-called ideal. All those women who had “legitimate”. At the same time, a group of influencers have begun to upload to social media photos of themselves without makeup, and even photos in which they highlight supposed flaws. Technology has reshaped our beauty ideal and is doing a great job communicating that message to the masses. One of the bizarre legacies of the past decade is the popularity of the “cyborg look”, which illustrates what Americans will look like in 2050. The cyborg look spread rapidly. Today, however, the Instagram face has become the new beauty ideal. The internalization of accepted beauty norms is much more effective when there is active involvement in the learning process. The active involvement of users is reflected in the gamified (游戏化的) interaction offered by the social media platforms — the ability to like, write a comment, compare, share. Once the desired beauty ideal has been internalized, users are given tools or features to change their appearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right background. A survey conducted in the United States revealed that more than 50% filter the images before posting them. And obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side. The effect of the filters is already far beyond amiable amusement. The filters and the entire game played on the networks affect the mental health of the users. According to a study, apps like Instagram, Snapchat and Face Tune allow users to achieve a level of perfection that was previously only observed in beauty magazines. Even though humanity has always cherished beauty, in the last decade our obsession with looks has reached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+ "questions": [
+  {
+   "q": "What do we learn about beauty in the digital arena?",
+   "options": [
+    "It dictates the taste of digital media.",
+    "It has been in the making for years.",
+    "It has ushered in a new awakening.",
+    "It is defined by social media."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "What does the passage say about beauty in the physical world?",
+   "options": [
+    "Women are under constant pressure to keep up with beauty models.",
+    "Women are encouraged to pursue a beauty ideal that has never existed.",
+    "A fight is going on to remove pressure on women to conform to an absurd beauty ideal.",
+    "Media outlets have begun to present as beauty models trendy women without any makeup."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What do we learn from the passage about the Instagram face?",
+   "options": [
+    "It is now regarded as the new beauty ideal.",
+    "It is what most women will go after in 2050.",
+    "It is being much talked about on social media.",
+    "It is a perfect illustration of the ultimate beauty."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What has obsessive filtering resulted in?",
+   "options": [
+    "A good many women striving to reach an impossible level of perfection.",
+    "An urge to turn the entire game played on the network to one’s advantage.",
+    "A tendency to regard one’s body as an object of observation and judgment.",
+    "An increasing number of women filtering their images before uploading them."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What does the author want to emphasize at the end of the passage regarding Americans’ obsession with looks?",
+   "options": [
+    "Cosmetic surgery should be made more accessible to the masses.",
+    "Psychological intervention should be introduced to alleviate it.",
+    "Their time spent on social media should be strictly controlled.",
+    "Its root cause should be meticulously examined and analyzed."
+   ],
+   "answer": 0,
+   "explain": ""
+  }
+ ]
+}

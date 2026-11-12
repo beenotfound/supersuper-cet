@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2025jun2-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2025年6月六级第二套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025jun2",
+ "paperTitle": "2025年6月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-06",
+ "passage": "The slow progress of women in elective office is frustrating for some political observers and experts — including myself. Achieving gender equality in Congress is an important goal. This is because the number of women involved in legislative decisions has significant {{1}} for all the policies that governments {{2}} . Female legislators are more likely than men to introduce, speak about and work to pass policies that disproportionately affect women and girls, such as paid family leave, pay {{3}} and gender-based violence. government. In addition, it {{4}} women’s sense that government cares about their concerns and inspires young women to become more politically engaged. While women are underrepresented in governments around the globe, it is a particularly {{5}} problem in the United States. Currently, the US ranks 73rd in the world when it comes to female representation in government. But the reason women are so {{6}} underrepresented in US government is not because they face resistance from voters or struggle to raise money. On the contrary, decades of research shows that female candidates raise as much money and win as often as male politicians with similar {{7}} . Rather, the slow progress of women in politics is a tale of two political parties. In the next Congress, there will be 107 female Democratic lawmakers and 42 female Republican lawmakers in the Senate and House combined. In order for women to gain half of the seats in Congress, more women need to run, {{8}} on Republican tickets. This will require the Republican Party as a whole to {{9}} recruiting women — not just for one election cycle, but in a {{10}} way.",
+ "bank": [
+  "A. bolsters",
+  "B. consequences",
+  "C. credentials",
+  "D. dramatically",
+  "E. enact",
+  "F. equity",
+  "G. especially",
+  "H. evasively",
+  "I. formidable",
+  "J. impetus",
+  "K. lavish",
+  "L. prioritize",
+  "M. suffices",
+  "N. sustained",
+  "O. tenured"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "I. formidable",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "B. consequences",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "M. suffices",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "C. credentials",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "K. lavish",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "A. bolsters",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "D. dramatically",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "F. equity",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "J. impetus",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "O. tenured",
+   "explain": ""
+  }
+ ]
+}

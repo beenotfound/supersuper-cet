@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-12-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年12月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-12-2",
+ "paperTitle": "2023年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "passage": "P1 A multitasker is one who can perform two or more tasks effectively at the same time, which— apart from the obvious differences—is similar to what a computer does. The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. However, the question is: can a person really be a multitasker?\n\nP2 For most scientists, the answer is no. So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well. As soon as two tasks require our attention, productivity suffers. What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another. This requires two essential conditions: that one of the tasks needs to be automatic, like walking or eating, and that they both need different mental processes. Answering the phone and writing at the same time, for example.\n\nP3 However, on the other side of the coin there are people who maintain that it is possible to be, or at least seem to be, multitasking. A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance.\n\nP4 The business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity. From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices.\n\nP5 The benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.",
+ "questions": [
+  {
+   "q": "What does a \"multitasker\" originally refer to?",
+   "options": [
+    "An operating system capable of doing several tasks at once.",
+    "A skilled worker executing more than one task at the same time.",
+    "A sophisticated technology doing several tasks effectively at once.",
+    "An efficient person able to perform multiple tasks at the same time."
+   ],
+   "answer": 0,
+   "explain": "题干 What does a \"multitasker\" originally refer to 直接问一个词「原本指什么」，考的 是文中对该词来源含义的界定。 句子主干是 What does a \"multitasker\" originally refer to，结构平铺，refer to 意为「指 代、指的是」，originally 作状语修饰 refer to，意为「最初指的是」。无陷阱。 51. What does a \"mul…"
+  },
+  {
+   "q": "Why can't people really be multitaskers according to neuroscientists?",
+   "options": [
+    "They are not sufficiently exposed to multitasking situations.",
+    "They are not comparable to mechanical operating systems.",
+    "Their brains do not allow them to multitask.",
+    "Their attention span cannot be expanded."
+   ],
+   "answer": 2,
+   "explain": "题干 Why can't people really be multitaskers according to neuroscientists 问的是某方 观点下的具体理由，答案能在原文直接找到对应句。 Why can't people really be multitaskers according to neuroscientists：主干是 why ... can't people be multitaskers（人为什么不能成为…"
+  },
+  {
+   "q": "What do we learn from the conclusion of a recent study on multitasking?",
+   "options": [
+    "People make greater achievements by maintaining whatever they are doing is multitasking.",
+    "People's performance benefits from the perception of what they are doing as multitasking.",
+    "People's active mental processes exert a positive effect on their multitasking.",
+    "People can improve their capabilities by handling multitasking situations."
+   ],
+   "answer": 1,
+   "explain": "题干 What do we learn from the conclusion of a recent study 问一项具体研究的结论， 原文有对应明示句，属可直接定位的细节。 What do we learn from the conclusion of a recent study on multitasking：主干 what do we learn（我们了解到什么），from the conclusion of a recen…"
+  },
+  {
+   "q": "How does the business world view multitasking?",
+   "options": [
+    "It is a rare skill often found in fluid organisations.",
+    "It is an adaptable capability required of all workers.",
+    "It is an essential quality many employees lack.",
+    "It is a desirable ability that can be developed."
+   ],
+   "answer": 3,
+   "explain": "题干 How does the business world view multitasking 问商业界如何看待多任务，原文有 专段陈述该立场，属可定位细节。 How does the business world view multitasking：view 在此是动词「看待」，主干为 the business world view multitasking（商业界如何看待多任务）。需注意 view 此处不是 名词「景观」而是动词，…"
+  },
+  {
+   "q": "What does the author imply we should do if we have to focus on some task and do it well?",
+   "options": [
+    "Work in a flexible way.",
+    "Learn from mistakes.",
+    "Avoid multitasking.",
+    "Increase efficiency"
+   ],
+   "answer": 2,
+   "explain": "题干 What does the author imply we should do 用 imply 问作者「暗示」我们该怎么 做，答案需基于原文推理而非直接摘录。 What does the author imply we should do if we have to focus on some task and do it well：主干 what does the author imply we should do（作者暗示我们…"
+  }
+ ]
+}

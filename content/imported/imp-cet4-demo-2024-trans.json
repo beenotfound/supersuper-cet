@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-demo-2024-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-demo-2024",
+ "paperTitle": "2024年12月大学英语四级（模拟节选）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 5,
+ "prompt": "中国的移动支付近年来发展迅速。如今，无论是在城市还是乡村，人们只需用手机扫一扫二维码，就可以购买商品、乘坐公交，甚至缴纳水电费。移动支付不仅节省了时间，还减少了人们对现金的依赖。许多外国游客对此感到惊讶，认为这是中国日常生活中最方便的发明之一。",
+ "reference": "Mobile payment has developed rapidly in China in recent years. Today, whether in cities or in the countryside, people can simply scan a QR code with their mobile phones to buy goods, take a bus, or even pay their water and electricity bills. Mobile payment not only saves time but also reduces people's reliance on cash. Many foreign visitors are surprised by it and regard it as one of the most convenient inventions in daily life in China.",
+ "keyPoints": []
+}

@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-10-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-10",
+ "paperTitle": "大学英语四级标准模拟卷 10",
+ "paperLevel": "cet4",
+ "paperYear": "mock-10",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Queues that vanished At half past twelve the main canteen used to look like a stadium entrance. Students queued for twenty minutes, ate in ten and complained for the rest of the afternoon. Since the university introduced app ordering last term, the queue has almost disappeared: you pay on your phone, walk to the collection shelf and pick up a box with your number on it. The canteen manager says it now serves about four hundred more meals a day with the same number of staff."
+  },
+  {
+   "label": "B",
+   "text": "Robots behind the counter Two machines have also appeared in the kitchen. One stirs large pots of soup, and the other fries eggs in a line, six at a time. The staff admit that the egg machine is faster than any of them, especially at breakfast. Head chef Zhou insists this is good news: the machines handle the boring work, while his team designs the weekly menu and talks to students. Nobody became a cook because they wanted to fry eight hundred eggs, he says."
+  },
+  {
+   "label": "C",
+   "text": "What students miss Not every change has been welcomed. A small group of students has started a petition asking the university to keep at least one counter where a person serves you and asks how your day is going. Their argument is not about price or speed; it is about being treated as a person rather than a number. One of them told the campus paper that she lives alone, and that the cook who remembers her name is the only person she speaks to before noon."
+  },
+  {
+   "label": "D",
+   "text": "Data on the menu Behind the scenes, the new system has produced a surprising amount of information. Managers can now see that the vegetarian dish is popular on Wednesdays, that soup sells badly on hot days and that food is often wasted on Friday evenings. This has changed the menu, and not always in the way students expected: portions are smaller, but the kitchen has cut waste by nearly a third and now buys vegetables from a local farm twice a week."
+  },
+  {
+   "label": "E",
+   "text": "A cheaper way to run a canteen Automation is often described as a way to save money, and here the numbers are honest. But the savings have come mostly from planning, not from replacing people. No one has been dismissed since the system arrived; two staff members have gone back to night school to learn data analysis and are now in charge of the ordering. The canteen also spends far less on food that nobody eats."
+  },
+  {
+   "label": "F",
+   "text": "What comes next The team is now testing something more ambitious: a menu that adjusts to each student's health data, offering a lighter lunch before a sports match and more iron to those who need it. The idea raises questions, since the university insists that health information stays private. For now the trial is voluntary, and only three hundred students have signed up. The results will be studied before any decision is made."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Managers use information about what is ordered to decide what to cook.",
+   "answer": "D"
+  },
+  {
+   "text": "Some of the routine cooking in the kitchen is now done by machines.",
+   "answer": "B"
+  },
+  {
+   "text": "Some students feel that the personal side of mealtimes has been lost.",
+   "answer": "C"
+  },
+  {
+   "text": "Waiting in long lines is no longer part of the lunch break.",
+   "answer": "A"
+  },
+  {
+   "text": "The next stage may involve menus designed around each student's health needs.",
+   "answer": "F"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2024dec2-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2024年12月六级第二套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024dec2",
+ "paperTitle": "2024年12月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "passage": "Negativity can cast a {{1}} over your efforts at problem-solving. Sprinkling in positivity via appreciation, {{2}} smiles, and warm comments helps. So does the essential ability dialogue {{3}} from collaborative to adversarial, and progress is likely to come to an immediate {{4}} . In addition, effective dialogue generally has another important characteristic: symmetry. annoying to one or both of you. The silent partner {{5}} tires of only listening, while the talker can feel {{6}} . Usually, both would prefer more equal give and take. Different rates of speech and levels of voice volume can {{7}} symmetry as well. The faster or louder partner can easily begin taking up more airtime. The slower-talking or softer-voiced one can have trouble getting the floor. Conversations also lose balance when one partner’s opinions count more than the other’s. One person’s input {{8}} . because it is expressed more {{9}} . If either partner fairly consistently {{10}} or evaporates, modifying the pattern will be helpful. The dialogue will feel more productive, and at the same time, the relationship overall is likely to feel more positive.",
+ "bank": [
+  "A. affectionate",
+  "B. approximately",
+  "C. elapses",
+  "D. erode",
+  "E. flattered",
+  "F. flips",
+  "G. halt",
+  "H. overburdened",
+  "I. predominates",
+  "J. propagate",
+  "K. scenario",
+  "L. shadow",
+  "M. tentatively",
+  "N. typically",
+  "O. vigorous"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "I. predominates",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "O. vigorous",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "H. overburdened",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "E. flattered",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "G. halt",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "N. typically",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "A. affectionate",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "F. flips",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "J. propagate",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "D. erode",
+   "explain": ""
+  }
+ ]
+}

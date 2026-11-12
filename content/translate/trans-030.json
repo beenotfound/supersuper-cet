@@ -1,0 +1,18 @@
+{
+  "id": "trans-030",
+  "type": "translation",
+  "level": "cet4",
+  "title": "科技改变生活",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["technology", "device", "efficiency", "privacy"],
+  "prompt": "科技深刻地改变了人们的生活方式。几十年前，写信要等上好多天才能收到回信，如今一条消息几秒钟就能传到地球另一端。智能设备帮我们导航、记账、提醒日程，许多过去需要跑腿的事情，现在动动手指就能完成。科技也提高了工作效率，让人们有更多时间陪伴家人。不过，人们也越来越依赖手机，离开它就感到不安。此外，个人隐私的保护成为新的难题。科技本身没有好坏，关键在于人如何使用它。",
+  "reference": "Technology has changed the way people live in profound ways. A few decades ago, a letter might take many days to receive a reply; today a message can reach the other side of the world in seconds. Smart devices help us navigate, keep accounts and remember appointments, and many tasks that once required a trip can now be finished with a few taps. Technology has also raised efficiency at work, giving people more time to spend with their families. However, people are also becoming more dependent on their phones and feel uneasy without them. Moreover, protecting personal privacy has become a new difficulty. The same tool that saves us time can also steal it, and the choice is ours. Learning to switch off now and then is as important as learning to use the newest device. Technology itself is neither good nor bad; what matters is how people use it.",
+  "keyPoints": [
+    "“深刻地改变”用 change ... in profound ways。",
+    "“动动手指”意译为 with a few taps。",
+    "“跑腿”可译为 required a trip。",
+    "“依赖手机”译为 dependent on their phones。",
+    "“关键在于”用 what matters is ...。"
+  ]
+}

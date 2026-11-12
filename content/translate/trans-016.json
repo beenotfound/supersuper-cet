@@ -1,0 +1,18 @@
+{
+  "id": "trans-016",
+  "type": "translation",
+  "level": "cet6",
+  "title": "体育精神",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["athlete", "teamwork", "perseverance", "sportsmanship"],
+  "prompt": "体育比赛最吸引人的地方，往往不是输赢，而是运动员在赛场上的精神。有人带伤坚持跑完全程，有人在对手摔倒时伸手扶起对方，这些画面比金牌更让人难忘。对普通人来说，体育运动的意义在于保持健康、释放压力。近年来，跑步、骑行和游泳在城市里流行起来，周末的公园和河边总能看到锻炼的身影。学校也越来越重视体育课，希望孩子从小养成运动的习惯。毕竟，一个健康的身体是一切的基础。",
+  "reference": "What makes a sports competition most attractive is often not victory or defeat but the spirit athletes show on the field. Some runners finish a race despite an injury, and some players help an opponent who has fallen; such moments are more memorable than gold medals. For ordinary people, the value of sport lies in staying healthy and releasing stress. In recent years running, cycling and swimming have become popular in cities, and at weekends parks and riversides are always full of people exercising. Schools, too, are paying more attention to physical education, hoping that children will form the habit of exercise early in life. Team games teach young people to cooperate, to accept defeat gracefully and to try again after failure. It is never too late to start: a short walk every day is the simplest step towards a stronger body. Winning matters, but how you win matters more. After all, a healthy body is the foundation of everything.",
+  "keyPoints": [
+    "“不是输赢，而是……”用 not ... but ... 结构。",
+    "“带伤坚持跑完全程”可译为 finish a race despite an injury。",
+    "“释放压力”用 releasing stress。",
+    "“养成运动的习惯”译为 form the habit of exercise。",
+    "“一切的基础”可译为 the foundation of everything。"
+  ]
+}

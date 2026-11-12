@@ -1,0 +1,17 @@
+{
+  "id": "write-014",
+  "type": "writing",
+  "level": "cet6",
+  "title": "Where Households Spend Their Money",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["household", "income", "expenditure"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the chart below, which shows how the spending of Chinese households has changed over the past twenty years: the share spent on food has fallen, while the share spent on education, travel and health has risen. You should write at least 150 words but no more than 200 words.",
+  "reference": "The chart records a quiet but important change in Chinese family budgets over the past twenty years: the share of spending on food has fallen, while the share devoted to education, travel and health has risen.\n\nThis change is closely linked to rising incomes. When a family earns just enough to cover basic needs, most of the money goes on food. As income grows, the stomach is satisfied first and the remaining money can be spent elsewhere. Parents who once worried about whether their children would eat well now worry about which courses will help them most. People also spend more on health, not because they are iller but because they hope to live longer and better.\n\nThe shift has consequences for the economy. Services such as education, tourism and medical care become a larger part of national output, creating jobs that require different skills. It also brings new pressures: school fees and medical bills can be heavy for ordinary families, and saving for them has become a common worry.\n\nOverall, the chart describes something more than numbers. It shows a society moving from having enough to living better, and reminds us that such progress must be shared.",
+  "keyPoints": [
+    "第一段概括两张图表的反向变化：食品占比下降、教育旅游医疗上升。",
+    "第二段用收入增长解释变化，避免只描述不分析。",
+    "第三段指出对经济结构的影响与家庭的新压力。",
+    "结尾把数据上升为“从吃饱到生活更好”的社会判断。"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "real4-2021-12-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2021年12月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-2",
+ "paperTitle": "2021年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "It is commonly believed that the great English dramatist and poet William Shakespeare was born in Stratford-on-Avon on April 23, 1564. But it is impossible to know the {{1}}  day on which he was born. Church records show he was baptized(施洗礼) on April 26, and three days was a customary amount of time to wait before baptizing a newly born baby. Shakespeare's date of death is {{2}}  known, however: it was April 23, 1616. He was 52 and had retired to Stratford three years before. Although few plays have been performed or analyzed as extensively as the 38 plays Shakespeare wrote, there are few surviving details about his life. This  {{3}} of biographical information is due primarily to his social {{4}}  ; he was not a noble, but the son of a leather trader. Shakespeare  {{5}} attended the grammar school in Stratford, where he would have studied Latin and read {{6}}  literature. He did not go to university and at age 18 married Anne Hathaway, who was eight years his {{7}}  . They had four children, including the twins, Hamnet and Judith. Nothing is known of the period between the birth of the twins and Shakespeare's {{8}}  as a dramatist in London in the early 1590s. In a million words written over 20 years, he  {{9}} the full range of human emotions and conflicts with a  {{10}} that remains sharp today. As his great contemporary the poet and dramatist Ben Jonson said, \"He was not of an age, but for all time.\"",
+ "bank": [
+  "captured",
+  "classical",
+  "conclusively",
+  "emergence",
+  "exact",
+  "generated",
+  "particular",
+  "position",
+  "precision",
+  "probably",
+  "quality",
+  "scarcity",
+  "senior",
+  "separated",
+  "systematically"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "exact",
+   "explain": "the 与名词 day 之间的定语 exact day = 确切的那一天，呼应“无法确知” 上句说 It is commonly believed that ... Shakespeare was born ... on April 23, 1564 只 是“人们普遍认为”，本句转折 But it is impossible to know the __(26)__ day——“无法知 道确切的日子”，exact（确切的）与 impos…"
+  },
+  {
+   "n": 2,
+   "answer": "conclusively",
+   "explain": "修饰过去分词 known 的状语 conclusively known = 确凿可考，与上文“生日不可考”形成对照 本句有转折词 however，与前文“出生日无法确知”相对：Shakespeare's date of death is __(27)__ known, however: it was April 23, 1616——卒日则“确凿地为人所知”， conclusively（确凿地）与紧接的精确日期 April 23, 161…"
+  },
+  {
+   "n": 3,
+   "answer": "scarcity",
+   "explain": "指示词 This 后、of 短语前的主语名词 scarcity of information 呼应“few details” 本段开头 there are few surviving details about his life（生平细节极少）正是 This ___ 所 指，scarcity（匮乏）与 of biographical information 搭成“传记信息的匮乏”，是对 few details 的同义复指。 K) qua…"
+  },
+  {
+   "n": 4,
+   "answer": "position",
+   "explain": "形容词 social 后的名词中心词 social position = 社会地位 下一句 he was not a noble, but the son of a leather trader（不是贵族、而是皮匠之子） 正是在解释他的“社会地位”，position 与 social 搭成 social position（社会地位），与下 文出身的说明完全对应。 K) quality social quality 不指“出身地位” qu…"
+  },
+  {
+   "n": 5,
+   "answer": "probably",
+   "explain": "主语与实义动词 attended 之间的状语 probably 呼应全文“资料缺乏、只能推测”的基调 全文反复强调生平不可考（there are few surviving details about his life）， Shakespeare __(30)__ attended the grammar school 这里用 probably（很可能）表“据 推测他上过文法学校”，与下文 he would have studied L…"
+  },
+  {
+   "n": 6,
+   "answer": "classical",
+   "explain": "read 的宾语 literature 前缺定语 classical literature 是固定搭配“古典文学” 上文 he would have studied Latin（学拉丁语）正是古希腊罗马古典教育的标志， classical 与 literature 搭配成“古典文学”，与学拉丁语的语境严丝合缝。 E) exact exact literature 搭配不成立 exact 意为“确切的”，没有“确切的文学”这种说法，且它另…"
+  },
+  {
+   "n": 7,
+   "answer": "senior",
+   "explain": "be 动词 was 后作表语 eight years his senior = 比他大八岁 married Anne Hathaway, who was eight years his __(32)__ 配 senior 构成英语固定表达 “eight years one's senior”（年长某人八岁），与下文夫妻育有子女的叙述完全吻合。 E) exact 不能与 years 构成年龄比较 exact（确切的）无法说“比他确切八岁”…"
+  },
+  {
+   "n": 8,
+   "answer": "emergence",
+   "explain": "物主代词 Shakespeare's 后的名词 emergence as a dramatist = 作为剧作家的崭露头角 Shakespeare's __(33)__ as a dramatist in London in the early 1590s 讲他在伦敦“崭露头 角成为剧作家”这一时间节点，emergence（出现、崭露）与 as a dramatist 搭配，正好填 补“双胞胎出生”到“成名”之间这段空白。 K) qua…"
+  },
+  {
+   "n": 9,
+   "answer": "captured",
+   "explain": "主语 he 后缺谓语动词 capture emotions = （用文字）捕捉、刻画情感 he __(34)__ the full range of human emotions and conflicts with a precision that remains sharp today，captured（捕捉、刻画）与 emotions 搭成“捕捉人类情感”，正契 合“用文字精准刻画情感”的赞颂，与后半句 precision/sha…"
+  },
+  {
+   "n": 10,
+   "answer": "precision",
+   "explain": "介词 with + 冠词 a 之后 与 sharp 呼应，指写作的“精准” he __(34)__ the full range of human emotions and conflicts with a __(35)__ that remains sharp today，说他以一种“至今依然锐利的 ___”刻画人类情感，precision（精 准）正好与 sharp（敏锐、犀利）语义共振，指莎翁文字的精准笔力。 K) quality…"
+  }
+ ]
+}

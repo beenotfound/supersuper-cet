@@ -1,0 +1,71 @@
+{
+ "id": "real4-2020-09-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2020年9月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-09-1",
+ "paperTitle": "2020年9月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-09",
+ "passage": "P1 The work-life balance is dead. By this, I'm not advocating that you should give up your pursuit of having a fulfilling career and a thriving personal life, and I'm definitely not saying that you have to give up one to have the other. I also acknowledge that we have a work-life problem, but I'm arguing that the concept of balance has never been helpful, because it's too limiting. You see, our language makes a difference, and how we refer to things matters because it affects our thinking and therefore our actions.\n\nP2 At the minimum, most of us work because we want to be able to support ourselves, our families, and the people around us. In the ideal world, we're all doing work that we're proud of and that provides meaning and purpose to us. But even if your job doesn't give you shivers of joy each new day, working is a part of what each of us does and the contribution we make to society. When you separate work and life, it's a little bit harder to make that connection. But when you think of work as part of a full life and a complete experience, it becomes easier to see that success in one aspect often supports another.\n\nP3 Losing your balance and falling isn't pleasant. A goal to balance suggests that things could quickly get off balance, and that causes terrible outcomes. It's more constructive to think of solutions that continue to evolve over shifts in life and work. Rather than falling or failing, you may have good days or better days or not-so-good days. These variations are normal, and it's more useful to think of life as something that is ever evolving and changing, rather than a high-risk enterprise where things could go wrong with one misstep.\n\nP4 How we talk to ourselves matters, and how we talk about issues makes a difference. Let's bury \"work-life balance\" and think bigger and better about work-life fulfillment to do a little less balancing and a lot more living.",
+ "questions": [
+  {
+   "q": "What does the author suggest by saying \"The work-life balance is dead\"?",
+   "options": [
+    "The hope of achieving a thriving life is impossible to realize.",
+    "The pursuit of a fulfilling career involves personal sacrifice.",
+    "The imbalance between work and life simply doesn't exist anymore",
+    "The concept of work-life balance contributes little to a fulfilling life."
+   ],
+   "answer": 3,
+   "explain": "题干用 What does the author suggest by saying 的句式，直接询问作者说这句话想表达 什么，是典型的句意理解题。 主干是 What does the author suggest，by 引导的方式状语 by saying \"The work-life balance is dead\" 修饰 suggest，引号内是宾语从句的内容，整体平铺直叙，无陷阱。 51. What does the author…"
+  },
+  {
+   "q": "What does the author say about our use of language?",
+   "options": [
+    "It impacts how we think and behave.",
+    "It changes with the passage of time.",
+    "It reflects how we communicate.",
+    "It differs from person to person."
+   ],
+   "answer": 0,
+   "explain": "题干 What does the author say about our use of language 直接问作者关于某具体对象 的明确表述，要求复述原文观点。 52. What does the author say about our use of language? A) It impacts how we think and behave. B) It changes with the passage of time. C)…"
+  },
+  {
+   "q": "What does the author say we do in an ideal world?",
+   "options": [
+    "We do work that betters the lives of our families and friends.",
+    "We do work that gives us bursts of joy each new day.",
+    "We do meaningful work that contributes to society.",
+    "We do demanding work that brings our capacity into full play."
+   ],
+   "answer": 2,
+   "explain": "题干 What does the author say we do in an ideal world 限定在 ideal world 这一条件下 询问具体做法，是单点细节复述。 主干 What does the author say we do，we do 是宾语从句省略 that，in an ideal world 是地点状语；句式直白。 53. What does the author say we do in an ideal …"
+  },
+  {
+   "q": "What does the author say about life?",
+   "options": [
+    "It is cyclical.",
+    "It is dynamic.",
+    "It is fulfilling.",
+    "It is risky."
+   ],
+   "answer": 1,
+   "explain": "What does the author say about life 与第 52 题同款句式，问作者对 life 这个对象的明确 陈述。 What does the author say about life 一句话主谓宾齐全，无从句、无否定，无陷阱。 54. What does the author say about life? A) It is cyclical. B) It is dynamic. C) It is fulfi…"
+  },
+  {
+   "q": "What does the author advise us to do?",
+   "options": [
+    "Make life as simple as possible.",
+    "Talk about balance in simpler terms.",
+    "Balance life and work in a new way.",
+    "Strive for a more fulfilling life."
+   ],
+   "answer": 3,
+   "explain": "What does the author advise us to do 不指向某段细节，而问作者贯穿全文给读者的最终 主张，落在末段总结句，本质是主旨或态度类问题。 What does the author advise us to do，主干 the author advise us，to do 是不定式宾 语补足语，结构平直。 55. What does the author advise us to do? A) Make li…"
+  }
+ ]
+}

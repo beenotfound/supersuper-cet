@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-real-2024-12-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-12",
+ "paperTitle": "2024年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 5,
+ "prompt": "近年来，中国新能源汽车产业发展迅速。越来越多的人选择购买电动汽车，既因为充电比加油便宜，也因为人们更加关注空气质量和环境保护。在城市里，充电桩已经出现在停车场、商场和居民小区中。中国企业还在电池技术和智能驾驶方面不断取得突破，一些品牌的汽车已经出口到许多国家。不过，行业也面临充电设施分布不均、电池回收等问题。专家认为，只有持续创新并完善相关服务，新能源汽车才能走进更多家庭。",
+ "reference": "In recent years, China's new energy vehicle industry has developed rapidly. More and more people choose to buy electric cars, partly because charging is cheaper than buying petrol, and partly because they pay greater attention to air quality and environmental protection. In cities, charging piles have appeared in car parks, shopping malls and residential communities. Chinese companies have also kept making breakthroughs in battery technology and intelligent driving, and cars from some brands have already been exported to many countries. However, the industry still faces problems such as the uneven distribution of charging facilities and the recycling of used batteries. Experts believe that only by continuing to innovate and improving related services can new energy vehicles truly reach more families.",
+ "keyPoints": []
+}

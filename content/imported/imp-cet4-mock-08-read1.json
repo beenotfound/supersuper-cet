@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-08-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-08",
+ "paperTitle": "大学英语四级标准模拟卷 08",
+ "paperLevel": "cet4",
+ "paperYear": "mock-08",
+ "sectionOrder": 4,
+ "passage": "Students often treat sleep as the first thing to cut when exams approach. A week of late nights seems a small price to pay for extra revision. Research on memory, however, suggests that this bargain is a poor one: the hours lost at night cannot simply be replaced by hours spent with a textbook.\n\nThe reason lies in what happens after learning. When we first take in new information, the memory is fragile. During sleep, and especially during deep sleep in the first half of the night, the brain replays and reorganises what it has taken in, linking new material to what we already know. Cut that sleep short and the links are weaker. In one experiment, students who learned a list of words and then slept for eight hours remembered far more the next morning than those who stayed awake and revised for the same length of time.\n\nThere is a second effect, less obvious but just as important. Tired students find it harder to concentrate and are more easily distracted by their phones. They may sit at a desk for three hours and still absorb very little. Their teachers notice the difference before they do: the same student who was quick and curious in October becomes slow and quiet in December.\n\nThe practical advice from researchers is unglamorous. Keep a regular bedtime, avoid caffeine after the early afternoon, and put screens away before going to bed. If a deadline forces a late night, try to recover with a short nap the next day rather than with more coffee. Sleep, they argue, is not time taken away from study. It is part of study.",
+ "questions": [
+  {
+   "q": "What do many students do when exams approach?",
+   "options": [
+    "They cut back on sleep.",
+    "They stop revising altogether.",
+    "They sleep more than usual.",
+    "They change their diet."
+   ],
+   "answer": 0,
+   "explain": "Passage 1 开头说 Students often treat sleep as the first thing to cut when exams approach，即考试临近时学生最先削减睡眠，故选 A。"
+  },
+  {
+   "q": "What happens during deep sleep according to the passage?",
+   "options": [
+    "The brain rests completely.",
+    "New words are forgotten.",
+    "Students become distracted.",
+    "Memories are reorganised and linked."
+   ],
+   "answer": 3,
+   "explain": "第二段说 the brain replays and reorganises what it has taken in, linking new material to what we already know，故选 D。"
+  },
+  {
+   "q": "What did the experiment with the word list show?",
+   "options": [
+    "Revising all night is effective.",
+    "Students need less sleep than adults.",
+    "Those who slept remembered more.",
+    "All students remembered the same amount."
+   ],
+   "answer": 2,
+   "explain": "实验发现学完单词后睡八小时的学生，第二天记住的内容远多于同样时长保持清醒复习的学生，故选 C。"
+  },
+  {
+   "q": "What does the author suggest for a forced late night?",
+   "options": [
+    "Drinking more coffee.",
+    "Taking a short nap the next day.",
+    "Sleeping late at weekends.",
+    "Skipping breakfast."
+   ],
+   "answer": 1,
+   "explain": "末段建议 try to recover with a short nap the next day rather than with more coffee，即第二天小睡补觉，故选 B。"
+  }
+ ]
+}

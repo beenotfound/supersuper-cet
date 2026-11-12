@@ -1,0 +1,71 @@
+{
+ "id": "real4-2020-09-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2020年9月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-09-2",
+ "paperTitle": "2020年9月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-09",
+ "passage": "P1 When was cleaning a crime? When you're doing it to create art, obviously. A number of street artists around the world have started expressing themselves through a practice known as reverse graffiti(涂鸦). They find dirty surfaces and paint them with images or messages using cleaning brushes or pressure hoses(高压水管). Either way, it's the same principle: the image is made by cleaning away the dirt. Each artist has their own individual style but all artists share a common aim: to draw attention to the pollution in our cities. The UK's Paul Curtis, better known as Moose, operates around Leeds and London and has been commissioned by a number of companies to make reverse graffiti advertisements.\n\nP2 Brazilian artist, Alexandre Orion, turned one of Sao Paulo's transport tunnels into an amazing wall painting in 2006 by getting rid of the dirt. Made up of a series of white skulls(颅骨), the painting reminds drivers of the effect their pollution is having on the planet. \"Every motorist sits in the comfort of their car, but they don't give any consideration to the price their comfort has for the environment and consequently for themselves,\" says Orion.\n\nP3 The anti-pollution message of the reverse graffiti artists confuses city authorities since the main argument against graffiti is that it spoils the appearance of both types of property: public and private. This was what Leeds City Council said about Moose's work: \"Leeds residents want to live in clean and attractive neighbourhoods. We view this kind of advertising as environmental damage and will take strong action against it.\" Moose was ordered to \"clean up his act.\" How was he supposed to do this: by making all property he had cleaned dirty again?\n\nP4 As for the Brazilian artist's work, the authorities were annoyed but could find nothing to charge him with. They had no other option but to clean the tunnel—but only the parts Alexandre had already cleaned. The artist merely continued his campaign on the other side. The city officials then decided to take drastic action. They not only cleaned the whole tunnel but every tunnel in Sao Paulo.",
+ "questions": [
+  {
+   "q": "What do we learn from the passage about reverse graffiti?",
+   "options": [
+    "It uses paint to create anti-pollution images.",
+    "It creates a lot of trouble for local residents.",
+    "It causes lots of distraction to drivers.",
+    "It turns dirty walls into artistic works."
+   ],
+   "answer": 3,
+   "explain": "题干 What do we learn from the passage about reverse graffiti? 问的是关于这个概念 的客观信息，答案应该是对原文某句的同义转述，不需要推断 题干 What do we learn from the passage about reverse graffiti? 是 What 引导的特殊 疑问句，主干 we learn，from the passage 是状语，about reve…"
+  },
+  {
+   "q": "What do reverse graffiti artists try to do?",
+   "options": [
+    "Publicise their artistic pursuit.",
+    "Beautify the city environment.",
+    "Raise public awareness of environmental pollution.",
+    "Express their dissatisfaction with local governments."
+   ],
+   "answer": 2,
+   "explain": "题干 What do reverse graffiti artists try to do? 问群体共同意图，原文必有明文交代，仅 需找出该明文即可 题干 What do reverse graffiti artists try to do? 是 What 引导的特殊疑问句，主语 reverse graffiti artists，谓语 try to do；try to do 是固定结构，表示「试图、致力于做某 事」；句法平直，无陷阱 4…"
+  },
+  {
+   "q": "What do we learn about Brazilian artist Alexandre Orion?",
+   "options": [
+    "He was good at painting white skulls.",
+    "He chose tunnels to do his graffiti art.",
+    "He suggested banning all polluting cars.",
+    "He was fond of doing creative artworks."
+   ],
+   "answer": 1,
+   "explain": "题干 What do we learn about Brazilian artist Alexandre Orion? 问的是该人物的客观情 况，属于以人为锚的细节题 题干 What do we learn about Brazilian artist Alexandre Orion? 主干 we learn，about 后跟同位语结构「Brazilian artist Alexandre Orion」，前者是身份、后者是姓名；结构清 …"
+  },
+  {
+   "q": "What does the author imply about Leeds City Council's decision?",
+   "options": [
+    "It is simply absurd.",
+    "It is well-informed.",
+    "It is rather unexpected.",
+    "It is quite sensible."
+   ],
+   "answer": 0,
+   "explain": "题干 What does the author imply about Leeds City Council's decision? 中 imply 是推 断题的标志词，问作者对市议会决定的隐含态度 题干 What does the author imply about Leeds City Council's decision? 是 What 引导 的特殊疑问句，主语 the author，谓语 imply，about 引导对象状语；…"
+  },
+  {
+   "q": "How did Sao Paulo city officials handle Alexandre Orion's reverse graffiti?",
+   "options": [
+    "They made him clean all the tunnels in Sao Paulo.",
+    "They took drastic action to ban all reverse graffiti.",
+    "They charged him with polluting tunnels in the city.",
+    "They made it impossible for him to practice his art."
+   ],
+   "answer": 3,
+   "explain": "题干 How did Sao Paulo city officials handle Alexandre Orion's reverse graffiti? 问官 方采取了什么客观行动，原文必有明文，按细节题处理 题干 How did Sao Paulo city officials handle Alexandre Orion's reverse graffiti? 是 How 引导的特殊疑问句，handle 意为「处理、应对」；主体…"
+  }
+ ]
+}

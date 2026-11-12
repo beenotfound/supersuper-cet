@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2024dec1-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2024年12月六级第一套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024dec1",
+ "paperTitle": "2024年12月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "passage": "With the rapid progress in the economy, it is natural that people’s ideology is bound for change. Being {{1}} is no longer a virtue to some people, and they are not alone in holding this view. Each might have different viewpoints on how to lead one’s lifestyle: some prefer simplicity, some love luxuries, some spend {{2}} , some accumulate as much as they can like a country mouse. As I was born poor and in the countryside, the simple rural life seldom loses its {{3}} to me, but as my station changes, I have an opportunity to {{4}} with the newly rich, an experience which has revolutionized my view of lifestyle. It is evil or sinful to spend little and to save much, an idea only recently being revealed to me. Actually the whole world is in a {{5}} to borrow and to spend, with the USA leading the trend. The USA is still the richest and most powerful country in the world, but the {{6}} is that they borrow money from us. Though a {{7}} of economics, at least I know that investing with borrowed money will turn the borrower into the {{8}} rather than the decent and relatively rich. Those who are {{9}} enough to have invested in real estate and have got loans from the bank have benefited by selling their purchased home at a price several folds higher. Even education is not immune from this theory. Many of those poor parents who have the vision to send their children to college have benefited from this investment, even though they have to {{10}} a living. It is reasonable to conclude that spending is praiseworthy, supposing it is not beyond your means. ",
+ "bank": [
+  "A. appeal",
+  "B. extravagantly",
+  "C. intrinsically",
+  "D. irony",
+  "E. layman",
+  "F. literally",
+  "G. majestic",
+  "H. malicious",
+  "I. meadow",
+  "J. mingle",
+  "K. predator",
+  "L. rage",
+  "M. scrape",
+  "N. shrewd",
+  "O. thrifty"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "A. appeal",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "I. meadow",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "B. extravagantly",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "D. irony",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "C. intrinsically",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "O. thrifty",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "M. scrape",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "L. rage",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "E. layman",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "N. shrewd",
+   "explain": ""
+  }
+ ]
+}

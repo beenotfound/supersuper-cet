@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2025jun1-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2025年6月六级第一套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025jun1",
+ "paperTitle": "2025年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-06",
+ "passage": "In her second year, Charlene Duong learned of the use of poisonous, synthetic pesticides on her college campus. Shocked but not surprised, she knew she had to do something. Along with a couple of classmates, Charlene did a quick web search and discovered a small but growing movement led by the organization, Herbicide-Free Campus (HFC), to rid college campuses of artificial herbicide (灭草剂). They were {{1}} . Like many, Charlene experiences climate anxiety — a {{2}} fear of a climate catastrophe — and was, at the time, looking for an {{3}} . When she discovered the HFC movement, she said she felt she “had found a specific area to focus on that still fit into the larger picture of fighting for a healthier, safer, cleaner {{4}} for all.” Toxic herbicide use in university land care is not unique. Most institutions of higher education rely on synthetic pesticides and fertilizers to achieve {{5}} goals. Having a “beautiful” campus means green and perfectly maintained lawns along with flower beds and paved sidewalks. But these {{6}} managed campuses can come at a cost: increased cancer risk, {{7}} waterways, poisoned wildlife and lifeless soil. Pesticide use on college campuses also contributes to our global climate crisis. The use of chemicals to get rid of insects or unwanted plant life can increase indirect {{8}} , as they can include petroleum-based ingredients. Pesticide use is also {{9}} the ability of soils to absorb carbon, hampering campuses’ ability to recover quickly from climate-related extreme weather events like droughts and floods. Instead of using toxic chemicals, students working with HFC help out with {{10}} the campus grounds. “This work reminds me to be in the present moment as I play my role in reducing herbicide use and keeping my campus safe and healthy,” says Charlene.",
+ "bank": [
+  "A. aesthetic",
+  "B. chronic",
+  "C. contaminated",
+  "D. conventionally",
+  "E. emissions",
+  "F. environment",
+  "G. hampering",
+  "H. incidentally",
+  "I. infringement",
+  "J. intrigued",
+  "K. juvenile",
+  "L. outlet",
+  "M. rotating",
+  "N. vibrations",
+  "O. weeding"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "J. intrigued",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "B. chronic",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "L. outlet",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "F. environment",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "A. aesthetic",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "D. conventionally",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "C. contaminated",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "E. emissions",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "G. hampering",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "O. weeding",
+   "explain": ""
+  }
+ ]
+}

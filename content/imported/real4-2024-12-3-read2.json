@@ -1,0 +1,71 @@
+{
+ "id": "real4-2024-12-3-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2024年12月四级真题 第3套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-12-3",
+ "paperTitle": "2024年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "passage": "P1 Do you ever blend up a protein drink for breakfast, or grab a protein bar following an afternoon workout? If so, you are likely among the millions of people in search of more protein-rich diets.\n\nP2 Protein-enriched products are found everywhere. But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need.\n\nP3 Many of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. Global retail sales of protein supplement products reached an astonishing US$18.9 billion in 2020.\n\nP4 But are we really in need of more protein? Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein.\n\nP5 In fact, Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level.\n\nP6 For example, if you're a dedicated athlete you might need to consume higher quantities of protein. Generally, though, a 140-pound person should not exceed 120 grams of protein per day, particularly because a high protein diet can strain kidney and liver function and increase risks of developing heart disease and cancer.\n\nP7 While fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite.\n\nP8 In the 1970s through the 1990s, protein products remained visible but moved back somewhat with the dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods and beverages following the publication of studies linking sugar and saturated(饱和的) fat consumption to heart disease.\n\nP9 Later research in 2003, however, suggested high-protein diets could aid in weight loss, and protein quickly regained its former nutrient-superstar status.\n\nP10 Now most people living in high-income nations are consuming enough protein. When we replace meals with a protein bar or drink, we also risk missing out on the rich sources of antioxidants(抗氧化剂), vitamins and many other benefits of real food.",
+ "questions": [
+  {
+   "q": "What do we learn about publicity over protein in America?",
+   "options": [
+    "It has helped to create the myth of protein deficiency.",
+    "It has helped Americans in search of protein-rich diets.",
+    "It has raised a lot of health concerns among the public.",
+    "It has been funded by food companies and health experts."
+   ],
+   "answer": 0,
+   "explain": "What do we learn about publicity over protein in America? 是一个 What…learn about 的事实型问句，直接问关于某对象（publicity）的某一事实，没有 infer/suggest/imply 等推断信号。 句式平铺直叙：What do we learn about publicity over protein in America? 主干是 What do we…"
+  },
+  {
+   "q": "Why have physicians in the U.S. never actually examined a patient with protein deficiency?",
+   "options": [
+    "Americans can purchase many kinds of protein-rich foods everywhere.",
+    "Americans can absorb the number of calories recommended by food experts.",
+    "Americans can get sufficient protein just by eating adequate foods daily.",
+    "Americans can rely on food supplements to prevent protein deficiency."
+   ],
+   "answer": 2,
+   "explain": "Why have physicians in the U.S. never actually examined a patient with protein deficiency? 用 Why 直问原因，要求按原文给出的解释作答，不需要自行推断。 现在完成时 have…never actually examined，never 是关键否定词，actually 加强语气， 提示原文给出的解释是\"压根没机会见到\"层面的原因；理解时把 nev…"
+  },
+  {
+   "q": "What should people take into consideration in deciding on the most preferable protein intake?",
+   "options": [
+    "How healthy they are and what food they eat.",
+    "How old they are and what activities they do.",
+    "How much protein they consume and what their body weight is.",
+    "How serious their protein deficiency is and what remedies they use."
+   ],
+   "answer": 1,
+   "explain": "What should people take into consideration in deciding on the most preferable protein intake? 在问决策依据，原文必会以并列形式给出依据项，照搬即可。 in deciding on… 是 in doing 结构作状语，表\"在做某事的时候\"；主干是 What should people take into consideration，把状语剥掉，问…"
+  },
+  {
+   "q": "What foods have been largely out of favor for more than a century?",
+   "options": [
+    "Sugar-free snacks.",
+    "Protein-rich foods.",
+    "Both red and white meats.",
+    "Sugary and fatty foods."
+   ],
+   "answer": 3,
+   "explain": "What foods have been largely out of favor for more than a century? 是事实型问句， 答案就在原文某句的事实陈述里。 现在完成时 have been largely out of favor 表过去到现在的持续状态；largely 是程度副 词，表\"在很大程度上\"，提醒不要选\"完全/彻底\"等绝对化误读。 While fats and sugar have taken the…"
+  },
+  {
+   "q": "What does the author imply people in developed countries should do to keep healthy?",
+   "options": [
+    "Enjoy natural food.",
+    "Eat vegetarian diets.",
+    "Consume enough protein daily.",
+    "Replace meals with protein bars."
+   ],
+   "answer": 0,
+   "explain": "What does the author imply people in developed countries should do to keep healthy? 题干直接用 imply，是推断题的标准句式。 句式较长但分层清晰：主干 What does the author imply X should do，宾语从句的主语 是 people in developed countries，目的状语 to keep healthy；…"
+  }
+ ]
+}

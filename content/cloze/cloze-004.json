@@ -1,0 +1,63 @@
+{
+  "id": "cloze-004",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "Museums Beyond the Glass Case",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["tactile", "evoke", "dispute"],
+  "passage": "For generations the museum visit followed a simple rule: look, but do not touch. Objects sat behind glass, labels supplied dates, and visitors moved through rooms in silence. That model still suits many collections, yet it excludes anyone who cannot see well and leaves most people with only a faint impression of the past.\n\nDesigners have begun to {{1}} the experience. Some galleries now provide {{2}} copies of sculptures that visitors may handle, with labels in larger print and plain language. Others use sound: a recording of a workshop or the murmur of a market can {{3}} a scene more vividly than text.\n\nThe change is not only about disability. Curators have found that a multi-sensory room holds school groups far longer than a case of objects, and that families stay until closing. When a visitor can lift a replica sword or smell the resin used in a boat, the past becomes something like a memory.\n\nCritics warn that replicas may {{4}} real objects in the minds of visitors, and that a museum should not {{5}} scholarship for novelty. Curators answer that the two goals are not in {{6}}. A careful reconstruction, they argue, draws attention to the original rather than {{7}} its importance. Many institutions now label replicas clearly and invite visitors to compare the copy with the genuine item.\n\nThe biggest {{8}} is training. Front-of-house staff need time to {{9}} new formats, and small museums often lack the money to build them. Still, the principle is hard to {{10}}: a collection that few people can fully experience serves the public less well than one that welcomes everybody.",
+  "bank": ["rethink", "wander", "tactile", "conflict", "publish", "sacrifice", "sudden", "obstacle", "evoke", "fold", "displace", "diminish", "ceiling", "adopt", "dispute"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "rethink",
+      "explain": "begun to rethink the experience 指开始“重新思考”参观体验，后文列举的新做法与之一致；wander、publish 不合。"
+    },
+    {
+      "n": 2,
+      "answer": "tactile",
+      "explain": "tactile copies 指可供触摸的“触觉”复制品，与 may handle 直接呼应；sudden、ceiling 不合。"
+    },
+    {
+      "n": 3,
+      "answer": "evoke",
+      "explain": "evoke a scene 表示声音能“唤起”场景，比文字更生动；publish、fold 不能与 scene 构成此义。"
+    },
+    {
+      "n": 4,
+      "answer": "displace",
+      "explain": "displace real objects 指复制品可能“取代”真品在观众心中的位置，与 critics warn 的语气一致。"
+    },
+    {
+      "n": 5,
+      "answer": "sacrifice",
+      "explain": "sacrifice scholarship for novelty 指为了新奇而“牺牲”学术性，搭配成立；wander、fold 不合。"
+    },
+    {
+      "n": 6,
+      "answer": "conflict",
+      "explain": "not in conflict 表示两个目标并不“冲突”，与 Curators answer 的辩护逻辑一致；ceiling 不合。"
+    },
+    {
+      "n": 7,
+      "answer": "diminish",
+      "explain": "rather than diminish its importance 指复制品应突出而不是“削弱”原件的重要性，与 draws attention to 形成对比；displace 不能与 its importance 搭配。"
+    },
+    {
+      "n": 8,
+      "answer": "obstacle",
+      "explain": "The biggest obstacle is training 指最大的“障碍”是培训，后文提到人手与经费，语义连贯。"
+    },
+    {
+      "n": 9,
+      "answer": "adopt",
+      "explain": "adopt new formats 指员工需要时间“采用”新形式，搭配自然；fold、wander 不合。"
+    },
+    {
+      "n": 10,
+      "answer": "dispute",
+      "explain": "the principle is hard to dispute 意为这一原则“难以反驳”，冒号后的解释即其理由。"
+    }
+  ]
+}

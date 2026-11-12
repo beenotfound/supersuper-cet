@@ -1,0 +1,71 @@
+{
+ "id": "real4-2025-06-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2025年6月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-06-2",
+ "paperTitle": "2025年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "passage": "P1 With the rise of pop music, jazz, and electronic music, both opera and classical music started to fade away from the public eye. Some people are beginning to wonder whether opera and classical music are still relevant to the modern world of music. Granted, you will not typically see today's teenagers lending their ears to Bach anytime soon, but there are some major indicators that both opera and classical music are now still quite alive.\n\nP2 The most major indicator of classical music's importance in society today is the fact that much of the popular music that is currently being produced uses similar beats, harmonies, and melodies(旋律) as those that were used in some of classical music's best works. Even so, it can be difficult for those who do not study music theory to see this as an indicator, since it is subtle and just shows the impact symphonic(交响乐的) orchestras have had on society's taste in music.\n\nP3 A better example for the relevance of opera and classical music can be seen in the invention of the rock opera. Opera, in its simplest definition, is telling a story using music as its form. The art of telling a story using music has not faded in the least bit. In fact, sometimes actual orchestras are used for major parts of the opera itself. Some of the world's greatest hits have been parts of rock operas.\n\nP4 Fans of classical music can also tell you that there are few types of music that are more expressive. So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies. Symphonic orchestra compositions have also been created solely for the purpose of being included in major motion pictures. These are often very well received amongst mainstream music fans.\n\nP5 Classical music and opera are the very foundation of what our modern music is based upon. Considering the huge impact they have had on our current society, it is without doubt that we can expect them to continue to remain important for centuries to come.",
+ "questions": [
+  {
+   "q": "What does the author think of classical music and opera in today's world?",
+   "options": [
+    "They still make their presence felt.",
+    "They have given way to electronic music.",
+    "They will not fade away from the public eye.",
+    "They are no longer relevant to teenagers' lives."
+   ],
+   "answer": 0,
+   "explain": "题干 What does the author think of classical music and opera in today's world? 用 think of 直接问作者看法，对象又是全文核心话题，是典型的整体态度题。 题干主干是 What does the author think of …，think of sth = 对某事物的看法；in today's world 是时间地点状语，限定评价的时间范围。结构平铺直叙…"
+  },
+  {
+   "q": "What do we learn about much of the popular music currently produced?",
+   "options": [
+    "It can be difficult for many classical music fans to appreciate.",
+    "It can be seen as an indicator of refinement on classical music.",
+    "It caters to society's taste in music in a more subtle way than classical music.",
+    "It contains elements similar to those in some masterpieces of classical music."
+   ],
+   "answer": 3,
+   "explain": "What do we learn about much of the popular music currently produced? 是对某具体 对象的客观信息提问，不带 infer/imply，按细节题处理。 much of the popular music currently produced 是名词短语：much of 限定范围（大部 分），currently produced 是过去分词短语作后置定语修饰 popular …"
+  },
+  {
+   "q": "Why does the author mention the invention of the rock opera?",
+   "options": [
+    "To illustrate how to tell a story using music.",
+    "To present the simplest definition of opera.",
+    "To show the relevance of opera and classical music.",
+    "To justify the necessity of using orchestras in opera."
+   ],
+   "answer": 2,
+   "explain": "题干 Why does the author mention the invention of the rock opera? 直接问举例的目 的，是例证目的题的最典型句式。 题干主干 Why does the author mention X？X = the invention of the rock opera，of 短语作 the invention 的后置定语。结构简单，无陷阱。 A better example for the…"
+  },
+  {
+   "q": "Why are classical music pieces still used as background music in modern movies?",
+   "options": [
+    "There are few types of music for movie producers to choose from.",
+    "They are considered to be the most expressive type of music.",
+    "They are well received by movie fans from all over the world.",
+    "They are essential for movies to become the world's greatest hits."
+   ],
+   "answer": 1,
+   "explain": "题干 Why are classical music pieces still used as background music in modern movies? 是对一个具体事实问原因，答案在原文有直接对应，按细节题处理。 题干主干 Why are classical music pieces still used as background music ...？被动语态 are used，still 表「仍然」，in modern…"
+  },
+  {
+   "q": "What do we learn about our modern music?",
+   "options": [
+    "It could not have come into being without classical music and opera as its foundation.",
+    "It cannot outcompete classical music and opera in its impact on our current society.",
+    "It will not enjoy as much popularity as classical music and opera among music fans.",
+    "It might not be able to rival classical music and opera in importance for centuries to come."
+   ],
+   "answer": 0,
+   "explain": "What do we learn about our modern music? 是对 modern music 的客观信息提问，按 细节题处理；但因对象是全文性概念，定位句多落在尾段总结。 题干主干 What do we learn about our modern music？our modern music 是介词宾 语，about 引出谈论对象。结构简单，无陷阱。 Classical music and opera are th…"
+  }
+ ]
+}

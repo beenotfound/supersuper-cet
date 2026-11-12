@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-06-1-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年6月四级真题 第1套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-1",
+ "paperTitle": "2021年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "P1 Educators and business leaders have more in common than it may seem. Teachers want to prepare students for a successful future. Technology companies have an interest in developing a workforce with the STEM (science, technology, engineering and math) skills needed to grow the company and advance the industry. How can they work together to achieve these goals? Play may be the answer.\n\nP2 Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. This combination is proving to be the best way to prepare today's children to be the makers and builders of tomorrow. That is why technology companies are partnering with educators to bring back good, old-fashioned play.\n\nP3 In fact many experts argue that the most important 21st-century skills aren't related to specific technologies or subject matter, but to creativity; skills like imagination, problem-finding and problem- solving, teamwork, optimism, patience and the ability to experiment and take risks. These are skills acquired when kids tinker(鼓捣小玩意). High-tech industries such as NASA's Jet Propulsion Laboratory have found that their best overall problem solvers were master tinkerers in their youth.\n\nP4 There are cognitive( 认知的) benefits of doing things the way we did as children—building something, tearing it down, then building it up again. Research shows that given 15 minutes of free play, four- and five-year-olds will spend a third of this time engaged in spatial, mathematical, and architectural activities. This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry.\n\nP5 If play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, so fostering(培养) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older. Secondly, it doesn't take 21st-century technology to foster 21st-century skills. This is especially important for under- resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important \"maker\" skills. And anyone, anywhere, can do it.",
+ "questions": [
+  {
+   "q": "What does the author say about educators?",
+   "options": [
+    "They seek advice from technology companies to achieve teaching goals.",
+    "They have been successful in preparing the workforce for companies.",
+    "They help students acquire the skills needed for their future success.",
+    "They partner with technology companies to enhance teaching efficiency."
+   ],
+   "answer": 2,
+   "explain": "题干 What does the author say about educators 问的是作者对教育者说了什么客观陈 述，没有 infer/imply/mainly about，是定位 + 转述型细节题。 46. What does the author say about educators? A) They seek advice from technology companies to achieve teaching goa…"
+  },
+  {
+   "q": "How can educators better develop students' STEM skills, according to the author?",
+   "options": [
+    "By blending them with traditional, stimulating activities.",
+    "By inviting business leaders to help design curriculums.",
+    "By enhancing students' ability to think in a critical way.",
+    "By showing students the best way to learn is through play."
+   ],
+   "answer": 0,
+   "explain": "题干 How can educators better develop students' STEM skills 问的是具体方法，需要回 原文找一句明确的「办法」陈述，属于方法型细节题。 47. How can educators better develop students' STEM skills, according to the author? A) By blending them with traditional, st…"
+  },
+  {
+   "q": "How do children acquire the skills needed for the 21st century?",
+   "options": [
+    "By engaging in activities involving specific technologies.",
+    "By playing with things to solve problems on their own.",
+    "By familiarizing themselves with high-tech gadgets.",
+    "By mastering basic principles through teamwork."
+   ],
+   "answer": 1,
+   "explain": "题干 How do children acquire the skills needed for the 21st century 是 How + 一般疑 问，问获得方式，定位 → 同义替换即可，不需要主旨级归纳。 How do children acquire the skills needed for the 21st century：主干 children acquire the skills，needed for the 21s…"
+  },
+  {
+   "q": "What can we do to help children learn the basics of math and geometry?",
+   "options": [
+    "Stimulate their interest as early as possible.",
+    "Spend more time playing games with them.",
+    "Encourage them to make things with hands.",
+    "Allow them to tinker freely with calculators."
+   ],
+   "answer": 2,
+   "explain": "题干 What can we do to help children learn the basics of math and geometry 问的是 建议性做法，回原文找一句明确的做法陈述即可，属于方法型细节题。 What can we do to help children learn the basics of math and geometry：主干 we do what，to help 是目的状语，help children…"
+  },
+  {
+   "q": "What does the author advise disadvantaged schools and communities to do?",
+   "options": [
+    "Train students to be makers to meet future market demands.",
+    "Develop students' creative skills with the resources available.",
+    "Engage students with challenging tasks to foster their creativity.",
+    "Work together with companies to improve their teaching facilities."
+   ],
+   "answer": 1,
+   "explain": "题干 What does the author advise disadvantaged schools and communities to do 是 定向问作者建议，需要找一句明确针对弱势学校的建议句，是定位型细节题，不需要全篇 归纳。 What does the author advise disadvantaged schools and communities to do：主干 the author advise sb. to…"
+  }
+ ]
+}

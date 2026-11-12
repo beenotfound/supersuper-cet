@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-02-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-02",
+ "paperTitle": "大学英语四级标准模拟卷 02",
+ "paperLevel": "cet4",
+ "paperYear": "mock-02",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Banks, bus companies and government offices have moved most of their services onto the internet, and the change has left many older people behind. A person who once paid every bill at the counter may now be asked to download an app, create a password and confirm a code sent by message. For those who have never owned a smartphone, these small tasks can feel like a locked door. The charity behind the sessions says that calls for help have doubled in three years, and most come from people over seventy."
+  },
+  {
+   "label": "B",
+   "text": "The sessions take place on Tuesday and Friday mornings in a quiet room at the back of the town library. Volunteers put out long tables, a kettle and a box of written instructions in large print. Learners arrive with their own phones, often still in the box, and sit beside the volunteer they have been paired with. There is no lecture and no fixed programme; people bring the problems they met during the week, and the room slowly fills with quiet conversation."
+  },
+  {
+   "label": "C",
+   "text": "The first lesson is always the same. Learners practise switching the phone on and off, making a call, sending a short message and adding a name to the contacts list. Only when these actions feel natural do they move on to photographs or the internet. Volunteers say it is a mistake to begin with the most exciting features; a person who cannot answer a call will soon lose confidence. Simple actions are repeated until they become habits, and each small success makes the next lesson easier."
+  },
+  {
+   "label": "D",
+   "text": "Each learner works with the same student volunteer every week. This pairing matters more than it might seem. The volunteer learns what the person already knows, which buttons frighten them and how quickly they tire, and the learner does not have to explain the same difficulties to a stranger each time. One volunteer describes her role as a patient neighbour rather than a teacher. When her learner finally sent a photograph to her grandchild, she says, both of them were close to tears."
+  },
+  {
+   "label": "E",
+   "text": "Not every danger comes from a broken phone. Volunteers spend a full session on fraud, because older people are often targeted by callers pretending to be from a bank. Learners are shown how to recognise a suspicious message, why they should never share a password or bank details, and what to do if money has already been taken. The advice is written on a card that fits in a purse. Several learners have since stopped a scam themselves, and one brought the card to the police station to show an officer."
+  },
+  {
+   "label": "F",
+   "text": "The charity measures success in small events: a first video call with a grandchild, a bus ticket bought on the phone, a photograph sent to a friend. These moments rarely appear in national statistics, but they change a person's week. Volunteers also report a benefit they did not expect. Many learners stay after the session for tea and begin to help each other, so the room has become a social club as much as a classroom. The project now runs in eleven towns, and the waiting list grows every month."
+  }
+ ],
+ "statements": [
+  {
+   "text": "New learners first practise simple actions such as switching the phone on and making a call.",
+   "answer": "C"
+  },
+  {
+   "text": "Learners are warned not to give bank details to strangers who call or send messages.",
+   "answer": "E"
+  },
+  {
+   "text": "More and more older people need help as everyday services move online.",
+   "answer": "A"
+  },
+  {
+   "text": "Each learner is paired with one student who can go at the learner's own speed.",
+   "answer": "D"
+  },
+  {
+   "text": "Volunteers hold regular sessions in a quiet room of the local library.",
+   "answer": "B"
+  }
+ ]
+}

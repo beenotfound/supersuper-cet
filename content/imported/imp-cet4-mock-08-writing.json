@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-08-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-08",
+ "paperTitle": "大学英语四级标准模拟卷 08",
+ "paperLevel": "cet4",
+ "paperYear": "mock-08",
+ "sectionOrder": 0,
+ "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on the problem of irregular daily routines among college students. Your essay should include: 1) the causes of irregular sleeping and eating habits among students; 2) the harm these habits do to health and study; 3) your suggestions for building a healthier routine. You should write at least 120 words but no more than 180 words.",
+ "reference": "Many college students live on an irregular schedule. They stay up late finishing assignments or watching videos, skip breakfast, and then sleep through the weekend to catch up. The causes are not hard to find: heavy coursework, part-time jobs and the freedom to decide when to sleep all encourage delay.\n\nThe harm is easy to underestimate. Irregular sleep makes it hard to concentrate in class, weakens the immune system and increases anxiety. Students who skip breakfast often feel tired by ten in the morning and rely on coffee, which in turn keeps them awake at night.\n\nBuilding a healthier routine does not require a strict timetable. In my view, students should fix a bedtime and a waking time, keep meals regular, and replace late-night phone use with a short walk or some reading. Exercise three times a week also helps. Small changes, repeated for a month, are more useful than an ambitious plan that lasts three days.",
+ "keyPoints": []
+}

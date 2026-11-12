@@ -1,0 +1,71 @@
+{
+ "id": "real4-2026-06-1-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2026年6月四级真题 第1套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-1",
+ "paperTitle": "2026年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "passage": "P1 Is organic food worth the higher price? It's the classic grocery store dilemma. On the one hand, your family dinner table deserves only the best. On the other hand, your wallet can only stretch so far.\n\nP2 Whether or not to buy organic is a personal decision, said Mike von Massow, professor of Food Agriculture.\n\nP3 Science won't give a clear-cut answer to the question of whether organic food is \"better\". There are often trade-offs( 权衡) and answers become less definitive depending on the product under consideration.\n\nP4 One thing is definitive: Organic and conventionally grown food are equally nutritious. From a nutrition point of view, there is no difference between organic and traditionally grown products.\n\nP5 Organic products don't necessarily have fewer pesticides(杀虫剂)—in fact, they may have more. There is also no big difference between organic and non-organic products from a food-safety perspective. Even organic growers use pesticides. Testing shows little if any pesticide remains on conventionally grown products.\n\nP6 In fact, organic farmers often use larger quantities of pesticide because they can only use the natural variety of insect-killers. Chemical pesticides generally kill a much wider range of pests(害虫) than any single natural pesticide.\n\nP7 The use of animal waste in organic agriculture can also be a factor in the spread of bacteria like E. coli and salmonella. Over the past 10 years, Canada has seen more food-safety recalls for organic products, proportionally, than for conventional products.\n\nP8 On the whole, organic agriculture may have a smaller environmental footprint. That's mostly because the risk of groundwater contamination from organic farming is lower. Organic farmers never use neonics, the controversial pesticides that have been linked to shrinking bee populations worldwide.\n\nP9 Traditional agriculture has been making \"dramatic improvements\" to reduce its impact on the environment.\n\nP10 It isn't a black-and-white picture, though.\n\nP11 Organic farming is much less efficient when it comes to land use, although yields vary considerably depending on the crop.\n\nP12 On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture.",
+ "questions": [
+  {
+   "q": "What is the classic grocery store dilemma?",
+   "options": [
+    "Whether or not one should eat organic food.",
+    "Whether or not one can stretch their wallet far.",
+    "Organic food costs more but it certainly tastes better.",
+    "One wants the best food but their budget is limited."
+   ],
+   "answer": 3,
+   "explain": "What is the classic grocery store dilemma? 没有 infer/suggest/imply 等推断标记，而 是直接询问文中某一表述指什么。 What is the classic grocery store dilemma? 是一个简单的主系表疑问句，主干为 What is the dilemma，无否定、比较或从句陷阱。 On the one hand, your family dinner t…"
+  },
+  {
+   "q": "What do we learn about organic food from science?",
+   "options": [
+    "Whether it is any better remains uncertain.",
+    "Whether it is healthier is under consideration.",
+    "Whether it is more nutritious than conventional food is arguable.",
+    "Whether it is going to replace conventional food is still unclear."
+   ],
+   "answer": 0,
+   "explain": "What do we learn about organic food from science? 用 learn 提问，表面像细节，实则 要求把科学观点概括后推出。 What do we learn about organic food from science? 主干为 What do we learn about A from B，about 引出对象，from 引出信息来源，无复杂从句。 Science won't give a…"
+  },
+  {
+   "q": "What does the passage say about organic and non-organic products as far as food safety is",
+   "options": [
+    "Their difference is the conventions used to test them.",
+    "They differ in how much pesticide remains on them.",
+    "One relies on pesticides whereas the other does not.",
+    "There is no substantial difference between the two."
+   ],
+   "answer": 3,
+   "explain": "What does the passage say about organic and non-organic products as far as food safety is concerned? 要求找文章对某具体问题的明确说法。 What does the passage say about organic and non-organic products as far as food safety is concerned? …"
+  },
+  {
+   "q": "What does the author say about organic farming?",
+   "options": [
+    "It may be blamed for the shrinking bee populations in the world.",
+    "It minimizes the use of controversial pesticides in its operations.",
+    "It may impact the environment less than conventional farming.",
+    "It contaminates groundwater as much as conventional farming."
+   ],
+   "answer": 2,
+   "explain": "What does the author say about organic farming? 问的是作者对有机农业的具体看法， 可在文中找到直接陈述。 What does the author say about organic farming? 为简单疑问句，about organic farming 限定话题范围，无否定或比较结构。 On the whole, organic agriculture may have a smal…"
+  },
+  {
+   "q": "What do advocates of organic farming argue about its yields and efficiency?",
+   "options": [
+    "They would increase quickly with the emergence of new technologies.",
+    "They would improve remarkably with more research and investment.",
+    "They would be achieved along with enormous health benefits.",
+    "They would considerably lower the cost to the environment."
+   ],
+   "answer": 1,
+   "explain": "What do advocates of organic farming argue about its yields and efficiency? 问支持 者对某具体问题的论点。 What do advocates of organic farming argue about its yields and efficiency? 主干为 What do advocates argue about A，advocates of org…"
+  }
+ ]
+}

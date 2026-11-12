@@ -1,0 +1,67 @@
+{
+  "id": "read-005",
+  "type": "reading",
+  "level": "cet6",
+  "title": "Rethinking the Working Week",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["novelty", "coverage", "sustain", "privilege"],
+  "passage": "The idea of a shorter working week has moved from the margins of debate into ordinary conversation. Advocates argue that many office jobs contain hours of low-value activity, and that compressing the week could sharpen focus. Critics reply that the notion is unrealistic for hospitals, factories, and shops, where work must be done at particular times. Both sides have a point, which is why the discussion is more interesting than it first appears.\n\nMuch of the evidence about shorter schedules comes from workplaces that chose to experiment, so conclusions should be drawn carefully. A team that volunteers for a trial is not a typical sample, and the enthusiasm of a new arrangement can fade after the novelty passes. Even so, the basic lesson seems durable: when hours are shorter, people tend to protect them. Meetings shrink, interruptions are tolerated less readily, and work that once expanded to fill the day is completed in less time.\n\nThe arrangement suits some jobs far better than others. Knowledge work, which depends on concentration and creativity, may gain from a tight schedule. Care work, sales, and emergency services are different: coverage matters more than efficiency, and a shorter week usually means hiring more people rather than working differently. In those settings, the real question is not hours but staffing and pay.\n\nThere is also a fairness issue. If shorter weeks become a privilege of certain occupations, the gap between secure office jobs and shift work may widen. A serious policy would need to consider who bears the costs of change. Some experiments reduce hours without cutting pay, which is generous but hard to sustain across an entire economy. Others cut pay as well, which tends to be unpopular.\n\nPerhaps the most useful outcome of the debate is not a fixed answer but a better question: which parts of the working day are genuinely productive, and which parts exist out of habit? Organizations that answer that honestly may find room for change even where a shortened week remains impractical.",
+  "questions": [
+    {
+      "q": "What is the critics' main objection to a shorter working week?",
+      "options": [
+        "It would reduce pay for office employees",
+        "It is unrealistic where work must happen at set times",
+        "It would make employees less careful about quality",
+        "It suits hospitals but not other workplaces"
+      ],
+      "answer": 1,
+      "explain": "首段指出批评者认为对医院、工厂、商店而言不现实，因为这些地方的工作必须在特定时间完成，故选第二项。第一项是后文减薪方案的讨论，第三项无据，第四项把适用范围说反了。"
+    },
+    {
+      "q": "The word \"durable\" in paragraph 2 most nearly means",
+      "options": [
+        "lasting and reliable",
+        "surprising and new",
+        "expensive to test",
+        "flexible in practice"
+      ],
+      "answer": 0,
+      "explain": "此处说即使样本有局限，“基本教训”似乎依然成立且持久，故为“经得起时间检验”。第一项最贴合；第二项与 novelty 的语境相反，第三、四项与语义无关。"
+    },
+    {
+      "q": "According to paragraph 2, what tends to happen when working hours are shortened?",
+      "options": [
+        "Meetings multiply and take up more time",
+        "People become more protective of their time",
+        "Work expands to fill the shorter day",
+        "The quality of work falls sharply"
+      ],
+      "answer": 1,
+      "explain": "第二段说工时缩短后人们更倾向于守住时间：会议变短、更不容忍打断，故选第二项。第一、三项与原文相反，第四项文中未作此判断。"
+    },
+    {
+      "q": "Why does the author say the arrangement suits some jobs better than others?",
+      "options": [
+        "Because knowledge workers refuse to work in teams",
+        "Because shift workers are paid more than office staff",
+        "Because in care work and emergency services, coverage matters more than efficiency",
+        "Because fewer people are needed in factories and shops"
+      ],
+      "answer": 2,
+      "explain": "第三段区分两类工作：知识型工作依赖专注与创造，而护理、销售、应急服务更看重覆盖，缩短工时往往需要增加人手，故选第三项。第一、二项文中无据，第四项与“需多招人”相反。"
+    },
+    {
+      "q": "What can be inferred about the author's attitude toward the debate?",
+      "options": [
+        "The debate is largely meaningless because no answer is possible",
+        "Shorter weeks should be adopted everywhere at once",
+        "Office workers deserve privileges that others do not",
+        "The discussion is valuable because it clarifies which hours are truly productive"
+      ],
+      "answer": 3,
+      "explain": "末段说这场辩论最有价值的成果不是固定答案，而是更好的问题——哪些工时真正有产出，故第四项正确。第一项与作者“讨论很有意思”的态度相反，第二、三项都非作者主张。"
+    }
+  ]
+}

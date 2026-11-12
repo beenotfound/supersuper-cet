@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-10-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-10",
+ "paperTitle": "大学英语四级标准模拟卷 10",
+ "paperLevel": "cet4",
+ "paperYear": "mock-10",
+ "sectionOrder": 4,
+ "passage": "Heading to a hotel in central Singapore, a guest may be greeted by a machine about a metre tall. It can check in guests, carry their luggage to the lift and answer simple questions in four languages. Robots like this one, once a rare sight, are becoming ordinary in hotels, hospitals, restaurants and shopping centres. According to industry data, the number of service robots sold worldwide has more than tripled in five years, and the pandemic accelerated the trend: businesses that had lost staff to illness or quarantine needed help fast.\n\nSupporters point to clear advantages. Service robots work without breaks and handle repetitive tasks such as delivering medicine in hospitals or cleaning floors in shopping centres at night. In hospitals in Japan, robots carry meals and laundry, which saves nurses perhaps two hours a day, time that can be spent with patients. In some restaurants a small robot delivers dishes while the human staff talk to customers, which many managers say is a better use of their skills.\n\nYet the picture is not entirely bright. One survey of hotel guests found that although most people were curious about the robots, fewer than a third said they would trust one with a problem such as a lost booking. Others complained that asking a machine for advice felt cold and unhelpful. Cost is another barrier: a delivery robot may cost as much as a year's salary for a member of staff, and small businesses rarely have the money. Researchers in the field add a further warning. Robots work well when a task can be described step by step, and badly when the unexpected happens. A child running into the corridor or a confused elderly patient can stop a robot completely, and the solution usually arrives on two legs. The best results, these researchers say, come from teams in which robots do the carrying and people do the deciding.",
+ "questions": [
+  {
+   "q": "What does the passage say about the number of service robots sold worldwide?",
+   "options": [
+    "It has doubled in ten years.",
+    "It has more than tripled in five years.",
+    "It fell sharply during the pandemic.",
+    "It has stayed the same for a decade."
+   ],
+   "answer": 1,
+   "explain": "Passage 1 首段说 the number of service robots sold worldwide has more than tripled in five years，即五年间增长了两倍多，故选 B；疫情期间是加快了趋势而非下降，C 错。"
+  },
+  {
+   "q": "What do robots do in Japanese hospitals, according to the passage?",
+   "options": [
+    "They carry out operations on patients.",
+    "They talk to patients about their illness.",
+    "They carry meals and laundry, saving nurses about two hours a day.",
+    "They check the work of doctors."
+   ],
+   "answer": 2,
+   "explain": "第二段说 In hospitals in Japan, robots carry meals and laundry, which saves nurses perhaps two hours a day，故选 C；文中并未说机器人做手术或与病人讨论病情。"
+  },
+  {
+   "q": "What did the survey of hotel guests find?",
+   "options": [
+    "Fewer than a third would trust a robot with a problem such as a lost booking.",
+    "Most guests refused to enter a hotel with robots.",
+    "Guests preferred robots to human staff in every situation.",
+    "Guests were willing to pay more for robot service."
+   ],
+   "answer": 0,
+   "explain": "第三段说虽然多数客人对机器人好奇，but fewer than a third said they would trust one with a problem such as a lost booking，故选 A。"
+  },
+  {
+   "q": "What do researchers say about the limits of service robots?",
+   "options": [
+    "They are too expensive for hospitals to buy.",
+    "They make more mistakes than tired people do.",
+    "They need to be replaced every two years.",
+    "They work badly when the unexpected happens."
+   ],
+   "answer": 3,
+   "explain": "末段说 Robots work well when a task can be described step by step, and badly when the unexpected happens，并举小孩跑进走廊为例，故选 D。"
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-real-2024-06",
+      "title": "2024年6月大学英语四级真题风格卷（原创题面）",
+      "level": "CET4",
+      "year": "2024-06",
+      "durationMinutes": 130,
+      "tags": ["真题风格", "2024-06", "原创题面"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Suppose the student union of your university is collecting students' opinions on whether the university library should be open to the general public. Write a letter to the student union. In your letter you should: 1) state your opinion clearly; 2) give reasons for your opinion; 3) make one or two practical suggestions. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "假定你校学生会正在就「大学图书馆是否应向社会公众开放」征集意见。请给学生会写一封信：1）明确表明你的看法；2）说明理由；3）提出一两条具体建议。词数 120–180 词。",
+          "reference": "Dear members of the Student Union,\n\nI am writing to share my opinion on whether our library should open its doors to the public.\n\nOn balance I support a careful opening. The library holds more than a million books, and many of them are never touched by students, while people in the neighbourhood have almost nowhere to study. Allowing readers from outside would also help the university share what public money has paid for, and it might encourage our own students to take the library more seriously.\n\nI do not think a free, unconditional opening would work. During exam weeks, seats are already hard to find. I suggest a trial period of two months, with public readers registering for a card, borrowing limited to three books, and the reading rooms on the third and fourth floors kept for students. If the trial creates problems, the arrangement can be reviewed.\n\nThank you for collecting our views.\n\nYours sincerely,\nLi Ming",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供（本卷无音频，请先阅读下面的文字稿再做题）。Conversation One 对应第 1–4 题，Passage One 对应第 5–8 题。\n\nConversation One:\nWoman: Good afternoon. I am interested in the summer language programme in Spain, but I am not sure whether I can afford it.\nMan: Let me find the information. The programme runs for four weeks in July, in Salamanca. The fee covers lessons, accommodation with a local family and two trips at weekends.\nWoman: Four weeks sounds good. What level do I need?\nMan: Students with at least two years of Spanish can join directly. Anyone below that level takes a short online test before they go. Last year about half the students were placed into the first or second group.\nWoman: I have taken three semesters of Spanish, so I should be fine. The problem is the cost. Is there any financial help?\nMan: Yes. The university offers ten travel grants of eight hundred yuan each for students who cannot otherwise take part. You write a short statement explaining why the programme matters for your studies, and a committee makes the decision.\nWoman: How likely is it to be approved? My father lost his job last year.\nMan: In your case I would say your chances are good. Last year the committee had twenty applications for ten grants, and they gave priority to students in exactly your situation.\nWoman: When is the deadline for the application?\nMan: The grants close on the fifteenth of March, two weeks before the general programme deadline. You will need a reference from a teacher as well.\nWoman: My Spanish teacher knows me well. I will ask her this week.\nMan: Good. And I would advise you to write the statement in English, not in Spanish. The committee reads them very quickly.\n\nPassage One:\nParents in many countries are told that the earlier a child starts learning a second language, the better. The advice is not wrong, but it is incomplete. For thirty years, researchers have compared children who grew up with two languages with children who learned a second one at school. The first group usually wins on pronunciation: adults who start after twelve almost always keep an accent, while most young bilinguals sound native in both languages. On other measures, however, the picture changes. Teenagers who began at eight or nine often catch up in grammar within a few years, and because they learn faster in other ways, they sometimes reach a higher level than younger learners by the age of twenty. The reason seems to be that older children and adults can think about grammar and learn rules deliberately, which small children cannot do well. What early learners have is time and a very good ear. One researcher uses a simple comparison. Learning a language late is like walking a kilometre; learning it very early is like walking it without noticing. The distance is the same, but the effort is distributed differently. She adds that the worst outcome is not a late start but a stop: children who study a foreign language for two years and then give it up retain almost nothing. Continuity, rather than starting age, turns out to be the strongest predictor of fluency.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What does the programme fee cover?",
+              "transcript": "",
+              "options": [
+                "A. Lessons only.",
+                "B. Lessons and accommodation.",
+                "C. Lessons, accommodation and two weekend trips.",
+                "D. Flights and insurance."
+              ],
+              "answer": "C",
+              "explanation": "男士介绍 The fee covers lessons, accommodation with a local family and two trips at weekends，故选 C；机票与保险未在费用涵盖范围内，D 错。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "Who has to take a short online test before going?",
+              "transcript": "",
+              "options": [
+                "A. Students below the required language level.",
+                "B. All students who apply for a grant.",
+                "C. Students who have never been abroad.",
+                "D. Students joining the most advanced group."
+              ],
+              "answer": "A",
+              "explanation": "男士说 Students with at least two years of Spanish can join directly. Anyone below that level takes a short online test，即语言水平不够的学生需先做线上测试，故选 A。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What do we learn about the travel grants?",
+              "transcript": "",
+              "options": [
+                "A. There are twenty grants of eight hundred yuan each.",
+                "B. There are ten grants, and priority goes to students in financial difficulty.",
+                "C. They cover the whole cost of the programme.",
+                "D. Only students who study Spanish can apply for them."
+              ],
+              "answer": "B",
+              "explanation": "男士说 offers ten travel grants of eight hundred yuan each，并说明委员会 gave priority to students in exactly your situation（父亲失业、经济困难），故选 B；二十是申请人数而非名额，A 混淆数字。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What does the man advise the woman to do?",
+              "transcript": "",
+              "options": [
+                "A. Ask her teacher to write the statement.",
+                "B. Apply for the programme next year.",
+                "C. Take the online test before applying.",
+                "D. Write her statement in English."
+              ],
+              "answer": "D",
+              "explanation": "男士建议 I would advise you to write the statement in English, not in Spanish，因为委员会阅读速度很快，故选 D；他要的是老师的推荐信，并非让老师代写陈述，A 曲解。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What advantage do children who grow up with two languages usually have?",
+              "transcript": "",
+              "options": [
+                "A. They sound native in both languages.",
+                "B. They learn to read earlier than other children.",
+                "C. They make fewer grammar mistakes than adults.",
+                "D. They are better at mathematics."
+              ],
+              "answer": "A",
+              "explanation": "短文说 The first group usually wins on pronunciation... most young bilinguals sound native in both languages，故选 A。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "Why can older learners sometimes reach a higher level than younger ones?",
+              "transcript": "",
+              "options": [
+                "A. They practise more often.",
+                "B. They have better teachers.",
+                "C. They are more motivated by exams.",
+                "D. They can think about grammar and learn rules deliberately."
+              ],
+              "answer": "D",
+              "explanation": "短文解释 the reason seems to be that older children and adults can think about grammar and learn rules deliberately，故选 D。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What does the researcher's comparison suggest?",
+              "transcript": "",
+              "options": [
+                "A. Learning a language late is impossible.",
+                "B. Early learners walk more than late learners.",
+                "C. Learning a language late demands more conscious effort.",
+                "D. Distance is the best measure of progress."
+              ],
+              "answer": "C",
+              "explanation": "研究者把晚学比作「走一公里」、早学比作「不知不觉走完一公里」，说明 The distance is the same, but the effort is distributed differently，即晚学需要更多有意识的努力，故选 C。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the researcher say is the strongest predictor of fluency?",
+              "transcript": "",
+              "options": [
+                "A. The age at which study begins.",
+                "B. Continuity of study.",
+                "C. The number of native speakers nearby.",
+                "D. Living abroad for a year."
+              ],
+              "answer": "B",
+              "explanation": "短文结尾说 Continuity, rather than starting age, turns out to be the strongest predictor of fluency，即持续学习比起始年龄更能预测流利程度，故选 B；A（起始年龄）恰是原文所否定的。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "从下面 A–O 词库中为短文中的 26–35 空选出最恰当的单词，每个词只能使用一次。\n\n词库：\nA. casual\nB. careful\nC. cheaper\nD. closed\nE. dramatic\nF. flexible\nG. never\nH. offer\nI. practical\nJ. quiet\nK. reduced\nL. similar\nM. spacious\nN. vacant\nO. vividly\n\n短文：\nFor many years the street market seemed to belong to the past. Supermarkets were bigger, cheaper and open every day, and by 2015 hundreds of town-centre markets had shut. Recently the picture has changed: in several cities a market building that had been left (26) for years now opens four days a week. What explains the change? Prices help. A stall has low rents, so fruit and bread are often (27) than in a large shop. Choice helps too: a market can (28) vegetables from growers within thirty kilometres that supermarkets refuse to stock. Perhaps the strongest reason, though, is social. A market fills the space where shops have (29), and it turns a street into a place where people talk. One survey found that shoppers stayed three times longer when a market was running. Councils have noticed. Some now offer a year of (30) rent, charged at half the usual rate, and (31) advice for new traders. The project is not without risk, since a market needs (32) management of stock, money and people, and one unsuccessful season can frighten traders away. But where the plan works, the effect is (33): residents stop driving to the supermarket outside town, and shops nearby sell more. Above all, a street that felt (34) begins to look alive, and people who had (35) met now greet each other by name.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "(26) In several cities a market building that had been left ____ for years now opens four days a week.",
+              "answer": "vacant",
+              "explanation": "选 N. vacant。leave a building vacant 意为「使建筑空置」，与后文「如今每周开放四天」形成对比。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "(27) A stall has low rents, so fruit and bread are often ____ than in a large shop.",
+              "answer": "cheaper",
+              "explanation": "选 C. cheaper。空格后为 than，需用比较级；形容摊位租金低因而果蔬更便宜，cheaper 最贴切。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "(28) A market can ____ vegetables from growers within thirty kilometres that supermarkets refuse to stock.",
+              "answer": "offer",
+              "explanation": "选 H. offer。offer sth from growers 意为「提供来自种植者的某物」，主语是市场，与 supermarkets refuse to stock 形成对照。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "(29) A market fills the space where shops have ____, and it turns a street into a place where people talk.",
+              "answer": "closed",
+              "explanation": "选 D. closed。where shops have closed 意为「在商店已经关闭的地方」，说明集市填补了空铺面，用现在完成时的过去分词 closed。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "(30) Some councils now offer a year of ____ rent for new traders, charged at half the usual rate.",
+              "answer": "reduced",
+              "explanation": "选 K. reduced。reduced rent 意为「减免后的租金」，与后半句 charged at half the usual rate（按通常租金的一半收取）直接呼应。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "(31) Councils also give new traders ____ advice on rents, prices and paperwork.",
+              "answer": "practical",
+              "explanation": "选 I. practical。practical advice 意为「实用的建议」，与减免租金同为地方政府扶持新摊主的措施。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "(32) A market needs ____ management of stock, money and people, and one unsuccessful season can frighten traders away.",
+              "answer": "careful",
+              "explanation": "选 B. careful。careful management of stock, money and people 意为「对货物、资金和人员的细致管理」，与后半句「一个失败的季节就会吓跑摊主」的风险形成因果；flexible 侧重「灵活」，无法体现对细节的谨慎。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "(33) Where the plan works, the effect is ____: residents stop driving to the supermarket outside town.",
+              "answer": "dramatic",
+              "explanation": "选 E. dramatic。the effect is dramatic 意为「效果显著」，冒号后的具体变化（居民不再开车去郊外超市）正是对这一判断的解释。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "(34) Above all, a street that felt ____ begins to look alive.",
+              "answer": "quiet",
+              "explanation": "选 J. quiet。felt quiet 与 look alive 构成反义对照，说明街道从冷清变得有生气；spacious 指空间宽敞，不合句意。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "(35) People who had ____ met now greet each other by name.",
+              "answer": "never",
+              "explanation": "选 G. never。had never met 意为「此前从未见过面」，与 now greet each other by name 形成前后转折。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文。短文共 A–F 六个段落，每段前给出该段的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落（答案填段落字母，有一个段落不会用到）。\n\nParagraph A: Lectures are not disappearing\nReports of the death of the lecture are premature. In most universities the large lecture hall is still used, and for good reasons. A single expert can introduce a whole field to four hundred students in an hour, and the shared experience of listening together is not easy to reproduce online. What has changed is the purpose: the lecture is now expected to introduce a topic and inspire interest, rather than to pass on information that students could read.\n\nParagraph B: The flipped classroom\nThe most widespread change is the flipped classroom. Students read a chapter or watch a short video before the class, and the time with the teacher is used for problems, discussion and argument. Teachers who have tried it report that the first ten minutes are uncomfortable, because half the class has not prepared. After a few weeks, however, the proportion of prepared students rises sharply, and the questions become far better.\n\nParagraph C: Recording everything\nAlmost every lecture is now recorded and posted online. The theory is attractive: students can pause, rewind and revise. The practice is more complicated. One study of engineering students found that although nearly everyone watched the recordings, most watched at double speed the night before the exam, and attendance in class fell by a third. The same study found that students who watched a recording twice and took notes did better than those who attended in person.\n\nParagraph D: A new kind of homework\nHomework has changed shape as well. Instead of writing a summary of a lecture, students are now asked to prepare a question, find a counter-example or explain a concept to a classmate. Some courses use short online quizzes that must be completed before the class begins. The quizzes are worth very little, but the answers tell the teacher exactly which ideas need more time, information that a lecture alone never provides.\n\nParagraph E: What students still need\nWhat students still need is harder to automate. They need someone to notice that they are struggling, to suggest a book that is not on the list, and to tell them honestly whether their essay is any good. Large lectures cannot do this, and neither can videos. Departments that have redesigned their courses usually say the same thing: the time saved by moving information online was most valuable when it was spent in small groups.\n\nParagraph F: The cost of change\nNone of this is free. Preparing a good video takes a teacher perhaps eight hours, and redesigning a course can take a whole summer. Universities that expect the change to happen without support are often disappointed. A recent survey found that teachers who received help from a learning designer were twice as likely to say the new approach had improved their students' results.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Recordings are popular, but many students watch them at high speed just before the exam.",
+              "options": [
+                "A. Lectures are not disappearing",
+                "B. The flipped classroom",
+                "C. Recording everything",
+                "D. A new kind of homework",
+                "E. What students still need",
+                "F. The cost of change"
+              ],
+              "answer": "C",
+              "explanation": "C 段说 nearly everyone watched the recordings, most watched at double speed the night before the exam，与题干「考前高速刷录像」一致，故选 C。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "In some courses students must study the material before they come to class.",
+              "options": [
+                "A. Lectures are not disappearing",
+                "B. The flipped classroom",
+                "C. Recording everything",
+                "D. A new kind of homework",
+                "E. What students still need",
+                "F. The cost of change"
+              ],
+              "answer": "B",
+              "explanation": "B 段介绍翻转课堂：Students read a chapter or watch a short video before the class，课上时间用于讨论，故选 B。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Large lecture halls are still used and still have a purpose.",
+              "options": [
+                "A. Lectures are not disappearing",
+                "B. The flipped classroom",
+                "C. Recording everything",
+                "D. A new kind of homework",
+                "E. What students still need",
+                "F. The cost of change"
+              ],
+              "answer": "A",
+              "explanation": "A 段开头说 Reports of the death of the lecture are premature，并说明大讲堂仍有不可替代的作用，故选 A。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Students still need personal attention that large lectures and videos cannot give.",
+              "options": [
+                "A. Lectures are not disappearing",
+                "B. The flipped classroom",
+                "C. Recording everything",
+                "D. A new kind of homework",
+                "E. What students still need",
+                "F. The cost of change"
+              ],
+              "answer": "E",
+              "explanation": "E 段说学生需要有人注意到他们在挣扎、推荐书单、诚实评价论文，而 Large lectures cannot do this, and neither can videos，故选 E。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Redesigning a course takes a great deal of a teacher's time.",
+              "options": [
+                "A. Lectures are not disappearing",
+                "B. The flipped classroom",
+                "C. Recording everything",
+                "D. A new kind of homework",
+                "E. What students still need",
+                "F. The cost of change"
+              ],
+              "answer": "F",
+              "explanation": "F 段说 Preparing a good video takes a teacher perhaps eight hours, and redesigning a course can take a whole summer，即改课耗时巨大，故选 F。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: Each autumn, thousands of students arrive at university straight from school, and a small but growing number arrive a year later, after a gap year. The idea of taking a year off between school and university used to worry parents, who imagined a year of sleeping late and playing computer games. Research suggests a different picture. In Britain, where the practice has been studied for decades, students who took a structured gap year, working, volunteering or travelling with a purpose, are slightly less likely to drop out and slightly more likely to finish with a good degree. The effect is small, and researchers are careful not to overstate it. Students who take a gap year are already, on average, more confident and better organized than those who do not, so it is hard to separate the year from the person.\n\nWhat the evidence does support is narrower. A year of doing something difficult, teaching in a rural school, working in a restaurant kitchen or learning a language badly before learning it better, gives young people a kind of confidence that classrooms rarely produce. They discover that they can be useful, that adults will listen to them, and that failure is survivable. They also learn what they do not want to do, which can be as valuable as discovering a career.\n\nFor families considering it, the practical advice from universities is simple. The year should have a plan, a purpose and someone to report back to; it does not need to be expensive or far away. A gap year spent well is not a year off. It is a year of a completely different kind of learning.\n\nPassage 2: Ten years ago most shop owners on a British high street would have described the internet as a problem. Online shops were cheaper, took no rent and never closed, and one in eight high-street shops stood empty. The survivors have gradually discovered a different way to use the internet: not to sell, but to be found.\n\nThe most successful examples are surprisingly simple. A hardware shop in Sheffield became known across the country after the owner began filming two-minute videos of unusual repairs, such as mending an old lamp or a broken pram. The videos cost nothing and took a few minutes to make, but customers now travel from three neighbouring towns, and the shop sells more of the parts it once kept for years on the shelf. A bakery in a small town posts a photograph of the morning's bread each day at six, and its queue of regulars has grown. What these shops have in common is not a large budget but a habit: someone posts two or three times a week, in a voice that sounds like a person rather than a leaflet.\n\nThe change is not free. It takes an hour or two of an owner's evening, and owners who post for a month and then stop often report no benefit at all. Misleading reviews are another trouble; one shop now answers every review, good or bad, because the reply is read by the next hundred customers. Yet the shopkeepers interviewed for a recent report were almost all optimistic. As one of them put it, the internet cannot deliver a pair of boots to your door, but it can remind you which door to knock on.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the British research suggest about a structured gap year?",
+              "options": [
+                "A. It is useful only for students who failed their school exams.",
+                "B. It is linked to slightly better results at university.",
+                "C. It makes students much more likely to drop out.",
+                "D. It costs more than a year of university study."
+              ],
+              "answer": "B",
+              "explanation": "Passage 1 首段说学生 slightly less likely to drop out and slightly more likely to finish with a good degree，即与更好的学业结果略有相关，故选 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) Why is it hard to separate the effect of the gap year from the person?",
+              "options": [
+                "A. Gap-year students rarely answer surveys.",
+                "B. Universities keep no records of gap years.",
+                "C. Gap-year activities are too different to compare.",
+                "D. Students who take a gap year are already more confident and organized."
+              ],
+              "answer": "D",
+              "explanation": "首段末尾说 Students who take a gap year are already, on average, more confident and better organized than those who do not, so it is hard to separate the year from the person，故选 D。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What do young people gain from doing something difficult for a year?",
+              "options": [
+                "A. A guaranteed place on a prestigious course.",
+                "B. Higher marks in their final school exams.",
+                "C. Confidence and the knowledge that failure is survivable.",
+                "D. A career plan chosen by their parents."
+              ],
+              "answer": "C",
+              "explanation": "第二段说他们发现自己有用、大人会听他们说话，and that failure is survivable，即获得自信并明白失败可以承受，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What practical advice does the passage give to families?",
+              "options": [
+                "A. The year should have a plan, a purpose and someone to report back to.",
+                "B. The year should be spent as far from home as possible.",
+                "C. The year must be paid for by the university.",
+                "D. The year should be kept secret from friends."
+              ],
+              "answer": "A",
+              "explanation": "末段建议 The year should have a plan, a purpose and someone to report back to，并说不必昂贵或远行，故选 A。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What was the situation of the typical British high street ten years ago?",
+              "options": [
+                "A. Online shopping had not yet appeared.",
+                "B. Rents on the high street were falling fast.",
+                "C. One in eight shops stood empty.",
+                "D. Shop owners were already filming videos."
+              ],
+              "answer": "C",
+              "explanation": "Passage 2 首段说 online shops were cheaper, took no rent and never closed, and one in eight high-street shops stood empty，故选 C。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What made the hardware shop in Sheffield well known?",
+              "options": [
+                "A. Its very low prices.",
+                "B. Short videos of unusual repairs.",
+                "C. A television advertisement.",
+                "D. A large online delivery service."
+              ],
+              "answer": "B",
+              "explanation": "第二段说 the owner began filming two-minute videos of unusual repairs，随后全国知名，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What do the successful shops have in common?",
+              "options": [
+                "A. They all employ a marketing agency.",
+                "B. They sell only products made locally.",
+                "C. They open seven days a week.",
+                "D. They post regularly in a voice that sounds personal."
+              ],
+              "answer": "D",
+              "explanation": "第二段末尾说它们的共同点不是大预算而是习惯：someone posts two or three times a week, in a voice that sounds like a person，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "农历是中国传统的历法，已有几千年的历史。它根据月亮的变化来划分月份，同时通过设置闰月来适应四季的更替。对中国农民来说，农历指导着播种和收获；对普通人来说，春节、端午节和中秋节等传统节日都按照农历计算。即使在今天，许多家庭仍然会在农历生日那天吃长寿面，也会在春节前贴上红色的春联。农历不仅是一种记时的方法，也承载着中国人的文化记忆。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "The lunar calendar is a traditional Chinese calendar with a history of several thousand years. It divides the months according to the changes of the moon, and at the same time adjusts to the change of the four seasons by adding leap months. For Chinese farmers, the lunar calendar guides sowing and harvesting; for ordinary people, traditional festivals such as the Spring Festival, the Dragon Boat Festival and the Mid-Autumn Festival are all calculated according to the lunar calendar. Even today, many families still eat long noodles on their lunar birthdays and put up red couplets before the Spring Festival. The lunar calendar is not only a way of keeping time but also carries the cultural memory of the Chinese people.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

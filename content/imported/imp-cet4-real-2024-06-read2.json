@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-real-2024-06-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-06",
+ "paperTitle": "2024年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "sectionOrder": 4,
+ "passage": "Ten years ago most shop owners on a British high street would have described the internet as a problem. Online shops were cheaper, took no rent and never closed, and one in eight high-street shops stood empty. The survivors have gradually discovered a different way to use the internet: not to sell, but to be found.\n\nThe most successful examples are surprisingly simple. A hardware shop in Sheffield became known across the country after the owner began filming two-minute videos of unusual repairs, such as mending an old lamp or a broken pram. The videos cost nothing and took a few minutes to make, but customers now travel from three neighbouring towns, and the shop sells more of the parts it once kept for years on the shelf. A bakery in a small town posts a photograph of the morning's bread each day at six, and its queue of regulars has grown. What these shops have in common is not a large budget but a habit: someone posts two or three times a week, in a voice that sounds like a person rather than a leaflet.\n\nThe change is not free. It takes an hour or two of an owner's evening, and owners who post for a month and then stop often report no benefit at all. Misleading reviews are another trouble; one shop now answers every review, good or bad, because the reply is read by the next hundred customers. Yet the shopkeepers interviewed for a recent report were almost all optimistic. As one of them put it, the internet cannot deliver a pair of boots to your door, but it can remind you which door to knock on.",
+ "questions": [
+  {
+   "q": "What was the situation of the typical British high street ten years ago?",
+   "options": [
+    "Online shopping had not yet appeared.",
+    "Rents on the high street were falling fast.",
+    "One in eight shops stood empty.",
+    "Shop owners were already filming videos."
+   ],
+   "answer": 2,
+   "explain": "Passage 2 首段说 online shops were cheaper, took no rent and never closed, and one in eight high-street shops stood empty，故选 C。"
+  },
+  {
+   "q": "What made the hardware shop in Sheffield well known?",
+   "options": [
+    "Its very low prices.",
+    "Short videos of unusual repairs.",
+    "A television advertisement.",
+    "A large online delivery service."
+   ],
+   "answer": 1,
+   "explain": "第二段说 the owner began filming two-minute videos of unusual repairs，随后全国知名，故选 B。"
+  },
+  {
+   "q": "What do the successful shops have in common?",
+   "options": [
+    "They all employ a marketing agency.",
+    "They sell only products made locally.",
+    "They open seven days a week.",
+    "They post regularly in a voice that sounds personal."
+   ],
+   "answer": 3,
+   "explain": "第二段末尾说它们的共同点不是大预算而是习惯：someone posts two or three times a week, in a voice that sounds like a person，故选 D。"
+  }
+ ]
+}

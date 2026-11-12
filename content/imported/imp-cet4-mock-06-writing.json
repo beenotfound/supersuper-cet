@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-06-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-06",
+ "paperTitle": "大学英语四级标准模拟卷 06",
+ "paperLevel": "cet4",
+ "paperYear": "mock-06",
+ "sectionOrder": 0,
+ "prompt": "Directions: Cross-cultural communication has become an important skill for university students. Write an essay of 120 to 150 words on how to develop this ability. In your essay you should: 1) explain why the ability matters; 2) offer two or three practical suggestions; 3) state what you expect to gain from it.",
+ "reference": "Cross-cultural communication is not a talent that some people are born with; it is a set of habits that can be trained.\n\nThe first habit is to ask instead of assuming. When a classmate answers a question with silence or a smile, we can say, 'I am not sure I understood. Could you explain?' A question costs nothing, while a wrong assumption may damage a friendship for months. The second habit is to watch how people actually behave rather than how our own culture says they should. Meals, greetings and even the length of a pause differ from place to place, and noticing such details is the beginning of understanding. Finally, we should be patient with ourselves. Misunderstandings are normal, and the willingness to apologise and try again matters more than perfect grammar.\n\nLearned in this way, communication becomes a bridge rather than a test.",
+ "keyPoints": []
+}

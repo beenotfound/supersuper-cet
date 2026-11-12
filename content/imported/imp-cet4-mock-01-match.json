@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-mock-01-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-01",
+ "paperTitle": "大学英语四级标准模拟卷 01",
+ "paperLevel": "cet4",
+ "paperYear": "mock-01",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Every year thousands of books are left in the green boxes outside the charity's office. Some come from families whose children have grown up; others are sent by schools replacing their library stock, and a few publishers donate damaged but readable copies. A small van collects the boxes twice a week and takes them to a warehouse on the edge of the city. Last year alone the charity received more than ninety thousand books, which is both a wonderful problem and a serious one, because every single copy has to be handled."
+  },
+  {
+   "label": "B",
+   "text": "Inside the warehouse, volunteers work in teams of six. One group checks each book for missing pages, water damage and writing on the pages, and anything beyond repair goes to a recycling centre. Another group sorts the rest into categories: picture books, novels, science, history and reference. A third group stamps the charity's name inside the cover. On a busy Saturday the teams can process about four thousand books, which sounds impressive until you remember how many are waiting."
+  },
+  {
+   "label": "C",
+   "text": "Before a box is sent anywhere, staff contact the school that will receive it. They ask the head teacher how many students there are, what ages they teach and which subjects need materials. A school with no laboratory may ask for science books, while one in a rural area may simply want stories to encourage reading in English. Sending the wrong books wastes money and disappoints children, so the charity keeps a list of requests and matches each donation to a school."
+  },
+  {
+   "label": "D",
+   "text": "Getting the boxes to the schools is the hardest part. Lorries can reach towns on main roads, but many schools lie at the end of dirt tracks that become mud in the rainy season. In those places the boxes are transferred to motorbikes, which carry two at a time up the hills. Drivers sometimes wait for days for the weather to improve. The charity now stores books in regional depots so that the final journey is short, even if the first one is long."
+  },
+  {
+   "label": "E",
+   "text": "Books alone do not create readers. Before a delivery, two trainers spend a week with the teachers, showing them how to run a reading club, how to read aloud with expression and how to let children choose books for themselves. The teachers are also given simple record cards so that they can see which pupils are reading and which are not. Most schools ask for the training again the following year, and some have started their own libraries with the skills they learned."
+  },
+  {
+   "label": "F",
+   "text": "The results are easiest to see in the children's faces. In one mountain school, a girl of ten told a volunteer that she had never owned a book before and asked whether she could keep it. Teachers report that pupils who join the reading club attend school more regularly and write longer stories. Numbers cannot measure everything, but the charity's own survey found that reading confidence had risen sharply in almost every school it visited."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Donated books are examined and sorted into groups before they are sent out.",
+   "answer": "B"
+  },
+  {
+   "text": "Some books have to be carried by motorbike where lorries cannot reach.",
+   "answer": "D"
+  },
+  {
+   "text": "The charity asks each school which titles and subjects its students actually need.",
+   "answer": "C"
+  },
+  {
+   "text": "Books come from families, schools and publishers rather than being bought new.",
+   "answer": "A"
+  },
+  {
+   "text": "Teachers are given training so that they can use the books in their lessons.",
+   "answer": "E"
+  }
+ ]
+}

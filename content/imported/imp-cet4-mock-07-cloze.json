@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-07-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-07",
+ "paperTitle": "大学英语四级标准模拟卷 07",
+ "paperLevel": "cet4",
+ "paperYear": "mock-07",
+ "sectionOrder": 2,
+ "passage": "Many adults believe that learning to play a musical instrument is a task for children, yet a growing body of research {{1}} that the adult brain is far more adaptable than was once thought. Teachers of adult beginners report that their students are often more {{2}} than teenagers, because they choose to be there.\n\nThe main {{3}} for adults is time. Work and family duties leave little space for daily practice, and progress can seem painfully slow. Teachers therefore {{4}} short, frequent sessions rather than one long one at the weekend. Fifteen minutes a day is enough to {{5}} a new habit.\n\nAdults also tend to be hard on themselves. A wrong note that a child barely notices may make an adult want to give up entirely. Experienced teachers {{6}} this anxiety by choosing simple pieces at first and by celebrating small improvements.\n\nThe benefits go beyond music. Studies {{7}} that playing an instrument engages memory, attention and coordination at the same time. Some researchers {{8}} that this mental exercise may help keep the brain healthy in later life, although the evidence is not yet {{9}}.\n\nWhat is clear is that adults who begin lessons rarely {{10}} the decision, even if they never perform in public.",
+ "bank": [
+  "achieve",
+  "argue",
+  "conclusive",
+  "delay",
+  "establish",
+  "ignore",
+  "indicate",
+  "motivated",
+  "obstacle",
+  "permanent",
+  "recommend",
+  "reduce",
+  "regret",
+  "roughly",
+  "suggests"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "suggests",
+   "explain": "选 O. suggests。research 为不可数名词作主语，谓语用第三人称单数，且后接 that 从句表示研究结果显示；indicate 形式不符，故排除。"
+  },
+  {
+   "n": 2,
+   "answer": "motivated",
+   "explain": "选 H. motivated。be more motivated than 表示比青少年更有动力，与后半句 because they choose to be there 相呼应；permanent 不能修饰人的学习状态。"
+  },
+  {
+   "n": 3,
+   "answer": "obstacle",
+   "explain": "选 I. obstacle。the main obstacle 意为主要障碍，后文说工作与家庭占去练习时间，正是成年人学琴的主要困难；roughly 是副词，不能作主语。"
+  },
+  {
+   "n": 4,
+   "answer": "recommend",
+   "explain": "选 K. recommend。recommend A rather than B 意为建议选 A 而不选 B，符合教师给成年初学者的练习建议；delay 与句意相反。"
+  },
+  {
+   "n": 5,
+   "answer": "establish",
+   "explain": "选 E. establish。establish a habit 是固定搭配，意为养成新习惯；achieve 通常接 goal 或 success，不与 habit 搭配。"
+  },
+  {
+   "n": 6,
+   "answer": "reduce",
+   "explain": "选 L. reduce。reduce anxiety 意为减轻焦虑，与后文先选简单曲目、肯定小进步的做法对应；ignore 与教师主动处理的做法矛盾。"
+  },
+  {
+   "n": 7,
+   "answer": "indicate",
+   "explain": "选 G. indicate。Studies 为复数主语，谓语用动词原形 indicate，后接 that 从句引出研究结论；suggests 为第三人称单数，在此不搭配。"
+  },
+  {
+   "n": 8,
+   "answer": "argue",
+   "explain": "选 B. argue。argue that 意为主张、论证，符合研究者提出观点的语境；delay 后不能接 that 从句表达观点。"
+  },
+  {
+   "n": 9,
+   "answer": "conclusive",
+   "explain": "选 C. conclusive。not yet conclusive 意为尚无定论，用于说明前面观点仍缺乏充分证据；permanent 意为永久的，与 evidence 不搭配。"
+  },
+  {
+   "n": 10,
+   "answer": "regret",
+   "explain": "选 M. regret。rarely regret the decision 意为很少后悔这个决定，与 even if they never perform in public 的让步语气一致；ignore 与 decision 搭配不当。"
+  }
+ ]
+}

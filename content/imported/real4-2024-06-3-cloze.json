@@ -1,0 +1,83 @@
+{
+ "id": "real4-2024-06-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2024年6月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-06-3",
+ "paperTitle": "2024年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "passage": "Over the coming decades, millions of jobs will be threatened by robotics and artificial intelligence. Despite intensive academic {{1}}  on these developments, there has been little study on how workers {{2}}  to being replaced through technology. To find out, business researchers at TUM and Erasmus University Rotterdam conducted 11 studies and surveys with over 2,000 persons from several countries. The findings show: In principle, most people view it more  {{3}} when workers are replaced by other people than by robots or intelligent software. This preference ,  {{4}} however, when it refers to people's own jobs. When that is the case, the majority of workers find it less upsetting to see their own jobs go to robots than to other employees. In the long term, however, the same people see machines as more threatening to their future role in the workforce. These effects can also be observed among people who have recently become unemployed. The researchers were able to identify the causes behind these {{5}}  paradoxical results, too: People tend to  {{6}} themselves less with machines than with other people. Consequently, being replaced by a robot or software {{7}}  less of a threat to their feeling of self-worth. This reduced self-threat could even be observed when participants assumed that they were being replaced by other employees who relied on technological abilities such as artificial intelligence in their work. \"Even when unemployment results from the  {{8}} of new technologies, people still judge it in a social context,\" says Christoph Fuchs, one of the authors of the study. \"It is important to understand these  {{9}} effects when trying to manage the massive changes in the working world to minimize {{10}}  in society.\"",
+ "bank": [
+  "compare",
+  "contradicts",
+  "conventional",
+  "debate",
+  "disruptions",
+  "drastically",
+  "favorably",
+  "guarantee",
+  "introduction",
+  "modifications",
+  "poses",
+  "psychological",
+  "react",
+  "reverses",
+  "seemingly"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "debate",
+   "explain": "形容词 intensive academic 后缺中心名词 学术辩论与「研究 little study」对照 intensive academic debate「激烈的学术辩论」与下半句 there has been little study 「研究却少」形成 Despite 的让步对照——学界吵得热闹但实证研究稀少，转折逻辑 顺畅。 J) modifications 「修改」与 academic 搭配不通 academic modif…"
+  },
+  {
+   "n": 2,
+   "answer": "react",
+   "explain": "how workers ___ 主语后缺谓语 react to 固定搭配「对……做出反应」 空后紧跟介词 to (being replaced)，react to sth. 是「对某事做出反应」的固定搭配，与第 二段「调研了 2,000 多人」对应——研究的就是工人对被替代的反应。 A) compare compare 常用搭配是 with，不是 to being replaced compare 后接 to 多用于比喻类比（compa…"
+  },
+  {
+   "n": 3,
+   "answer": "favorably",
+   "explain": "view it more ___ 副词修饰动词 view ... favorably 是固定搭配「赞许地看待」 此句对比的是「被人取代」与「被机器取代」哪种更容易让人接受。view sth. favorably 意 为「持赞许态度」，与后半句 than by robots 的比较结构契合：人们更赞许「被人取代」 这种安排。 F) drastically 「急剧地」语义偏激烈、与 view 不搭 drastically 多修饰变化（cha…"
+  },
+  {
+   "n": 4,
+   "answer": "reverses",
+   "explain": "主语 This preference 后缺单数谓语 偏好「翻转」契合段内反差 前一句说「人们普遍更接受被人取代」，本句却用 however 引出「轮到自己时，大家反而 觉得被机器取代不那么糟」，preference 完全反转，正是 reverses「逆转」的语义。 B) contradicts contradict 需要带宾语 contradict 是及物动词「与……矛盾」，必须接宾语 contradict sth.，本句空后直接是逗号…"
+  },
+  {
+   "n": 5,
+   "answer": "seemingly",
+   "explain": "形容词 paradoxical 前修饰位 「看似」与下文解释呼应 本段开头说研究者找到了 these seemingly paradoxical results「这些看似矛盾结果」背后 的原因——「看似」二字暗示后面会给出合理解释，与紧接其后的 People tend to compare themselves less with machines 这条解释完美呼应。 F) drastically 「极度地」修饰 paradoxical…"
+  },
+  {
+   "n": 6,
+   "answer": "compare",
+   "explain": "tend to ___ themselves 不定式后接原形动词 compare oneself with sb. 固定搭配 compare oneself with/to「把自己与……比较」是高频搭配；句意「人们倾向于把自己与机 器比较得少」恰好解释下一句 poses less of a threat「威胁感更弱」的因果。"
+  },
+  {
+   "n": 7,
+   "answer": "poses",
+   "explain": "动名词主语后缺谓语 pose a threat 固定搭配「构成威胁」 空后紧跟 less of a threat，pose a threat 是「构成威胁」的高频搭配，poses less of a threat 即「构成的威胁较小」，与前文 People tend to compare themselves less with machines 因果衔接：因不比较故威胁感更弱。 B) contradicts 「反驳」与 threat …"
+  },
+  {
+   "n": 8,
+   "answer": "introduction",
+   "explain": "the ___ of new technologies 介词框架定名词 「新技术的引入」导致失业 the introduction of new technologies「新技术的引入/推出」是 unemployment results from 的合理原因——技术引入才会替代人力，逻辑链通顺。 E) disruptions 搭配冲突且要留给 35 题 disruptions of new technologies 不是惯常表达（更常说…"
+  },
+  {
+   "n": 9,
+   "answer": "psychological",
+   "explain": "名词 effects 前缺定语 全段在讲心理机制 第四段刚解释完人们「不愿与机器比较、被机器替代对自尊伤害更小」这类心理动因 People tend to __(31)__ themselves less with machines than with other people.，第五 段总结的 these effects 自然指上文这套心理反应，故用 psychological effects（心理效 应）最贴。 C) convent…"
+  },
+  {
+   "n": 10,
+   "answer": "disruptions",
+   "explain": "动词 minimize 缺宾语 「社会动荡」正是要最小化的对象 minimize disruptions in society 意为「把社会动荡降到最低」，与前文 manage the massive changes（驾驭巨大变革）一脉相承——技术冲击必然带来社会动荡，需 要 minimize。 J) modifications 「修改」不是要消除的对象 minimize modifications in society 意为「尽量少作…"
+  }
+ ]
+}

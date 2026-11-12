@@ -1,0 +1,83 @@
+{
+ "id": "real4-2022-12-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2022年12月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-3",
+ "paperTitle": "2022年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "Phones influence all aspects of teenage life. Ninety-five percent of Americans ages 13 to 17 have a smartphone or have access to one, and nearly half report using the internet \"almost {{1}}  .\" But as recent survey data and interviews have suggested, many teens find much of that time to be unsatisfyingly spent. Continuous  {{2}} shouldn't be mistaken for endless enjoyment. A new  {{3}} representative survey about \"screen time and device distractions\" from the Pew Research Center indicates that it's not just parents who think teenagers are worryingly {{4}}  from their phones—many teens themselves do too. Fifty-four percent of the 13- to 17-year-olds surveyed said they spend too much time {{5}}  in their phones. Vicky Rideout, who runs a research firm that studies children's interactions with media and technology, was not surprised by this finding. She says it's hardly {{6}}  to teenagers. \"They are dealing with the same challenges that adults are, as far as they are living in the  {{7}} of a tech environment designed to suck as much of their time onto their devices as possible,\" Rideout says. The way parents interact with technology can {{8}}  the way they interact with their kids. Rideout thus thinks it's up to parents to model good {{9}}  : Kids tend to take note if their parents put their phone away at dinner or charge it in another room while they sleep. Witnessing habits like that can help kids \"realize that they can  {{10}} some more control over their devices,\" she says.",
+ "bank": [
+  "absorbed",
+  "addicted",
+  "behavior",
+  "constantly",
+  "context",
+  "exercise",
+  "inseparable",
+  "nationally",
+  "recruited",
+  "shape",
+  "solution",
+  "specific",
+  "summary",
+  "usage",
+  "vaguely"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "constantly",
+   "explain": "almost 后修饰频率，要副词 almost constantly = 几乎一直，呼应高频上网 上文 nearly half report using the internet 讲近一半青少年报告上网，almost constantly （几乎不间断地）正好量化这种高频，与第 2 段 Continuous __(27)__ 的\"持续\"语义一致。 H) nationally 义不搭：全国性地无法修饰上网频率 nationally 意为\"…"
+  },
+  {
+   "n": 2,
+   "answer": "usage",
+   "explain": "形容词 Continuous 后作主语中心词，要名词 Continuous usage = 持续使用，承接上文\"花时间用机\" usage\"使用\"指持续使用手机。上文 many teens find much of that time to be unsatisfyingly spent，本句 Continuous __(27)__ shouldn't be mistaken for endless enjoyment 即\"持续的使用不该…"
+  },
+  {
+   "n": 3,
+   "answer": "nationally",
+   "explain": "形容词 representative 前要副词修饰 nationally representative 是固定搭配，指全国代表性调查 上文 A new __(28)__ representative survey about \"screen time and device distractions\" from the Pew Research Center，皮尤研究中心的调查正是\"全国代表 性\"的，nationally represen…"
+  },
+  {
+   "n": 4,
+   "answer": "inseparable",
+   "explain": "副词 worryingly 后、接 from，作表语的形容词 inseparable from = 与…分不开，正配 from their phones inseparable 搭配 be inseparable from something 意为\"与…密不可分\"。teenagers are worryingly __(29)__ from their phones 即\"青少年到了令人担忧地离不开手机的地步\"，介 词 from 与 in…"
+  },
+  {
+   "n": 5,
+   "answer": "absorbed",
+   "explain": "spend time (being) ___ in，表状态的形容词 be absorbed in 沉浸于，正配 in their phones absorbed 的固定搭配 be absorbed in something 意为\"沉浸/专注于某事\"，spend too much time __(30)__ in their phones 即\"花太多时间沉浸在手机里\"，介词 in 与 absorbed 精确对应。 B) addicted …"
+  },
+  {
+   "n": 6,
+   "answer": "specific",
+   "explain": "系动词 is 后作表语，要形容词 be specific to = 为…所特有，配 hardly 表\"并非青少年独有\" specific 搭配 be specific to something 意为\"为…所特有\"。上文 Rideout 说这一现象 She says it's hardly __(31)__ to teenagers\"几乎并非青少年所特有\"，下句紧接 They are dealing with the same chall…"
+  },
+  {
+   "n": 7,
+   "answer": "context",
+   "explain": "in the ___ of 结构，定冠词后要名词 in the context of = 在…的环境/背景下 context\"环境、背景\"搭配 in the context of 意为\"在…背景/环境下\"。living in the __(32)__ of a tech environment designed to suck as much of their time\"生活在一个被 设计来吸走时间的科技环境之中\"，context 与后…"
+  },
+  {
+   "n": 8,
+   "answer": "shape",
+   "explain": "助动词 can 后、主语 way 之后缺谓语动词 shape the way = 塑造（互动）方式 shape 作动词意为\"塑造、影响\"，shape the way they interact 即\"塑造他们与孩子互动的 方式\"，与上文 The way parents interact with technology 形成\"家长用科技的方式 → 影 响 → 与孩子互动的方式\"的因果，语义贴切。"
+  },
+  {
+   "n": 9,
+   "answer": "behavior",
+   "explain": "形容词 good 后作 model 的宾语中心词，要名词 model good behavior = 示范良好行为 behavior\"行为、举止\"。it's up to parents to model good __(34)__ 即\"该由家长示范良好 的行为\"，下文 Kids tend to take note if their parents put their phone away at dinner\"孩子会注意家长饭桌上放下手机…"
+  },
+  {
+   "n": 10,
+   "answer": "exercise",
+   "explain": "情态动词 can 后要动词原形 exercise control 行使控制，固定搭配 exercise 作动词有\"行使、运用\"义，exercise control over... 是固定搭配，意为\"对…行使掌 控\"。上文 realize that they can __(35)__ some more control over their devices 正是说 孩子能对自己的设备多一些掌控，搭配完全吻合。 J) shape 搭配不当：…"
+  }
+ ]
+}

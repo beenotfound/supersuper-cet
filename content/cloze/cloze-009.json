@@ -1,0 +1,63 @@
+{
+  "id": "cloze-009",
+  "type": "cloze",
+  "level": "cet4",
+  "title": "The Recycling Club",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["survey", "doubtful", "popular"],
+  "passage": "At the start of the school year, a group of students noticed something simple. Every lunchtime, the bins outside the dining hall were filled with paper cups, plastic bottles, and half-eaten sandwiches. The students decided to start a recycling club, and within a term it had changed the habits of the whole school.\n\nThe first step was to {{1}} what was actually being thrown away. For a week, members wore gloves and sorted the rubbish from one bin into different boxes. The results were {{2}}: more than half of it could have been reused or recycled. The club put the boxes in the hall so that everyone could see them, and the {{3}} made a stronger impression than any poster.\n\nNext came the practical part. The club asked the school to put separate bins in every corridor and to {{4}} the staff about what belonged where. They also wrote a short guide and {{5}} it to each classroom. Some teachers were {{6}} at first, because the new system took time, but most agreed once they saw how much waste had {{7}}.\n\nThe club did not stop at lunchtime. Members visited younger classes to talk about the {{8}} of throwing everything into one bin, and they organised a day when students brought old books and clothes to school for others to take home. The event was so {{9}} that the school has decided to hold it twice a year.\n\nWhat began as a small idea has become part of the timetable. The students say the biggest {{10}} is not money but patience: habits change slowly, and a club needs members who will keep going when the first excitement fades.",
+  "bank": ["survey", "narrow", "delivered", "popular", "kitchen", "doubtful", "borrow", "sight", "harm", "fold", "remind", "surprising", "holiday", "challenge", "dropped"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "survey",
+      "explain": "the first step was to survey what was thrown away 指先“调查”被丢弃的东西，与 a week of sorting 呼应。"
+    },
+    {
+      "n": 2,
+      "answer": "surprising",
+      "explain": "结果“令人吃惊”：一半以上本可回收，因此填 surprising；narrow 无法表达这种出乎意料。"
+    },
+    {
+      "n": 3,
+      "answer": "sight",
+      "explain": "the sight made a stronger impression 指“看到的景象”比海报更有冲击力，与 everyone could see them 呼应。"
+    },
+    {
+      "n": 4,
+      "answer": "remind",
+      "explain": "remind the staff about... 表示“提醒”员工；borrow、fold 不能接 about。"
+    },
+    {
+      "n": 5,
+      "answer": "delivered",
+      "explain": "wrote a short guide and delivered it to each classroom 指把指南“送”到每个教室；borrowed 与语境不符。"
+    },
+    {
+      "n": 6,
+      "answer": "doubtful",
+      "explain": "some teachers were doubtful at first 指老师起初“怀疑”，与后文 most agreed once... 形成转折。"
+    },
+    {
+      "n": 7,
+      "answer": "dropped",
+      "explain": "how much waste had dropped 表示垃圾量“下降”了，与回收系统生效的语境一致。"
+    },
+    {
+      "n": 8,
+      "answer": "harm",
+      "explain": "the harm of throwing everything into one bin 指混投垃圾的“害处”，是向低年级宣传的重点。"
+    },
+    {
+      "n": 9,
+      "answer": "popular",
+      "explain": "the event was so popular that... 指活动“受欢迎”，所以学校决定一年办两次。"
+    },
+    {
+      "n": 10,
+      "answer": "challenge",
+      "explain": "the biggest challenge is not money but patience 指最大的“挑战”是耐心，冒号后解释了原因。"
+    }
+  ]
+}

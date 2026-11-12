@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-04-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-04",
+ "paperTitle": "大学英语四级标准模拟卷 04",
+ "paperLevel": "cet4",
+ "paperYear": "mock-04",
+ "sectionOrder": 2,
+ "passage": "短文：\nEvery city has buildings that tell its story, yet many of them disappear before residents have time to think. In the past, planners often {{1}} that old structures were simply in the way of progress. Today a different view is spreading, and heritage protection has become an {{2}} part of urban planning.\n\nRepair is rarely cheap. A stone arch or a wooden roof may need months of work by specialists whose skills are in short {{3}}. Supporters say repair costs far less than loss. Once a building is gone, the stories attached to it are {{4}} as well.\n\nSome cities have found {{5}} solutions. In one old district, a former textile factory became a library. Tourists come, but the {{6}} visitors are local people who use the reading rooms every day. The project also provided {{7}} work for craftsmen who might otherwise have left the area.\n\nCritics still {{8}} that such projects mainly attract wealthy newcomers and push poorer residents out. That risk is real, and it must be {{9}} seriously. But the answer is not to demolish everything; it is to plan carefully and accept that a city without memory is {{10}} to lose its identity.",
+ "bank": [
+  "affordable",
+  "argue",
+  "balance",
+  "claimed",
+  "creative",
+  "essential",
+  "forgotten",
+  "genuine",
+  "gradually",
+  "handled",
+  "likely",
+  "regular",
+  "steady",
+  "supply",
+  "transport"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "claimed",
+   "explain": "选 D. claimed（对应第 26 空）。空格需填过去式动词，claim that... 表示‘声称’，与 In the past 的时态一致。"
+  },
+  {
+   "n": 2,
+   "answer": "essential",
+   "explain": "选 F. essential（对应第 27 空）。an essential part of 意为‘……不可或缺的一部分’，与‘观念正在传播’的语境一致。"
+  },
+  {
+   "n": 3,
+   "answer": "supply",
+   "explain": "选 N. supply（对应第 28 空）。in short supply 是固定搭配，意为‘供不应求、十分稀缺’，说明掌握这类技艺的专家很少。"
+  },
+  {
+   "n": 4,
+   "answer": "forgotten",
+   "explain": "选 G. forgotten（对应第 29 空）。are forgotten 为被动语态，与前半句 Once a building is gone 对应，表示故事也随之被遗忘。"
+  },
+  {
+   "n": 5,
+   "answer": "creative",
+   "explain": "选 E. creative（对应第 30 空）。下文把旧纺织厂改成图书馆即为‘有创意的’做法，creative 修饰 solutions 最贴切。"
+  },
+  {
+   "n": 6,
+   "answer": "regular",
+   "explain": "选 L. regular（对应第 31 空）。regular visitors 指‘常客’，与后文‘每天都来阅览室’呼应，并与游客形成对比。"
+  },
+  {
+   "n": 7,
+   "answer": "steady",
+   "explain": "选 M. steady（对应第 32 空）。steady work 意为‘稳定的工作’，正因工作稳定，工匠才不必离开此地。"
+  },
+  {
+   "n": 8,
+   "answer": "argue",
+   "explain": "选 B. argue（对应第 33 空）。argue that 表示‘认为、主张’，此处引出批评者的观点。"
+  },
+  {
+   "n": 9,
+   "answer": "handled",
+   "explain": "选 J. handled（对应第 34 空）。be handled seriously 意为‘被认真对待、处理’，情态动词 must 后接过去分词构成被动。"
+  },
+  {
+   "n": 10,
+   "answer": "likely",
+   "explain": "选 K. likely（对应第 35 空）。be likely to do 意为‘很可能……’，作者借此强调保护城市记忆的重要性。"
+  }
+ ]
+}

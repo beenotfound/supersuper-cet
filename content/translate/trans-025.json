@@ -1,0 +1,18 @@
+{
+  "id": "trans-025",
+  "type": "translation",
+  "level": "cet4",
+  "title": "城市的发展",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["urban", "facility", "skyline", "resident"],
+  "prompt": "过去几十年，中国的城市发生了巨大的变化。低矮的平房变成高楼，狭窄的土路变成宽阔的马路，地铁把城市的各个角落连接起来。公园、图书馆和体育馆越来越多，居民的生活更加方便。城市发展也带来一些问题：房价上涨，交通拥堵，老城区的居民搬走后，熟悉的邻里关系消失了。如何在建设中留住城市的记忆，是许多城市正在思考的问题。好的城市不仅要有漂亮的天际线，更要有温暖的人情味。",
+  "reference": "In the past few decades Chinese cities have changed enormously. Low houses have given way to high-rises, narrow dirt roads have become wide streets, and underground lines now link every corner of the city. Parks, libraries and sports centres have multiplied, making life more convenient for residents. Urban growth, however, has brought problems too: housing prices have climbed, traffic is often heavy, and when old residents move away from a familiar neighbourhood, the old ties disappear with them. How to keep a city's memory while it is being rebuilt is a question many cities are now considering. A city that is convenient but unfriendly is not really a good place to live. Some cities have begun to protect old streets and invite residents to share their memories, so that change does not wipe out the past. After all, a good city needs more than a beautiful skyline; it needs warmth between people.",
+  "keyPoints": [
+    "“低矮的平房”可译为 low houses。",
+    "“从无到有”意译为 now link every corner，不必逐字翻译。",
+    "“交通拥堵”用 traffic is often heavy 或 traffic congestion。",
+    "“邻里关系”译为 neighbourhood ties。",
+    "“天际线”用 skyline。"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2025dec3-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2025年12月六级第三套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025dec3",
+ "paperTitle": "2025年12月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-12",
+ "passage": "It's best to think of an accent as a distinct, systematic and rule-governed way of speaking. Accent is not a {{1}} for dialect, but it's related. Dialect is an umbrella term for the way a community pronounces words, creates words, and orders words; accent refers to that first part only. Many {{2}} presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is {{3}} the best form of speech, but linguists (语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a {{4}} . In other words, no one speaks “standard English”; rather, it is an imagined way of using language that exists only in grammar and style books. One reason linguists agree there is no one true standard is that, through the years, there have been {{5}} supposed standards, depending on time and place. The standard for English in British newsreels (新闻片) from the 1950s, for example, differs greatly from the standard found on American national news broadcasts today. In fact, there has never been a single standard that's been fully agreed upon — and broadcast outlets across the {{6}} have never consistently held to those standards anyway. Even so, this idea of a standard accent is {{7}} and many workplace and educational environments perpetuate the idea that accents that {{8}} from the current standard are less appropriate, or even inappropriate. Scholars have found that southern US accent features are more accepted in {{9}} such as government, law and service-oriented workplaces, but less accepted in the technology sector. The acceptability of nonstandard accents may {{10}} with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace.",
+ "bank": [
+  "A. affix",
+  "B. correlate",
+  "C. deviate",
+  "D. domains",
+  "E. influential",
+  "F. inherently",
+  "G. laymen",
+  "H. multiple",
+  "I. properties",
+  "J. reality",
+  "K. reciprocally",
+  "L. specimen",
+  "M. spectrum",
+  "N. synonym",
+  "O. unanimous"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "N. synonym",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "G. laymen",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "F. inherently",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "J. reality",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "H. multiple",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "M. spectrum",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "E. influential",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "C. deviate",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "D. domains",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "B. correlate",
+   "explain": ""
+  }
+ ]
+}

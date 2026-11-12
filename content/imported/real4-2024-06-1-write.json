@@ -1,0 +1,20 @@
+{
+ "id": "real4-2024-06-1-write",
+ "type": "writing",
+ "level": "cet4",
+ "title": "2024年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-06-1",
+ "paperTitle": "2024年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "prompt": "Suppose your university is seeking students’ opinions on whether university libraries should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+ "reference": "Whether university libraries should open their doors to the public has sparked heated debate in recent years. In my view, these libraries should indeed be accessible to ordinary citizens, provided that reasonable management measures are in place. Two reasons support my position. Firstly, opening university libraries promotes the sharing of knowledge. Many valuable books and academic resources sit idle on the shelves, and allowing the public to use them turns campus libraries into vibrant centers of lifelong learning. Moreover, such openness enriches the cultural life of the whole community. For instance, a retired worker or a curious teenager could freely explore fields they never studied at school, which narrows the gap between universities and society. Admittedly, outside visitors may strain limited seats and disturb students. Yet this problem can be eased by setting fixed visiting hours and registration rules. Therefore, I firmly believe university libraries should welcome the public, so long as students' study needs are fully protected.",
+ "keyPoints": [
+  "引争议+表态一步到位。本段落实「开门见山亮立场」：第一句 Whether ... has sparked heated debate 抛出争议话题，第二句 In my view ... provided that ... 立即表态并加上「合理管理」前 提，既兑现 express your view 的选边要求，又为尾段让步埋线。",
+  "两理由各按点理例收。本段兑现「点—理—例—收」：Firstly 领出知识共享这一分论点，用 「藏书闲置→盘活」给出后果；Moreover 递进到公共文化，用「退休工人/好奇少年」这个具体例子落 地，最后 which narrows the gap 一句把话题收回中心，避免空喊口号。",
+  "先让步再驳回收尾。本段落实「让步后重申」：Admittedly 承认挤占座位的顾虑，Yet 转折 给出限时与登记的解决办法，Therefore 重申立场并用 so long as 补上折中条件，呼应首段的「有条件 开放」。"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-09-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-09",
+ "paperTitle": "大学英语四级标准模拟卷 09",
+ "paperLevel": "cet4",
+ "paperYear": "mock-09",
+ "sectionOrder": 4,
+ "passage": "When a city builds a new square, it usually publishes photographs of clean paving, new benches and young trees. What it cannot photograph is whether anyone will use the space. Planners have learned, often painfully, that an attractive public space may stay empty if people have no reason to be there.\n\nThe most successful public spaces share a few features. First, they are easy to reach on foot from busy streets, rather than hidden behind buildings. Second, they offer different kinds of activity at the same time: a playground for children, a quiet corner for older people, a cafe, a stretch of grass. A space used by only one group tends to feel unsafe to everybody else. Third, they allow people to stay without spending money, which is why benches matter so much.\n\nJanet Byrne, who studies urban life, argues that the value of such places cannot be counted fully in economic terms. A good public space teaches a city how to behave, she says. Children meet adults who are not their parents; strangers learn to share a table; people who disagree about everything else still sit on the same bench. Her research in eight neighbourhoods found that residents who used a local square regularly were more likely to know their neighbours and to trust them.\n\nThat is not an argument for building a square everywhere. Some places need shops, housing or public transport more urgently. But when space is available, the cheapest improvements are often the most effective. A few benches, a working fountain and a rule that allows people to sit without buying anything can turn an empty area into the busiest part of a neighbourhood. Maintenance matters too: a broken fountain or a dirty bench quickly tells people that the space is not cared for.",
+ "questions": [
+  {
+   "q": "What do planners often fail to consider about a new square?",
+   "options": [
+    "The cost of the paving.",
+    "The number of trees to plant.",
+    "Whether people will actually use it.",
+    "How it will look in photographs."
+   ],
+   "answer": 2,
+   "explain": "Passage 2 开头说照片拍不出的是 whether anyone will use the space，并指出漂亮的公共空间可能空无一人，故选 C。"
+  },
+  {
+   "q": "Why do successful public spaces offer several kinds of activity?",
+   "options": [
+    "To earn more money from rent.",
+    "So that different groups feel welcome and safe.",
+    "To keep the space quiet and empty.",
+    "To save money on benches."
+   ],
+   "answer": 1,
+   "explain": "第二段说只被某一群体使用的空间会让其他人感到不安全，多样活动能让儿童、老人等不同人群都愿意停留，故选 B。"
+  },
+  {
+   "q": "What does Janet Byrne say about the value of public spaces?",
+   "options": [
+    "It can be fully measured in money.",
+    "It is mainly good for tourism.",
+    "It matters only for young children.",
+    "It teaches people how to live together."
+   ],
+   "answer": 3,
+   "explain": "Janet Byrne 说 A good public space teaches a city how to behave，并举例陌生人共用一张桌子、互相认识与信任，故选 D。"
+  }
+ ]
+}

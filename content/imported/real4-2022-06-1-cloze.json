@@ -1,0 +1,83 @@
+{
+ "id": "real4-2022-06-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2022年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-06-1",
+ "paperTitle": "2022年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-06",
+ "passage": "You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain and wouldn't it be better if they could just {{1}}  under any condition? In spite of our {{2}}  discomfort, it turns out there's a good reason our teeth are so sensitive. Tooth pain is a {{3}}  mechanism that ensures when a tooth is being damaged we'll notice and do something about it. If we eat something too hot or too cold, or if the tooth is worn down enough where the tissue {{4}}  is exposed, all of those things cause pain, and then the pain causes the person not to use that tooth to try to protect it a little bit more. So it's really a protective mechanism more than anything else. If teeth didn't feel pain, we might  {{5}} to use them in situations that damage them, and for humans, damaging  {{6}} teeth is a problem because, unlike crocodiles, we can't {{7}}  them. Teeth have three layers, only one of which—the innermost layer of the tooth—can hurt, as that layer of the tooth  {{8}} both blood vessels and nerves. Pain is the only feeling to which the nerves in that layer respond. Whereas people with tooth sensitivity may complain, for example, of tooth pain  {{9}} by heat or cold, the nerves in the inner layer don't sense temperature. Rather, they feel pain, which may be  {{10}} with, say, drinking something very cold.",
+ "bank": [
+  "adult",
+  "associated",
+  "chew",
+  "contains",
+  "continue",
+  "defense",
+  "dental",
+  "downward",
+  "emotional",
+  "implies",
+  "mammal",
+  "replace",
+  "swallow",
+  "triggered",
+  "underneath"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "chew",
+   "explain": "情态动词 could 后接动词原形 把牙比作刀叉，自然就是\"咀嚼\" 上文 You might think of your teeth as tools, like built-in knives and forks把牙比作刀 叉，刀叉是用来切割食物、对应牙齿的功能正是咀嚼。\"如果牙不痛、能在任何情况下随便 ____\"——填 chew（咀嚼）最贴合牙齿\"工具\"的本职。 E) continue 语义空泛、接不上刀叉的比喻 could jus…"
+  },
+  {
+   "n": 2,
+   "answer": "dental",
+   "explain": "物主代词 our 与名词 discomfort 之间作定语 dental discomfort=牙齿带来的不适，扣牙痛主题 全文讲牙痛，In spite of our dental discomfort——\"尽管我们有牙齿带来的不适\"， dental（牙齿的）修饰 discomfort 正好点出不适来自牙齿，与全文主题一致。 34 35"
+  },
+  {
+   "n": 3,
+   "answer": "defense",
+   "explain": "冠词 a 与名词 mechanism 之间作定语的名词 defense mechanism 固定说法 + 紧扣\"保护\"主旨 defense mechanism（防御机制）是地道固定搭配，且下文反复点明 So it's really a protective mechanism more than anything else，\"防御=保护\"正好呼应。牙痛是一 种\"防御机制\"，主旨契合度最高。 I) emotional 义偏，与\"保护牙齿\"…"
+  },
+  {
+   "n": 4,
+   "answer": "underneath",
+   "explain": "名词 tissue 后作后置定语 the tissue underneath=下面（深层）的组织，对应\"磨损露出内层\" 句意是牙\"磨损到 ____ 的组织暴露出来\"。underneath 作后置定语表\"在下面的\"，the tissue underneath 即\"下层组织\"，牙被磨损后露出的正是深层组织，与第三段\"内层有神经 会痛\"一致。 H) downward 义偏\"向下运动\"，不表静态位置 downward 强调\"朝下的方向/运动\"（…"
+  },
+  {
+   "n": 5,
+   "answer": "continue",
+   "explain": "情态动词 might 后接动词原形 continue to do 搭配成立 + 逻辑通：会\"继续\"用受损的牙 句意是\"如果牙不会痛，我们可能会 ____ 在伤牙的情况下用它们\"。continue to use（继续 使用）搭配地道，逻辑也对——没有痛感的警示，人就会继续乱用牙导致受损，正好呼应主 旨\"疼痛是保护机制\"。 M) swallow 搭配不成立、语义不通 swallow to use 搭配不存在（swallow 后不接 to d…"
+  },
+  {
+   "n": 6,
+   "answer": "adult",
+   "explain": "名词 teeth 前作定语的修饰语 adult teeth=恒牙，对应\"换不了牙\"的难题 adult teeth 指\"恒牙（成年人的牙）\"。紧接下句 unlike crocodiles, we can't replace them——恒牙坏了换不了，所以\"damaging adult teeth is a problem\"，逻辑完整。 adult 在这里取\"成年的、恒久的\"义，正好与\"不可替换\"对应。 G) dental 语义冗余：de…"
+  },
+  {
+   "n": 7,
+   "answer": "replace",
+   "explain": "情态动词 can't 后必跟动词原形 对比鳄鱼\"换牙\"，人类不能\"替换\"牙齿 上文说牙受损是个问题，紧接 unlike crocodiles, we can't __(32)__ them：鳄鱼牙掉了能 长新的，而人\"不能 ____它们\"。能与\"鳄鱼能、人不能\"这层对比对上的只有 replace（替换 牙齿），逻辑正好解释了为什么\"damaging adult teeth is a problem\"。 C) chew 与上下文逻辑相反 …"
+  },
+  {
+   "n": 8,
+   "answer": "contains",
+   "explain": "主语后缺谓语，需第三人称单数动词 形态唯一 + 语义吻合：内层\"含有\"血管和神经 that layer of the tooth __(33)__ both blood vessels and nerves——牙的内层\"含有\"血管 和神经，contains（含有）与宾语 blood vessels and nerves 搭配自然，且为单三形式， 主谓一致，是唯一答案。"
+  },
+  {
+   "n": 9,
+   "answer": "triggered",
+   "explain": "名词 pain 后作后置定语的过去分词 triggered by=由……引发，与\"冷热\"作诱因搭配 pain triggered by heat or cold——\"由冷热引发的疼痛\"。triggered by 表\"被……触发/引 发\"，heat or cold 是疼痛的直接诱因，搭配精准、语义通顺。 B) associated associated with 而非 associated by associated 的固定搭配是 ass…"
+  },
+  {
+   "n": 10,
+   "answer": "associated",
+   "explain": "be 动词 + 空 + with，需过去分词作表语 be associated with=与……相关联，固定搭配 + 余下唯一候选 be associated with 是地道固定搭配，表\"与……相关\"。they feel pain, which may be associated with, say, drinking something very cold——这种痛\"可能与喝很凉的东西相 关\"，语义通顺，且空后正是 with，搭配完…"
+  }
+ ]
+}

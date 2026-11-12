@@ -1,0 +1,18 @@
+{
+  "id": "trans-003",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国书法",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["calligraphy", "brush", "stroke", "discipline"],
+  "prompt": "书法是中国特有的一门艺术，它以毛笔、墨和宣纸为工具。写字看似简单，其实需要长年累月的练习。一个字的笔画、结构和气韵，往往能反映书写者的性格与修养。古人认为，练字也是修身的过程，心浮气躁时很难写出好字。今天，虽然人们很少用毛笔写字，但书法课在不少学校重新受到重视。许多家长希望孩子通过练字静下心来，也借此了解传统文化。",
+  "reference": "Calligraphy is an art unique to China, and it uses a brush, ink and a special kind of paper as its tools. Writing characters may look simple, but in fact it demands years of steady practice. The strokes, the structure and the spirit of a single character can often reveal the writer's character and cultivation. The ancients believed that practising handwriting was also a way of cultivating the self, for it is hard to produce good writing when the mind is restless. Today, although people seldom write with a brush, calligraphy classes are regaining attention in many schools. Many parents hope that their children will calm down through practice and, at the same time, gain some understanding of traditional culture. Teachers have noticed that a quiet hour with brush and ink gives students a rare break from screens. In this sense, calligraphy survives not as a museum piece but as a living habit.",
+  "keyPoints": [
+    "“特有的一门艺术”译为 an art unique to China，比 special art 准确。",
+    "“长年累月的练习”用 years of steady practice，避免直译 long years。",
+    "“笔画、结构和气韵”三个名词并列，气韵可译为 the spirit。",
+    "“修身”宜译为 cultivating the self 或 self-cultivation。",
+    "“心浮气躁”可处理为 when the mind is restless。"
+  ]
+}

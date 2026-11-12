@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-02-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-02",
+ "paperTitle": "大学英语四级标准模拟卷 02",
+ "paperLevel": "cet4",
+ "paperYear": "mock-02",
+ "sectionOrder": 0,
+ "prompt": "Directions: More and more university students use AI tools to help with their studies. Some say such tools save time, while others worry that students may become too dependent on them. Write an essay on how students should use AI tools in their studies. In your essay you should: 1) describe the benefits of AI tools; 2) point out the possible risks; 3) give your advice on how to use them properly. You should write at least 120 words but no more than 180 words.",
+ "reference": "AI tools are now part of everyday study, and I believe they can be helpful if they are used with care. They save time on boring tasks such as checking grammar or finding the right word, and they can explain a difficult idea in several different ways. For a student who is too shy to ask in class, that is a real advantage. The risks, however, are equally clear. A tool that writes whole paragraphs for us may weaken our own writing, and it can produce confident answers that are simply wrong. My advice is to use AI as a tutor rather than a ghost writer. Ask it to explain, to test and to criticise; do not ask it to replace your own thinking. Keep your notes and drafts in your own hand, check every fact, and treat every answer as a question to be examined rather than a truth to be copied.",
+ "keyPoints": []
+}

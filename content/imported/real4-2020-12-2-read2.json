@@ -1,0 +1,71 @@
+{
+ "id": "real4-2020-12-2-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2020年12月四级真题 第2套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-12-2",
+ "paperTitle": "2020年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-12",
+ "passage": "P1 Forests in countries like Brazil and the Congo get a lot of attention from environmentalists, and it is easy to see why. South America and sub-Saharan Africa are experiencing deforestation on an enormous scale: every year almost 5 million hectares are lost. But forests are also changing in rich Western countries. They are growing larger, both in the sense that they occupy more land and that the trees in them are bigger. What is going on?\n\nP2 Forests are spreading in almost all Western countries, with the fastest growth in places that historically had rather few trees. In 1990 28% of Spain was forested; now the proportion is 37%. In both Greece and Italy, the growth was from 26% to 32% over the same period. Forests are gradually taking more land in America and Australia. Perhaps most astonishing is the trend in Ireland. Roughly 1% of that country was forested when it became independent in 1922. Now forests cover 11% of the land, and the government wants to push the proportion to 18% by the 2040s.\n\nP3 Two things are fertilising this growth. The first is the abandonment of farmland, especially in high, dry places where nothing grows terribly well. When farmers give up trying to earn a living from farming or herding, trees simply move in. The second is government policy and subsidy. Throughout history, governments have protected and promoted forests for diverse reasons, ranging from the need for wooden warships to a desire to promote suburban house-building. Nowadays forests are increasingly welcome because they suck in carbon pollution from the air. The justifications change, the desire for more trees remains constant.\n\nP4 The greening of the West does not delight everyone. Farmers complain that land is being taken out of use by generously subsidised tree plantations. Parts of Spain and Portugal suffer from terrible forest fires. Others simply dislike the appearance of forests planted in neat rows. They will have to get used to the trees, however. The growth of Western forests seems almost as unstoppable as deforestation elsewhere.",
+ "questions": [
+  {
+   "q": "What is catching environmentalists' attention nowadays?",
+   "options": [
+    "Rich countries are stripping poor ones of their resources.",
+    "Forests are fast shrinking in many developing countries.",
+    "Forests are eating away the fertile farmland worldwide.",
+    "Rich countries are doing little to address deforestation."
+   ],
+   "answer": 1,
+   "explain": "What is catching environmentalists' attention nowadays? 是直接的特殊疑问句，问的 是一个具体事实，不含 infer、suggest、imply，也不问全篇主旨。 题干 What is catching environmentalists' attention nowadays? 是现在进行时的特殊疑 问句，主语是疑问代词 What，谓语 is catching 带宾语 enviro…"
+  },
+  {
+   "q": "Which countries have the fastest forest growth?",
+   "options": [
+    "Those that have newly achieved independence.",
+    "Those that have the greatest demand for timber.",
+    "Those that used to have the lowest forest coverage.",
+    "Those that provide enormous government subsidies."
+   ],
+   "answer": 2,
+   "explain": "Which countries have the fastest forest growth? 直接问「哪些国家」，是对原文具体信 息的客观提取。 题干 Which countries have the fastest forest growth? 是 Which 引导的特殊疑问句， Which countries 作主语，have 作谓语，宾语 the fastest forest growth。结构简单。 52. Which cou…"
+  },
+  {
+   "q": "What has encouraged forest growth historically?",
+   "options": [
+    "The government's advocacy.",
+    "The use of wood for fuel.",
+    "The favourable climate.",
+    "The green movement."
+   ],
+   "answer": 0,
+   "explain": "What has encouraged forest growth historically? 问的是历史上具体促进森林增长的因 素，是对文中事实的提取，不要求多步推理。 题干 What has encouraged forest growth historically? 是现在完成时特殊疑问句，What 作主语，has encouraged 作谓语，forest growth 作宾语，historically 是时间状语。现在 完成时…"
+  },
+  {
+   "q": "What accounts for our increasing desire for forests?",
+   "options": [
+    "Their unique scenic beauty.",
+    "Their use as fruit plantations.",
+    "Their capability of improving air quality.",
+    "Their stable supply of building materials."
+   ],
+   "answer": 2,
+   "explain": "What accounts for our increasing desire for forests? 用 account for 直接问原因，对应 文中应有明确的因果句，属于事实信息提取。 题干 What accounts for our increasing desire for forests? 中 account for 是固定短语， 意为「解释、是…的原因」。基础薄弱考生易把它误读成「算作」，须当心；除此之外句式 简单。 N…"
+  },
+  {
+   "q": "What does the author conclude about the prospects of forestation?",
+   "options": [
+    "Deserts in sub-Saharan Africa will diminish gradually.",
+    "It will play a more and more important role in people's lives.",
+    "Forest destruction in the developing world will quickly slow down.",
+    "Developed and developing countries are moving in opposite directions."
+   ],
+   "answer": 3,
+   "explain": "What does the author conclude about the prospects of forestation? 问的是作者对整 体前景的结论，覆盖全文走向，不可由单一定位句直接拿到。 题干 What does the author conclude about the prospects of forestation? 是宾语从句 结构的特殊疑问句，What 是 conclude 的宾语，about the pros…"
+  }
+ ]
+}

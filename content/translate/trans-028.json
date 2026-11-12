@@ -1,0 +1,18 @@
+{
+  "id": "trans-028",
+  "type": "translation",
+  "level": "cet4",
+  "title": "阅读的力量",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["reading", "habit", "imagination", "knowledge"],
+  "prompt": "阅读是获取知识最方便的途径之一，也是让人安静下来的好办法。一本好书可以带人走进陌生的世界，认识不同的人，经历自己从未经历的生活。对孩子来说，阅读能培养想象力和专注力，比反复做练习更有长远的好处。然而，在手机不离手的今天，很多人已经很久没有完整读完一本书了。碎片化的信息虽然来得快，却很难留下深刻的印象。不妨每天留出半小时，关掉屏幕，安安静静地读几页书。",
+  "reference": "Reading is one of the easiest ways to gain knowledge, and it is also a good way to calm down. A good book can take a reader into an unfamiliar world, introduce different people and allow him to live a life he has never lived. For children, reading develops imagination and concentration, and in the long run it does more good than repeating exercises. Yet today, with a phone always in hand, many people have not finished a whole book for a long time. Fragmented information arrives quickly but rarely leaves a deep impression. Books also teach us to listen to opinions we do not share, which is a skill that matters far beyond the classroom. A habit of reading built in childhood can last a lifetime. It is worth setting aside half an hour a day, turning off the screen and reading a few pages in peace. In that half hour the mind rests as much as it learns.",
+  "keyPoints": [
+    "“获取知识”译为 gain knowledge。",
+    "“专注力”用 concentration。",
+    "“碎片化的信息”译为 fragmented information。",
+    "“留下深刻的印象”用 leave a deep impression。",
+    "“不妨……”可译为 It is worth ...。"
+  ]
+}

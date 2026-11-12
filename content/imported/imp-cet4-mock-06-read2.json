@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-mock-06-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-06",
+ "paperTitle": "大学英语四级标准模拟卷 06",
+ "paperLevel": "cet4",
+ "paperYear": "mock-06",
+ "sectionOrder": 4,
+ "passage": "For many years, language teaching in schools concentrated on grammar and vocabulary, and a student could pass an examination without ever hearing a real conversation. That has changed, but not everywhere, and the results of the change are worth examining.\n\nConsider the word 'sorry'. A dictionary will tell you that it expresses regret. In practice, a speaker of English may use it to apologise, to ask someone to repeat a sentence, to interrupt a meeting, or to express sympathy. A learner who knows only the dictionary meaning will sound either too formal or strangely cold. Researchers call this kind of knowledge 'pragmatic competence', and they find that it is often missing in students with high test scores.\n\nThe good news is that it can be taught. In one experiment, two classes of students at the same level were compared. Both studied the same vocabulary, but one class also watched short recordings of everyday situations and discussed why the speaker chose a particular phrase. After twelve weeks, that class performed much better in a role-play task, even though the grammar test results of the two groups were almost identical.\n\nNone of this argues against grammar. Accuracy matters, especially in writing. The argument is about balance: a language is not only a system of rules but also a set of habits used by a community. Learning a language without its culture is like reading a menu without knowing what the dishes taste like.",
+ "questions": [
+  {
+   "q": "What does the passage say about the word 'sorry'?",
+   "options": [
+    "It is no longer used in everyday English.",
+    "Real speakers use it for several different purposes.",
+    "It is the hardest word for foreign learners.",
+    "It always expresses sincere regret."
+   ],
+   "answer": 1,
+   "explain": "第二段列举了道歉、请人重复、打断会议、表示同情等多种用法，说明实际使用中它承担多种功能，故选 B。"
+  },
+  {
+   "q": "What made the difference between the two classes in the experiment?",
+   "options": [
+    "One class had more experienced grammar teachers.",
+    "One class studied twice as many new words.",
+    "One class watched recordings and discussed the choice of phrases.",
+    "One class spent a term studying abroad."
+   ],
+   "answer": 2,
+   "explain": "第三段说 one class also watched short recordings of everyday situations and discussed why the speaker chose a particular phrase，该班在角色扮演中表现更好，故选 C。"
+  },
+  {
+   "q": "What is the author's conclusion?",
+   "options": [
+    "Grammar tests should be abolished.",
+    "Vocabulary is less important than it used to be.",
+    "Students should read restaurant menus in English.",
+    "Language and culture should be learned together."
+   ],
+   "answer": 3,
+   "explain": "最后一段说 a language is not only a system of rules but also a set of habits used by a community，并以看菜单作比，说明语言与文化应一起学，故选 D。"
+  }
+ ]
+}

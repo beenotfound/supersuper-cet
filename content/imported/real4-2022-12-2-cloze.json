@@ -1,0 +1,83 @@
+{
+ "id": "real4-2022-12-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2022年12月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-2",
+ "paperTitle": "2022年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "Parenting brings fathers more joy than it does mothers, according to a new study. The research examined three studies {{1}}  more than 18,000 participants. Across all three, parenthood was  {{2}} with more positive wellbeing outcomes for dads than for mums. So why are fathers happier than mothers? \"Fathers may fare better than mothers in part due to how they spend time with their children,\" said lead author Katherine Nelson-Coffey. In one study, the authors  {{3}} that dads were more likely to take \"playing\" as an {{4}}  activity both when caring for their kids and spending time with their kids. \"Playing with their children likely offers parents opportunities to experience positive feelings and {{5}}  closeness with their children,\" they say. Fathers also did better than men without kids, reporting greater happiness, life satisfaction, and fewer {{6}}  symptoms. They also reported greater connectedness and autonomy(自主). For mums, ,  {{7}} compared to women without children, the results weren't quite as positive. Mums reported greater autonomy, but also \"greater trouble\" and fewer positive {{8}}  . Mums reported happier moods while interacting with their kids, compared to other experiences, but not while engaging {{9}}  in childcare. \"This difference suggests that how mothers and fathers spend time with their children might have important {{10}}  for their wellbeing,\" the authors write. They suspect that mums may be less happy than dads because they're more likely to have higher expectations about parenthood. As such, they're more likely to be \"let down\" by the experience.",
+ "bank": [
+  "additional",
+  "associated",
+  "composing",
+  "cultivate",
+  "depressive",
+  "directly",
+  "emotions",
+  "however",
+  "implications",
+  "interfered",
+  "involving",
+  "note",
+  "precisely",
+  "superficial",
+  "therefore"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "involving",
+   "explain": "studies 后空、再接 more than 18,000 participants，是分词作后置定语 involving = 涉及，studies involving ... participants 是\"涉及……名参与者的研究\"的固 定说法 three studies __(26)__ more than 18,000 participants 填 involving，意为这些研究\"涉 及/包含\"一万八千多名参与者，学术语境里极常…"
+  },
+  {
+   "n": 2,
+   "answer": "associated",
+   "explain": "was 之后、with 之前的空，是被动语态的过去分词 be associated with = 与……相关联，正好连接\"为人父母\"和\"更积极的幸福感结果\" parenthood was __(27)__ with more positive wellbeing outcomes for dads 填 associated，意为\"为人父母与更积极的幸福结果相关\"，是研究结论里描述相关性的标准 搭配。"
+  },
+  {
+   "n": 3,
+   "answer": "note",
+   "explain": "主语 the authors 后紧跟空、再跟 that 宾语从句，缺谓语动词 note that... = 指出、注意到，正好引出研究发现 the authors __(28)__ that dads were more likely to take \"playing\" as an __(29)__ activity——作者\"指出\"父亲更倾向把陪玩当成一项活动，note that 是论文里转述研究结论 的常用搭配，语义与时态都吻合。"
+  },
+  {
+   "n": 4,
+   "answer": "additional",
+   "explain": "an 与名词 activity 之间的空，是定语形容词位 an additional activity = 一项额外的活动，搭配自然、首音 a 对得上 an 父亲把\"陪玩\"看作\"额外的/附加的\"一项活动，as an __(29)__ activity 填 additional，语义 和 an 的用法都成立。"
+  },
+  {
+   "n": 5,
+   "answer": "cultivate",
+   "explain": "and 并列 experience，后接宾语 closeness，是动词原形 cultivate closeness = 培养亲密感，与 experience positive feelings 并列得当 experience positive feelings and __(30)__ closeness with their children 填 cultivate，\"体验积极情绪并培养与孩子的亲密感\"，cultivate 常与 r…"
+  },
+  {
+   "n": 6,
+   "answer": "depressive",
+   "explain": "fewer 与名词 symptoms 之间的空，是定语形容词位 depressive symptoms = 抑郁症状，是心理健康话题的标准搭配 reporting greater happiness, life satisfaction, and fewer __(31)__ symptoms——父 亲\"更幸福、更满意、抑郁症状更少\"，fewer depressive symptoms 正好与前面的 happiness/satisfac…"
+  },
+  {
+   "n": 7,
+   "answer": "however",
+   "explain": "两个逗号之间的插入语，是连接副词 上文说父亲情况好、本句说妈妈\"不那么积极\"，是转折，用 however 前一段 Fathers also did better than men without kids, reporting greater happiness 说 父亲更好，本句 For mums, __(32)__, compared to women without children, the results weren't qu…"
+  },
+  {
+   "n": 8,
+   "answer": "emotions",
+   "explain": "fewer positive 之后的空，是被形容词修饰的名词 positive emotions = 积极情绪，与前文 positive feelings 同源 fewer positive __(33)__ 填 emotions，\"更少的积极情绪\"，与第二段 opportunities to experience positive feelings 的\"积极感受\"一脉相承，且与本句\"妈妈烦恼更多\"对应—— 积极情绪更少。"
+  },
+  {
+   "n": 9,
+   "answer": "directly",
+   "explain": "engaging 动词之后的空，修饰动作方式 engaging directly in childcare = 直接参与育儿，与前面\"互动时\"对照 happier moods while interacting with their kids ... but not while engaging __(34)__ in childcare——妈妈和孩子互动时心情更好，但\"直接参与育儿（杂务）\"时却不然。directly 强调\"亲自/直接…"
+  },
+  {
+   "n": 10,
+   "answer": "implications",
+   "explain": "important 形容词之后、for 之前的空，是被修饰的名词 have important implications for = 对……有重要影响/意义，是固定表达 might have important __(35)__ for their wellbeing 填 implications，\"对他们的幸福感有 重要影响\"，have implications for 是讨论研究意义时的标准搭配。 G) emotions 搭配不成立…"
+  }
+ ]
+}

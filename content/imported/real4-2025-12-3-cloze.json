@@ -1,0 +1,83 @@
+{
+ "id": "real4-2025-12-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2025年12月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-3",
+ "paperTitle": "2025年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "passage": "Earth Day is an annual celebration that honors the achievements of the environmental movement and raises awareness of the need to protect Earth's natural resources for future generations. Earth Day is celebrated on April 22 in the United States and on either April 22 or the day the spring equinox(春分) occurs throughout the {{1}}  of the world. Environmental activism during the 1960s  {{2}} Wisconsin Senator Gaylord Nelson to create a  {{3}} celebration uniting the environmental movement. With the help of Denis Hayes, a graduate student at Harvard University, Nelson organized the first Earth Day on April 22, 1970, educating participants in the {{4}}  of environmental protection. Attended by 20 million people across the United States, the event {{5}}  support for legislation such as the Clean Air Act and the Endangered Species Act. In 1990, Hayes organized a global Earth Day, with more than 200 million participants in 140 countries. Earth Day now brings  {{6}} citizens and activists from around the world to raise awareness and take action regarding such environmental {{7}}  as global warming and renewable energy. Today, the Earth Day Network, which rallies more than 20,000 {{8}}  and organizations in 190 countries, supports the Earth Day mission year-round. This mission is founded on the proposition that all people, regardless of race, gender, income, or {{9}}  , have a moral right to a healthy, sustainable environment. The Earth Day Network  {{10}} this mission through education, public policy, and activism campaigns.",
+ "bank": [
+  "concerns",
+  "expansion",
+  "forth",
+  "geography",
+  "importance",
+  "imposed",
+  "inspired",
+  "national",
+  "partners",
+  "potential",
+  "pursues",
+  "rescues",
+  "rest",
+  "strengthened",
+  "together"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "rest",
+   "explain": "the ___ of the world：定冠词 + 空 + of，典型名词位 the rest of the world：固定搭配，指\"世界其余地方\" 本句对比的是\"美国（the United States）\"和\"世界其他地方\"两部分——Earth Day is celebrated on April 22 in the United States and on either April 22 or the day the sprin…"
+  },
+  {
+   "n": 2,
+   "answer": "inspired",
+   "explain": "Environmental activism … ___ Wisconsin Senator … to create：主语后缺谓语，需谓 语动词 inspire sb to do sth：激励某人去做某事 Environmental activism during the 1960s __(27)__ Wisconsin Senator Gaylord Nelson to create a national celebration un…"
+  },
+  {
+   "n": 3,
+   "answer": "national",
+   "explain": "a ___ celebration：冠词 + 空 + 名词，定语位 a national celebration：呼应\"全国统一的环保运动\" 下文 With the help of Denis Hayes, a graduate student at Harvard University, Nelson organized the first Earth Day on April 22, 1970 和 Attended by 20 mi…"
+  },
+  {
+   "n": 4,
+   "answer": "importance",
+   "explain": "in the ___ of：固定名词框架 educate sb in the importance of sth：教育某人意识到某事的重要性 原文语境：educating participants in the __(29)__ of environmental protection.——\"教 育参与者认识到环保的重要性\"是地球日活动最朴素直接的目的。\"the importance of + 抽 象名词\"也是英语高频搭配。 A) con…"
+  },
+  {
+   "n": 5,
+   "answer": "strengthened",
+   "explain": "the event ___ support：主语后缺谓语，需过去时动词 strengthened support for legislation：增强了对立法的支持 the event __(30)__ support for legislation such as the Clean Air Act and the Endangered Species Act.——一场 2000 万人参与的环保活动，推动并加强了对清洁空气 法案等环保…"
+  },
+  {
+   "n": 6,
+   "answer": "together",
+   "explain": "brings ___ citizens：bring 后接副词，构成 bring together 短语 bring together：把（来自世界各地的人）聚到一起 Earth Day now brings __(31)__ citizens and activists from around the world to raise awareness and take action——bring together citizens an…"
+  },
+  {
+   "n": 7,
+   "answer": "concerns",
+   "explain": "such environmental ___ as global warming and renewable energy：such…as 结构里 的复数名词 environmental concerns：环境关切/环保议题 such environmental __(32)__ as global warming and renewable energy——\"诸如全球 变暖、可再生能源等环境议题\"，environmental conc…"
+  },
+  {
+   "n": 8,
+   "answer": "partners",
+   "explain": "rallies more than 20,000 ___ and organizations：数量词+空+and+名词，并列名词位 partners and organizations：\"合作伙伴 + 组织\"是地球日网络的天然描述 the Earth Day Network, which rallies more than 20,000 __(33)__ and organizations in 190 countries——一个推动全…"
+  },
+  {
+   "n": 9,
+   "answer": "geography",
+   "explain": "race, gender, income, or ___：并列名词序列的末项 geography 在此指\"地域/地区\"，与种族、性别、收入并列为人的归属属性 all people, regardless of race, gender, income, or __(34)__, have a moral right to a healthy, sustainable environment.——种族、性别、收入都是描述\"人是谁\"的范畴，…"
+  },
+  {
+   "n": 10,
+   "answer": "pursues",
+   "explain": "The Earth Day Network ___ this mission：主语后缺谓语，需第三人称单数现在时动词 pursues this mission：推行/践行这一使命 The Earth Day Network __(35)__ this mission through education, public policy, and activism campaigns.——\"通过教育、公共政策、活动倡议来推行这一使命\"，pur…"
+  }
+ ]
+}

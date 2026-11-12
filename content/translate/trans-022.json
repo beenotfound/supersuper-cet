@@ -1,0 +1,18 @@
+{
+  "id": "trans-022",
+  "type": "translation",
+  "level": "cet4",
+  "title": "中国民乐",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["instrument", "melody", "perform", "traditional"],
+  "prompt": "中国民族音乐历史悠久，使用的乐器种类很多，二胡、古筝、笛子和琵琶各有独特的声音。二胡的声音接近人声，拉起来如泣如诉，常用来表达思念之情。古筝的音色明亮，弹奏时手指在弦上快速移动，听起来像流水一样。过去，民乐多在庙会和节日庆典上演奏，如今音乐厅里也能听到。不少年轻人把民乐和流行音乐结合起来，创作出新的作品。这说明传统并不是一成不变的，它可以在新的时代里继续生长。",
+  "reference": "Chinese folk music has a long history and uses a wide range of instruments, and the erhu, guzheng, dizi and pipa each have a voice of their own. The erhu sounds close to the human voice and can be played in a way that seems to weep or complain, so it is often used to express longing. The guzheng has a bright tone; when the fingers move quickly over the strings, it sounds like running water. In the past folk music was mostly performed at temple fairs and festivals, but today it can also be heard in concert halls. Many young people combine folk music with pop and create new works. A single melody can remind listeners of a place, a season or a person they have not seen for years. That may be why old tunes still move people who have never learned to play them. This shows that tradition is not fixed: it can keep growing in a new age.",
+  "keyPoints": [
+    "“如泣如诉”意译为 seems to weep or complain。",
+    "“音色明亮”译为 a bright tone。",
+    "“庙会和节日庆典”可译为 temple fairs and festivals。",
+    "“结合”用 combine ... with。",
+    "“一成不变”译为 fixed。"
+  ]
+}

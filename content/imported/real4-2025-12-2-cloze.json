@@ -1,0 +1,83 @@
+{
+ "id": "real4-2025-12-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2025年12月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-12-2",
+ "paperTitle": "2025年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-12",
+ "passage": "Some music inspires you to move your feet, some inspires you to get out there and change the world. In any case, it's  {{1}} to say that music moves people in special ways. If you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which {{2}}  to you like a sting in your brain. It turns out that ASMR is pretty special. According to a  {{3}} published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's. Alzheimer's  {{4}} to put people into layers of confusion, and the study confirms that music can sometimes  {{5}} lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while. ASMR is powerful stuff! This phenomenon has been  {{6}} several times but rarely studied properly. One of the most famous examples of this is the story of 92-year-old Henry Dryer, who comes out of dementia(痴呆) while listening to songs from his youth. Jeff Anderson, associate professor in Radiology at the University of Utah and {{7}}  author on the study, says \"In our society, the diagnoses of dementia are {{8}}  resources to the maximum. No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more {{9}}  , decrease the cost of care and improve a patient's {{10}}  of life.\"",
+ "bank": [
+  "actually",
+  "consequently",
+  "contributing",
+  "fair",
+  "feels",
+  "manageable",
+  "mends",
+  "observed",
+  "phase",
+  "plotting",
+  "quality",
+  "recently",
+  "taxing",
+  "tends",
+  "yielded"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "fair",
+   "explain": "it's ___ to say that …，形式主语 it 后系动词 + 表语 It's fair to say 是英语高频习语「可以这样说、说……不为过」 it's __(26)__ to say that music moves people in special ways. 前文用「有些音乐让你想 跳舞，有些激励你改变世界」铺陈，再来一句「可以说音乐以特别的方式打动人心」做总 结，正是 it's fair to say 的标准用…"
+  },
+  {
+   "n": 2,
+   "answer": "feels",
+   "explain": "your brain does … which ___ to you like a sting，which 引导的定语从句缺谓语 feel like 是固定搭配「感觉像」 which __(27)__ to you like a sting in your brain 后面跟 like a sting（像针刺），feels (to you) like … 正是「（对你来说）感觉像……」的标准表达，对人称 sb. 用 feels to s…"
+  },
+  {
+   "n": 3,
+   "answer": "recently",
+   "explain": "a ___ published study，冠词与过去分词之间填副词修饰 published recently published「最近发表」是学术文献标配搭配 According to a __(28)__ published study，引用研究时强调「最近发表的一项研究」是英 语中极高频的表达 a recently published study；时间副词 recently 与 published 在意义 上紧密呼应。 A) ac…"
+  },
+  {
+   "n": 4,
+   "answer": "tends",
+   "explain": "Alzheimer's ___ to put people …，主语后缺谓语，第三人称单数 tends to do 表「倾向于、往往」，契合阿尔茨海默症常见症状 Alzheimer's __(29)__ to put people into layers of confusion，「阿尔茨海默症往往让人 陷入层层困惑」，tends to 表常发性、规律性，符合医学论述的口吻。 G) mends mend 不接 to do，且语义反向 m…"
+  },
+  {
+   "n": 5,
+   "answer": "actually",
+   "explain": "music can sometimes ___ lift people out of …，情态动词 + 副词 + 实义动词 actually 强调「真的、的确」，呼应前文研究证实 the study confirms that music can sometimes __(30)__ lift people out of the Alzheimer's haze，研究「证实」音乐有时确实能把患者从混沌中拉出来，actually 强调这 …"
+  },
+  {
+   "n": 6,
+   "answer": "observed",
+   "explain": "This phenomenon has been ___ several times，被动语态，has been + 过去分词 observed「被观察到」与并列的 studied 同属研究动作 This phenomenon has been __(31)__ several times but rarely studied properly. 中 but 连接转折，前后都讲科研动作：「被观察到多次，却很少被认真研究」，observe…"
+  },
+  {
+   "n": 7,
+   "answer": "contributing",
+   "explain": "___ author on the study，冠词位 + 名词 author 前作定语 contributing author 是学术文献固定身份「参与撰写的作者」 associate professor in Radiology at the University of Utah and __(32)__ author on the study，介绍 Jeff Anderson 的双重身份，「副教授」+「该研究的参与撰写作者」逻辑自…"
+  },
+  {
+   "n": 8,
+   "answer": "taxing",
+   "explain": "the diagnoses of dementia are ___ resources，be 动词后缺谓语成分，与后面 resources 形成动宾 tax resources「使资源吃紧」是固定搭配，与 to the maximum 呼应 the diagnoses of dementia are __(33)__ resources to the maximum，「痴呆诊断正在 最大限度地消耗资源」；tax 作动词意为「使……负担沉…"
+  },
+  {
+   "n": 9,
+   "answer": "manageable",
+   "explain": "make the symptoms more ___，make + 宾语 + 形容词比较级，空填形容词 make symptoms more manageable「让症状更可控」医学语境标配 it might make the symptoms more __(34)__, decrease the cost of care and improve a patient's __(35)__ of life.，三件好事并列：症状更可控、护…"
+  },
+  {
+   "n": 10,
+   "answer": "quality",
+   "explain": "improve a patient's ___ of life，所有格+of 锁定名词 quality of life 是英语固定搭配 improve a patient's __(35)__ of life 中，quality of life「生活质量」是医学/社科语境里的 高频固定表达，与前文 decrease the cost of care 并列，逻辑顺。 I) phase phase of life 偏「人生阶段」，与「改善」…"
+  }
+ ]
+}

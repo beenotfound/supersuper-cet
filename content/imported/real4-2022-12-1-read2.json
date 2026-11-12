@@ -1,0 +1,71 @@
+{
+ "id": "real4-2022-12-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2022年12月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-12-1",
+ "paperTitle": "2022年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-12",
+ "passage": "P1 Recognizing when a friend or colleague feels sad, angry or surprised is key to getting along with others. But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress. This and other research challenge the prevailing view that emotional intelligence is uniformly beneficial to its bearer.\n\nP2 In a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence. For example, they showed the students photographs of people's faces and asked them to what extent feelings such as happiness or disgust were being expressed. The students then had to give job talks in front of judges who displayed serious facial expressions. The scientists measured concentrations of stress hormones in the students' saliva(唾液) before and after the talk.\n\nP3 In students who were rated more emotionally intelligent, the stress measures increased more during the experiment and took longer to go back to baseline. The findings suggest that some people may be too emotionally clever for their own good, says Bechtoldt. \"Sometimes you can be so good at something that it causes trouble,\" she notes.\n\nP4 Indeed, the study adds to previous research hinting at a dark side of emotional intelligence. A study published in 2002 in Personality and Individual Differences suggested that emotionally perceptive people might be particularly influenced by feelings of depression and hopelessness. Furthermore, several studies have implied that emotional intelligence can be used to manipulate others for personal gains.\n\nP5 More research is needed to see how exactly the relation between emotional intelligence and stress would play out in women and in people of different ages and education levels. Nevertheless, emotional intelligence is a useful skill to have, as long as you learn to also properly cope with emotions —both others' and your own, says Bechtoldt. For example, some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out. Remember, as Bechtoldt says, \"you are not responsible for how other people feel.\"",
+ "questions": [
+  {
+   "q": "What is the finding of the new study?",
+   "options": [
+    "Emotional intelligence helps people get along with others.",
+    "Emotional intelligence is generally beneficial to its bearer.",
+    "People who are aware of others' feelings may experience more stress.",
+    "People who are emotionally stressed may have trouble making friends."
+   ],
+   "answer": 2,
+   "explain": "What is the finding of the new study?直接问研究的发现，没有 infer/imply/suggest 等 推断信号词，答案应能在原文中找到客观对应。 Q51是一个简单 What is + 主语 + of 短语的疑问句，主干是the finding of the new study，of 引导的介宾短语限定 finding 的归属，无从句、无否定，结构平铺直叙，无 陷阱。 51. What is the…"
+  },
+  {
+   "q": "What was the purpose of psychologist Myriam Bechtoldt's experiment?",
+   "options": [
+    "To define different types of human feelings.",
+    "To assess the impacts of being emotionally clever.",
+    "To demonstrate how to distinguish different feelings.",
+    "To identify gender differences in emotional intelligence."
+   ],
+   "answer": 1,
+   "explain": "What was the purpose of psychologist Myriam Bechtoldt's experiment?问的是实验目 的，是可在原文中找到客观依据的事实信息，不是推断或主旨。 Q52主干是What was the purpose ... experiment?，of 后面跟一长串名词同位修饰 psychologist Myriam Bechtoldt's experiment，结构是简单的 What + b…"
+  },
+  {
+   "q": "What does the finding of Myriam Bechtoldt's study indicate?",
+   "options": [
+    "Greater emotional cleverness means less trouble in one's life.",
+    "Emotional intelligence helps people succeed in job interviews.",
+    "People's psychological wellbeing is related to various factors.",
+    "People may suffer from having a high emotional intelligence"
+   ],
+   "answer": 3,
+   "explain": "What does the finding of Myriam Bechtoldt's study indicate?问的是研究结果所「表 明」的内容，原文有研究者亲口下的结论句作为依据，仍属细节题，不需要超出原文做 推断。 Q53结构是 What does + 主语 + indicate？主语the finding of Myriam Bechtoldt's study由 of 介宾限定，全句是简单宾语从句式提问，无否定无比较，无陷阱…"
+  },
+  {
+   "q": "What do we learn about emotional intelligence from a number of studies?",
+   "options": [
+    "People suffering from depression are emotionally immature.",
+    "People who look at the dark side of life often feel depressed.",
+    "Some people may take advantage of it and benefit themselves.",
+    "Some people may lack it and are easily manipulated by others."
+   ],
+   "answer": 2,
+   "explain": "What do we learn about emotional intelligence from a number of studies?问的是 「从多项研究我们得知什么」，对应原文综述段的事实罗列，不是推断或主旨。 Q54主干是 What do we learn? 后接 about + 话题 + from + 来源两个介宾短语限定 learn 的范围；about 限定话题、from 限定信息来源，两个限定都不能丢，结构清晰、无 陷…"
+  },
+  {
+   "q": "What does the author suggest sensitive individuals do?",
+   "options": [
+    "Avoid burdening themselves with others' feelings.",
+    "Rid themselves of worries over worldly affairs.",
+    "Learn to cope with people's negative feelings.",
+    "Help people to deal with their troubles in life."
+   ],
+   "answer": 0,
+   "explain": "What does the author suggest sensitive individuals do?问作者给敏感者的具体建议， 原文应有明示的建议句作为依据。 Q55是 What does + 主语 + suggest + 宾语从句的疑问句；宾语从句省略 that，形式为 sensitive individuals do——主语 sensitive individuals + 动词原形 do，是 suggest sb. (sho…"
+  }
+ ]
+}

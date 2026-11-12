@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-real-2026-06-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2026-06",
+ "paperTitle": "2026年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "sectionOrder": 4,
+ "passage": "Every autumn, the international office at a British university runs a short course that has nothing to do with engineering or literature. It is called Academic Etiquette, and its purpose is to explain the unwritten rules of university life: how to address a professor, how to join a discussion without interrupting, and how to write an email that will actually be answered.\nThe email lesson is the most popular. Students bring messages they have already sent, and the class reads them together. Two versions appear again and again. One begins with no greeting and no subject line and asks five questions at once. The other begins with a long apology for troubling the professor, followed by a paragraph about the student's entire academic history, before the real request appears in the final line. Neither is likely to receive a quick reply.\nThe teacher offers a simple structure: a subject line that says exactly what the message is about, a brief greeting, the request in the first two sentences, and a closing that thanks the reader for their time. She also reminds students that professors receive hundreds of messages a week, and that a short, clear email is a sign of respect rather than a sign of laziness.\nAt the end of the course, students are asked to rewrite one of their own messages. The improvement is usually obvious. But the teacher insists that the deeper lesson is not about language. It is about understanding that academic life has its own culture, with habits and expectations that nobody explains in class. Learning to read that culture, she says, is part of learning the subject itself.",
+ "questions": [
+  {
+   "q": "What is the Academic Etiquette course mainly about?",
+   "options": [
+    "Teaching international students English grammar.",
+    "Helping students pass their final exams.",
+    "Explaining the unwritten rules of university life.",
+    "Training professors to write better emails."
+   ],
+   "answer": 2,
+   "explain": "第一段说 its purpose is to explain the unwritten rules of university life，并列举称呼教授、加入讨论、写邮件等，故选 C。"
+  },
+  {
+   "q": "What do the two common email versions share?",
+   "options": [
+    "Both make the real request hard to find.",
+    "Both begin with a clear subject line.",
+    "Both are written in very short sentences.",
+    "Both are sent to the wrong professor."
+   ],
+   "answer": 0,
+   "explain": "第二段说一种邮件没有称呼和主题、一口气问五个问题，另一种先长篇道歉、把真正的请求放到最后一句，共同点是请求很难被找到，故选 A。"
+  },
+  {
+   "q": "What does the teacher believe is the deeper lesson?",
+   "options": [
+    "Professors should reply to emails faster.",
+    "Language is not important in academic emails.",
+    "Students should stop asking so many questions.",
+    "Understanding academic culture is part of learning a subject."
+   ],
+   "answer": 3,
+   "explain": "末段说 the deeper lesson is not about language，而是理解 academic life has its own culture，学会读懂这种文化本身就是学习这门学科的一部分，故选 D。"
+  }
+ ]
+}

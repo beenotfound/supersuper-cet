@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-03",
+      "title": "大学英语四级标准模拟卷 03",
+      "level": "CET4",
+      "year": "mock-03",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Suppose the Students' Union is launching an environmental campaign on campus. Write a proposal to all students, explaining how students can take part in environmental protection in their daily life. In your proposal you should: 1) state the purpose of the campaign; 2) give three practical suggestions; 3) call on students to act. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "假定学生会正在发起一项校园环保活动，请面向全体同学写一份倡议书，说明大学生如何在日常生活中参与环境保护。内容包括：1）活动的目的；2）三条具体可行的建议；3）号召同学们行动起来。词数 120–180 词。",
+          "reference": "Dear fellow students,\n\nOur Students' Union is launching a month-long environmental campaign, and we need your help. The aim is simple: to show that protecting the planet begins with the small choices we make every day on this campus.\n\nHere are three suggestions. First, sort your waste properly. It takes ten seconds to put a bottle in the yellow bin instead of the grey one. Second, bring your own cup and bag to the canteen; campus figures show that thousands of paper cups are thrown away every week. Third, take the stairs when you are only going up two floors, which is better for your health and for energy use.\n\nWe are not asking for a perfect lifestyle, only for one new habit each. Join us this Friday in front of the library and let us make our campus greener together.\n\nYours,\nThe Students' Union",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。请先阅读以下两段材料（Conversation One 与 Passage One），再回答下面的 8 道题。\n\nConversation One:\nWoman: Are you volunteering for the waste sorting campaign next week? I saw your name on the list.\nMan: Yes, I signed up for three mornings. I have to admit I am a bit nervous. I have never stood next to a rubbish bin and told people what to do.\nWoman: It is not that bad. The new rules are quite simple: food waste in the green bin, paper in blue, bottles and cans in yellow, everything else in grey. Most students get it right after the first day.\nMan: What happens when someone gets it wrong?\nWoman: We do not tell them off. We just ask them to tip it out and try again. Last year, people were more willing to listen than I expected.\nMan: Good. What should I bring? Gloves?\nWoman: The centre provides gloves, aprons and a picker. But wear old shoes, because the floor gets wet. And bring a water bottle, since the station is outside and it gets hot by ten.\nMan: How long are the shifts?\nWoman: Two hours, from seven to nine, when most people come down for breakfast. There is also a short training session on Sunday afternoon in the dining hall. You only need to come to one.\nMan: I will be there. Is there a group chat for volunteers?\nWoman: Yes, I will add you. We share photos of the bins and any problems, and the coordinator posts the schedule for the week.\nMan: Perfect. I feel much better already. Thanks for explaining everything.\n\nPassage One:\nChoosing how to travel is one of the biggest decisions an ordinary person makes about the environment. A short flight produces far more carbon dioxide per passenger than the same journey made by train, yet cheap tickets have made flying the obvious choice for weekend trips. The good news is that low-carbon travel does not have to mean staying at home. Trains in many countries now offer comfortable seats and work tables, and a journey of three or four hours can be productive rather than tiresome. For shorter distances, the bicycle remains the most efficient machine ever invented: it uses no fuel, takes up little space and keeps the rider fit. Electric bicycles, which do most of the work on a hill, have now made cycling possible for people who are older or less fit. Cities that build safe cycle lanes find that many people who would never ride among cars will happily cycle to work. There is also the question of frequency. An electric bus that runs every ten minutes carries far more people than one that runs twice a day, because passengers choose services they can rely on. Researchers who study travel habits point out that people rarely change their behaviour because of a lecture about the planet. They change when the low-carbon option is cheaper, faster or more pleasant than the alternative. That is why the most effective green transport policies are also simple improvements in daily life.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What is the man worried about?",
+              "transcript": "",
+              "options": [
+                "A. He has lost his name on the volunteer list.",
+                "B. He has never told people what to do beside a bin.",
+                "C. He has to work five mornings next week.",
+                "D. He cannot remember the colour of the bins."
+              ],
+              "answer": "B",
+              "explanation": "男士说他很紧张，因为 I have never stood next to a rubbish bin and told people what to do，即从未在垃圾桶旁指导别人分类，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What do volunteers do when a student puts waste in the wrong bin?",
+              "transcript": "",
+              "options": [
+                "A. They report the student to a teacher.",
+                "B. They pretend not to notice it.",
+                "C. They ask the student to empty it out and sort it again.",
+                "D. They give the student a fine."
+              ],
+              "answer": "C",
+              "explanation": "女士说 We do not tell them off. We just ask them to tip it out and try again，即让学生把垃圾倒出来重新分类，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What does the woman tell the man to bring?",
+              "transcript": "",
+              "options": [
+                "A. A notebook and pen.",
+                "B. A pair of gloves and an apron.",
+                "C. A list of the new rules.",
+                "D. A water bottle."
+              ],
+              "answer": "D",
+              "explanation": "女士说手套、围裙和夹子由中心提供，但 bring a water bottle, since the station is outside and it gets hot by ten，故选 D。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What will the man do on Sunday afternoon?",
+              "transcript": "",
+              "options": [
+                "A. Attend a short training session.",
+                "B. Meet the coordinator at the sorting station.",
+                "C. Collect gloves from the centre.",
+                "D. Start his first two-hour shift."
+              ],
+              "answer": "A",
+              "explanation": "女士提到 There is also a short training session on Sunday afternoon in the dining hall，男士回答 I will be there，故他周日下午要参加培训，故选 A。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What does the passage say about a short flight compared with the same journey by train?",
+              "transcript": "",
+              "options": [
+                "A. It is always more expensive than the train.",
+                "B. It takes much longer than the train.",
+                "C. It produces far more carbon dioxide per passenger.",
+                "D. It carries much more luggage."
+              ],
+              "answer": "C",
+              "explanation": "短文开头说 A short flight produces far more carbon dioxide per passenger than the same journey made by train，故选 C。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "Why do safe cycle lanes matter according to the passage?",
+              "transcript": "",
+              "options": [
+                "A. They make bicycles much cheaper.",
+                "B. They encourage people who would not ride among cars to cycle.",
+                "C. They reduce the number of buses in the city.",
+                "D. They are built only in small towns."
+              ],
+              "answer": "B",
+              "explanation": "文中说 Cities that build safe cycle lanes find that many people who would never ride among cars will happily cycle to work，故选 B。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What does the passage say about electric buses?",
+              "transcript": "",
+              "options": [
+                "A. More people use them when they run frequently and reliably.",
+                "B. They are slower than ordinary buses.",
+                "C. They cannot carry many passengers.",
+                "D. They are only used late at night."
+              ],
+              "answer": "A",
+              "explanation": "文中说 An electric bus that runs every ten minutes carries far more people than one that runs twice a day, because passengers choose services they can rely on，故选 A。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "When do people change their travel behaviour according to researchers?",
+              "transcript": "",
+              "options": [
+                "A. When they are given a lecture about the planet.",
+                "B. When fuel prices fall sharply.",
+                "C. When trains become slower.",
+                "D. When the low-carbon option is cheaper, faster or more pleasant."
+              ],
+              "answer": "D",
+              "explanation": "短文说 people rarely change their behaviour because of a lecture about the planet. They change when the low-carbon option is cheaper, faster or more pleasant，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "选词填空：阅读下面短文，从词库 A–O 中选出 10 个词填入短文中的空白处（编号 26–35），每个词只能使用一次。\n\n词库：\nA. different\nB. durable\nC. effective\nD. enough\nE. entire\nF. extend\nG. obvious\nH. power\nI. rarely\nJ. reduce\nK. surely\nL. tackle\nM. thrown\nN. wisely\nO. collect\n\n短文：\nEvery year the world produces far more clothes than people can wear. Prices are low, designs change quickly, and a T-shirt may be worn a few times before it is (26) ____ away. The results are easy to see: mountains of clothing in landfills and rivers polluted by the dyes used in factories. Some companies have begun to (27) ____ the problem by collecting old clothes in their shops, but only a small share of what is collected is turned into new fabric. Most is sold to other countries or burned. Consumers have more (28) ____ than they realise. Washing clothes at a lower temperature and drying them in the air can (29) ____ their life by years, and simple repairs can save a favourite jacket from the bin. Buying (30) ____, well-made clothes costs more at first but saves money later. Campaigners also encourage people to organise swap events, where friends bring clothes they no longer wear and take home something (31) ____. None of these actions is (32) ____ on its own, but together they (33) ____ the pressure on the planet. The most (34) ____ change, campaigners argue, is to buy less and choose (35) ____.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. A T-shirt may be worn a few times before it is ____ away.",
+              "answer": "thrown",
+              "explanation": "选 M. thrown。be thrown away 意为“被扔掉”，与上衣只穿几次就被丢弃的语境一致，空格需过去分词构成被动。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. Some companies have begun to ____ the problem by collecting old clothes in their shops.",
+              "answer": "tackle",
+              "explanation": "选 L. tackle。tackle the problem 意为“应对、处理问题”，与 by collecting old clothes 的方式说明相搭配。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. Consumers have more ____ than they realise.",
+              "answer": "power",
+              "explanation": "选 H. power。have more power than they realise 意为“拥有比自己意识到的更大的影响力”，指消费者可以通过选择影响环境。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Washing clothes at a lower temperature and drying them in the air can ____ their life by years.",
+              "answer": "extend",
+              "explanation": "选 F. extend。extend 意为“延长”，extend the life of clothes by years 即“把衣服的寿命延长数年”。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Buying ____, well-made clothes costs more at first but saves money later.",
+              "answer": "durable",
+              "explanation": "选 B. durable。durable 意为“耐穿的、结实的”，与 well-made 并列修饰 clothes；虽然初期花费更高，但此后更省钱。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. At swap events, friends bring clothes they no longer wear and take home something ____.",
+              "answer": "different",
+              "explanation": "选 A. different。something different 意为“不一样的东西”，说明交换活动让旧衣换成别的衣物，减少购买。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. None of these actions is ____ on its own.",
+              "answer": "enough",
+              "explanation": "选 D. enough。none of these actions is enough on its own 意为“单靠其中任何一项都不够”，与 but 后的 together 形成对比。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Together these actions ____ the pressure on the planet.",
+              "answer": "reduce",
+              "explanation": "选 J. reduce。reduce the pressure on the planet 意为“减轻对地球的压力”，是常见的动宾搭配。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. The most ____ change, campaigners argue, is to buy less.",
+              "answer": "effective",
+              "explanation": "选 C. effective。the most effective change 意为“最有效的改变”，形容词最高级修饰 change，表示倡导者认为最管用的做法。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. The final advice is to buy less and choose ____.",
+              "answer": "wisely",
+              "explanation": "选 N. wisely。choose wisely 意为“明智地选择”，需要副词修饰动词 choose，与 buy less 并列说明消费态度。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，选项 A–F 为各段落主题的短标题。请为下面的每个陈述句选择对应的段落。\n\nParagraph A: A green roof is exactly what its name suggests: a building whose flat top has been covered with soil and plants. Under the visible layer there are several others that most people never see — a waterproof membrane, a drainage system and a root barrier. The weight has to be calculated before anything is planted, and older buildings sometimes need extra support. Once the layers are in place, the roof can be planted with grass, moss, wild flowers or small shrubs, depending on how much weight the structure can carry.\n\nParagraph B: Cities are usually several degrees warmer than the countryside around them, because concrete and asphalt absorb heat during the day and release it slowly at night. Plants work in the opposite way. They take up water and release it as vapour, a process that cools the air, and the soil beneath them insulates the building, so less energy is needed for air conditioning. Measurements on a green roof in summer have found the surface temperature to be up to thirty degrees lower than that of a conventional roof next door.\n\nParagraph C: When a heavy storm arrives, drains in a modern city can be overwhelmed within minutes. A green roof slows the water down. Rain is caught by the plants and soil, and what does not evaporate or is taken up by the roots runs off more slowly, sometimes hours after the rain has stopped. In cities that have suffered from flooding, this delay is valuable. Green roofs cannot replace proper drainage, engineers warn, but they can reduce the peak load on a system during the worst hour of a storm.\n\nParagraph D: A city centre is a difficult place for a bird, a bee or a butterfly. Green roofs create small islands of habitat above the traffic, and research in several European cities has recorded bees, beetles and nesting birds on them. The value depends on the plants chosen: a roof covered with a single type of moss supports far less life than one planted with a mixture of flowers and grasses. Connecting such roofs across a district, rather than building one isolated example, makes a real difference to insects that need stepping stones between green spaces.\n\nParagraph E: The obvious objection is cost. Installing a green roof can cost two or three times as much as a standard one, and the building owner may not stay long enough to see the savings. Supporters reply that the calculation is wider than the roof itself. The roof lasts longer because the membrane is protected from sunlight, the building uses less energy for cooling, and the city saves money on drainage. Some cities now offer grants or allow developers to build higher when they include a green roof, which changes the sums for everyone involved.\n\nParagraph F: Green roofs are no longer an experiment. In Singapore, new buildings are required to include planting on their roofs, and the city's most famous hotel has a garden that runs along its top like a park. In Germany, the idea has been common for decades, and several cities offer financial support. Closer to home, schools and offices have used their flat roofs for gardens, vegetable plots and even small sports areas. Supporters say the examples are spreading because the benefits are easy to explain, and a visitor can see them from street level.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "A green roof can slow the flow of rainwater into drains during heavy storms.",
+              "options": [
+                "A. What a green roof is",
+                "B. Cooling the city",
+                "C. Holding back rainwater",
+                "D. A home for wildlife",
+                "E. The cost question",
+                "F. Examples around the world"
+              ],
+              "answer": "C",
+              "explanation": "C 段说 A green roof slows the water down ... runs off more slowly，并提到它能 reduce the peak load on a system during the worst hour of a storm，故选 C。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "These roofs offer food and shelter to birds and insects in crowded cities.",
+              "options": [
+                "A. What a green roof is",
+                "B. Cooling the city",
+                "C. Holding back rainwater",
+                "D. A home for wildlife",
+                "E. The cost question",
+                "F. Examples around the world"
+              ],
+              "answer": "D",
+              "explanation": "D 段说 Green roofs create small islands of habitat above the traffic，并提到研究记录了 bees, beetles and nesting birds，故选 D。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "A green roof is a layer of plants and soil placed on top of a building.",
+              "options": [
+                "A. What a green roof is",
+                "B. Cooling the city",
+                "C. Holding back rainwater",
+                "D. A home for wildlife",
+                "E. The cost question",
+                "F. Examples around the world"
+              ],
+              "answer": "A",
+              "explanation": "A 段开头即说 A green roof is exactly what its name suggests: a building whose flat top has been covered with soil and plants，并介绍了下方的防水层、排水层等，故选 A。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "The idea is now required by law in some cities and supported with money in others.",
+              "options": [
+                "A. What a green roof is",
+                "B. Cooling the city",
+                "C. Holding back rainwater",
+                "D. A home for wildlife",
+                "E. The cost question",
+                "F. Examples around the world"
+              ],
+              "answer": "F",
+              "explanation": "F 段说 In Singapore, new buildings are required to include planting on their roofs，又提到 In Germany ... several cities offer financial support，故选 F。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Plants reduce the heat that buildings absorb and release into the streets.",
+              "options": [
+                "A. What a green roof is",
+                "B. Cooling the city",
+                "C. Holding back rainwater",
+                "D. A home for wildlife",
+                "E. The cost question",
+                "F. Examples around the world"
+              ],
+              "answer": "B",
+              "explanation": "B 段解释植物 take up water and release it as vapour, a process that cools the air，并说绿色屋顶表面温度可比普通屋顶低三十度，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: Universities are often described as small cities, and like cities they consume a great deal of energy, produce a great deal of waste and own a great many buildings. It is not surprising, therefore, that a growing number of campuses have started to treat sustainability as a practical problem rather than a subject for discussion. The measures they take are rarely dramatic. One university replaced the lights in its library with sensors that switch off when nobody is in the room, which cut electricity use in the building by a fifth. Another began serving smaller portions in its dining halls and charging less for them, and found that food waste fell by almost a third in a year. Some have built cycle lanes between halls and lecture rooms or offered free bus passes to students who choose not to bring a car.\n\nWhat interests researchers most is not the technology but the way these changes are introduced. Projects that begin with a student society tend to last longer than those announced by the administration, because students keep using them after the official launch. A survey of twelve campuses found that the most successful projects were small, visible and easy to join: a repair workshop, a book swap, a garden behind the science building. Big targets may look impressive in a report, but a student is more likely to change one habit than to rethink an entire lifestyle. That, the researchers conclude, is how change actually starts.\n\nPassage 2: Bike-sharing schemes were once presented as the answer to almost every urban problem. They would reduce traffic, cut pollution, improve public health and fill the gaps between bus stops and homes. In many cities the first months were indeed a success: brightly coloured bicycles appeared on every corner, and people who had not ridden since childhood began cycling to work.\n\nThen came the problems. Bicycles were left in the middle of pavements, thrown into rivers and piled outside railway stations. Companies competing for the same streets put more bicycles on the road than the city could manage. Several councils responded by limiting the number of bikes and requiring operators to remove those that were badly parked. The result has been a quieter, more useful service. Where parking spaces are clearly marked and repairs are quick, shared bikes have become a normal part of city life. Where they are not, the bicycles soon become rubbish.\n\nThe lesson seems to be that a vehicle shared by thousands of people needs the same care as a public library: someone must check it, clean it and put it back in the right place. Technology can help, but the bicycle on the pavement is still a human problem.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What did one university achieve by replacing library lights with sensors?",
+              "options": [
+                "A. It served smaller meals in the dining hall.",
+                "B. It cut the building's electricity use by a fifth.",
+                "C. It built cycle lanes on campus.",
+                "D. It opened a repair workshop."
+              ],
+              "answer": "B",
+              "explanation": "第一段说 One university replaced the lights in its library with sensors ... which cut electricity use in the building by a fifth，故选 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) Why did food waste fall at another university?",
+              "options": [
+                "A. Students were given free bus passes.",
+                "B. The university built a garden behind the science building.",
+                "C. Dining halls served smaller portions at lower prices.",
+                "D. Students cooked for themselves."
+              ],
+              "answer": "C",
+              "explanation": "第一段提到 Another began serving smaller portions in its dining halls and charging less for them, and found that food waste fell by almost a third，故选 C。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the survey of twelve campuses suggest?",
+              "options": [
+                "A. Large official targets work best.",
+                "B. Technology is the key to change.",
+                "C. Students ignore projects started by societies.",
+                "D. Small, visible projects that are easy to join are most successful."
+              ],
+              "answer": "D",
+              "explanation": "第二段说 A survey of twelve campuses found that the most successful projects were small, visible and easy to join，故选 D。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What do the researchers conclude?",
+              "options": [
+                "A. Change starts when students change one habit at a time.",
+                "B. Students should rethink their whole lifestyle.",
+                "C. Big targets are the only way to succeed.",
+                "D. Campuses should be treated as cities."
+              ],
+              "answer": "A",
+              "explanation": "第二段说 a student is more likely to change one habit than to rethink an entire lifestyle. That, the researchers conclude, is how change actually starts，故选 A。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What was expected of bike-sharing schemes?",
+              "options": [
+                "A. They would replace public libraries.",
+                "B. They would pay for themselves immediately.",
+                "C. They would reduce traffic and pollution and improve health.",
+                "D. They would be used mainly by children."
+              ],
+              "answer": "C",
+              "explanation": "第一段说 They would reduce traffic, cut pollution, improve public health and fill the gaps between bus stops and homes，故选 C。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What problem appeared after the first months?",
+              "options": [
+                "A. Bicycles were too expensive to make.",
+                "B. Too few people wanted to cycle.",
+                "C. Cities ran out of buses.",
+                "D. Bicycles were badly parked, thrown into rivers and piled outside stations."
+              ],
+              "answer": "D",
+              "explanation": "第二段说 Bicycles were left in the middle of pavements, thrown into rivers and piled outside railway stations，故选 D。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What does the author compare a shared bicycle to?",
+              "options": [
+                "A. A private car.",
+                "B. A public library that needs care.",
+                "C. A railway station.",
+                "D. A competition between companies."
+              ],
+              "answer": "B",
+              "explanation": "末段说 a vehicle shared by thousands of people needs the same care as a public library: someone must check it, clean it and put it back in the right place，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "“绿水青山就是金山银山”这一理念如今被越来越多的中国人所熟悉。它提醒我们，保护环境与发展经济并不矛盾。近年来，许多地方通过植树造林、治理河流和建设公园，让曾经污染的矿区变成了旅游景点。当地居民靠经营民宿和出售农产品增加了收入，也更加珍惜身边的环境。绿色发展意味着节约资源、减少浪费，把干净的空气和水留给下一代。这不仅是政府的责任，也需要每个人从日常生活做起。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "The idea that green mountains and clear waters are as valuable as gold and silver is now familiar to more and more Chinese people. It reminds us that protecting the environment and developing the economy do not contradict each other. In recent years, many places have turned polluted mining areas into tourist attractions by planting trees, cleaning up rivers and building parks. Local residents have earned more by running guesthouses and selling farm products, and they value the environment around them even more. Green development means saving resources, reducing waste and leaving clean air and water to the next generation. This is not only the responsibility of the government; it also requires each of us to start with our daily lives.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

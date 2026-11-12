@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-01-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-01",
+ "paperTitle": "大学英语四级标准模拟卷 01",
+ "paperLevel": "cet4",
+ "paperYear": "mock-01",
+ "sectionOrder": 2,
+ "passage": "短文：\nMany students now type their lecture notes on a laptop, yet a growing number of teachers encourage them to write by hand. One reason is speed: typing allows a student to record almost every word, but this can actually {{1}} understanding. When people write slowly, they must decide what matters and express it in their own words, which makes the material easier to {{2}} later. A study at an American university found that students who took notes by hand performed better on questions that required them to explain ideas, although the two groups scored {{3}} on simple factual questions. Handwriting also seems to keep the mind from {{4}} during long lectures, because the writer cannot simply copy words without thinking. Of course, laptops remain {{5}} for courses with large amounts of data, and no teacher should {{6}} students who genuinely need them. The {{7}} message is that the method matters less than the thinking behind it. Teachers can help by {{8}} fewer but better questions and by giving students time after class to {{9}} their notes with a partner. In the end, good notes are not a {{10}} of the lecture but a record of the student's own ideas.",
+ "bank": [
+  "asking",
+  "benefit",
+  "compare",
+  "copy",
+  "equally",
+  "focus",
+  "forbid",
+  "general",
+  "hinder",
+  "obviously",
+  "quickly",
+  "recall",
+  "struggle",
+  "useful",
+  "wandering"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "hinder",
+   "explain": "选 I. hinder。hinder 意为“阻碍、妨碍”，hinder understanding 指反而妨碍理解；benefit 虽也可接宾语，但与句中 but 的转折逻辑相反。"
+  },
+  {
+   "n": 2,
+   "answer": "recall",
+   "explain": "选 L. recall。recall 意为“回想起、忆起”，与后面的 later 呼应，说明用自己的话记笔记能帮助日后回忆内容。"
+  },
+  {
+   "n": 3,
+   "answer": "equally",
+   "explain": "选 E. equally。空格修饰动词 scored，需要程度副词；equally 表示两组在简单事实题上“得分相同”，与 although 引导的让步关系一致。"
+  },
+  {
+   "n": 4,
+   "answer": "wandering",
+   "explain": "选 O. wandering。keep sb from doing sth 为固定结构，wandering 指“走神、思绪游移”，说明手写让人无法不假思索地抄写，从而保持专注。"
+  },
+  {
+   "n": 5,
+   "answer": "useful",
+   "explain": "选 N. useful。remain 后接形容词作表语，useful 表示笔记本电脑在数据量大的课程中仍然“有用”，与前面的转折语气相符。"
+  },
+  {
+   "n": 6,
+   "answer": "forbid",
+   "explain": "选 G. forbid。forbid sb to do sth 意为“禁止某人做某事”，此处指不应禁止确实需要笔记本电脑的学生使用它。"
+  },
+  {
+   "n": 7,
+   "answer": "general",
+   "explain": "选 H. general。the general message 意为“总的信息、总体结论”，空格需形容词修饰 message，概括前文的对比。"
+  },
+  {
+   "n": 8,
+   "answer": "asking",
+   "explain": "选 A. asking。by 后接动名词，ask questions 意为“提问”，fewer but better questions 说明问题应少而精。"
+  },
+  {
+   "n": 9,
+   "answer": "compare",
+   "explain": "选 C. compare。compare A with B 意为“把 A 与 B 作比较”，与 with a partner 搭配，指课后和同伴对照、补充笔记。"
+  },
+  {
+   "n": 10,
+   "answer": "copy",
+   "explain": "选 D. copy。a copy of the lecture 意为“讲义的复制品”，与后面的 a record of the student's own ideas 形成对比。"
+  }
+ ]
+}

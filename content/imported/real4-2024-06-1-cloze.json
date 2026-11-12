@@ -1,0 +1,83 @@
+{
+ "id": "real4-2024-06-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2024年6月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-06-1",
+ "paperTitle": "2024年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "passage": "It's well known that physical exercise is beneficial not just to physical health but also to mental health. Yet whereas most countries have ,  {{1}} evidence-backed guidelines on the type and intensity of exercise {{2}}  for various physical health benefits, such guidelines do not yet exist for exercise and mood. This is  {{3}} due to a lack of necessary evidence. However, a new systematic review brings us usefully up to-date on the current findings in this area. Before  {{4}} into some of the key take-aways, an important  {{5}} made in the review is between aerobic exercise and anaerobic. The former  {{6}} such things as walking, jogging and cycling and means exercising in such a way that your body is able to use oxygen to burn fat for energy. In contrast, anaerobic exercise—such as lifting heavy weights—is of such {{7}}  intensity that your body does not have time to use oxygen to create energy and so instead it breaks down glucose(葡萄糖) in your blood or muscles. Beginning first with the influence of exercise intensity on the mood benefits of aerobic exercise, the researchers, led by John Chan at Shenzhen University, found {{8}}  results from 19 relevant studies. Some favoured higher intensity, others low, while seven studies found that intensity made no {{9}}  to mood benefits. In relation to the intensity of anaerobic exercise, however, the results were far clearer—the optimum(最佳选择) for improving mood is {{10}}  intensity, perhaps because low intensity is too dull while high intensity is too unpleasant.",
+ "bank": [
+  "constitutes",
+  "contradictory",
+  "decision",
+  "detailed",
+  "difference",
+  "dipping",
+  "distinction",
+  "falling",
+  "involves",
+  "moderate",
+  "notified",
+  "partly",
+  "required",
+  "traditionally",
+  "vigorous"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "detailed",
+   "explain": "have ___, evidence-backed guidelines，修饰 guidelines 与 evidence-backed 并列修饰\"指南\"，最贴的是\"详细的\" guidelines 的常见修饰是\"详细的、有循证支撑的\"——detailed, evidence-backed guidelines 正是常见地道搭配；且与下文 such guidelines do not yet exist for exercise and …"
+  },
+  {
+   "n": 2,
+   "answer": "required",
+   "explain": "the type and intensity of exercise ___ for various…，后置定语动词 be required for = 为……所必需 原句要表达\"为获得各种身体健康益处所需要的运动种类与强度\"——guidelines on the type and intensity of exercise required for…physical health benefits，required for 与 \"fo…"
+  },
+  {
+   "n": 3,
+   "answer": "partly",
+   "explain": "be 动词 + ___ + due to，空处修饰整个表语 下文转折\"However\"暗示\"部分原因\"而非全部 空后是 due to a lack of necessary evidence. However, a new systematic review brings us usefully up to-date on the current findings in this area.，\"However\" 表明证据并非 全无、综述…"
+  },
+  {
+   "n": 4,
+   "answer": "dipping",
+   "explain": "介词 Before 后 + ___ into，需动名词 dip into = 涉足、稍稍探讨某话题 下文 Before __(29)__ into some of the key take-aways, an important __(30)__ made in the review is between aerobic exercise and anaerobic. 是过渡句——\"在涉足/简略谈及 这些要点之前，先要……\"。dip i…"
+  },
+  {
+   "n": 5,
+   "answer": "distinction",
+   "explain": "an important ___ made…between A and B make a distinction between A and B = 区分 A 与 B 空后明确是 between aerobic exercise and anaerobic——在有氧与无氧之间作\"区分\"。 make a distinction between 是地道搭配，且下文整段都在分别解释两类运动的差别，正 是\"区分\"在展开。 C) decision…"
+  },
+  {
+   "n": 6,
+   "answer": "involves",
+   "explain": "The former ___ such things as…，主语后缺谓语 involves such things as = 包括诸如……这样的事物 involve + such things as 是地道搭配，表\"包括、涉及（举例）\"。文中要表达\"前者（有氧 运动）包括走路、慢跑、骑车这样的项目\"，involve 既符合搭配又符合\"举例罗列\"的语义。 A) constitutes constitute 表\"构成整体\"，与\"列举若干例…"
+  },
+  {
+   "n": 7,
+   "answer": "vigorous",
+   "explain": "of such ___ intensity that…，定语修饰 intensity 举例\"举重\"+结果\"来不及用氧\"=高强度 原句 anaerobic exercise—such as lifting heavy weights—is of such __(32)__ intensity that your body does not have time to use oxygen to create energy：以\"举重\"为例， …"
+  },
+  {
+   "n": 8,
+   "answer": "contradictory",
+   "explain": "found ___ results，作 results 的前置定语 下文\"有的偏高、有的偏低、还有的无差别\"=互相矛盾 紧接的具体说明 Some favoured higher intensity, others low, while seven studies found that intensity made no __(34)__ to mood benefits. 一句话三种立场互相冲突—— 这正是 contradictory …"
+  },
+  {
+   "n": 9,
+   "answer": "difference",
+   "explain": "made no ___ to，固定搭配 make a difference make no difference to = 对……毫无影响 上文 Some favoured higher intensity, others low, while seven studies found that intensity made no __(34)__ to mood benefits.\"有些研究偏高强度、有些偏低、还有七项 发现强度对情绪益…"
+  },
+  {
+   "n": 10,
+   "answer": "moderate",
+   "explain": "is ___ intensity，作 intensity 的定语 下文\"低太闷、高太难受\"夹出中间值 紧接的解释 perhaps because low intensity is too dull while high intensity is too unpleasant. 给了一道送分题——既排斥 low（太枯燥）又排斥 high（太难受），那\"最佳 选择\"自然是介于两者之间的 moderate（中等）。 O) vigorous v…"
+  }
+ ]
+}

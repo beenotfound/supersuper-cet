@@ -1,0 +1,71 @@
+{
+ "id": "real4-2024-12-3-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2024年12月四级真题 第3套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-12-3",
+ "paperTitle": "2024年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "passage": "P1 Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. Recent evidence points to drivers' limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately.\n\nP2 One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms.\n\nP3 The issue is that, unlike using a smartphone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware.\n\nP4 \"Warning fatigue\" and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction. Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur.\n\nP5 Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this considered, the road forward for self-driving cars is not going to be a smooth ride after all.",
+ "questions": [
+  {
+   "q": "What do we learn from research in human-vehicle interaction?",
+   "options": [
+    "Automatic driving systems are by no means immune to errors.",
+    "Driverless vehicles are likely to be misused by some people.",
+    "Self-driving car manufacturers are not aware of the legal matters involved.",
+    "There is a long way to go before humans can interact with driverless vehicles."
+   ],
+   "answer": 0,
+   "explain": "What do we learn from research in human-vehicle interaction? 直接问研究告诉了我们 什么，答案必然是原文一句陈述的客观转述，不需要跨段推理。 结构平铺直叙：主句是 What do we learn from research in human-vehicle interaction，from 引导的介宾短语限定信息来源，无从句、无否定、无陷阱。 46. What do we l…"
+  },
+  {
+   "q": "What is the problem with requiring buyers to sign end-user license agreements?",
+   "options": [
+    "End users, young and old alike, find the terms complex to interpret.",
+    "Most end users sign them without bothering to read the terms.",
+    "Many people are often confused by the wording of the terms.",
+    "Most end users do not understand the terms after reading them through."
+   ],
+   "answer": 1,
+   "explain": "What is the problem with requiring buyers to sign end-user license agreements? 询 问一个具体做法的问题所在，属于对原文局部反面描述的提取。 结构清晰：What is the problem with… 主句问的是 problem，with 后跟动名词短语 requiring buyers to sign end-user license agreements…"
+  },
+  {
+   "q": "What would drivers do when they suffer from \"warning fatigue\"?",
+   "options": [
+    "Waste no time keeping the car moving.",
+    "Rest a while to avoid fatigue driving.",
+    "Take no action despite repeated warnings.",
+    "Take note of the message though fatigued."
+   ],
+   "answer": 2,
+   "explain": "What would drivers do when they suffer from \"warning fatigue\"? 问的是在某情境下司 机会做出何种动作，属于对原文具体情境的事实提取。 主句 What would drivers do 是常规疑问句，when 引导的时间状语从句 when they suffer from \"warning fatigue\" 限定情境，suffer from 意为遭受、深受其扰，无陷阱。 48.…"
+  },
+  {
+   "q": "What does the author think of continuing to ask buyers to sign end-user license agreements?",
+   "options": [
+    "It will probably not guarantee the safety of drivers in case of accidents.",
+    "It likely won't ensure that the automatic driving system functions properly.",
+    "It likely won't fully protect automakers against accusations of deliberate cheating.",
+    "It will probably not provide manufacturers adequate protection from legal responsibilities."
+   ],
+   "answer": 3,
+   "explain": "What does the author think of continuing to ask buyers to sign end-user license agreements? 虽问作者看法，但锁定于 EULAs 这一局部做法，仍以一句明确表态句为答案 依据，属细节题。 What does the author think of continuing to ask buyers to sign end-user license a…"
+  },
+  {
+   "q": "What should be done to help drivers fully understand system capabilities and limitations?",
+   "options": [
+    "Training them to be experts in vehicle automation.",
+    "Familiarizing them with the systems through training.",
+    "Broadening their knowledge of accident-prevention mechanisms.",
+    "Facilitating their access to the information provided by the seller."
+   ],
+   "answer": 1,
+   "explain": "What should be done to help drivers fully understand system capabilities and limitations? 直接问该做什么以达成目的，属于对原文解决方案句的提取。 主句 What should be done 是被动疑问句，to help 引导的不定式作目的状语，help drivers 后接动词原形 fully understand…，整句意思是：为帮司机充分理解…"
+  }
+ ]
+}

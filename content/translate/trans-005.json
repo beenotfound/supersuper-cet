@@ -1,0 +1,18 @@
+{
+  "id": "trans-005",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国电子商务",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["platform", "logistics", "consumer", "convenience"],
+  "prompt": "如今，网上购物已经成为许多中国人日常生活的一部分。从衣服、家电到水果、蔬菜，几乎任何东西都能在手机上下单买到。电子商务带动了快递、仓储和支付等行业，也创造了大量就业机会。对消费者来说，网购最大的好处是方便和价格透明，动动手指就能比较不同店铺的商品。不过，网购也带来一些问题，比如商品质量参差不齐、包装浪费严重。正因如此，越来越多的人开始重视理性消费和绿色包装。",
+  "reference": "Today online shopping has become part of everyday life for many Chinese people. From clothes and household appliances to fruit and vegetables, almost anything can be ordered on a phone. E-commerce has boosted related industries such as delivery, warehousing and payment, and it has created a large number of jobs. For consumers, the greatest advantages of online shopping are convenience and transparent prices: with a few taps they can compare goods from different stores. However, online shopping also brings problems, such as uneven product quality and serious packaging waste. For this reason, more and more people are paying attention to sensible spending and eco-friendly packaging. Small businesses in remote areas can now reach customers far beyond their own towns, which would have been unimaginable a generation ago. At the same time, shoppers are learning to look beyond low prices and to ask where a product comes from and how it is made.",
+  "keyPoints": [
+    "“手机上下单”用 can be ordered on a phone，避免 order on the mobile phone 的生硬表达。",
+    "“带动……行业”可译为 has boosted related industries。",
+    "“价格透明”译为 transparent prices。",
+    "“参差不齐”意译为 uneven product quality，不要逐字翻译。",
+    "“理性消费”用 sensible spending 比 rational consumption 更自然。"
+  ]
+}

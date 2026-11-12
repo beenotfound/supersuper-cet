@@ -1,0 +1,18 @@
+{
+  "id": "trans-029",
+  "type": "translation",
+  "level": "cet4",
+  "title": "公益与慈善",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["charity", "donation", "benefit", "community"],
+  "prompt": "在中国，参与公益的人越来越多，方式也更加多样。有人定期给山区的孩子寄书和文具，有人在网上为生病的陌生人捐款，还有人利用周末去养老院做义工。这些举动看起来不大，却可能改变一个人的处境。互联网让公益变得更容易，一次转发就能让更多人看到需要帮助的信息。当然，公益也需要透明，捐款去了哪里、帮了谁，都应当让捐助者知道。当善意被认真对待，愿意伸出援手的人才会越来越多。",
+  "reference": "More and more people in China are taking part in public welfare, and the ways of doing so have become more varied. Some regularly send books and stationery to children in mountain areas, some donate money online to strangers who are seriously ill, and others spend their weekends volunteering in nursing homes. These acts may look small, but they can change a person's situation. The internet has made charity easier: a single share can bring information about someone in need to many more eyes. Giving does not have to be about money; time and attention are often just as valuable to those who receive them. Of course, charity also needs transparency, and donors should be told where their money went and whom it helped. A society is stronger when helping others feels natural rather than exceptional. When kindness is treated seriously, more people will be willing to lend a hand.",
+  "keyPoints": [
+    "“公益”可译为 public welfare。",
+    "“做义工”译为 volunteering。",
+    "“转发”用 a share。",
+    "“透明”译为 transparency。",
+    "“伸出援手”用 lend a hand。"
+  ]
+}

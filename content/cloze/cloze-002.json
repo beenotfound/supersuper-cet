@@ -1,0 +1,63 @@
+{
+  "id": "cloze-002",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "Reading Aloud, Again",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["solitary", "pronounce", "retain"],
+  "passage": "Most reading is silent and {{1}}: one person alone with a page. Reading aloud reverses that arrangement. It turns a private act into a performance with an {{2}}, and it slows the eye down to the speed of the voice. Teachers have long used the practice in classrooms, but adults rarely return to it once school ends. That is a pity, because reading to another person exercises skills that silent reading never touches.\n\nThe first is how words sound. A reader who has only met a word on the page may {{3}} before it, unsure how to {{4}} it; saying it out loud exposes the gap and, with practice, closes it. The second is attention to {{5}} and pace. A sentence read aloud has to be breathed, and punctuation becomes a set of instructions: stop here, lift there, slow down. The result is often more {{6}} than the same sentence read in silence, because the ear catches effects the eye skips.\n\nThere is also a social benefit. Listening to a story is one of the oldest forms of {{7}} entertainment, and it builds {{8}} between people in a way that scrolling alone does not. Libraries and community groups have begun to host reading evenings for exactly this reason, and participants report that they {{9}} far more of a text they have heard than of one they have merely scanned.\n\nNone of this requires talent. Reading aloud is a skill, not a {{10}}, and a short pause or a stumbled name matters far less than the willingness to try.",
+  "bank": ["solitary", "ceremony", "vivid", "hesitate", "descend", "audience", "bitter", "retain", "spacious", "pronounce", "connection", "elect", "shared", "rhythm", "gift"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "solitary",
+      "explain": "冒号后 one person alone with a page 说明阅读通常是“独自的”，solitary 符合；spacious、bitter 与语境不符。"
+    },
+    {
+      "n": 2,
+      "answer": "audience",
+      "explain": "朗读把私人行为变成有“听众”的表演，performance with an audience 搭配成立；ceremony 等名词不合。"
+    },
+    {
+      "n": 3,
+      "answer": "hesitate",
+      "explain": "may 后接动词原形，hesitate before it 表示“在它面前犹豫”；descend、elect 无法与 before it 搭配。"
+    },
+    {
+      "n": 4,
+      "answer": "pronounce",
+      "explain": "unsure how to pronounce it 表示“不确定怎么读”，承接上句“只在纸上见过这个词”；descend、elect 语义不合。"
+    },
+    {
+      "n": 5,
+      "answer": "rhythm",
+      "explain": "与 pace 并列，指朗读时的“节奏”，rhythm 符合；ceremony 不能被朗读出来。"
+    },
+    {
+      "n": 6,
+      "answer": "vivid",
+      "explain": "the ear catches effects the eye skips 说明朗读让句子更“生动”，vivid 合适；spacious、bitter 不合。"
+    },
+    {
+      "n": 7,
+      "answer": "shared",
+      "explain": "forms of shared entertainment 指“共享的娱乐”，与后文 builds connection between people 呼应。"
+    },
+    {
+      "n": 8,
+      "answer": "connection",
+      "explain": "build connection between people 指在人与人之间建立“联系”；ceremony、gift 不符合“人与人之间”的语义。"
+    },
+    {
+      "n": 9,
+      "answer": "retain",
+      "explain": "they retain far more of a text 表示“记住更多内容”，retain 与 far more 搭配自然；descend、elect 不合。"
+    },
+    {
+      "n": 10,
+      "answer": "gift",
+      "explain": "a skill, not a gift 与前面 requires talent 呼应，指朗读是技能而非“天赋”；audience、ceremony 不合。"
+    }
+  ]
+}

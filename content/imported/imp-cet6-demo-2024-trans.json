@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet6-demo-2024-trans",
+ "type": "translation",
+ "level": "cet6",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet6-demo-2024",
+ "paperTitle": "2024年12月大学英语六级（模拟节选）",
+ "paperLevel": "cet6",
+ "paperYear": "2024-12",
+ "sectionOrder": 5,
+ "prompt": "近年来，中国的博物馆数量迅速增长，越来越多的年轻人把参观博物馆当作一种休闲方式。许多博物馆借助数字技术，把珍贵文物以虚拟现实的形式呈现，使观众能够近距离欣赏那些平时无法接触的展品。与此同时，博物馆还通过社交媒体与公众互动，推出丰富多彩的教育活动。专家认为，博物馆不仅是保存历史的场所，也是连接过去与未来的桥梁。",
+ "reference": "In recent years, the number of museums in China has grown rapidly, and more and more young people regard visiting museums as a way of spending their leisure time. Many museums use digital technology to present precious cultural relics in virtual reality, enabling visitors to appreciate at close range exhibits that are normally inaccessible. Meanwhile, museums interact with the public through social media and offer a variety of educational activities. Experts believe that museums are not only places where history is preserved but also bridges connecting the past and the future.",
+ "keyPoints": []
+}

@@ -1,0 +1,83 @@
+{
+ "id": "real4-2020-12-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2020年12月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-12-3",
+ "paperTitle": "2020年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-12",
+ "passage": "The things people make, and the way they make them, determine how cities grow and decline, and influence how empires rise and fall. So, any disruption to the world's factories {{1}}  . And that disruption is surely coming. Factories are being digitised, filled with new sensors and new computers to make them quicker, more {{2}}  , and more efficient. Robots are breaking free from the cages that surround them, learning new skills and new ways of working. And 3D printers have long  {{3}} a world where you can make anything, anywhere, from a computerised design. That vision is  {{4}} closer to reality. These forces will lead to cleaner factories, producing better goods at lower prices, personalised to our individual needs and desires. Humans will be  {{5}} many of the dirty, repetitive, and dangerous jobs that have long been a {{6}}  of factory life. Greater efficiency  {{7}} means fewer people can do the same work. Yet factory bosses in many developed countries are worried about a lack of skilled human workers—and see  {{8}} and robots as a solution. But economist Helena Leurent says this period of rapid change in manufacturing is a  {{9}} opportunity to make the world a better place. \"Manufacturing is the one system where you have got the biggest source of innovation, the biggest source of economic growth, and the biggest source of great jobs in the past. You can see it changing. That's an opportunity to {{10}}  that system differently, and if we can, it will have tremendous significance.\"",
+ "bank": [
+  "automation",
+  "concerns",
+  "enormously",
+  "fantastic",
+  "fascinated",
+  "feature",
+  "flexible",
+  "inevitably",
+  "interaction",
+  "leaning",
+  "matters",
+  "moving",
+  "promised",
+  "shape",
+  "spared"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "matters",
+   "explain": "any disruption + ___ 缺谓语动词 matter 作不及物动词 = 「至关重要」 承接前句 The things people make, and the way they make them, determine how cities grow and decline, and influence how empires rise and fall.——既然制造决定城 市与帝国兴衰，那么对世界工厂的任何破坏「就是大事…"
+  },
+  {
+   "n": 2,
+   "answer": "flexible",
+   "explain": "并列三个 more+形容词，唯一槽位要形容词 数字化工厂的核心卖点是「更灵活」 Factories are being digitised, filled with new sensors and new computers to make them quicker, more __(27)__, and more efficient. 三个并列形容词在描述「数字化升级后 工厂的优点」，「更快、更灵活、更高效」是制造业话题里最常见的三件…"
+  },
+  {
+   "n": 3,
+   "answer": "promised",
+   "explain": "have long ___ 完成时缺过去分词 promise a world 表「许诺/预示一个世界」 3D 打印机长期以来一直「许诺/预示」一个「任何东西都能在任何地方制造出来」的世界 ——promise 在英文里有「让人期待、预示前景」的引申义，与紧随其后的 That vision is __(29)__ closer to reality.「那个愿景正在更接近现实」完美呼应：先 promise（许诺愿 景）→ 后 vision（愿…"
+  },
+  {
+   "n": 4,
+   "answer": "moving",
+   "explain": "is + ___ closer，be + V-ing 进行时 moving closer to 是「越来越接近」的固定表达 「is moving closer to reality」是英文里描述「愿景/目标正在越来越接近现实」的固定说 法，承接 28 题的 promised a world：先许诺一个愿景，如今这个愿景 is moving closer to reality.。 J) leaning lean 表「倾斜/倾向」，方向感不…"
+  },
+  {
+   "n": 5,
+   "answer": "spared",
+   "explain": "Humans will be ___ + 名词，被动语态 be spared sth. = 被免去某事 spare sb. sth. 表「使某人免遭某事」，被动 be spared sth. 表「被免去某事」；这里说人 类将被免去那些「脏、重复、危险的工作」——正好对应第二段开头机器人接管这些活的 语境。"
+  },
+  {
+   "n": 6,
+   "answer": "feature",
+   "explain": "a + ___ of factory life，冠词后必为名词 a feature of … 是固定搭配，表「…的一大特征」 句意是「肮脏、重复、危险的工作长期以来是工厂生活的一大__」，a feature of factory life 正好等于「工厂生活的一个特征」，与 have long been（长期以来一直是）的时间感 完美贴合。 I) interaction interaction 指「互动」，与「脏活累活」语义不搭 int…"
+  },
+  {
+   "n": 7,
+   "answer": "inevitably",
+   "explain": "副词修饰整句/动词 means 「效率提高」与「人变少」是必然因果 句意是「效率提高 __ 意味着同样的工作用更少的人就能完成」，逻辑上是一个必然推论， 而非强调程度。Greater efficiency __(32)__ means fewer people can do the same work. 用 inevitably（必然地、不可避免地）来标记这种因果必然性最贴。 C) enormously enormously 强调「程度…"
+  },
+  {
+   "n": 8,
+   "answer": "automation",
+   "explain": "and 连接的并列名词，与 robots 同列 automation and robots 是制造业话题黄金搭配 工厂主担心缺技术工人，把「自动化和机器人」视作 a solution——automation 与 robots 同属「替代人工的技术」范畴，是四级与雅思阅读里描述未来工厂的高频搭档。 I) interaction interaction 不是替代人工的技术手段 interaction 指「互动」，并不构成 a solutio…"
+  },
+  {
+   "n": 9,
+   "answer": "fantastic",
+   "explain": "a + ___ + opportunity，冠词后名词前作定语 评价 opportunity 用褒义强词「绝佳的」 经济学家说「这是一个 __ 的机会去让世界更好」，结合后文 if we can, it will have tremendous significance. 的强烈褒义，用 fantastic（绝佳的）来评价 opportunity 在语 义强度与感情色彩上都贴合。"
+  },
+  {
+   "n": 10,
+   "answer": "shape",
+   "explain": "to ___ that system，不定式 to 后接动词原形 shape the system = 塑造这个体系 shape 作动词表「塑造、使成形」，shape the system differently 即「以不同的方式塑造 这个体系」，正好承接 That's an opportunity to __(35)__ that system differently, and if we can, it will have trem…"
+  }
+ ]
+}

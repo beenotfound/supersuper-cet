@@ -1,0 +1,67 @@
+{
+  "id": "read-012",
+  "type": "reading",
+  "level": "cet4",
+  "title": "Making the Bus Feel Reliable",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["predictable", "reliability", "tolerate", "confidence"],
+  "passage": "People often talk about public transport as a matter of vehicles: more buses, newer trains, extra routes. These things matter, but they are not what decides whether a service feels dependable. A journey that is predictable is easy to plan. A journey that may take much longer than expected is difficult to build a day around, even if the average travel time is short.\n\nReliability begins with information. Riders need to know not only when a bus is due but whether that promise can be trusted. Clear signs, simple apps, and announcements in stations help, but the information must be accurate. A screen that confidently shows a bus which is not coming may be worse than no screen at all, because it teaches people to stop planning and start waiting.\n\nThe route itself also shapes the experience. A service that goes everywhere is convenient in theory, but a long, winding route is slow and easy to delay. Simpler lines with frequent vehicles and easy changes often serve passengers better, even if a few people must walk a little farther. Comfort is part of reliability too: a crowded vehicle that passes waiting passengers is, from their point of view, a failure.\n\nThe final factor is trust. If problems are explained honestly, riders tolerate them more easily. Silence, by contrast, fills the gap with suspicion. A transport system that admits a delay, offers an alternative, and keeps talking to passengers builds a reputation for honesty even on a bad day. That reputation is valuable, because it encourages people to try the service again.\n\nNone of these ideas requires a new railway. Many improvements involve better information, clearer routes, and more honest communication. They are unglamorous, but they address what travelers actually experience. A network becomes reliable not only when it moves vehicles, but when it lets people plan with confidence.",
+  "questions": [
+    {
+      "q": "What do people often think public transport mainly needs?",
+      "options": [
+        "More accurate information for passengers",
+        "More vehicles, newer trains, and extra routes",
+        "Cheaper tickets and longer opening hours",
+        "Better communication during delays"
+      ],
+      "answer": 1,
+      "explain": "首段说人们常把公共交通看作车辆问题：更多公交、更新的列车、更多线路，故选第二项。第一、四项是作者后文提出的重点，而非“人们常认为”的内容，第三项文中未提。"
+    },
+    {
+      "q": "Why can inaccurate information be worse than no information at all?",
+      "options": [
+        "It costs the transport company a lot of money",
+        "It makes drivers and staff angry",
+        "It wastes electricity in stations",
+        "It teaches people to stop planning and simply wait"
+      ],
+      "answer": 3,
+      "explain": "第二段说屏幕 confidently 显示一辆不会来的车，可能比没有屏幕更糟，因为这会让人放弃计划、只是干等，故选第四项。其余三项文中均未提及。"
+    },
+    {
+      "q": "What does the author suggest about simple, frequent lines?",
+      "options": [
+        "They can serve passengers better even if some people walk farther",
+        "They are always unpopular with local residents",
+        "They increase delays on long routes",
+        "They should be replaced by routes that go everywhere"
+      ],
+      "answer": 0,
+      "explain": "第三段说站点更少、班次更密的简单线路往往更方便，即使少数人要多走一点路，故选第一项。第二项与“往往更好地服务乘客”相反，第三项无据，第四项与作者对“处处都到”的批评矛盾。"
+    },
+    {
+      "q": "The word \"unglamorous\" in paragraph 5 most probably means",
+      "options": [
+        "very costly to build",
+        "unusual and experimental",
+        "not exciting or impressive",
+        "dangerous for passengers"
+      ],
+      "answer": 2,
+      "explain": "末段说这些改进“不需要新建铁路”，虽不引人注目，却直接改善乘客体验，故指“不起眼、不光鲜”。第一、二、四项与语境不符。"
+    },
+    {
+      "q": "What can be inferred about trust in public transport?",
+      "options": [
+        "It is impossible to build once a service is delayed",
+        "It depends only on buying new vehicles",
+        "It declines whenever information is accurate",
+        "Honest communication about problems helps to build it"
+      ],
+      "answer": 3,
+      "explain": "第四段说如实解释问题，乘客更容易接受，承认延误并提供替代方案的系统即便在糟糕的日子也能建立诚实的名声，故选第四项。第一项过于绝对，第二项与全文主旨相反，第三项与“准确信息有帮助”矛盾。"
+    }
+  ]
+}

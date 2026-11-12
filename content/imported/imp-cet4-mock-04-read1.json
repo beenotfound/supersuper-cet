@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-04-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-04",
+ "paperTitle": "大学英语四级标准模拟卷 04",
+ "paperLevel": "cet4",
+ "paperYear": "mock-04",
+ "sectionOrder": 4,
+ "passage": "In 2019, a fire broke out in the roof of Notre-Dame in Paris. Within hours, engineers were able to consult a detailed three-dimensional model of the cathedral that had been built a few years earlier by laser scanning. Every stone, every arch and every piece of timber had been recorded to within a few millimetres. The model did not prevent the fire, but it made the rebuilding far more accurate than anyone would have thought possible.\n\nThe example has encouraged museums and heritage sites around the world to digitise their collections. Some use drones to photograph buildings from above, while others carry portable scanners into caves or narrow temples. At Lascaux, researchers have spent decades recording the prehistoric cave paintings at very high resolution, and the images are now used for both research and education.\n\nDigital copies are not only a backup. They allow people to see objects that are too fragile to be displayed. A page from a tenth-century manuscript may be so sensitive to light that it can be shown to the public only once every few years, yet its digital image can be studied by scholars in Beijing, London or Cairo on the same afternoon. Visitors to a museum in a small town can walk through a reconstruction of a palace destroyed six hundred years ago.\n\nCritics warn that a digital copy is not the building itself. Screens may also tempt governments to pay for images rather than for repairs, since a scan is cheaper than a new roof. Supporters accept that risk but reply that recording a site is the first step towards saving it. 'A building that has been properly recorded,' one architect says, 'is a building we can argue for with evidence.'",
+ "questions": [
+  {
+   "q": "What was the three-dimensional model of Notre-Dame used for?",
+   "options": [
+    "To guide the rebuilding after the fire.",
+    "To attract more tourists to the cathedral.",
+    "To replace the damaged stonework.",
+    "To train young architects in Paris."
+   ],
+   "answer": 0,
+   "explain": "第一段说 The model did not prevent the fire, but it made the rebuilding far more accurate，即模型用于指导重建，故选 A。"
+  },
+  {
+   "q": "How are the high-resolution images of the Lascaux cave paintings used?",
+   "options": [
+    "To sell copies to foreign museums.",
+    "To replace the paintings inside the caves.",
+    "For both research and education.",
+    "To keep visitors away from the caves."
+   ],
+   "answer": 2,
+   "explain": "第二段说 the images are now used for both research and education，故选 C。"
+  },
+  {
+   "q": "Why are digital images especially useful for fragile objects?",
+   "options": [
+    "They are cheaper than a museum ticket.",
+    "They can be studied without putting the objects at risk.",
+    "They are always more beautiful than the originals.",
+    "They can be printed and sold as souvenirs."
+   ],
+   "answer": 1,
+   "explain": "第三段说 They allow people to see objects that are too fragile to be displayed，并举对光敏感的十世纪手稿为例，说明数字图像可让人研究而不损伤原件，故选 B。"
+  },
+  {
+   "q": "What do critics of digitisation worry about?",
+   "options": [
+    "The high cost of training engineers.",
+    "Too many visitors to small towns.",
+    "The loss of jobs for museum guides.",
+    "Money being spent on scans instead of repairs."
+   ],
+   "answer": 3,
+   "explain": "最后一段说 Screens may tempt governments to pay for images rather than for repairs, since a scan is cheaper than a new roof，故选 D。"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "real4-2022-06-2-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2022年6月四级真题 第2套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-06-2",
+ "paperTitle": "2022年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-06",
+ "passage": "P1 Social media can be a powerful communication tool for employees, helping them to collaborate, share ideas and solve problems. Research has shown that 82% of employees think social media can improve work relationships and 60% believe it can support decision-making processes. These beliefs contribute to a majority of workers connecting with colleagues on social media, even during work hours.\n\nP2 Employers typically worry that social media is a productivity killer; more than half of U.S. employers reportedly block access to social media at work. In my research with 277 employees of a healthcare organization I found these concerns to be misguided. Social media doesn't reduce productivity nearly as much as it kills employee retention.\n\nP3 In the first part of the study I surveyed the employees about why and how they used platforms like Facebook, Twitter, or LinkedIn. Respondents were then asked about their work behaviors, including whether they felt motivated in their jobs and showed initiative at work. I found employees who engage in online social interactions with co-workers through social media blogs tend to be more motivated and come up with innovative ideas. But when employees interact with individuals outside the organization, they are less motivated and show less initiative.\n\nP4 In the second part of the study I found 76% of employees using social media for work took an interest in other organizations they found on social media. When I examined how respondents expressed openness to new careers and employers, I found that they engaged in some key activities including researching new organizations and making new work connections.\n\nP5 These findings present a dilemma for managers: employees using social media at work are more engaged and more productive, but they are also more likely to leave your company. Managers should implement solutions that neutralize the retention risk caused by social media.\n\nP6 They can create social media groups in which employees will be more likely to collaborate and less likely to share withdrawal intentions or discussions about external job opportunities. Managers can also use social media to directly reduce turnover( 跳槽) intentions, by recognizing employees' accomplishments and giving visibility to employees' success stories.",
+ "questions": [
+  {
+   "q": "What does previous research about social media reveal?",
+   "options": [
+    "Most employees think positively of it.",
+    "It improves employees' work efficiency.",
+    "It enables employees to form connections.",
+    "Employees spend much of their work time on it."
+   ],
+   "answer": 0,
+   "explain": "What does previous research about social media reveal? 用 what...reveal 直接问研究 揭示的事实，没有 infer/imply 等推断信号，是典型细节题。 46. What does previous research about social media reveal? A) Most employees think positively of it. B) It i…"
+  },
+  {
+   "q": "What did the author's own research find about social media?",
+   "options": [
+    "It influences employees' work negatively.",
+    "It does much harm to employee loyalty.",
+    "It kills employees' motivation for work",
+    "It affects employers' decision-making."
+   ],
+   "answer": 1,
+   "explain": "What did the author's own research find about social media? 用 what...find 问研究的 客观发现，是典型细节题。 47. What did the author's own research find about social media? A) It influences employees' work negatively. B) It does much har…"
+  },
+  {
+   "q": "What did the author find in his study about the effect of online social interactions?",
+   "options": [
+    "It differs from employee to employee.",
+    "It tends to vary with the platform used.",
+    "It has much to do with whom employees interact with.",
+    "It is hard to measure when employees interact with outsiders."
+   ],
+   "answer": 2,
+   "explain": "What did the author find in his study about the effect of online social interactions? 同样是 what...find 句式，问研究中的具体发现。 48. What did the author find in his study about the effect of online social interactions? A) It differs …"
+  },
+  {
+   "q": "What problem was found with employees using social media for work?",
+   "options": [
+    "They seldom expressed their inner thoughts.",
+    "Most of them explored new job opportunities.",
+    "They were reluctant to collaborate with others.",
+    "Many of them ended with lower productivity."
+   ],
+   "answer": 1,
+   "explain": "What problem was found with employees using social media for work? 用 what...found 问研究中发现的问题，仍是问客观事实。 49. What problem was found with employees using social media for work? A) They seldom expressed their inner thoughts. B…"
+  },
+  {
+   "q": "What does the author suggest managers do to neutralize the retention risk?",
+   "options": [
+    "Give promotions to employees for their accomplishments.",
+    "Create opportunities for employees to share success stories.",
+    "Acknowledge employees' achievements through social media.",
+    "Encourage employees to increase their visibility on social media."
+   ],
+   "answer": 2,
+   "explain": "What does the author suggest managers do to neutralize the retention risk? 虽含 suggest，但问的是作者明文给出的建议方案，原文必有对应句，仍属细节题。 题干主干 What does the author suggest managers do，managers do 是 suggest 后 省略 that 的虚拟语气从句（suggest sb. do），t…"
+  }
+ ]
+}

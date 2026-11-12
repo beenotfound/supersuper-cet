@@ -1,0 +1,83 @@
+{
+ "id": "real4-2021-06-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2021年6月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-3",
+ "paperTitle": "2021年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "Nowadays you can't buy anything without being asked to provide a rating of a company's performance on a five-star scale. I've been asked to rate my \"store {{1}}  \" on the EFTPOS terminal before I can pay. Even the most  {{2}} activities, such as calling Telstra or picking up a parcel from Australia Post, are followed by texts or emails with surveys asking, \"How did we do?\" Online purchases are  {{3}} followed up by a customer satisfaction survey. Companies are so  {{4}} for a hit of stars that if you delete the survey the company sends you another one. We're  {{5}} to rate our apps when we've barely had a chance to use them. One online course provider I use asks you what you think of the course after you've only completed {{6}}  2 per cent of it. Economist Jason Murphy says that companies use customer satisfaction ratings because a  {{7}} display of star feedback has become the nuclear power source of the modern economy. However, you can't help but  {{8}} if these companies are basing their business on fabrications(捏造的东西). I  {{9}} that with online surveys I just click the  {{10}} that's closest to my mouse cursor(光标) to get the damn thing off my screen. Often the star rating I give has far more to do with the kind of day I'm having than the purchase I just made.",
+ "bank": [
+  "announce",
+  "commonplace",
+  "confess",
+  "desperate",
+  "experience",
+  "fascinated",
+  "option",
+  "prompted",
+  "roughly",
+  "routinely",
+  "shining",
+  "showering",
+  "variety",
+  "voyage",
+  "wonder"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "experience",
+   "explain": "引号内 store 后作复合名词 为「购物体验」打分 rate my \"store __(26)__\"，被要求打分的对象正是「store experience（购物体验）」—— 这是英语里固定说法。结合全文都在讲「给体验/服务打星」，experience 完全契合。 M) variety 义不搭，不评「种类」 variety 是「种类、多样性」，「store variety」指商品种类，但作者通篇评的是服务/体验的星 级，不是评商品多不…"
+  },
+  {
+   "n": 2,
+   "answer": "commonplace",
+   "explain": "the most 后、名词 activities 前作定语 「最平常的」活动也被评分 Even the most __(27)__ activities, such as calling Telstra or picking up a parcel…，连 「最司空见惯的」活动——打个电话、取个包裹——都被要求评分。commonplace（平常 的、司空见惯的）正好和 Even（连……都）形成「连最普通的也不放过」的强调。"
+  },
+  {
+   "n": 3,
+   "answer": "routinely",
+   "explain": "be 与过去分词间修饰动词，要副词 「例行地」跟进调查 Online purchases are __(28)__ followed up by a customer satisfaction survey，网购后 「例行地、惯常地」会收到满意度调查——routinely（例行地）正好表达这种司空见惯、 每次都来的常态，呼应全文「评分无处不在」。"
+  },
+  {
+   "n": 4,
+   "answer": "desperate",
+   "explain": "be 动词 so 后作表语，要形容词 急切渴望星星 Companies are so __(29)__ for a hit of stars that if you delete the survey the company sends you another one.，公司「极度渴望」一点点好评，以至于你删了问卷它 再发一份。desperate for（极度渴望……）是固定搭配，正好表达这种不顾一切的迫切。 F) fascinated…"
+  },
+  {
+   "n": 5,
+   "answer": "prompted",
+   "explain": "be 后接过去分词作被动谓语 被「催促/提示」去评分 We're __(30)__ to rate our apps when we've barely had a chance to use them，我们刚 下载、还没怎么用，就被「催着/提示着」去给 app 打分。be prompted to do（被提示/ 被催促去做）是固定搭配，正好表达这种被系统弹窗催评分的场景。 L) showering 搭配反向，且非分词形 shower …"
+  },
+  {
+   "n": 6,
+   "answer": "roughly",
+   "explain": "数字前修饰百分比，要副词 修饰数字表「大约」 completed __(31)__ 2 per cent of it，作者强调「只完成大约 2%」就被要求评分， roughly（大约）恰好修饰具体数字 2 per cent，语义和搭配都顺。 J) routinely 义不搭，不修饰数字 routinely 意为「例行地、惯常地」，修饰的是反复发生的动作，不能用来修饰一个具体数字 2 per cent。说「例行地 2%」讲不通。"
+  },
+  {
+   "n": 7,
+   "answer": "shining",
+   "explain": "冠词 a 后、名词 display 前作定语 「闪亮的」星级陈列 a __(32)__ display of star feedback has become the nuclear power source of the modern economy，把星级好评比作现代经济的核电源，用 shining（闪亮的）修饰这种 「星星陈列」既贴合星星发光的意象，又有夸张的修辞色彩。 F) fascinated 只修饰人，不修饰物 fascin…"
+  },
+  {
+   "n": 8,
+   "answer": "wonder",
+   "explain": "情态短语后接动词原形 忍不住「纳闷/想知道」 you can't help but __(33)__ if these companies are basing their business on fabrications，作者忍不住「纳闷」这些公司是不是在拿捏造的数据做生意。wonder if（想 知道是否、纳闷）是固定搭配，正好引出这个疑问。 A) announce 义反，不接 if 表疑问 announce 是「宣布」，表示对外公…"
+  },
+  {
+   "n": 9,
+   "answer": "confess",
+   "explain": "主语 I 后缺谓语，要动词 坦白自己打分很随意 I __(34)__ that with online surveys I just click the __(35)__ that's closest to my mouse cursor，作者要「坦白」一件不太光彩的事——自己评分时只是随手乱点。confess that （坦白、承认）正好引出这种自我招供的语气。 A) announce 语气不符，非自我招供 announce（宣布）是…"
+  },
+  {
+   "n": 10,
+   "answer": "option",
+   "explain": "the 后作宾语，要名词 点最近的「选项」 I just click the __(35)__ that's closest to my mouse cursor(光标)，作者说自己随便点离 光标最近的那个——评分时点的正是星级「选项」。option（选项）和 click、closest to my mouse cursor 完全自洽。 E) experience 已用且义不搭 experience（体验）已在 26 题用掉，且「cli…"
+  }
+ ]
+}

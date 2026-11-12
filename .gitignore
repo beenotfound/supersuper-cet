@@ -1,0 +1,20 @@
+# local preview / logs
+data/local_server.json
+data/local_server.log
+data/test-all.log
+
+# build & test artifacts
+dist/
+shots/
+.wrangler/
+__pycache__/
+*.pyc
+node_modules/
+
+# large raw word downloads — re-fetch with `python tools/fetch_words.py`
+data/source/cet4.jsonl
+data/source/cet6.jsonl
+data/source/cet6_full.jsonl
+
+# raw Gutenberg texts — story JSONs already carry the text
+data/source/stories/raw/

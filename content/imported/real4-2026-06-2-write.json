@@ -1,0 +1,20 @@
+{
+ "id": "real4-2026-06-2-write",
+ "type": "writing",
+ "level": "cet4",
+ "title": "2026年6月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-2",
+ "paperTitle": "2026年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "prompt": "Suppose your university newspaper is inviting submissions from the students for its coming edition on future applications of robots on campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but not more than 180 words.",
+ "reference": "Robots are no longer figures from science fiction; in the near future, they are likely to become common helpers on university campuses. As the university newspaper invites students to imagine future applications of robots on campus, I believe intelligent machines will mainly reshape our campus life in three areas: library services, laboratory assistance, and daily guidance. First, in the library, robots could locate, fetch, and even deliver requested books to reading rooms, saving students valuable study time. Second, in science labs, robotic assistants might handle repetitive experiments or dangerous chemicals, allowing students to focus on analysis and innovation. Third, robots placed around the campus could provide real-time directions and campus information for visitors and freshmen, reducing confusion during busy periods. Of course, these technologies should serve people rather than replace human interaction. If universities introduce robots wisely, campus life will become more efficient, safe, and welcoming.",
+ "keyPoints": [
+  "引入趋势并亮中心。首句用 Robots are no longer figures from science fiction 引入趋势， 第二句回扣题目中的 future applications of robots on campus，第三句用 I believe ... will mainly reshape ... in three areas 给出中心论点并预告三个分论点，落实了“引入+中心句”方法。",
+  "三点论证支撑中心。用 First/Second/Third 衔接图书馆、实验室、校园导览三个场景；每个 场景都说明机器人具体做什么（locate, fetch, deliver / handle repetitive experiments / provide real- time directions），并点出价值（saving time / allowing focus / reducing confusion），对应“主题句 +举例+价值句”的展开法。",
+  "限定态度并收束。先用 Of course 做限定，指出机器人应 serve people rather than replace human interaction，再用 If universities introduce robots wisely 给出条件性展望，避免结论空洞，落 实了“让步/限定+总结+展望”方法。"
+ ]
+}

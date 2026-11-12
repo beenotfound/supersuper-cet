@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-demo-2024-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-demo-2024",
+ "paperTitle": "2024年12月大学英语四级（模拟节选）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 4,
+ "passage": "Every Saturday morning, volunteers gather in a community centre in south London to fix broken things. The event is called a repair cafe, and it is part of a movement that began in the Netherlands in 2009 and has since spread to more than thirty countries. Visitors bring lamps, kettles, bicycles and even clothes, and volunteers with practical skills show them how to repair the items rather than throw them away. The service is free, although visitors are encouraged to buy a coffee or leave a small donation. Organizers say the repair cafes have two aims: reducing waste and passing on practical skills that many people have lost. In a typical morning, about twenty items are repaired, and nearly all of them would otherwise have gone into the rubbish. Some visitors simply come for the company. 'You learn something, you meet your neighbours, and you go home with a working toaster,' one volunteer explains.",
+ "questions": [
+  {
+   "q": "Where did the repair cafe movement begin?",
+   "options": [
+    "In south London.",
+    "In the Netherlands.",
+    "In thirty countries.",
+    "In a bicycle shop."
+   ],
+   "answer": 1,
+   "explain": "Passage 2 第一段说 it is part of a movement that began in the Netherlands in 2009，故选 B。"
+  },
+  {
+   "q": "What are the two aims of the repair cafes?",
+   "options": [
+    "Selling coffee and collecting donations.",
+    "Reducing waste and passing on practical skills.",
+    "Repairing goods and reselling them.",
+    "Meeting neighbours and opening shops."
+   ],
+   "answer": 1,
+   "explain": "Passage 2 明确说 the repair cafes have two aims: reducing waste and passing on practical skills，故选 B。"
+  },
+  {
+   "q": "What do we learn about the items repaired at the cafes?",
+   "options": [
+    "Most of them are electrical goods.",
+    "Nearly all of them would otherwise have been thrown away.",
+    "They are sold to raise money.",
+    "They are given to local schools."
+   ],
+   "answer": 1,
+   "explain": "Passage 2 说 about twenty items are repaired, and nearly all of them would otherwise have gone into the rubbish，故选 B。"
+  }
+ ]
+}

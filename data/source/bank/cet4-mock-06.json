@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-06",
+      "title": "大学英语四级标准模拟卷 06",
+      "level": "CET4",
+      "year": "mock-06",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: Cross-cultural communication has become an important skill for university students. Write an essay of 120 to 150 words on how to develop this ability. In your essay you should: 1) explain why the ability matters; 2) offer two or three practical suggestions; 3) state what you expect to gain from it.",
+          "promptZh": "跨文化沟通已成为大学生的一项重要能力。请写一篇 120–150 词的短文，谈谈如何培养这一能力：1）说明为什么它重要；2）提出两到三条具体建议；3）说明你希望从中获得什么。",
+          "reference": "Cross-cultural communication is not a talent that some people are born with; it is a set of habits that can be trained.\n\nThe first habit is to ask instead of assuming. When a classmate answers a question with silence or a smile, we can say, 'I am not sure I understood. Could you explain?' A question costs nothing, while a wrong assumption may damage a friendship for months. The second habit is to watch how people actually behave rather than how our own culture says they should. Meals, greetings and even the length of a pause differ from place to place, and noticing such details is the beginning of understanding. Finally, we should be patient with ourselves. Misunderstandings are normal, and the willingness to apologise and try again matters more than perfect grammar.\n\nLearned in this way, communication becomes a bridge rather than a test.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题，请阅读下面的文字稿后作答。\n\nConversation One:\nMan: Hi, Anna. How are you settling in? You have been here for two months now, haven't you?\nWoman: Three months next week. Honestly, the first month was harder than I expected.\nMan: What was the hardest part?\nWoman: Small things, mostly. At home we hug friends when we meet them. Here people shake hands or simply nod, and for a while I thought my classmates were being cold towards me.\nMan: I can see how that would feel. Did it get better?\nWoman: Yes, when a classmate explained that a nod does not mean unfriendliness. And the food is wonderful. I have learned to order breakfast in Chinese, which my landlord finds very amusing.\nMan: So what still confuses you?\nWoman: The way people answer questions. If I ask a classmate whether my idea is good, they may say 'it is interesting' and then say nothing more. At home that would mean yes. Here, I have learned, it often means no.\nMan: That is true. People dislike saying no directly, because it can make the other person lose face.\nWoman: I wish someone had told me that in the first week. Now I usually ask three people and compare their answers.\nMan: That sounds sensible. Are you planning to stay longer?\nWoman: I have applied for a second year. The confusion is shrinking, and I am beginning to enjoy the surprises.\n\nPassage One:\nGood afternoon, everyone. Today I want to talk about one of the most common mistakes in cross-cultural communication: assuming that a smile means the same thing everywhere.\nResearchers working in Japan and the United States, for example, have shown that people smile in many situations that have nothing to do with happiness — when they are embarrassed, when they are apologising, or when they are trying to keep a conversation agreeable. A visitor who reads every smile as an invitation to continue joking may therefore say exactly the wrong thing at exactly the wrong moment.\nThe second common mistake is silence. In some cultures a pause of several seconds in a meeting is normal, and people use it to think about what was just said. In others, a pause of two seconds feels like a crisis, and somebody will fill it with words. When colleagues from these two traditions meet, the first group may feel that they are never allowed to finish a thought, and the second may feel that their partners are hiding something.\nWhat can you do? First, learn to notice rather than to judge. Instead of deciding that a colleague is rude or shy, ask yourself what the behaviour might be achieving in its own setting. Second, use questions rather than conclusions: 'How would this usually be handled in your team?' is far more useful than 'I think you are all being indirect.'\nFinally, remember that individual differences are usually larger than national ones. Two people from the same town may communicate quite differently. Culture is a useful map, but it is never a description of a single person. Next week we will look at three case studies from international companies, and I will put the reading list online this evening.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Why did the woman think her classmates were unfriendly at first?",
+              "transcript": "",
+              "options": [
+                "A. They shook hands or nodded instead of hugging.",
+                "B. They never invited her to dinner.",
+                "C. They laughed at her Chinese.",
+                "D. They refused to speak English with her."
+              ],
+              "answer": "A",
+              "explanation": "女士说 At home we hug friends... Here people shake hands or simply nod, and for a while I thought my classmates were being cold，即打招呼方式不同让她误以为同学冷淡，故选 A。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What does 'it is interesting' often mean in the woman's class?",
+              "transcript": "",
+              "options": [
+                "A. The idea is excellent.",
+                "B. The speaker did not hear the idea.",
+                "C. The idea may not be a good one.",
+                "D. The speaker wants more details."
+              ],
+              "answer": "C",
+              "explanation": "女士说 At home that would mean yes. Here, I have learned, it often means no，即这句话在这里往往意味着‘不太行’，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "Why do people avoid saying no directly?",
+              "transcript": "",
+              "options": [
+                "A. They are too shy to speak in class.",
+                "B. They do not want the other person to lose face.",
+                "C. They think a direct answer is impolite in writing.",
+                "D. They expect the other person to ask twice."
+              ],
+              "answer": "B",
+              "explanation": "男士解释道 People dislike saying no directly, because it can make the other person lose face，故选 B。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What is the woman going to do?",
+              "transcript": "",
+              "options": [
+                "A. Return home next month.",
+                "B. Change to another university.",
+                "C. Move into a new flat.",
+                "D. Stay for a second year."
+              ],
+              "answer": "D",
+              "explanation": "男士问她是否打算多待一段时间，女士回答 I have applied for a second year，即申请再读一年，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What does the speaker say about smiles?",
+              "transcript": "",
+              "options": [
+                "A. They appear in situations that have nothing to do with happiness.",
+                "B. They always show that a person agrees with you.",
+                "C. They are less common in Japan than in the United States.",
+                "D. They should never be returned in a meeting."
+              ],
+              "answer": "A",
+              "explanation": "讲座说 people smile in many situations that have nothing to do with happiness，并举尴尬、道歉为例，故选 A。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What may happen when colleagues hold different views about silence?",
+              "transcript": "",
+              "options": [
+                "A. They will stop holding meetings altogether.",
+                "B. One group may feel unable to finish a thought.",
+                "C. They will agree to write everything down.",
+                "D. The quieter group will be promoted."
+              ],
+              "answer": "B",
+              "explanation": "讲座说 the first group may feel that they are never allowed to finish a thought, and the second may feel that their partners are hiding something，故选 B。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What is the speaker's first suggestion?",
+              "transcript": "",
+              "options": [
+                "A. Ask more than one colleague for advice.",
+                "B. Avoid jokes in international meetings.",
+                "C. Notice behaviour instead of judging it.",
+                "D. Read the reading list before the class."
+              ],
+              "answer": "C",
+              "explanation": "讲座说 First, learn to notice rather than to judge，即先观察行为而不要急于评判，故选 C；A 是对话中女士自己的做法。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the speaker say about individual differences?",
+              "transcript": "",
+              "options": [
+                "A. They are usually larger than national differences.",
+                "B. They are impossible to observe in daily life.",
+                "C. They only matter in international business.",
+                "D. They disappear after a year abroad."
+              ],
+              "answer": "A",
+              "explanation": "讲座最后说 individual differences are usually larger than national ones，故选 A。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "阅读下面的短文，从词库中选出最恰当的单词填入第 26–35 空，每个单词只能使用一次，其中 5 个词为多余选项。\n\n词库（A–O）：\nA. acceptable\nB. attention\nC. confuse\nD. easy\nE. evidence\nF. mistakes\nG. naturally\nH. offence\nI. overnight\nJ. polite\nK. rubbing\nL. simplest\nM. skill\nN. uncomfortable\nO. warning\n\n短文：\nResearchers who study body language like to remind us that words carry only part of any message. The rest comes from the face, the hands and the distance we keep from other people. A gesture that is friendly in one country can cause (26) ____ in another; a distance that feels natural may make another person (27) ____.\n\nThis does not mean that body language is a list of rules to be learned (28) ____. Most people manage it unconsciously. If a visitor keeps (29) ____ his hands and shifting his feet, we may decide, without any (30) ____, that he is nervous or dishonest, when he is simply cold or tired.\n\nThe (31) ____ advice is therefore to slow down. Watch how people sit and how long they look at each other. Ask a colleague whether a habit that seems natural to you is (32) ____ in the new setting. Above all, do not (33) ____ politeness with agreement: a person may be extremely polite and still firmly refuse your idea.\n\nNone of this is (34) ____. Reading the wrong signal is a mistake everyone makes, and the ability to laugh at one's own (35) ____ is itself a form of cultural skill.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. A gesture that is friendly in one country can cause ____ in another.",
+              "answer": "offence",
+              "explanation": "选 H. offence（对应第 26 空）。cause offence 意为‘冒犯他人’，与前半句 friendly 形成对比，故用名词 offence。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. A distance that feels natural may make another person ____.",
+              "answer": "uncomfortable",
+              "explanation": "选 N. uncomfortable（对应第 27 空）。make sb + 形容词表示‘使某人……’，此处指你觉得自然的距离会让对方不舒服。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. This does not mean that body language is a list of rules to be learned ____.",
+              "answer": "overnight",
+              "explanation": "选 I. overnight（对应第 28 空）。learned overnight 意为‘一夜之间学会’，与后文‘人们是无意识地掌握它的’形成对照。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. If a visitor keeps ____ his hands and shifting his feet, we may decide that he is nervous.",
+              "answer": "rubbing",
+              "explanation": "选 K. rubbing（对应第 29 空）。keep doing sth 后接动名词，rub one's hands（搓手）与 shifting his feet 并列，均为紧张的外在表现。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. We may decide, without any ____, that he is nervous or dishonest.",
+              "answer": "evidence",
+              "explanation": "选 E. evidence（对应第 30 空）。without any evidence 意为‘没有任何证据’，说明这种判断只是主观印象。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. The ____ advice is therefore to slow down.",
+              "answer": "simplest",
+              "explanation": "选 L. simplest（对应第 31 空）。下文给出的都是‘放慢速度’一类朴素做法，故用形容词最高级 simplest 修饰 advice。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. Ask a colleague whether a habit that seems natural to you is ____ in the new setting.",
+              "answer": "acceptable",
+              "explanation": "选 A. acceptable（对应第 32 空）。be acceptable in a setting 意为‘在某种场合可以被接受’，符合‘向同事确认习惯是否得体’之意。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Above all, do not ____ politeness with agreement.",
+              "answer": "confuse",
+              "explanation": "选 C. confuse（对应第 33 空）。confuse A with B 意为‘把 A 与 B 混为一谈’，冒号后的解释说明礼貌并不等于同意。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. None of this is ____.",
+              "answer": "easy",
+              "explanation": "选 D. easy（对应第 34 空）。后文说读错信号是人人都会犯的错，说明这并不容易，用 easy 与前面‘放慢速度’的建议相呼应。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. The ability to laugh at one's own ____ is itself a form of cultural skill.",
+              "answer": "mistakes",
+              "explanation": "选 F. mistakes（对应第 35 空）。laugh at one's own mistakes 意为‘笑对自己的错误’，复数与 one's own 搭配，也与前文 a mistake everyone makes 对应。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nParagraph A: It started with two neighbours and a borrowed table. In 2015, a retired teacher and a restaurant owner in the Riverside district decided that the many foreign families in their street should have a chance to meet the older residents. They set up one table outside the community centre with dumplings on one side and bread on the other. About thirty people came. The following year the district office offered a small square, and the festival was born.\n\nParagraph B: Food remains the centre of the event. Last year forty cooking stalls stretched along the river, and the queue for a Vietnamese soup was longer than the queue for anything else. Cooks are encouraged to stand beside their dishes and explain what is in them, so that visitors leave with a recipe rather than only a memory. Every stall must offer at least one small portion for a token price, so that a family with children can try many things.\n\nParagraph C: The stage is deliberately mixed. A professional folk group from the local theatre performs in the afternoon, but the evening programme belongs to amateurs: a primary school choir, a group of students learning flamenco, and a band of neighbours who met at the festival two years ago. Auditions are open to anyone, and the only rule is that each act must last no more than eight minutes, since a tired audience stops listening and starts queuing for food.\n\nParagraph D: Behind the scenes, about sixty volunteers keep the festival running. They guide visitors who cannot find a stall, hand out programmes at the bridge, help elderly residents find seats and collect rubbish at the end of the night. New volunteers attend a short briefing a week in advance, and each is paired with someone who worked the previous year. Organisers say the volunteers, not the stage, decide whether the festival feels friendly.\n\nParagraph E: Money is the permanent worry. The district provides the square and pays for electricity, but everything else must be found. Two years ago a sudden storm destroyed half the tents, and the festival ended with a debt. Since then the organisers have asked local businesses for support, in exchange for a line on the programme. A cloth bag with the festival logo also raises a modest but reliable sum each year.\n\nParagraph F: Success has brought a new problem: size. Some residents now complain about noise, traffic and litter, and the district has asked the organisers to keep the event inside the square. Others would like to see it grow into a three-day fair that attracts visitors from other cities. The committee has postponed any decision for a year and, in the meantime, has begun to count how many people arrive by bicycle.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Cooks stand beside their dishes and explain the ingredients, so visitors can take recipes home.",
+              "options": [
+                "A. How the festival began",
+                "B. Food at the centre of the event",
+                "C. A stage shared by amateurs and professionals",
+                "D. The work done by volunteers",
+                "E. Finding the money to continue",
+                "F. A debate about growing bigger"
+              ],
+              "answer": "B",
+              "explanation": "Paragraph B 说 Cooks are encouraged to stand beside their dishes and explain what is in them, so that visitors leave with a recipe，与题干对应，故选 B。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "The festival began when two neighbours decided to bring foreign families and older residents together.",
+              "options": [
+                "A. How the festival began",
+                "B. Food at the centre of the event",
+                "C. A stage shared by amateurs and professionals",
+                "D. The work done by volunteers",
+                "E. Finding the money to continue",
+                "F. A debate about growing bigger"
+              ],
+              "answer": "A",
+              "explanation": "Paragraph A 说 It started with two neighbours and a borrowed table，并说明目的是让外国邻居与老住户相互认识，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "The evening programme is given to ordinary residents, including a school choir and a student group.",
+              "options": [
+                "A. How the festival began",
+                "B. Food at the centre of the event",
+                "C. A stage shared by amateurs and professionals",
+                "D. The work done by volunteers",
+                "E. Finding the money to continue",
+                "F. A debate about growing bigger"
+              ],
+              "answer": "C",
+              "explanation": "Paragraph C 说 the evening programme belongs to amateurs: a primary school choir, a group of students learning flamenco，故选 C。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "New helpers receive a short introduction and work alongside someone with experience.",
+              "options": [
+                "A. How the festival began",
+                "B. Food at the centre of the event",
+                "C. A stage shared by amateurs and professionals",
+                "D. The work done by volunteers",
+                "E. Finding the money to continue",
+                "F. A debate about growing bigger"
+              ],
+              "answer": "D",
+              "explanation": "Paragraph D 说 New volunteers attend a short briefing a week in advance, and each is paired with someone who worked the previous year，故选 D。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "After a storm left the event in debt, the organisers turned to local businesses for support.",
+              "options": [
+                "A. How the festival began",
+                "B. Food at the centre of the event",
+                "C. A stage shared by amateurs and professionals",
+                "D. The work done by volunteers",
+                "E. Finding the money to continue",
+                "F. A debate about growing bigger"
+              ],
+              "answer": "E",
+              "explanation": "Paragraph E 说 a sudden storm destroyed half the tents, and the festival ended with a debt，此后 organisers have asked local businesses for support，故选 E。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: When students go abroad, they usually prepare for language problems. Few prepare for the quieter difficulty of everyday habits.\n\nA month after arriving in Germany, a Chinese student found that she was exhausted every evening, although her classes were no longer than they had been at home. Nothing was wrong with her health. Her energy was going into small decisions: whether to greet a neighbour in the corridor, how long to wait for a bus that might not come, whether the silence of a shared kitchen meant that her flatmates disliked her. Each choice took seconds, but there were hundreds of them a day.\n\nResearchers who study adaptation call this 'cultural fatigue'. It is not a sign of weakness, and it does not mean that the move was a mistake. It appears in students who are doing well academically as well as in those who are homesick. The usual advice, such as making local friends and joining clubs, is sound but incomplete, because it describes the cure without naming the illness.\n\nWhat seems to help most is routine. Students who keep one or two fixed habits, such as a Saturday morning run or a weekly cooking evening with the same people, report feeling more settled than those who try to be social every night. Predictability saves energy, and energy is exactly what adaptation demands.\n\nThe second helpful thing is a sense of humour about mistakes. Students who can laugh when they use the wrong word in a shop recover faster than those who treat every misunderstanding as a personal failure. Nobody speaks a foreign language perfectly in the first month, and the people serving you are usually too busy to remember your mistake five minutes later.\n\nPassage 2: For many years, language teaching in schools concentrated on grammar and vocabulary, and a student could pass an examination without ever hearing a real conversation. That has changed, but not everywhere, and the results of the change are worth examining.\n\nConsider the word 'sorry'. A dictionary will tell you that it expresses regret. In practice, a speaker of English may use it to apologise, to ask someone to repeat a sentence, to interrupt a meeting, or to express sympathy. A learner who knows only the dictionary meaning will sound either too formal or strangely cold. Researchers call this kind of knowledge 'pragmatic competence', and they find that it is often missing in students with high test scores.\n\nThe good news is that it can be taught. In one experiment, two classes of students at the same level were compared. Both studied the same vocabulary, but one class also watched short recordings of everyday situations and discussed why the speaker chose a particular phrase. After twelve weeks, that class performed much better in a role-play task, even though the grammar test results of the two groups were almost identical.\n\nNone of this argues against grammar. Accuracy matters, especially in writing. The argument is about balance: a language is not only a system of rules but also a set of habits used by a community. Learning a language without its culture is like reading a menu without knowing what the dishes taste like.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What left the Chinese student in Germany exhausted?",
+              "options": [
+                "A. Making a great many small decisions every day.",
+                "B. Attending classes that were longer than before.",
+                "C. Cooking for her flatmates every evening.",
+                "D. Travelling to the city centre by bus."
+              ],
+              "answer": "A",
+              "explanation": "第二段说 Her energy was going into small decisions，并列举问候邻居、等公交等琐事，故 A 正确；文中明确说课时并不比国内长，排除 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What do researchers say about cultural fatigue?",
+              "options": [
+                "A. It only affects students who are homesick.",
+                "B. It can affect students who are doing well in their studies.",
+                "C. It usually disappears within the first month.",
+                "D. It shows that the student chose the wrong country."
+              ],
+              "answer": "B",
+              "explanation": "第三段说 It appears in students who are doing well academically as well as in those who are homesick，故选 B。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) Why is the usual advice thought to be incomplete?",
+              "options": [
+                "A. It costs money that students do not have.",
+                "B. It is too difficult for most students to follow.",
+                "C. It describes the cure without naming the illness.",
+                "D. It only works for outgoing students."
+              ],
+              "answer": "C",
+              "explanation": "第三段说 it describes the cure without naming the illness，即只给对策却没有指出问题所在，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What seems to help students feel more settled?",
+              "options": [
+                "A. Trying to be social every night.",
+                "B. Learning the language perfectly.",
+                "C. Living with a local family.",
+                "D. Keeping one or two fixed routines."
+              ],
+              "answer": "D",
+              "explanation": "第四段说 Students who keep one or two fixed habits... report feeling more settled than those who try to be social every night，故选 D。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What does the passage say about the word 'sorry'?",
+              "options": [
+                "A. It is no longer used in everyday English.",
+                "B. Real speakers use it for several different purposes.",
+                "C. It is the hardest word for foreign learners.",
+                "D. It always expresses sincere regret."
+              ],
+              "answer": "B",
+              "explanation": "第二段列举了道歉、请人重复、打断会议、表示同情等多种用法，说明实际使用中它承担多种功能，故选 B。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What made the difference between the two classes in the experiment?",
+              "options": [
+                "A. One class had more experienced grammar teachers.",
+                "B. One class studied twice as many new words.",
+                "C. One class watched recordings and discussed the choice of phrases.",
+                "D. One class spent a term studying abroad."
+              ],
+              "answer": "C",
+              "explanation": "第三段说 one class also watched short recordings of everyday situations and discussed why the speaker chose a particular phrase，该班在角色扮演中表现更好，故选 C。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the author's conclusion?",
+              "options": [
+                "A. Grammar tests should be abolished.",
+                "B. Vocabulary is less important than it used to be.",
+                "C. Students should read restaurant menus in English.",
+                "D. Language and culture should be learned together."
+              ],
+              "answer": "D",
+              "explanation": "最后一段说 a language is not only a system of rules but also a set of habits used by a community，并以看菜单作比，说明语言与文化应一起学，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "丝绸之路是古代连接中国与中亚、欧洲的重要商路。两千多年前，商人们沿着这条道路，把中国的丝绸、茶叶和瓷器运往西方，也把葡萄、香料和音乐带回中国。丝绸之路不仅是一条贸易通道，更是一条文化交流之路。沿着它，佛教传入中国，中国的造纸术也传向世界。今天，这条古老的商路依然吸引着无数旅行者和学者，人们希望从中了解不同文明如何相互学习、共同发展。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "The Silk Road was an important trade route linking China with Central Asia and Europe in ancient times. More than two thousand years ago, traders carried Chinese silk, tea and porcelain to the West along this road, and brought grapes, spices and music back to China. The Silk Road was not only a trade route but also a road of cultural exchange. Along it, Buddhism spread into China, and Chinese paper-making techniques travelled to the rest of the world. Today this ancient route still attracts countless travellers and scholars, who hope to learn from it how different civilizations can learn from one another and develop together.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

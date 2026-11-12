@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-02-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-02",
+ "paperTitle": "大学英语四级标准模拟卷 02",
+ "paperLevel": "cet4",
+ "paperYear": "mock-02",
+ "sectionOrder": 5,
+ "prompt": "中国高铁的发展速度令世界瞩目。如今，高铁网络连接了全国大多数大中城市，从北京到上海只需四个多小时。高铁不仅缩短了城市之间的时间距离，也改变了人们的生活方式：有人乘高铁上下班，有人周末去另一座城市看展览。与飞机相比，高铁车站通常离市区更近，乘车手续也更简便。许多外国游客把乘坐中国高铁列为旅行中难忘的体验。高铁还带动了沿线小城市的发展，使人才和资源流动更加便利。",
+ "reference": "The development of China's high-speed railway has attracted worldwide attention. Today the network connects most large and medium-sized cities in the country, and the journey from Beijing to Shanghai takes only a little over four hours. High-speed trains have not only shortened the travel time between cities but also changed the way people live: some people commute by high-speed train, and others travel to another city for an exhibition at the weekend. Compared with planes, high-speed railway stations are usually closer to city centres and the boarding procedures are simpler. Many foreign visitors regard a ride on a Chinese high-speed train as an unforgettable experience of their trip. The railways have also boosted the development of smaller cities along the lines, making it easier for talent and resources to flow.",
+ "keyPoints": []
+}

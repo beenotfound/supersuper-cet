@@ -1,0 +1,83 @@
+{
+ "id": "real4-2021-12-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2021年12月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-12-1",
+ "paperTitle": "2021年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-12",
+ "passage": "Many people believe that passion and commitment are the foundations of strong romantic relationships. But a relationship is made of two {{1}}  individuals. And the personality traits(特性) these individuals {{2}}  or lack can often make a relationship more or less likely to {{3}}  . Recent research has found that one trait in particular—humility( 谦逊)—is an important indicator of successful relationships. Humility can sometimes be {{4}}  with a lack of confidence. But researchers have come to realize that being humble generally indicates the  {{5}} of deeply admirable personal qualities. Being humble means you have the ability to accurately {{6}}  your deficiencies without denying your skills and strengths. For example, you might recognize that you are intelligent, but realize that you are not a {{7}}  . Thus, humility leads to an honest view of one's own advantages and shortcomings. Humble people do not ignore, avoid, or try to deny their limits or deficiencies. They can {{8}}  mistakes, see value in things that are far from perfect and identify areas for improvement. Perhaps it is not ,  {{9}} then, that humility appears to be a huge asset to relationships. One study found that people tend to rate this quality {{10}}  in their spouse. The study also found that someone who is humble is more likely to initiate a romantic relationship, perhaps because they are less likely to see themselves as \"too good\" for someone else. Thus, a humble partner might be your ideal partner.",
+ "bank": [
+  "acknowledge",
+  "assess",
+  "confused",
+  "endure",
+  "extremely",
+  "genius",
+  "highly",
+  "permanent",
+  "possess",
+  "presence",
+  "puzzled",
+  "status",
+  "surprising",
+  "thoroughly",
+  "unique"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "unique",
+   "explain": "数词 two 与名词 individuals 之间作定语 『两个独特的个体』呼应全文『个体特性影响关系』主线 a relationship is made of two __(26)__ individuals，下一句紧接 the personality traits(特性) these individuals possess or lack 强调每个人各有不同特质——unique（独 特的）正好点出『两个各不相同的个体』，为后文讨论个…"
+  },
+  {
+   "n": 2,
+   "answer": "possess",
+   "explain": "主语 these individuals 后缺谓语动词 与 lack（缺乏）构成『拥有或缺乏』的天然反义并列 the personality traits(特性) these individuals __(27)__ or lack，or 后的 lack 是『缺 乏』，or 前最自然的反义就是『拥有』——possess（拥有）与 lack 正好一正一反，『这 些人拥有或缺乏的性格特质』逻辑通顺。 A) acknowledge 义为『承认…"
+  },
+  {
+   "n": 3,
+   "answer": "endure",
+   "explain": "不定式 to 后接动词原形 『关系能否持久』正好接 likely to endure（持续） make a relationship more or less likely to __(28)__，谈的是性格特质让一段关系『更可 能或更不可能』怎样——结合首句 passion and commitment are the foundations of strong romantic relationships，这里说的是关系能否长久维系…"
+  },
+  {
+   "n": 4,
+   "answer": "confused",
+   "explain": "be 动词 be 后作表语 be confused with=被混淆为，介词 with 锁死 Humility can sometimes be __(29)__ with a lack of confidence，空后紧跟介词 with， be confused with sth 是固定搭配，意为『被与……相混淆』——『谦逊有时被混淆为缺乏 自信』，与下句 But researchers have come to realize th…"
+  },
+  {
+   "n": 5,
+   "answer": "presence",
+   "explain": "定冠词 the 后、of 短语前作中心名词 the presence of=……的存在，正面引出『具备好品质』 being humble generally indicates the __(30)__ of deeply admirable personal qualities，与前半句 Humility can sometimes be confused with a lack of confidence 的 a lack of（缺…"
+  },
+  {
+   "n": 6,
+   "answer": "assess",
+   "explain": "情态 can 后、副词 accurately 后接动词原形 accurately assess（准确评估）+ 后文 honest view 呼应 accurately __(31)__ your deficiencies without denying your skills and strengths 说的 是『准确地□自己的不足』，下一句 humility leads to an honest view of one's own a…"
+  },
+  {
+   "n": 7,
+   "answer": "genius",
+   "explain": "不定冠词 a 后只能接名词 与前句『intelligent』构成『聪明但算不上天才』的递进对比 上文 you might recognize that you are intelligent, but realize that you are not a __(32)__，but 前说『你也许聪明』，but 后该说一个比『聪明』更高一档、自己却够不上 的身份——天才 genius 正好，承认聪明却不自封天才，恰好呼应『谦逊=客观看待自己…"
+  },
+  {
+   "n": 8,
+   "answer": "acknowledge",
+   "explain": "情态 can 后接动词原形、带宾语 mistakes acknowledge mistakes=承认错误，固定搭配且贴合谦逊主旨 They can __(33)__ mistakes, see value in things that are far from perfect，谦逊的人能 『承认错误、看到不完美事物的价值』——acknowledge mistakes（承认错误）是地道固 定搭配，与本段『谦逊者不回避、不否认自身缺陷』完全…"
+  },
+  {
+   "n": 9,
+   "answer": "surprising",
+   "explain": "it is not + 空，作表语形容词 not surprising=不足为奇，承接上文顺理成章 Perhaps it is not __(34)__, then, that humility appears to be a huge asset to relationships，then（因此）承接第二段对谦逊种种好处的铺陈，得出『谦逊对关系大有裨 益，这并不令人意外』——it is not surprising that...（……"
+  },
+  {
+   "n": 10,
+   "answer": "highly",
+   "explain": "动词 rate 后修饰动作，作状语 rate ... highly=高度评价，固定搭配 people tend to rate this quality __(35)__ in their spouse，rate sth highly 是固定搭配， 意为『高度评价某物』——『人们往往非常看重配偶身上谦逊这一品质』，与下文『谦逊的 伴侣或许是你的理想伴侣』正向呼应。 E) extremely 义为『极其』，不与 rate 搭配作『评价高』…"
+  }
+ ]
+}

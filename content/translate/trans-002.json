@@ -1,0 +1,18 @@
+{
+  "id": "trans-002",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国传统节日",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["custom", "reunion", "atmosphere", "lantern"],
+  "prompt": "中国传统节日大多与农耕节奏和家庭团聚有关。春节是一年中最重要的节日，人们无论走得多远，都想在除夕之前赶回家吃一顿年夜饭。端午节有吃粽子、赛龙舟的习俗，人们借此祈求平安健康。中秋节则讲究赏月、吃月饼，寄托对亲人的思念。如今过节的方式在不断变化，人们用手机发祝福、在网上买年货，但团圆的心意没有变。节日让忙碌的人停下脚步，重新体会亲情的分量。",
+  "reference": "Most traditional Chinese festivals are connected with the rhythm of farming and with family reunions. The Spring Festival is the most important festival of the year: however far people have travelled, they try to get home before New Year's Eve for a big family dinner. Customs differ from place to place: northern families make dumplings while southern families prepare rice cakes, and both are meant to bring good luck. At the Dragon Boat Festival, people eat rice dumplings and hold boat races, a custom through which they pray for health and safety. The Mid-Autumn Festival is a time for admiring the full moon and eating mooncakes, which expresses people's longing for absent relatives. Today the ways of celebrating are changing: people send greetings by phone and buy New Year goods online, yet the wish to be together remains the same. Festivals make busy people slow down and feel afresh how much family ties matter.",
+  "keyPoints": [
+    "“无论走得多远”用 however far 引导让步状语从句。",
+    "“赛龙舟”的固定表达是 hold boat races 或 dragon boat races。",
+    "“寄托对亲人的思念”可译为 express people's longing for absent relatives。",
+    "“团圆”“团聚”统一用 reunion，避免通篇重复 gather 一词。",
+    "末句“亲情的分量”宜意译为 how much family ties matter。"
+  ]
+}

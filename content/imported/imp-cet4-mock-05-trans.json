@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-05-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-05",
+ "paperTitle": "大学英语四级标准模拟卷 05",
+ "paperLevel": "cet4",
+ "paperYear": "mock-05",
+ "sectionOrder": 5,
+ "prompt": "春节是中国最重要的传统节日。每到农历新年，人们会提前几周打扫房屋、贴春联、准备丰盛的年夜饭。除夕之夜，全家人尽量聚在一起吃团圆饭，长辈还会给孩子压岁钱。许多地方还保留着放鞭炮、舞龙舞狮的习俗，寓意辞旧迎新、祈求来年吉祥。如今，虽然城市里对燃放烟花有严格限制，但人们通过视频通话、电子红包等方式，同样传递着对亲友的祝福和对新年的期盼。",
+ "reference": "The Spring Festival is the most important traditional festival in China. As the lunar new year approaches, people clean their houses, put up spring couplets and prepare a rich dinner several weeks in advance. On New Year's Eve, the whole family tries to get together for a reunion meal, and elders give children lucky money. In many places the old customs of setting off firecrackers and performing dragon and lion dances are still kept, which means saying goodbye to the old year and praying for good luck in the coming one. Today, although setting off fireworks is strictly limited in cities, people still send their good wishes and hopes for the new year to relatives and friends through video calls and electronic red envelopes.",
+ "keyPoints": []
+}

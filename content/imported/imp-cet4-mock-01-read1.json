@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-01-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-01",
+ "paperTitle": "大学英语四级标准模拟卷 01",
+ "paperLevel": "cet4",
+ "paperYear": "mock-01",
+ "sectionOrder": 4,
+ "passage": "For most of the twentieth century, the university library was a quiet building whose main purpose was to keep books safe. Students came in, found a title in the catalogue, read it at a table and left. The librarian's job was to protect the collection and to make sure that nothing was lost.\n\nThat model has changed almost beyond recognition. A modern university library is more likely to be judged by how many students use it than by how many volumes it owns. Many libraries have moved the shelves to make room for group study areas, computer rooms and small studios where students can record videos or practise presentations. Some have opened cafés, and a few even lend equipment such as cameras, laptops and musical instruments.\n\nThe change has not been welcomed by everyone. Older academics sometimes complain that a library without silent reading rooms is no longer a library at all, and that students who work in groups distract those who need quiet. Librarians reply that they have simply followed the students.\n\nSurveys at several universities show that most students still use the building, but for a wider range of activities than their parents did. They borrow fewer printed books, yet they ask more questions, attend more workshops and use more online resources. The most successful libraries, according to a recent report, are those that offer both worlds: a silent floor for those who want it, and lively spaces for those who need to work together. The building has not lost its purpose, the report argues; it has gained several. A library that once stored knowledge now helps students to make it, argue with it and present it, which is a harder job and a more interesting one.",
+ "questions": [
+  {
+   "q": "What was the main purpose of university libraries in the past?",
+   "options": [
+    "To protect books and keep the collection safe.",
+    "To provide group study rooms for students.",
+    "To lend cameras and laptops.",
+    "To offer workshops on research skills."
+   ],
+   "answer": 0,
+   "explain": "第一段说 the university library was a quiet building whose main purpose was to keep books safe，即过去大学图书馆的主要目的是保护藏书的安全，故选 A。"
+  },
+  {
+   "q": "What change have many modern university libraries made?",
+   "options": [
+    "They have built more silent reading rooms.",
+    "They have replaced some shelves with group study areas.",
+    "They have stopped lending printed books.",
+    "They have closed the cafés inside them."
+   ],
+   "answer": 1,
+   "explain": "第二段提到 Many libraries have moved the shelves to make room for group study areas, computer rooms and small studios，即把书架移开腾出小组学习区等空间，故选 B。"
+  },
+  {
+   "q": "What do some older academics complain about?",
+   "options": [
+    "Libraries are too quiet for group work.",
+    "Students borrow too many books.",
+    "Silent reading rooms have gone and students distract each other.",
+    "Librarians ask too many questions."
+   ],
+   "answer": 2,
+   "explain": "第三段说 Older academics sometimes complain that a library without silent reading rooms is no longer a library at all, and that students who work in groups distract those who need quiet，故选 C。"
+  },
+  {
+   "q": "What does the recent report suggest about successful libraries?",
+   "options": [
+    "They should own more printed volumes.",
+    "They should keep students quiet at all times.",
+    "They should close social spaces during exams.",
+    "They should offer both silent and social spaces."
+   ],
+   "answer": 3,
+   "explain": "最后一段引述报告说 the most successful libraries ... offer both worlds: a silent floor for those who want it, and lively spaces for those who need to work together，即兼顾安静与社交空间，故选 D。"
+  }
+ ]
+}

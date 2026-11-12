@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-demo-2024-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-demo-2024",
+ "paperTitle": "2024年12月大学英语四级（模拟节选）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 4,
+ "passage": "When Mark Stevenson became head of a small design company in Bristol, he noticed that his team spent nearly two hours a day in meetings. Most of them were held in a windowless room and, according to Stevenson, half the people were checking their phones. He decided to try something different: walking meetings. Once a week, the eight members of the team leave their desks, walk to a nearby park and discuss one project while they move. Stevenson says the change has been surprisingly effective. People talk more freely outdoors, and because there are no screens, they listen to each other. The meetings also finish on time, since nobody wants to walk for more than forty minutes. Not every topic suits a walk, he admits; confidential financial discussions still take place indoors. But for creative work, he believes the streets and parks of the city are better than any meeting room. Some researchers agree, noting that light exercise increases blood flow to the brain and helps ideas connect.",
+ "questions": [
+  {
+   "q": "What problem did Mark Stevenson notice about his team's meetings?",
+   "options": [
+    "They were held in a park.",
+    "People often checked their phones.",
+    "They lasted less than an hour.",
+    "Only eight people attended."
+   ],
+   "answer": 1,
+   "explain": "第一段说 Most of them were held in a windowless room and, according to Stevenson, half the people were checking their phones，即他注意到开会时很多人看手机，故选 B。"
+  },
+  {
+   "q": "What is one advantage of walking meetings mentioned in the passage?",
+   "options": [
+    "People talk more freely outdoors.",
+    "They cost the company nothing.",
+    "They help staff finish more projects.",
+    "They are held every morning."
+   ],
+   "answer": 0,
+   "explain": "第三段指出 People talk more freely outdoors, and because there are no screens, they listen to each other，故选 A。"
+  },
+  {
+   "q": "Why do walking meetings usually finish on time?",
+   "options": [
+    "Participants have to return to their desks.",
+    "The park closes in the early afternoon.",
+    "Nobody wants to walk for over forty minutes.",
+    "The manager sets an alarm."
+   ],
+   "answer": 2,
+   "explain": "文中说 The meetings also finish on time, since nobody wants to walk for more than forty minutes，故选 C。"
+  },
+  {
+   "q": "Which kind of discussion is still held indoors?",
+   "options": [
+    "Creative design work.",
+    "Confidential financial matters.",
+    "Weekly team planning.",
+    "Discussions with clients."
+   ],
+   "answer": 1,
+   "explain": "第四段说 confidential financial discussions still take place indoors，即涉及机密的财务讨论仍在室内进行，故选 B。"
+  }
+ ]
+}

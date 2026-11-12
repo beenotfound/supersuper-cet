@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-real-2025-06",
+      "title": "2025年6月大学英语四级真题风格卷（原创题面）",
+      "level": "CET4",
+      "year": "2025-06",
+      "durationMinutes": 130,
+      "tags": ["真题风格", "2025-06", "原创题面"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on whether College Chinese should be a compulsory course for all university students. In your essay you should: 1) state clearly whether you think the course should be compulsory; 2) give reasons to support your view; 3) draw a conclusion. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "说明：本部分共 30 分钟。请就「大学语文是否应成为所有大学生的必修课」写一篇短文，内容包括：1）明确表明你的观点；2）说明支持你观点的理由；3）作出结论。词数 120–180 词。",
+          "reference": "Some universities have made College Chinese a compulsory course, and the decision has caused much discussion. In my opinion, the course should be required, though it should be taught in a way that suits students of different majors.\n\nFirst, language ability is the foundation of almost every subject. Students who cannot write a clear report or explain an idea in good Chinese will struggle in their future jobs, however strong their professional skills are. Second, the course is not only about grammar. Reading classical and modern texts helps young people understand their own culture and think about values, which is especially valuable in a fast-changing world. Third, a shared course brings students from different departments together and gives them something to discuss.\n\nFor these reasons, I believe College Chinese deserves to be compulsory. Universities should give it real credit and use lively teaching methods instead of old-fashioned recitation, so that students take it seriously.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供，请先读文字稿再作答。\n\nConversation One:\nWoman: Hello, is this the Writing Centre? I would like to book a session for next week.\nMan: Yes, this is the Writing Centre. Are you working on a particular assignment?\nWoman: I have to hand in a research report for my economics course in three weeks, and my tutor says my arguments are not clear enough.\nMan: Then a one-to-one tutorial would suit you better than our general workshop. Each session lasts thirty minutes, and you can meet a tutor either in person or online.\nWoman: In person, please. I find it easier to discuss my writing when I can show the paper to someone.\nMan: Good. We have appointments on Tuesday and Thursday afternoons. Could you send us your draft two days before the session? The tutor will read it in advance.\nWoman: That is helpful. Is there anything else I should prepare?\nMan: Bring the assignment question as well. Many students forget it, and then the tutor cannot judge whether the report answers the question.\nWoman: I will. Do you also help with grammar?\nMan: We do, but our main aim is to help you organise your ideas and express them clearly. We will not proofread the whole paper for you. If grammar is a serious problem, we can suggest a grammar workshop.\nWoman: I understand. I think my main trouble is the structure, not grammar.\nMan: Then we will start with the outline. Shall I put you down for Thursday at three?\nWoman: Yes, that works for me. Thank you very much.\n\nPassage One:\nIn Japan the practice is called shinrin-yoku, which means forest bathing. It does not involve swimming or even walking fast. The idea is simply to spend time among trees, moving slowly, listening to birds and breathing deeply. The practice began in the 1980s, when researchers noticed that people living in cities reported more stress than those living in the countryside.\n\nSince then, dozens of studies have tested the effects. In one experiment, two groups of office workers spent their lunch break in two different places: a busy shopping street and a small woodland. After only twenty minutes, the woodland group had lower levels of the stress hormone and reported feeling calmer, while the street group showed no change. Other studies suggest that even looking at pictures of trees can help people recover from stress more quickly.\n\nWhat explains the effect? Some scientists point to the way our attention works. A busy street demands constant attention: traffic, noise, screens. A forest is interesting but not demanding, so the mind can rest. Others argue that plant chemicals in the air may play a role, although the evidence is not yet strong.\n\nWhatever the reason, the advice is simple and cheap. You do not need a forest; a park, a row of trees along a river, or even a small garden is enough. What matters is that you leave your phone in your pocket and allow yourself to slow down.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Why does the woman contact the Writing Centre?",
+              "transcript": "",
+              "options": [
+                "A. To apply for a job as a tutor.",
+                "B. To register for a grammar course.",
+                "C. To book a session for her research report.",
+                "D. To complain about her tutor's comments."
+              ],
+              "answer": "C",
+              "explanation": "女士开场就说想在写作中心预约一次辅导，并提到三周后要交经济学研究报告，故选 C。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What does the man say about a one-to-one tutorial?",
+              "transcript": "",
+              "options": [
+                "A. It suits students who need individual help.",
+                "B. It is only available online.",
+                "C. It requires no preparation at all.",
+                "D. It is limited to economics students."
+              ],
+              "answer": "A",
+              "explanation": "男士说比起集体工作坊，一对一辅导更适合她这类需要针对个人问题获得帮助的学生，故选 A。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What should the woman send before the session?",
+              "transcript": "",
+              "options": [
+                "A. A list of difficult grammar points.",
+                "B. A copy of her draft.",
+                "C. A summary of her economics course.",
+                "D. A completed application form."
+              ],
+              "answer": "B",
+              "explanation": "男士请她在辅导前两天把草稿发过去，导师会提前阅读，故选 B。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What does the man say is the main aim of the Writing Centre?",
+              "transcript": "",
+              "options": [
+                "A. To correct every grammar mistake.",
+                "B. To help students choose their courses.",
+                "C. To prepare students for written exams.",
+                "D. To help students organise and express their ideas."
+              ],
+              "answer": "D",
+              "explanation": "男士明确说主要目标是帮学生组织观点、清楚表达，而不是替他们通篇校对语法，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What is forest bathing?",
+              "transcript": "",
+              "options": [
+                "A. Spending time among trees in a relaxed way.",
+                "B. Swimming in lakes inside forests.",
+                "C. Walking quickly through the countryside.",
+                "D. Studying plants in a laboratory."
+              ],
+              "answer": "A",
+              "explanation": "短文说森林浴既不游泳也不快走，只是在树林中慢慢停留、听鸟叫、深呼吸，故选 A。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What did the experiment with office workers show?",
+              "transcript": "",
+              "options": [
+                "A. Shopping streets help people relax quickly.",
+                "B. Twenty minutes of exercise is enough every day.",
+                "C. A short stay in woodland lowered stress levels.",
+                "D. Lunch breaks have no effect on stress."
+              ],
+              "answer": "C",
+              "explanation": "实验让两组上班族分别在小树林和商业街午休二十分钟，树林组压力激素更低、感觉更平静，故选 C。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "According to the passage, why can a forest help the mind rest?",
+              "transcript": "",
+              "options": [
+                "A. It contains no animals at all.",
+                "B. It is filled with the smell of flowers.",
+                "C. It is completely silent all day long.",
+                "D. It interests us without demanding attention."
+              ],
+              "answer": "D",
+              "explanation": "短文说繁忙街道需要持续注意，而森林有趣却不苛求注意力，因此大脑得以休息，故选 D。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the speaker suggest at the end of the passage?",
+              "transcript": "",
+              "options": [
+                "A. Visit a forest every weekend.",
+                "B. Use a nearby park and put your phone away.",
+                "C. Take a long holiday in the countryside.",
+                "D. Plant more trees in your own garden."
+              ],
+              "answer": "B",
+              "explanation": "结尾建议不必去森林，附近公园或河边一排树就够，关键是把手机放进口袋，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "选词填空。阅读下面短文，从词库 A–O 中为 26–35 每个空白选出最合适的词，每个词只用一次，其中有五个词为多余选项。\n\nEvery day, university canteens across the country serve millions of meals, and a surprising (26) ______ of food ends up in the bin. A recent (27) ______ at one university found that students (28) ______ away about sixty grams of food per meal on average. Much of it had never been touched: rice left on the plate, vegetables pushed to one side, half a dish that was simply too large.\n\nThe reasons are not hard to find. When the (29) ______ offers only large dishes at a low price, people tend to take more than they can eat, and busy students are often not (30) ______ of how much they leave behind.\n\nSeveral universities are now trying to (31) ______ the problem. Some canteens offer smaller (32) ______ at a lower price, so that a light eater is not forced to waste food. Others put up posters and (33) ______ students to take (34) ______ home in (35) ______ boxes. Managers say the results are encouraging: in one canteen, waste fell by almost a third within a single term.\n\n词库：A. amount  B. aware  C. bins  D. consumers  E. encourage  F. entirely  G. leftovers  H. menu  I. portions  J. reduce  K. reusable  L. survey  M. throw  N. wasted  O. weight",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. Every day, university canteens serve millions of meals, and a surprising ______ of food ends up in the bin.",
+              "answer": "amount",
+              "explanation": "a surprising amount of 表示数量惊人的，用于不可数名词 food，说明食堂浪费量很大。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. A recent ______ at one university found that students waste about sixty grams of food per meal.",
+              "answer": "survey",
+              "explanation": "此处需要名词作主语，survey 意为调查，与 found 搭配，指一项调查发现了这一数据。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. The same research found that students ______ away about sixty grams of food per meal on average.",
+              "answer": "throw",
+              "explanation": "throw away 是固定搭配，意为扔掉，与 food 和 bin 呼应，指学生每餐平均扔掉约六十克食物。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. When the ______ offers only large dishes at a low price, people tend to take more than they can eat.",
+              "answer": "menu",
+              "explanation": "此处需要名词作从句主语，menu 意为菜单；菜单上只有大份菜品且价格便宜，学生就容易取得过多。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Busy students are often not ______ of how much they leave behind.",
+              "answer": "aware",
+              "explanation": "be aware of 是固定搭配，意为意识到，说明忙碌的学生往往没注意自己剩下多少食物。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Several universities are now trying to ______ the problem.",
+              "answer": "reduce",
+              "explanation": "此处需要动词，reduce 意为减少，与 problem 搭配，指高校正努力减少浪费问题。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. Some canteens offer smaller ______ at a lower price.",
+              "answer": "portions",
+              "explanation": "portion 意为一份饭菜，smaller portions 指分量更小的餐食，价格为 lower，符合语境。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Others put up posters and ______ students to bring their remaining food home.",
+              "answer": "encourage",
+              "explanation": "encourage sb. to do sth. 意为鼓励某人做某事，与 put up posters 并列，都是减少浪费的做法。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. Many students now take their ______ home rather than leaving them on the plate.",
+              "answer": "leftovers",
+              "explanation": "leftovers 意为剩饭菜，take leftovers home 指把没吃完的饭菜带回家，符合食堂减少浪费的做法。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. The canteens ask students to bring ______ boxes for the food they take away.",
+              "answer": "reusable",
+              "explanation": "此处需要形容词修饰 boxes，reusable 意为可重复使用的，与减少垃圾的目标一致。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "长篇阅读匹配。下面有 A–F 六段短文，各有小标题；后面五道题分别询问某段提到的内容，请从 A–F 中选出对应的段落。\n\nParagraph A: Cheaper tickets for everyone. Last year the city cut bus fares by a third and made travel free for students and older residents at weekends. Passenger numbers rose by almost 18 percent within six months, and shop owners in the suburbs say more customers now arrive by bus. The city has also introduced a single ticket that can be used on buses, trains and ferries for ninety minutes.\n\nParagraph B: Buses after midnight. For years the last bus left the city centre at half past ten, leaving nurses, cleaners and restaurant staff to pay for taxis. A pilot late-night service now runs until one in the morning on Fridays and Saturdays, and a second route will follow next year. Drivers say the buses are busy but calm, and passengers say the service has changed their working lives.\n\nParagraph C: Knowing when the bus will come. Real-time screens at two hundred stops show how many minutes remain until the next bus, and an app sends an alert when the vehicle is close. The city reports that complaints about waiting fell by a third in the first year. For passengers, the gain is not speed but certainty: knowing that the bus is four minutes away makes standing in the rain far easier.\n\nParagraph D: Bikes welcome on board. New buses carry a rack that holds two bicycles at the front, and several train lines now offer a carriage with hooks and charging points for e-bikes. Commuters can cycle to the station, take the bike on the train and finish the journey on two wheels. The number of people combining a bike with public transport has doubled since the facilities appeared.\n\nParagraph E: A quiet corner on the train. One railway company has marked the first two carriages of every train as quiet zones, where phone calls are not allowed, announcements are reduced and the lights are slightly dimmed. Passengers use them to work, read or sleep through the journey. A survey found that eight out of ten travellers wanted the zones extended, even those who rarely used them.\n\nParagraph F: Parking at the edge of town. Drivers from outside the city can leave their cars free of charge in a large car park beside the motorway and take a bus into the centre every ten minutes. The car park is full by eight in the morning, and the number of cars entering the city centre has fallen by a fifth, which has improved air quality in the narrow streets.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a change that helps passengers know exactly when their bus is coming?",
+              "options": [
+                "A. Cheaper tickets for everyone",
+                "B. Buses after midnight",
+                "C. Knowing when the bus will come",
+                "D. Bikes welcome on board",
+                "E. A quiet corner on the train",
+                "F. Parking at the edge of town"
+              ],
+              "answer": "C",
+              "explanation": "Paragraph C 讲站台实时显示屏和手机应用提醒到站时间，与前文的 knowing when 对应，故选 C。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Which paragraph mentions measures that make public transport cheaper?",
+              "options": [
+                "A. Cheaper tickets for everyone",
+                "B. Buses after midnight",
+                "C. Knowing when the bus will come",
+                "D. Bikes welcome on board",
+                "E. A quiet corner on the train",
+                "F. Parking at the edge of town"
+              ],
+              "answer": "A",
+              "explanation": "Paragraph A 说公交票价下调三分之一、周末学生和老人免费，还推出九十分钟联票，故选 A。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Which paragraph mentions facilities for people who combine cycling with public transport?",
+              "options": [
+                "A. Cheaper tickets for everyone",
+                "B. Buses after midnight",
+                "C. Knowing when the bus will come",
+                "D. Bikes welcome on board",
+                "E. A quiet corner on the train",
+                "F. Parking at the edge of town"
+              ],
+              "answer": "D",
+              "explanation": "Paragraph D 说新公交车装有可放两辆自行车的架子，部分列车设挂钩和充电点，方便骑行加公共交通的出行方式，故选 D。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a service for people who finish work late at night?",
+              "options": [
+                "A. Cheaper tickets for everyone",
+                "B. Buses after midnight",
+                "C. Knowing when the bus will come",
+                "D. Bikes welcome on board",
+                "E. A quiet corner on the train",
+                "F. Parking at the edge of town"
+              ],
+              "answer": "B",
+              "explanation": "Paragraph B 说过去末班车十点半就收车，护士、清洁工和餐馆员工只能打车，如今周五周六试点夜班车到凌晨一点，故选 B。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Which paragraph mentions a change that allows passengers to rest or work during the journey?",
+              "options": [
+                "A. Cheaper tickets for everyone",
+                "B. Buses after midnight",
+                "C. Knowing when the bus will come",
+                "D. Bikes welcome on board",
+                "E. A quiet corner on the train",
+                "F. Parking at the edge of town"
+              ],
+              "answer": "E",
+              "explanation": "Paragraph E 讲列车设置安静车厢，禁止通话、减少广播、调暗灯光，供乘客工作、阅读或休息，故选 E。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1:\nAsk people to describe their ideal day and few will mention boredom. We treat it as a failure of planning, something to be removed with a phone, a game or another cup of coffee. Yet a growing number of psychologists argue that boredom is not an enemy at all. It may even be useful.\n\nIn a well-known experiment, volunteers were asked to spend fifteen minutes copying numbers from a telephone directory. Afterwards, they were given a test of creativity: they had to suggest as many uses as possible for a pair of plastic cups. The bored group produced far more original ideas than a control group who had spent the same time doing something pleasant. The researchers believe that when the mind is under-stimulated, it starts to search for new directions, connecting memories and ideas in ways that a busy mind cannot.\n\nBoredom also sends a signal. Just as hunger tells us to eat, boredom tells us that what we are doing is not meaningful, and it pushes us to change something: to call a friend, start a project or take a walk. People who never allow themselves to be bored may lose that signal, and with it the chance to notice what really matters to them.\n\nThe modern world, however, makes boredom almost impossible. Every spare minute can be filled with messages, videos and shopping. Some teachers therefore ask students to leave their phones at home for a day, and many report that the first hours are uncomfortable but that conversations become longer and homework gets finished faster. Perhaps the skill we need most is not entertainment, but the ability to sit with an empty moment and see what it brings.\n\nPassage 2:\nStreet food is one of the joys of city life: a hot bowl of noodles, a paper cone of fried chicken or a warm pancake eaten while walking. For many people it is also cheaper than a restaurant, and for small business owners it offers a way to start trading with very little capital. For a visitor, it is also the quickest way to taste what a city really eats.\n\nYet street food has long had a reputation problem. Because stalls are small and often temporary, health inspectors find it difficult to check every one, and customers cannot see what happens behind the counter. In some cities, the answer has been to ban street selling altogether, but this usually drives vendors into less visible places, where conditions may be even worse.\n\nA number of cities are now trying a different approach. Instead of closing markets, they are organised. Vendors are given a fixed pitch with clean water and rubbish collection, in exchange for paying a small fee and following basic rules such as storing food at the correct temperature and covering it. Some markets train their own members and publish inspection results on a notice board, so that a stall that loses customers will think twice about food safety.\n\nThe early results are positive. In one city, complaints about food safety fell by half after the first year, while the number of stalls rose, which suggests that customers and sellers both benefit. The lesson is that street food does not have to choose between charm and hygiene. With a little organisation, a city can keep its lively streets and its safe meals.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What do many psychologists now believe about boredom?",
+              "options": [
+                "A. It is mainly caused by poor planning.",
+                "B. It can be valuable to the mind.",
+                "C. It should be treated with coffee.",
+                "D. It is a sign of mental illness."
+              ],
+              "answer": "B",
+              "explanation": "第一段说越来越多心理学家认为无聊根本不是敌人，甚至可能有用，故选 B。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the telephone-directory experiment find?",
+              "options": [
+                "A. Bored people disliked the creativity test.",
+                "B. The control group was more creative.",
+                "C. Boredom made people feel tired quickly.",
+                "D. Bored people produced more original ideas."
+              ],
+              "answer": "D",
+              "explanation": "第二段说抄号码簿而无聊的一组在随后的创造力测试中提出的原创想法远多于对照组，故选 D。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What does the author compare boredom to?",
+              "options": [
+                "A. A game played on a phone.",
+                "B. A failure of daily planning.",
+                "C. A signal such as hunger.",
+                "D. A cup of coffee in the morning."
+              ],
+              "answer": "C",
+              "explanation": "第三段把无聊比作饥饿：饥饿提醒我们进食，无聊提醒我们正在做的事没有意义，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What do some teachers ask their students to do?",
+              "options": [
+                "A. Leave their phones at home for a day.",
+                "B. Spend more time playing computer games.",
+                "C. Copy numbers from a directory every day.",
+                "D. Stop doing homework in the evening."
+              ],
+              "answer": "A",
+              "explanation": "最后一段说一些老师要求学生一整天把手机留在家里，学生反映最初不适应，但交谈变长、作业完成得更快，故选 A。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What advantage of street food does the author mention?",
+              "options": [
+                "A. It requires very little money to start.",
+                "B. It always tastes better than restaurant food.",
+                "C. It is only sold late at night.",
+                "D. It is easy for inspectors to check."
+              ],
+              "answer": "A",
+              "explanation": "第一段说对小微经营者而言，街头小吃让他们能用很少的本钱开始做生意，故选 A。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What usually happens when cities ban street selling?",
+              "options": [
+                "A. Street food becomes much safer.",
+                "B. Vendors move to less visible places.",
+                "C. Prices fall in the city centre.",
+                "D. Customers stop eating street food."
+              ],
+              "answer": "B",
+              "explanation": "第二段说全面禁止通常把摊贩逼到更不显眼的地方，那里的卫生条件可能更差，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What does the new approach give vendors?",
+              "options": [
+                "A. Free advertising on local radio.",
+                "B. A larger restaurant in the city centre.",
+                "C. A fixed pitch with clean water and rubbish collection.",
+                "D. Tax-free income for the first year."
+              ],
+              "answer": "C",
+              "explanation": "第三段说城市给摊贩固定摊位、提供清洁用水和垃圾清运，条件是交纳少量费用并遵守基本规则，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "中国园林有着悠久的历史，是中华文化的重要组成部分。与中国北方的皇家园林不同，江南的私家园林往往面积不大，却通过假山、水池、花木和曲折的回廊营造出变化丰富的空间。设计者讲究「借景」和「步移景异」，让游人在有限的地方感受到自然的意趣。园林中的亭台楼阁不仅是休息之处，也常被用来读书、作画和会友。今天，许多古典园林已成为著名的旅游景点，吸引着世界各地的游客。保护这些园林，就是保护一种独特的生活方式和审美传统。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "Chinese gardens have a long history and form an important part of Chinese culture. Unlike the royal gardens of northern China, private gardens in the region south of the Yangtze are often small in size, yet they create a rich variety of space through rockeries, ponds, flowers and trees, and winding corridors. Their designers paid great attention to borrowing views from the surroundings and to making the scenery change with every step, so that visitors can feel the charm of nature within a limited area. The pavilions and towers in these gardens were not only places to rest, but also places to read, paint and meet friends. Today many classical gardens have become famous tourist attractions that draw visitors from all over the world. To protect them is to protect a distinctive way of life and a tradition of beauty.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

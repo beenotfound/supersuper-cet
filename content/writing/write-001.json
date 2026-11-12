@@ -1,0 +1,17 @@
+{
+  "id": "write-001",
+  "type": "writing",
+  "level": "cet4",
+  "title": "The Value of Failure",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["failure", "setback", "resilience"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on the value of failure. You should write at least 120 words but no more than 180 words.",
+  "reference": "Nobody likes failure, yet almost everyone has to face it. In my view, failure is not the opposite of success but a necessary step towards it.\n\nFirst, failure teaches us lessons that success rarely offers. When everything goes smoothly, we seldom ask why; when a plan collapses, we are forced to examine our weaknesses and change our methods. A student who fails an exam may discover that memorising facts is not enough, and that lesson will serve him far better than a lucky pass. Second, failure builds resilience. People who have recovered from setbacks are usually calmer when the next difficulty arrives, because they know from experience that a bad moment does not mean a bad life.\n\nOf course, failure is valuable only when we reflect on it. Those who blame others or give up learn nothing. If we treat every setback as a chance to improve, failure becomes a teacher rather than a wall.",
+  "keyPoints": [
+    "首段明确观点：失败是通往成功的必经一步。",
+    "两个分论点分别是“失败带来教训”和“失败培养韧性”，用 First / Second 标示。",
+    "举例要具体而简短，避免泛泛而谈。",
+    "结尾强调反思，使论证完整。"
+  ]
+}

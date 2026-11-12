@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-09",
+      "title": "大学英语四级标准模拟卷 09",
+      "level": "CET4",
+      "year": "mock-09",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on citywalk, a way of exploring a city on foot. Your essay should include: 1) what citywalk means and why it has become popular; 2) an experience of your own or of someone you know; 3) what you have learned from it. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "假定你要就「citywalk（城市漫步）」写一篇短文。文章应包括：1）citywalk 的含义及其流行的原因；2）你或你认识的人的一次相关经历；3）你从中获得的体会。词数 120–180 词。",
+          "reference": "Citywalk means exploring a city on foot, usually without a fixed route or a shopping list. It has become popular because it is cheap and healthy, because it gives young people something to share online, and because it lets them see the city they actually live in rather than the one printed on a postcard.\n\nLast spring a friend took me on a walk through the old streets near the river. Our guide had grown up in the area, and she showed us a market that had stood in the same place for sixty years, a tiny bookshop and a wall of old photographs. We walked for three hours but covered less than five kilometres.\n\nWhat I learned is that a city is not only its famous buildings. The ordinary corners are where its life continues, and walking slowly is the only way to notice them.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题，请阅读文字稿后作答。\n\nConversation One:\nWoman: Are you free on Saturday? A few of us are planning a citywalk along the old canal.\nMan: A citywalk? Do you mean the kind where you follow a map on your phone and look at buildings?\nWoman: Not exactly. We are joining a free tour led by a history student. There is no fixed route; the guide takes us through back streets and tells stories about the people who lived there.\nMan: That sounds interesting. How long does it take?\nWoman: About three hours, with a break at a tea house halfway. We walk slowly, less than five kilometres in total, so comfortable shoes are enough.\nMan: Count me in. I have lived in this city for two years and I still know nothing about the area east of the river.\nWoman: Same for me. Someone gave me the tour as a birthday present, and I enjoyed it so much that I asked the guide to run it again for friends.\nMan: Do we have to book?\nWoman: Yes, there is a limit of twelve people. I will send you the link tonight. Bring some water and a little cash for the tea.\n\nPassage One:\nGood morning. Today I want to talk about a question that planners rarely ask: what makes a street pleasant to walk along? Most cities are designed around the car, and the result is visible everywhere: wide roads, long crossings and pavements too narrow for two people to pass.\n\nOur research team spent two years observing twelve streets in three cities. We recorded how many people walked, how long they stayed and what they did. The findings were consistent. People walked more where there was something to look at: a shop window, a tree, a place to sit. They also walked more where they felt safe, which depended less on the police than on other people being present. A street with cafes and open doors feels safe; an empty street with a high wall does not.\n\nThe width of the pavement turned out to matter more than the width of the road. On one street, the pavement was widened by only one metre, and the number of people walking after work rose by a third. Shade was another factor: in summer, a street without trees was almost empty at midday, while a street with trees was busy from morning until evening.\n\nNone of this requires a huge budget. Paint, benches, trees and a careful look at where people already cross can change a street in a few months. What it does require is a willingness to treat walking as real transport, and to measure success not by the speed of cars but by the life on the pavement.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What is the woman inviting the man to do?",
+              "transcript": "",
+              "options": [
+                "A. Take part in a photography class.",
+                "B. Join a guided citywalk.",
+                "C. Visit a history museum.",
+                "D. Book a hotel by the canal."
+              ],
+              "answer": "B",
+              "explanation": "女士开头说 A few of us are planning a citywalk along the old canal，随后说明是历史系学生带队的免费徒步游览，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What is special about the route?",
+              "transcript": "",
+              "options": [
+                "A. It goes through back streets.",
+                "B. It follows the river only.",
+                "C. It is exactly five kilometres long.",
+                "D. It starts at a tea house."
+              ],
+              "answer": "A",
+              "explanation": "女士说 There is no fixed route; the guide takes us through back streets and tells stories about the people who lived there，即路线不固定且穿过背街小巷，故选 A。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What do we learn about the woman?",
+              "transcript": "",
+              "options": [
+                "A. She is a history student.",
+                "B. She lives east of the river.",
+                "C. She is organizing the tour herself.",
+                "D. She received the tour as a gift."
+              ],
+              "answer": "D",
+              "explanation": "女士说 Someone gave me the tour as a birthday present，即这次漫步是别人送她的生日礼物，故选 D。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "Why must they book the tour in advance?",
+              "transcript": "",
+              "options": [
+                "A. Because the guide is still a student.",
+                "B. Because the tea house is very small.",
+                "C. Because only twelve places are available.",
+                "D. Because the route changes every week."
+              ],
+              "answer": "C",
+              "explanation": "男士问是否需要预约，女士回答 Yes, there is a limit of twelve people，即名额只有十二个，故选 C。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What problem does the speaker mention about most cities?",
+              "transcript": "",
+              "options": [
+                "A. They are designed mainly around cars.",
+                "B. They have too many pedestrians.",
+                "C. They lack any public transport.",
+                "D. Their streets are too narrow for cars."
+              ],
+              "answer": "A",
+              "explanation": "讲座开头指出 Most cities are designed around the car，并列举宽马路、长距人行横道等结果，故选 A。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "According to the research, what made people walk more?",
+              "transcript": "",
+              "options": [
+                "A. Wider roads.",
+                "B. Things to look at and a sense of safety.",
+                "C. More police on the streets.",
+                "D. Longer pedestrian crossings."
+              ],
+              "answer": "B",
+              "explanation": "研究发现人们在有可看之处（橱窗、树、坐椅）和感到安全的地方走得更多，并说安全感更多来自有其他人在场而非警察，故选 B。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What happened when one pavement was widened by a metre?",
+              "transcript": "",
+              "options": [
+                "A. Car speeds increased.",
+                "B. Many shops closed.",
+                "C. Walking after work rose by a third.",
+                "D. All the trees were removed."
+              ],
+              "answer": "C",
+              "explanation": "原文说 the pavement was widened by only one metre, and the number of people walking after work rose by a third，故选 C。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What does the speaker say is required to improve streets?",
+              "transcript": "",
+              "options": [
+                "A. A very large budget.",
+                "B. New tram lines.",
+                "C. More parking spaces.",
+                "D. A willingness to treat walking as transport."
+              ],
+              "answer": "D",
+              "explanation": "讲者说改善街道并不需要巨额预算，真正需要的是 a willingness to treat walking as real transport，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "词库（A–O，共 15 个词，从中选出 10 个填入短文中的空白，每个词只能使用一次）：\nA. advantage\nB. composed\nC. devote\nD. doubt\nE. familiar\nF. linked\nG. maintain\nH. offer\nI. recall\nJ. remote\nK. standard\nL. summarise\nM. unfamiliar\nN. valuable\nO. warning\n\n短文（空白处标有 26–35）：\n\nIs Handwriting Disappearing?\n\nTyping has become the (26) ____ way for students to take notes, and many of them can barely read their own handwriting. Teachers report that most essays are now (27) ____ on a screen, and that a page of cursive writing looks almost (28) ____ to some teenagers.\n\nYet handwriting may still have something to (29) ____. Researchers who compare typing with writing by hand find a small but consistent (30) ____: students who write notes by hand tend to remember more, probably because they must (31) ____ information and choose what matters, rather than copy every word.\n\nHandwriting is also (32) ____ to memory in another way. The physical movement of the pen leaves a trace that the brain can later (33) ____. For young children, forming letters by hand seems to help them recognise words.\n\nFew people (34) ____ that keyboards are here to stay. The question is whether schools should (35) ____ a little time each week to the old skill. Doing so is cheap, and it may give students something that a screen cannot.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. Typing has become the ____ way for students to take notes.",
+              "answer": "standard",
+              "explanation": "选 K. standard。the standard way 意为常规方式，说明打字已成为学生记笔记的主要方式；remote 意为偏远的，不能修饰 way。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. Teachers report that most essays are now ____ on a screen.",
+              "answer": "composed",
+              "explanation": "选 B. composed。compose an essay 意为撰写文章，此处用被动语态表示论文在屏幕上完成；maintain 指维护，与 essay 搭配不当。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. A page of cursive writing looks almost ____ to some teenagers.",
+              "answer": "unfamiliar",
+              "explanation": "选 M. unfamiliar。look unfamiliar to sb 意为对某人来说很陌生，与许多青少年几乎读不懂自己字迹的描述一致；familiar 意思相反。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Yet handwriting may still have something to ____.",
+              "answer": "offer",
+              "explanation": "选 H. offer。have something to offer 意为仍有可取之处，引出下文手写对记忆的好处；maintain 不能用于该固定结构。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Researchers find a small but consistent ____: students who write notes by hand tend to remember more.",
+              "answer": "advantage",
+              "explanation": "选 A. advantage。a consistent advantage 意为持续的优势，冒号后正是这项优势的具体内容；warning 意为警告，与语境不符。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Students who write notes by hand must ____ information and choose what matters.",
+              "answer": "summarise",
+              "explanation": "选 L. summarise。summarise information 意为概括信息，与后面 choose what matters 对应；recall 指回忆，不能体现记笔记时的处理过程。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. Handwriting is also ____ to memory in another way.",
+              "answer": "linked",
+              "explanation": "选 F. linked。be linked to 意为与……相关联，说明手写与记忆还有另一层联系；familiar 不能与 to memory 构成此义。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. The physical movement of the pen leaves a trace that the brain can later ____.",
+              "answer": "recall",
+              "explanation": "选 I. recall。recall a trace 意为回忆起痕迹，说明书写动作留下的记忆线索日后可被提取；maintain 意为维持，与 trace 搭配不当。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. Few people ____ that keyboards are here to stay.",
+              "answer": "doubt",
+              "explanation": "选 D. doubt。Few people doubt that 意为很少有人怀疑，即大家普遍认可键盘不会消失；devote 后不能接 that 从句表达怀疑。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. The question is whether schools should ____ a little time each week to the old skill.",
+              "answer": "devote",
+              "explanation": "选 C. devote。devote time to sth 意为把时间用于某事，符合是否应每周留出一点时间练习书写的句意；offer 不能与 time to 构成此搭配。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，每个段落前给出该段落的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nParagraph A: Slower journeys, richer experiences\nA journey that takes ten hours is usually seen as a problem. Supporters of slow travel see it differently: the hours are part of the holiday. From a train window you notice villages, rivers and fields that disappear when you fly. You can also stop halfway, spend a night in a town you had never heard of, and continue the next morning. Many travellers say the unplanned stops are what they remember longest.\n\nParagraph B: Night trains return to the timetable\nAfter years of decline, overnight trains are appearing again on European timetables. New routes link cities such as Vienna, Paris and Stockholm, and several more are planned. The appeal is obvious: you sleep while you move, and you arrive in the centre of a city rather than at an airport far from it. Tickets are not always cheap, however, and popular cabins sell out months in advance.\n\nParagraph C: The cost of going slowly\nSlow travel has a price. A train ticket booked late can cost more than a budget flight, and every extra night in a hotel adds to the total. People with limited holidays may also find that two days of travelling leaves less time for the destination. For families, the cheaper option is often still the car, especially when luggage and children are taken into account. The choice, travellers admit, is rarely simple.\n\nParagraph D: A smaller footprint\nTransport is a major source of greenhouse gases, and aviation is one of the fastest-growing parts of it. Measured per passenger, a train journey within Europe typically produces a small fraction of the carbon dioxide of the same trip by plane. This is the strongest argument for slow travel, and it is the one that governments mention most often when they promote rail. Yet the total number of flights continues to rise.\n\nParagraph E: Business travellers stay away\nFor all the enthusiasm, slow travel remains a leisure activity. Companies rarely pay for an employee to spend two days on a train when a flight takes two hours, and video meetings have removed many short trips altogether. Some employers now allow extra travel days as part of a green policy, but such schemes are still unusual. Until business travel changes, the market for slow journeys will stay small.\n\nParagraph F: Planning a route\nSlow travel rewards preparation more than fast travel does. Timetables must be checked, because a missed connection can mean a whole day lost. It helps to book seats on busy services and to keep the number of changes low. Experienced travellers also build in spare time, avoid the last train of the day and carry fewer bags. The aim is not a perfect plan but one that can survive a delay.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Travelling by train produces far less carbon than flying the same distance.",
+              "options": [
+                "A. Slower journeys, richer experiences",
+                "B. Night trains return to the timetable",
+                "C. The cost of going slowly",
+                "D. A smaller footprint",
+                "E. Business travellers stay away",
+                "F. Planning a route"
+              ],
+              "answer": "D",
+              "explanation": "D 段指出按每位乘客计算，欧洲境内火车产生的二氧化碳只是同程飞机的一小部分，与题干对应，故选 D。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Several countries are bringing back overnight services that had been cancelled.",
+              "options": [
+                "A. Slower journeys, richer experiences",
+                "B. Night trains return to the timetable",
+                "C. The cost of going slowly",
+                "D. A smaller footprint",
+                "E. Business travellers stay away",
+                "F. Planning a route"
+              ],
+              "answer": "B",
+              "explanation": "B 段说夜间列车在多年衰退后重新出现在欧洲时刻表上，新线路连接维也纳、巴黎等城市，故选 B。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Travellers need to check connections and timetables carefully before setting off.",
+              "options": [
+                "A. Slower journeys, richer experiences",
+                "B. Night trains return to the timetable",
+                "C. The cost of going slowly",
+                "D. A smaller footprint",
+                "E. Business travellers stay away",
+                "F. Planning a route"
+              ],
+              "answer": "F",
+              "explanation": "F 段强调慢旅行更依赖准备：Timetables must be checked, because a missed connection can mean a whole day lost，故选 F。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "A slow journey lets travellers see places that planes and motorways pass by.",
+              "options": [
+                "A. Slower journeys, richer experiences",
+                "B. Night trains return to the timetable",
+                "C. The cost of going slowly",
+                "D. A smaller footprint",
+                "E. Business travellers stay away",
+                "F. Planning a route"
+              ],
+              "answer": "A",
+              "explanation": "A 段说从车窗能看到坐飞机时消失的村庄、河流与田野，还可以中途停留，说明慢行让人看见被略过的地方，故选 A。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Slow travel is not always cheaper, because extra nights add to the expense.",
+              "options": [
+                "A. Slower journeys, richer experiences",
+                "B. Night trains return to the timetable",
+                "C. The cost of going slowly",
+                "D. A smaller footprint",
+                "E. Business travellers stay away",
+                "F. Planning a route"
+              ],
+              "answer": "C",
+              "explanation": "C 段说晚订的火车票可能比廉价机票更贵，每多住一晚都会增加总花费，与题干一致，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: For most of the last century, city planners measured success by how quickly cars could move. Wider roads, longer crossings and more parking spaces were seen as progress. In the past two decades, however, a different measure has become popular: how many people walk.\n\nThe change began with public health. Doctors pointed out that sitting in a car for an hour a day contributes to obesity and heart disease, while walking for thirty minutes brings clear benefits. Cities that made walking easier soon noticed something else: shops on busy pedestrian streets sold more, because walkers stop and look, while drivers pass by. Property values along attractive walking routes rose as well.\n\nSafety is the other half of the argument. In countries that redesigned streets to slow traffic, the number of serious accidents fell sharply. The most effective measures were simple and cheap: narrower lanes, raised crossings, more street trees and lower speed limits in residential areas. None of them required a new underground railway or a decade of construction.\n\nThere are limits. Pedestrian-friendly schemes can raise rents and push out the small businesses they were meant to help. People who live far from the centre may have no choice but to drive. And in very hot or very cold climates, walking is pleasant for only part of the year.\n\nEven so, the direction of travel has changed. City governments increasingly publish plans in which the first question is not how to move cars faster, but how to make the first ten minutes of a journey on foot something people are willing to do.\n\nPassage 2: When a city builds a new square, it usually publishes photographs of clean paving, new benches and young trees. What it cannot photograph is whether anyone will use the space. Planners have learned, often painfully, that an attractive public space may stay empty if people have no reason to be there.\n\nThe most successful public spaces share a few features. First, they are easy to reach on foot from busy streets, rather than hidden behind buildings. Second, they offer different kinds of activity at the same time: a playground for children, a quiet corner for older people, a cafe, a stretch of grass. A space used by only one group tends to feel unsafe to everybody else. Third, they allow people to stay without spending money, which is why benches matter so much.\n\nJanet Byrne, who studies urban life, argues that the value of such places cannot be counted fully in economic terms. A good public space teaches a city how to behave, she says. Children meet adults who are not their parents; strangers learn to share a table; people who disagree about everything else still sit on the same bench. Her research in eight neighbourhoods found that residents who used a local square regularly were more likely to know their neighbours and to trust them.\n\nThat is not an argument for building a square everywhere. Some places need shops, housing or public transport more urgently. But when space is available, the cheapest improvements are often the most effective. A few benches, a working fountain and a rule that allows people to sit without buying anything can turn an empty area into the busiest part of a neighbourhood. Maintenance matters too: a broken fountain or a dirty bench quickly tells people that the space is not cared for.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) How did city planners measure success in the past?",
+              "options": [
+                "A. By the number of pedestrians.",
+                "B. By the amount of green space.",
+                "C. By the speed of car traffic.",
+                "D. By the price of housing."
+              ],
+              "answer": "C",
+              "explanation": "Passage 1 开头说 planners measured success by how quickly cars could move，即以汽车通行速度衡量成功，故选 C。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) Why did shops on pedestrian streets sell more?",
+              "options": [
+                "A. Walkers stop and look at the windows.",
+                "B. Cars could park right outside.",
+                "C. Rents on those streets were lower.",
+                "D. The streets were much longer."
+              ],
+              "answer": "A",
+              "explanation": "第二段说 shops on busy pedestrian streets sold more, because walkers stop and look, while drivers pass by，即行人会停下观看，故选 A。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) Which measure is described as simple and cheap?",
+              "options": [
+                "A. Building a new underground railway.",
+                "B. A decade of road construction.",
+                "C. Removing all the street trees.",
+                "D. Lower speed limits in residential areas."
+              ],
+              "answer": "D",
+              "explanation": "第三段列举的简单低成本措施包括 narrower lanes, raised crossings, more street trees and lower speed limits in residential areas，故选 D。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What problem can pedestrian-friendly schemes cause?",
+              "options": [
+                "A. More serious accidents.",
+                "B. Rising rents for local businesses.",
+                "C. Much colder winters.",
+                "D. Fewer shops in the city centre."
+              ],
+              "answer": "B",
+              "explanation": "第四段指出这类方案 can raise rents and push out the small businesses they were meant to help，即租金上涨可能挤走本要帮助的小商户，故选 B。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What do planners often fail to consider about a new square?",
+              "options": [
+                "A. The cost of the paving.",
+                "B. The number of trees to plant.",
+                "C. Whether people will actually use it.",
+                "D. How it will look in photographs."
+              ],
+              "answer": "C",
+              "explanation": "Passage 2 开头说照片拍不出的是 whether anyone will use the space，并指出漂亮的公共空间可能空无一人，故选 C。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) Why do successful public spaces offer several kinds of activity?",
+              "options": [
+                "A. To earn more money from rent.",
+                "B. So that different groups feel welcome and safe.",
+                "C. To keep the space quiet and empty.",
+                "D. To save money on benches."
+              ],
+              "answer": "B",
+              "explanation": "第二段说只被某一群体使用的空间会让其他人感到不安全，多样活动能让儿童、老人等不同人群都愿意停留，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What does Janet Byrne say about the value of public spaces?",
+              "options": [
+                "A. It can be fully measured in money.",
+                "B. It is mainly good for tourism.",
+                "C. It matters only for young children.",
+                "D. It teaches people how to live together."
+              ],
+              "answer": "D",
+              "explanation": "Janet Byrne 说 A good public space teaches a city how to behave，并举例陌生人共用一张桌子、互相认识与信任，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "近年来，中国许多城市修建了绿道，把公园、河流和居民区连接起来。绿道两旁种满树木，设有步道和自行车道，市民可以在那里散步、跑步或骑行。这些绿色空间不仅改善了城市环境，也为邻里交往提供了场所。周末，常能看到父母带着孩子骑车，老人在树荫下聊天。专家认为，城市在建设绿道时，应当考虑不同人群的需要，并做好日常维护，让这些空间真正融入居民的生活。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "In recent years, many Chinese cities have built greenways that connect parks, rivers and residential areas. The greenways are lined with trees and provided with footpaths and cycle lanes, where citizens can walk, run or ride. These green spaces not only improve the urban environment but also offer places for neighbours to meet. At weekends, it is common to see parents cycling with their children and elderly people chatting in the shade of the trees. Experts believe that when building greenways, cities should take the needs of different groups into account and carry out regular maintenance, so that these spaces truly become part of residents' lives.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

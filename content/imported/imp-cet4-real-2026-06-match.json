@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-real-2026-06-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2026-06",
+ "paperTitle": "2026年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "An idea that started small. The campus science festival began with a complaint. Three second-year students were tired of hearing that science was only for people in white coats, so they asked the student union for a small room, two tables and permission to put up posters. Their first event lasted one afternoon and attracted about forty visitors. Nobody expected it to become an annual tradition, least of all the organisers themselves."
+  },
+  {
+   "label": "B",
+   "text": "Talks that anyone could follow. Every speaker at the festival is given the same instruction: imagine that your audience has never studied your subject. Students practise explaining their work in short talks, and a group of volunteers listens to early versions and points out every technical term that needs translating. The result is a programme that a first-year student, a parent or a school child can all follow without feeling lost."
+  },
+  {
+   "label": "C",
+   "text": "Hands-on workshops. Listening is only part of the experience. In the workshops, visitors build simple circuits, look at cells under a microscope and test the strength of paper bridges. Materials are cheap and the experiments can be repeated at home. The organisers say that people remember a principle much better after their own hands have made something go wrong and then right again."
+  },
+  {
+   "label": "D",
+   "text": "The student volunteers. More than eighty students take part in running the event, from designing posters to directing visitors. None of them is paid, but volunteers receive training in communication and a certificate that records their hours. Many say the work has helped them explain their own subject more clearly, and some have discovered that they enjoy teaching more than they expected."
+  },
+  {
+   "label": "E",
+   "text": "Money matters. A festival of this size is not free to run. The organisers apply for small grants from the university, borrow equipment from departments and ask local businesses for support. Tickets, however, stay free, because the team believes that a price, even a small one, would keep some families away. Their rule is simple: every activity must be cheap enough to repeat next year."
+  },
+  {
+   "label": "F",
+   "text": "Looking ahead. Next year the team hopes to invite schools from outside the city and to add a session for teachers. They are also discussing a travelling version that could visit smaller campuses. The plan is deliberately modest: a second day, a few more workshops, and a clear record of what worked, so that the festival can survive after its current organisers graduate."
+  }
+ ],
+ "statements": [
+  {
+   "text": "The festival was first suggested by a small number of students.",
+   "answer": "A"
+  },
+  {
+   "text": "Speakers are trained to avoid words their audience may not know.",
+   "answer": "B"
+  },
+  {
+   "text": "Visitors are invited to try experiments for themselves.",
+   "answer": "C"
+  },
+  {
+   "text": "The event is supported by students who give their time without payment.",
+   "answer": "D"
+  },
+  {
+   "text": "The organisers raise funds but keep entry free.",
+   "answer": "E"
+  }
+ ]
+}

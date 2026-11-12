@@ -1,0 +1,83 @@
+{
+ "id": "real4-2026-06-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2026年6月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-2",
+ "paperTitle": "2026年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "passage": "It may sound surprising, but people who are supersensitive to coffee's bitter taste actually drink more of it, a new study finds. This sensitivity isn't  {{1}} a matter of taste, either, but rather is influenced by a person's genetic makeup, the researchers said in the study. \"You'd expect that people who are particularly sensitive to the bitter taste of caffeine would drink less coffee,\" said study senior researcher Marilyn Cornelis. \"The  {{2}} results of our study suggest coffee consumers acquire a taste for or an ability to detect the bitterness of caffeine due to the learned positive {{3}}  brought out by caffeine.\" Put another way, people who have a  {{4}} ability to taste the bitterness of coffee learn to associate \"good things with it,\" Cornelis said. This finding is surprising, given that bitterness often serves as a warning mechanism to {{5}}  people to spit out harmful substances, the scientists said. Researchers conducted the study to understand how genetics influences people's {{6}}  of tea, coffee and alcohol which tend to taste bitter, said lead researcher Jue Sheng Ong. \"While all bitter flavors may seem the same, we {{7}}  the bitterness of Brussels sprouts(抱子甘 蓝), quinine(奎宁) and caffeine {{8}}  ,\" Ong told Live Science. \"The degree to which we find these flavors bitter is, in part, determined by your genes.\" People with the genes to taste the bitterness of green vegetables are more likely to prefer tea to coffee. In ,  {{9}} people who were more sensitive to quinine's bitter flavors and those found in green vegetables tended to {{10}}  coffee.",
+ "bank": [
+  "addition",
+  "approximately",
+  "avoid",
+  "consumption",
+  "converted",
+  "convince",
+  "heightened",
+  "omission",
+  "opposite",
+  "perceive",
+  "prospect",
+  "reinforcement",
+  "separately",
+  "simply",
+  "targeted"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "simply",
+   "explain": "be 动词后、名词短语前，主系表已完整，只缺副词 not simply...but rather...“不仅仅是……而是……”与后半句呼应 后半句 but rather is influenced by a person's genetic makeup 用 but rather 转弯，前 半句就需要一个“仅仅”来铺垫：这种敏感不仅仅是味觉问题，而是受基因影响。simply 与 but rather 是英文论证里的经典搭配。 B) ap…"
+  },
+  {
+   "n": 2,
+   "answer": "opposite",
+   "explain": "The 与名词 results 之间需形容词定语 结果与预期“相反”：预期少喝，实际多喝 前一句刚给出预期 You'd expect that people who are particularly sensitive to the bitter taste of caffeine would drink less coffee（你以为敏感者会少喝），而首段事实是 actually drink more of it（实际多喝）——结果与…"
+  },
+  {
+   "n": 3,
+   "answer": "reinforcement",
+   "explain": "形容词 positive 后需名词作中心词 positive reinforcement“积极强化”，解释“越敏感越爱喝”的心理机制 前半句说喝咖啡的人 acquire a taste for or an ability to detect the bitterness of caffeine（习得对苦味的喜爱），原因是咖啡因带来的习得性“积极强化”——心理学固定术 语 positive reinforcement，正对应下段 lear…"
+  },
+  {
+   "n": 4,
+   "answer": "heightened",
+   "explain": "冠词 a 与名词 ability 之间需形容词定语 heightened ability“增强的味觉能力”＝首段 supersensitive 的同义改写 首段说 people who are supersensitive to coffee's bitter taste，本段用另一种说法复 述：拥有“增强的”品尝咖啡苦味能力的人——heightened 正是 supersensitive 的形容词化 同义替换，科普文换词复述同一概念的…"
+  },
+  {
+   "n": 5,
+   "answer": "convince",
+   "explain": "不定式 to 后接动词原形，且要能带“sb to do” convince sb to do sth：警告机制“促使”人吐出有害物质 bitterness often serves as a warning mechanism to __(30)__ people to spit out harmful substances 讲的是苦味的生理功能——警告人别吃有毒东西，机制“说服/促使”人 们吐出有害物质，convince people…"
+  },
+  {
+   "n": 6,
+   "answer": "consumption",
+   "explain": "所有格 people's 后、of 短语前，需名词 consumption of tea, coffee and alcohol＝对三样饮品的“饮用/消费” 全文第一句就是 people who are supersensitive to coffee's bitter taste actually drink more of it——研究的核心变量就是“喝多少”，consumption 正是 drink 的名词化， consumpti…"
+  },
+  {
+   "n": 7,
+   "answer": "perceive",
+   "explain": "主语 we 后缺谓语，需现在时动词 “我们分别感知三种苦味”，与 seem the same 构成让步转折 整句 While all bitter flavors may seem the same, we __(32)__ the bitterness of Brussels sprouts(抱子甘蓝), quinine(奎宁) and caffeine __(33)__：虽然苦味看似一样，但 我们其实是“感知/分辨”它们（而且分别地…"
+  },
+  {
+   "n": 8,
+   "answer": "separately",
+   "explain": "句末空、主谓宾齐全，缺修饰动词的副词 对三种并列苦味“分别地”感知，与上下句严丝合缝 上句说 While all bitter flavors may seem the same（所有苦味看似一样），下句说 The degree to which we find these flavors bitter is, in part, determined by your genes. （程度由基因决定），中间正是“我们分别地感知抱子甘蓝、奎…"
+  },
+  {
+   "n": 9,
+   "answer": "addition",
+   "explain": "介词 In 后、逗号前，需名词构成句首衔接语 固定搭配 in addition“此外”，承接上段并列递进 上段刚说完一类人 People with the genes to taste the bitterness of green vegetables are more likely to prefer tea to coffee.，本句再补充另一类敏感人群，中间正缺“此 外”——in addition 是英语里最常用的段落衔接短语之…"
+  },
+  {
+   "n": 10,
+   "answer": "avoid",
+   "explain": "tended to 后接动词原形 对苦味更敏感的人倾向于“避开”咖啡，与 prefer tea to coffee 同向 段首刚说 People with the genes to taste the bitterness of green vegetables are more likely to prefer tea to coffee.（这类基因的人更爱茶不爱咖啡），本句顺着说“对奎宁和蔬 菜苦味更敏感的人倾向于避开 avoid …"
+  }
+ ]
+}

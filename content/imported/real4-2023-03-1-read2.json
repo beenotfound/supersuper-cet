@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-03-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年3月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-03-1",
+ "paperTitle": "2023年3月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-03",
+ "passage": "P1 Of the endless troubles that come with being driven from one's home country, losing educational certificates may seem small. But it isn't. Refugees who settle in other countries often find themselves unable to continue on their previous career path due to a new set of employer standards or skills requirements. To solve this problem, the U.S. State Department is posing a solution: online learning.\n\nP2 The State Department will announce a partnership with an online education platform called Coursera. The platform will allow refugees worldwide to take thousands of online courses for free. \"Coursera for Refugees\" will be available for any non-profit group that supports refugees in any country, as well as individual refugees. They can apply for fully funded access to Coursera's course catalog, which means they can take all of the platform's classes and obtain professional certificates for free. The platform currently offers professor-led lectures on a broad range of topics, from data science to fashion design.\n\nP3 As the world migrant crisis intensifies, employment is becoming a global concern. The new program aims to aid refugees by offering \"important skills that will help them in the global economy,\" Evan Ryan, U.S. assistant secretary of state for educational and cultural affairs, said on a press call last week. \"What we don't want to do is not act,\" added Coursera chief operations officer Lila Ibrahim.\n\nP4 The idea isn't without problems. For one, starting a new career path isn't as simple as watching a few videos and obtaining an online certificate; even those looking to continue previous careers can't simply rely on an online lecture to get them up-to-date on standards, policies, and practices. For another, most of the classes on Coursera are in English, and though there are plans to add translations, language barriers can be a big obstacle. Then there are the questions over the value of massive open online courses (MOOCs) themselves—both for refugees and for average learners.\n\nP5 But it's still early days and there are signs of hope. In 2015, a joint study found 72% of people taking the MOOCs saw career benefits afterwards.",
+ "questions": [
+  {
+   "q": "Why is the U.S. State Department launching an online learning program for refugees?",
+   "options": [
+    "To enable them to settle down in host countries.",
+    "To allow them to learn as many job skills as possible.",
+    "To offer them a platform to pursue advanced degrees.",
+    "To help them to meet new employment standards."
+   ],
+   "answer": 3,
+   "explain": "Why is the U.S. State Department launching an online learning program for refugees?问的是一个具体的发起原因，答案应能在原文中明确找到对应句。 Why is the U.S. State Department launching an online learning program for refugees?是一个 Why 引导的现在进行时疑问句，主语是机…"
+  },
+  {
+   "q": "What do we know about \"Coursera for Refugees\"?",
+   "options": [
+    "It provides refugees with a wide range of courses free of charge.",
+    "It offers free online data services for refugees around the world.",
+    "It allows refugees to obtain degrees in various academic fields.",
+    "It supplies refugees with a great variety of job opportunities."
+   ],
+   "answer": 0,
+   "explain": "What do we know about \"Coursera for Refugees\"?要求选出关于该项目可以确认的事 实，属于客观信息核对。 What do we know about \"Coursera for Refugees\"?结构非常简单，主句是What do we know，介词宾语就是引号里的专名，无干扰修饰。 52. What do we know about \"Coursera for Refugees\"? A) …"
+  },
+  {
+   "q": "What does the passage say is a consequence of the global migrant crisis?",
+   "options": [
+    "Instability increases in host countries.",
+    "The global economic crisis intensifies.",
+    "A lot more refugees die during migration.",
+    "Refugees find it more difficult to get a job."
+   ],
+   "answer": 3,
+   "explain": "What does the passage say is a consequence of the global migrant crisis?直接问「文 章说……的后果是什么」，答案应能在原文明确找到。 53. What does the passage say is a consequence of the global migrant crisis? A) Instability increases in host countri…"
+  },
+  {
+   "q": "What does the author say causes refugees' difficulty in taking online courses?",
+   "options": [
+    "Cultural environment.",
+    "Changed academic requirements.",
+    "Lack of language skills.",
+    "Difference in teaching platforms."
+   ],
+   "answer": 2,
+   "explain": "What does the author say causes refugees' difficulty in taking online courses?问的是 「作者说」的具体原因，回原文找归因句即可。 What does the author say causes refugees' difficulty in taking online courses?主干是 What causes ... difficulty，does th…"
+  },
+  {
+   "q": "What did the joint study find about the MOOCs several years ago?",
+   "options": [
+    "They helped solve learners' financial problems.",
+    "They benefited most of the learners.",
+    "They changed some learners' career path.",
+    "They provided the most needed vocational skills."
+   ],
+   "answer": 1,
+   "explain": "What did the joint study find about the MOOCs several years ago?问一个具体研究的 具体发现，是直白的事实核对。 What did the joint study find about the MOOCs several years ago?是过去时一般疑问 句，主语the joint study，宾语为 what，时间状语several years ago提示要找过去时句 …"
+  }
+ ]
+}

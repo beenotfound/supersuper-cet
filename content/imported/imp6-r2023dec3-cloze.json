@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2023dec3-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2023年12月六级第三套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023dec3",
+ "paperTitle": "2023年12月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-12",
+ "passage": "benefits but also {{1}} health costs. Recent studies show that urban {{2}} encourages more driving and is associated with lower levels of physical activity. This {{3}} suggests that the layout and design of cities can either promote healthier lifestyle choices and it is {{4}} that urban planners bear this in mind. Unfortunately, urban planning still centers in large part on solving the problems of the past. Of course cities still need to {{5}} standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through {{6}} residential areas. But it’s also important to create healthier cities — and the discussion is already underway. More and more city planners are paying increasing attention to encouraging physical activity by making it easier and safer for people to recreate, walk, bike and take public transportation. Many studies of {{7}} that people live the longest in environments where physical activity is part of everyday life. Providing more walkable spaces, better protected bike lanes and more {{8}} spaces are important steps. But even smaller changes can be effective. Cities can close off streets on weekends to encourage communities to get out and walk. They also can provide more seating in public places, so that less-fit residents can rest during their journeys. Using public spaces in cities as places where people can exercise promotes {{9}} , rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that {{10}} less wealthy people from A. correlation F. imperative K. recreational B. dense C. deter D. equity E. foster G. impose H. irrespective I. longevity J. navigate L. rotten M. sprawl N. vibrate O. vicinity",
+ "bank": [
+  "A. correlation",
+  "B. dense",
+  "C. deter",
+  "D. equity",
+  "E. foster",
+  "F. imperative",
+  "G. impose",
+  "H. irrespective",
+  "I. longevity",
+  "J. navigate",
+  "K. recreational",
+  "L. rotten",
+  "M. sprawl",
+  "N. vibrate",
+  "O. vicinity"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "G. impose",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "M. sprawl",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "A. correlation",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "F. imperative",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "E. foster",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "B. dense",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "I. longevity",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "K. recreational",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "D. equity",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "C. deter",
+   "explain": ""
+  }
+ ]
+}

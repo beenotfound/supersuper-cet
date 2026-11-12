@@ -1,0 +1,67 @@
+{
+  "id": "read-011",
+  "type": "reading",
+  "level": "cet4",
+  "title": "Cooking as a Life Skill",
+  "difficulty": 1,
+  "source": "original",
+  "targetWords": ["portion", "affordable", "confidence", "practical"],
+  "passage": "Cooking at home has become less common in many households. Long working hours, cheap prepared meals, and busy evenings all make it easier to buy food than to prepare it. There is nothing wrong with an occasional ready meal. But when cooking disappears from daily life altogether, people lose more than a little free time. They lose a skill that supports health, budget, and independence.\n\nThe health argument is simple. When you cook, you decide how much salt, sugar, and oil goes into a dish. You also decide the size of the portion. Restaurant and packaged food is not automatically unhealthy, but it is usually designed to be appealing, which often means richer and saltier than a person would make at home. Cooking is not a guarantee of good eating, but it gives you choices.\n\nCost is another reason. A simple meal made from basic ingredients is often cheaper than a takeaway meal, especially when it is shared. This does not mean that everyone should buy the same food. Fresh vegetables, beans, rice, eggs, and frozen produce can all form the base of affordable meals, and shopping with a plan reduces waste. Small habits, such as cooking a larger amount and keeping half for the next day, make the effort more practical.\n\nPerhaps most importantly, cooking builds confidence. Someone who can prepare a few reliable dishes is less dependent on other people and on opening hours. This is useful in many situations: when money is short, when the shops are shut, or when someone simply wants to eat well. Learning three or four simple dishes is a good start. Skill grows with use, and the result is a practical kind of freedom.",
+  "questions": [
+    {
+      "q": "What does the author say about ready meals?",
+      "options": [
+        "They should be completely banned from the home",
+        "They are always unhealthy and should be avoided",
+        "An occasional one is fine, but relying on them costs valuable skills",
+        "They are usually cheaper than cooking at home"
+      ],
+      "answer": 2,
+      "explain": "首段说偶尔吃一顿现成餐并无问题，但若烹饪从生活中完全消失，人失去的是健康、预算与独立所需的一项技能，故选第三项。第一、二项过于绝对，第四项与第三段“家常菜常更便宜”相反。"
+    },
+    {
+      "q": "What is one health benefit of cooking at home?",
+      "options": [
+        "It removes all sugar from a meal",
+        "You control salt, sugar, oil, and portion size",
+        "It guarantees a perfectly balanced diet",
+        "It proves that restaurant food is always unhealthy"
+      ],
+      "answer": 1,
+      "explain": "第二段说下厨时由你决定盐、糖、油的用量与份量，故选第二项。第一项“all”过度，第三项与“不能保证吃得健康”相反，第四项是原文明确否认的说法。"
+    },
+    {
+      "q": "Which suggestion about affordable cooking is made in the passage?",
+      "options": [
+        "Plan your shopping and cook larger amounts to use later",
+        "Buy only fresh vegetables and never frozen food",
+        "Avoid beans and rice because they are expensive",
+        "Stop eating out but never cook at home"
+      ],
+      "answer": 0,
+      "explain": "第三段建议带着计划购物以减少浪费，并提到一次多做一些留到次日，故选第一项。第二项与“冷冻食材也可以”矛盾，第三项与“豆类米饭可作基础”相反，第四项自相矛盾。"
+    },
+    {
+      "q": "The word \"reliable\" in paragraph 4 most probably means",
+      "options": [
+        "expensive to prepare",
+        "quick to cook",
+        "new and unusual",
+        "dependable and known to work"
+      ],
+      "answer": 3,
+      "explain": "此处说会做几道“靠得住”的菜的人更能自立，故 reliable 指“可靠、行之有效”，与第四项相符。第二项看似相关，但作者强调的是稳定可靠而非速度；其余两项无关。"
+    },
+    {
+      "q": "What can be inferred from the last paragraph?",
+      "options": [
+        "Cooking is a talent that people are born with",
+        "Only professional chefs can cook well",
+        "Confidence grows from learning a few dishes and practising",
+        "Cooking is useful only when money is short"
+      ],
+      "answer": 2,
+      "explain": "末段说学会三四道简单菜是好的开始，“技能随使用而增长”，故可推知信心来自学习与练习。第一、二项与“技能可以学习”相反，第四项缩小了烹饪的用处。"
+    }
+  ]
+}

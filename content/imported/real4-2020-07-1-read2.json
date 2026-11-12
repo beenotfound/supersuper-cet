@@ -1,0 +1,71 @@
+{
+ "id": "real4-2020-07-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2020年7月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-07-1",
+ "paperTitle": "2020年7月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-07",
+ "passage": "P1 It's late in the evening: time to close the book and turn off the computer. You're done for the day. What you may not realize, however, is that the learning process actually continues—in your dreams.\n\nP2 It might sound like science fiction, but researchers are increasingly focusing on the relationship between the knowledge and skills our brains absorb during the day and the fragmented, often bizarre imaginings they generate at night. Scientists have found that dreaming about a task we've learned is associated with improved performance in that activity (suggesting that there's some truth to the popular notion that we're \"getting\" a foreign language once we begin dreaming in it). What's more, researchers are coming to recognize that dreaming is an essential part of understanding, organizing and retaining what we learn.\n\nP3 While we sleep, research indicates, the brain replays the patterns of activity it experienced during waking hours, allowing us to enter what one psychologist calls a neural(神经的) virtual reality. A vivid example of such replay can be seen in a video researchers made recently about sleep disorders. They taught a series of dance moves to a group of patients with conditions like sleepwalking, in which the sleeper engages in the kind of physical movement that does not normally occur during sleep. They then videotaped the subjects as they slept. Lying in bed, eyes closed, one female patient on the tape performs the dance moves she learned earlier.\n\nP4 This shows that while our bodies are at rest, our brains are drawing what's important from the information and events we've recently encountered, then integrating that data into the vast store of what we already know. In a 2010 study, researchers at Harvard Medical School reported that college students who dreamed about a computer maze(迷宫) task they had learned showed a 10-fold improvement in their ability to find their way through the maze compared with participants who did not dream about the task.\n\nP5 Robert Stickgold, one of the Harvard researchers, suggests that studying right before bedtime or taking a nap following a study session in the afternoon might increase the odds of dreaming about the material. Think about that as your head hits the pillow tonight.",
+ "questions": [
+  {
+   "q": "What is scientists' finding about dreaming?",
+   "options": [
+    "It involves disconnected weird images.",
+    "It resembles fragments of science fiction.",
+    "Dreaming about a learned task betters its performance.",
+    "Dreaming about things being learned disturbs one's sleep."
+   ],
+   "answer": 2,
+   "explain": "题干What is scientists' finding about dreaming是“what is …finding”句式，问一个具体 事实，不含 infer/imply 等推断信号，也不问 mainly about/title，属常规细节题。 What is scientists' finding about dreaming? 主干是 What is scientists' finding，about dreaming 是介…"
+  },
+  {
+   "q": "What happens when one enters a dream state?",
+   "options": [
+    "The body continues to act as if the sleeper were awake.",
+    "The neural activity of the brain will become intensified.",
+    "The brain behaves as if it were playing a virtual reality video game.",
+    "The brain once again experiences the learning activities of the day."
+   ],
+   "answer": 3,
+   "explain": "题干What happens when one enters a dream state问“进入梦境时发生什么”，是对客观 事实的提问，不含推断信号。 What happens when one enters a dream state? 主句 What happens 是主语从句疑问形 式，when 引导时间状语从句修饰 happens，one 是泛指代词。结构平铺直叙，无陷阱。 While we sleep, research in…"
+  },
+  {
+   "q": "What does the brain do while we are sleeping?",
+   "options": [
+    "It systematizes all the data collected during the day.",
+    "It substitutes old information with new data.",
+    "It processes and absorbs newly acquired data.",
+    "It classifies information and places it in different files."
+   ],
+   "answer": 2,
+   "explain": "题干What does the brain do while we are sleeping是 what does X do 句式，问大脑在 做什么这一客观行为。 What does the brain do while we are sleeping? 主句 What does the brain do 是疑问 句，while we are sleeping 是时间状语从句，sleeping 是现在分词。无陷阱。 This shows…"
+  },
+  {
+   "q": "What does Robert Stickgold suggest about enhancing learning?",
+   "options": [
+    "Having a little sleep after studying in the day.",
+    "Staying up late before going to bed.",
+    "Having a dream about anything.",
+    "Thinking about the odds of dreaming about the material."
+   ],
+   "answer": 0,
+   "explain": "题干What does Robert Stickgold suggest about enhancing learning问某人具体建议什 么，是事实型问题。 What does Robert Stickgold suggest about enhancing learning? 主干 What does Robert Stickgold suggest，about enhancing learning 介词短语作 suggest 的状…"
+  },
+  {
+   "q": "What can be inferred about dreaming from the passage?",
+   "options": [
+    "We may enhance our learning through dreaming.",
+    "Dreaming improves your language ability.",
+    "All sleepwalkers perform dance moves when they are sleeping.",
+    "Taking a nap after learning can help you find the way through the maze."
+   ],
+   "answer": 0,
+   "explain": "题干What can be inferred about dreaming from the passage中 inferred 显式宣告本题 问“从全文可推出”，不是问字面陈述。 What can be inferred about dreaming from the passage? 主干是 What can be inferred，be inferred 是被动语态（情态动词 can+be+过去分词），about dreaming…"
+  }
+ ]
+}

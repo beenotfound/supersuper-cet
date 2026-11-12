@@ -1,0 +1,18 @@
+{
+  "id": "trans-013",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国传统建筑",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["architecture", "wooden", "courtyard", "harmony"],
+  "prompt": "中国传统建筑以木结构为主，讲究与自然环境的协调。北方的四合院四面围合，中间留出一个院子，既遮挡风沙，又方便家人活动。南方的民居则多依水而建，白墙黑瓦，倒映在河面上，显得格外安静。屋顶的曲线是中国建筑的一大特色，飞檐向上翘起，既实用又美观。建造房屋时，人们还会考虑风水，希望选址和朝向都能带来好运。这些老建筑不仅是居住的场所，也承载着中国人对家的理解。",
+  "reference": "Traditional Chinese architecture is mainly built of wood and pays close attention to harmony with the natural environment. In the north, a courtyard house is enclosed on four sides with an open yard in the middle, which keeps out wind and sand and gives the family space to move about. Dwellings in the south are often built beside water; with white walls and dark tiles reflected in the river, they look especially peaceful. The curved roofline is a defining feature of Chinese building: the upturned eaves are both practical and beautiful. When a house was built, people also took feng shui into account, hoping that the site and the direction it faced would bring good fortune. Many of them have survived for centuries, and walking through their silent courtyards is like stepping into a calmer past. These old buildings are not only places to live but also carry the Chinese understanding of home.",
+  "keyPoints": [
+    "“以木结构为主”译为 mainly built of wood。",
+    "“四合院”译为 courtyard house，并补充四面围合的意思。",
+    "“白墙黑瓦”用 white walls and dark tiles。",
+    "“飞檐向上翘起”译为 the upturned eaves。",
+    "“风水”可音译为 feng shui，首次出现不必强行解释。"
+  ]
+}

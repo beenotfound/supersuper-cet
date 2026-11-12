@@ -1,0 +1,83 @@
+{
+ "id": "real4-2025-06-3-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2025年6月大学英语四级真题（第3套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2025-06-3",
+ "paperTitle": "2025年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "passage": "The human brain has the ability to constantly form new networks and connections between brain cells. This means the brain has an almost magical ability to change. This characteristic is  {{1}} apparent in a new study, focusing on people who underwent a hemispherectomy, a surgical procedure in which half of the brain is removed to treat illness. The findings showed that, despite missing half of this critical {{2}}  , participants could function well. This was because the  {{3}} half of their brain strengthened. In fact, researchers found that connections and thus communication—between parts of different brain networks are actually stronger in people who had hemispherectomies than in people with intact brains. This  {{4}} that the brain is able to compensate for loss of certain brain structure. There are many other cases in the medical {{5}}  that document the brain's amazing ability to {{6}}  For example, a young boy had a significant portion of his brain removed for medical reasons, which included the part of the brain {{7}}  for sight. But a few years after his surgery, scientists found that he could {{8}}  see. They determined that this was because other parts of his brain took over the missing part's {{9}}  tasks. Another study involved people who could smell, despite missing the region in the brain that processes information about smells. Though they are not sure how these individuals {{10}}  the ability to smell, scientists believe it is possible that another part of the brain took on that task.",
+ "bank": [
+  "adapt",
+  "hardly",
+  "indicates",
+  "insist",
+  "literature",
+  "organ",
+  "particularly",
+  "remaining",
+  "responsible",
+  "retained",
+  "still",
+  "strategy",
+  "transformed",
+  "underlines",
+  "visual"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "particularly",
+   "explain": "is __ apparent 系表结构里修饰形容词 ‘尤其明显’才与下文的研究举例语气一致 This characteristic is __(26)__ apparent in a new study接的是一项新研究做例证，常见说 法是‘这一特性在……中尤为明显’；particularly apparent 是固定的强调搭配。 B) hardly hardly 是否定副词，与全段‘强调可塑性’相反 hardly apparent 意为…"
+  },
+  {
+   "n": 2,
+   "answer": "organ",
+   "explain": "this+形容词+__ 空缺名词中心词 ‘大脑’本身就是 critical organ（关键器官） 上文反复在讲 brain（大脑），代词 this 回指 brain，而大脑正是人体最关键的器官之一， missing half of this critical __(27)__填 organ 后语义自洽：缺失了这个关键器官的一半。 E) literature literature 指文献，不能被‘半个’切 literature 是抽象名…"
+  },
+  {
+   "n": 3,
+   "answer": "remaining",
+   "explain": "the+__+half 中间缺修饰名词的形容词 切了一半 → 强壮起来的是‘剩下的’那一半 上一题刚说 missing half of this critical organ（缺了一半），那么能 strengthened 的当 然是‘另一半，剩下的’，the __(28)__ half of their brain strengthened填 remaining 与上 文形成‘缺一半—剩一半补偿’的呼应。 I) responsible …"
+  },
+  {
+   "n": 4,
+   "answer": "indicates",
+   "explain": "This __ that… 主语+谓语+宾语从句缺谓语 ‘上文现象→表明这一推论’，indicates 最中性贴切 This __(29)__ that the brain is able to compensate for loss of certain brain structure 是用上文‘连接更强’的事实推出‘大脑能代偿’这一结论，indicates that…（表明/说明……）是 英语里把现象引向结论的最标准说法。 N) u…"
+  },
+  {
+   "n": 5,
+   "answer": "literature",
+   "explain": "in the medical __ 介词+形容词后的名词槽 medical literature 是固定搭配‘医学文献’ There are many other cases in the medical __(30)__ that document the brain's amazing ability意为‘医学文献里有很多其他案例记录了大脑的惊人能力’，medical literature（医学文献）是英语里讲学术案例来源的标准搭配…"
+  },
+  {
+   "n": 6,
+   "answer": "adapt",
+   "explain": "ability to __ 不定式 to 后接动词原形 全篇主旨就是‘大脑能适应/代偿’ 回到 overview：the brain is able to compensate for loss of certain brain structure ——‘代偿’与‘适应’语义同向；the brain's amazing ability to __(31)__填 adapt，意即‘大脑 惊人的适应能力’，与全篇主旨完全对齐。 D) ins…"
+  },
+  {
+   "n": 7,
+   "answer": "responsible",
+   "explain": "the part of the brain __ for sight 缺后置定语形容词 固定搭配 be responsible for 锁死 看见 __ for 这种‘形容词+for’框架，几乎立刻想到 responsible for（负责……的）；the part of the brain __(32)__ for sight即‘负责视觉的那部分大脑’，是英语里讲脑区功能的标 准说法。 O) visual visual 不与 for …"
+  },
+  {
+   "n": 8,
+   "answer": "still",
+   "explain": "could __ see 情态动词与原形动词之间缺副词 “切了视觉脑区还是能看见”才呼应代偿主旨 a young boy had a significant portion of his brain removed for medical reasons, which included the part of the brain __(32)__ for sight. But a few years after his surgery,…"
+  },
+  {
+   "n": 9,
+   "answer": "visual",
+   "explain": "the missing part's __ tasks 缺修饰 tasks 的形容词 上文是‘负责视觉的脑区’，被接管的自然是视觉任务 32 题已说 the part of the brain responsible for sight，34 题接 the missing part's __ tasks——既然 missing part 负责的是 sight，那它的 tasks 就是 visual tasks（视觉任 务），语义闭环。"
+  },
+  {
+   "n": 10,
+   "answer": "retained",
+   "explain": "how these individuals __ the ability 从句缺谓语动词 ‘没了脑区却仍保有嗅觉能力’，retained 精准对位 people who could smell, despite missing the region in the brain that processes information about smells. Though they are not sure how these indivi…"
+  }
+ ]
+}

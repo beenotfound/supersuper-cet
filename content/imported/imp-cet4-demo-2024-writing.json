@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-demo-2024-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-demo-2024",
+ "paperTitle": "2024年12月大学英语四级（模拟节选）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 0,
+ "prompt": "Directions: Suppose your university is selecting volunteers for a reading programme at the local community library. Write a letter of application to the programme coordinator, Mr. Wang. In your letter you should: 1) state your interest in the programme; 2) describe your relevant experience; 3) explain what you can contribute. You should write at least 120 words but no more than 180 words.",
+ "reference": "Dear Mr. Wang,\n\nI am writing to apply for the volunteer position in your reading programme at the City Community Library. As a sophomore majoring in English, I have always loved reading, and I would be delighted to help more people discover that pleasure.\n\nLast year I worked as a volunteer in our university library, where I sorted returned books and helped new students find materials. That experience taught me to be patient and organized. I also took part in a weekend story-telling activity for children, which made me realize how much difference a good book can make.\n\nIf I am chosen, I would be glad to help with book sorting, reading guidance and the children's story sessions. I could also design simple posters and promote the programme on social media.\n\nThank you for considering my application. I look forward to hearing from you.\n\nYours sincerely,\nLi Ming",
+ "keyPoints": []
+}

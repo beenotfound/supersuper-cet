@@ -1,0 +1,71 @@
+{
+ "id": "real4-2022-06-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2022年6月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2022-06-1",
+ "paperTitle": "2022年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2022-06",
+ "passage": "P1 In the age of the internet, there's no such thing as a private debate. But is that bad for science? Some scientists have had concerns. When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public. Recent open debates on scientific research, health, and policy have aroused greater public attention and encouraged more diverse voices. If this trend spurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists.\n\nP2 A recent debate published in The New York Times discussed the question of how quickly medicine should be developed and produced. Issues such as safety of the product and perception of the public were examined and considered. But some experts worried that such public speculation might lead people to believe that disagreement about the details meant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine.\n\nP3 The anxiety seems misplaced. Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of where they take place.\n\nP4 For many scientists, public debate is a new frontier and it may feel like a place with few restraints or rules. But rather than avoiding such conversations, let the debates be transparent and vigorous, wherever they are held. If the public is to understand that science is an honorably self- correcting process, the idea that science is a fixed set of facts in a textbook needs to be dismissed. With the validity of science coming under attack, there's a need for scientific debates to be perceived as open and true to life. Let everyone see the noisy, messy deliberations that advance science and lead to decisions that benefit us all.",
+ "questions": [
+  {
+   "q": "What does the author think open debate can do?",
+   "options": [
+    "Help the public to better understand science.",
+    "Clear up confusion in the scientific community.",
+    "Settle disputes between universities and government agencies.",
+    "Prevent information from being used incorrectly by the public."
+   ],
+   "answer": 0,
+   "explain": "What does the author think open debate can do是一个具体的做什么问题，不含infer、 imply、mainly about等推断或主旨信号词，属于围绕一个话题点的细节定位题 主干是What does the author think open debate can do，think后省略that，引出宾语 从句open debate can do (what)。问句的What其实是宾语从句里…"
+  },
+  {
+   "q": "Why did a recent debate published in The New York Times arouse concerns among experts?",
+   "options": [
+    "It might hinder the progress in medical research.",
+    "It might breed public distrust in modern medicine.",
+    "It might add to the difficulty of getting research funds.",
+    "It might prevent medical scientists reaching consensus."
+   ],
+   "answer": 1,
+   "explain": "Why did a recent debate published in The New York Times arouse concerns among experts问的是某一具体事件下专家担心的具体原因，原因可在文中直接找到，不需要跨段 推断 52. Why did a recent debate published in The New York Times arouse concerns among experts? A) I…"
+  },
+  {
+   "q": "Why does the author say some experts' anxiety seems misplaced?",
+   "options": [
+    "Debating scientific issues at a conference is now old-fashioned.",
+    "Diverse topics can be debated by both scientists and the public.",
+    "Debates about science are accessible to the public anyway.",
+    "Scientists can voice their opinions whatever way they like."
+   ],
+   "answer": 2,
+   "explain": "Why does the author say some experts' anxiety seems misplaced问的是作者下此判断 的依据，依据明示在原文紧随其后的句子中，属于因果细节 53. Why does the author say some experts' anxiety seems misplaced? A) Debating scientific issues at a conference is now ol…"
+  },
+  {
+   "q": "What does the author suggest scientists do about public debate?",
+   "options": [
+    "Have more discussions about it.",
+    "Embrace it with open arms.",
+    "Formulate new rules for it.",
+    "Restrain it to a rational degree."
+   ],
+   "answer": 1,
+   "explain": "What does the author suggest scientists do about public debate问的是一个具体建 议，答案在原文祈使句中能直接找到，无需推断 54. What does the author suggest scientists do about public debate? A) Have more discussions about it. B) Embrace it with open …"
+  },
+  {
+   "q": "What does the author say about science in the last paragraph?",
+   "options": [
+    "It is transmitted through textbooks.",
+    "It is what proves valid and true to life.",
+    "It is a dynamic and self-improving process.",
+    "It is a collection of facts and established rules."
+   ],
+   "answer": 2,
+   "explain": "What does the author say about science in the last paragraph问的是末段里关于 science的具体描述，不问全文主旨也不问态度极性，定位段已给出，属段内细节题 主干What does the author say about science。in the last paragraph是地点状语限定回 答范围。say about science是动词搭配对…作出说明。理解为在末段…"
+  }
+ ]
+}

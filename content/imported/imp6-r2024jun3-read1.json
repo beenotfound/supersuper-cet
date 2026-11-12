@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2024jun3-read1",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2024年6月六级第三套 阅读1",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024jun3",
+ "paperTitle": "2024年6月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-06",
+ "passage": "The “American Dream” promises that in the Land of Opportunity, any individual can climb the economic ladder and prosper through hard work and ambition alone. And yet, young Americans today are struggling to unfavourably to that of other industrialised nations. So why does the idea of the American Dream persist? A new study in the American Journal of Political Science identifies one factor that has been overlooked: the influence of reality TV. Vanderbilt University. And the overwhelming majority of these have a “rags-to-riches” storyline: they feature economic hardship faced by millions of Americans — get a much smaller proportion of the viewership. ( 无 处 不 在 的 ) actually convince people that economic mobility is easily attainable? To find out, Kim’s team had participants watch a 5-minute clip from a reality show with a rags-to-riches storyline. Control participants watched a clip much they agreed with four statements relating to the American Dream. The results showed that those who’d watched a rags-to-riches clip did indeed have a significantly greater belief in the American Dream. Interestingly, when participants were separated by party affiliation, this effect was significant among Republicans but not Democrats, suggesting that the kind of messages implicit in these TV shows may play into people’s existing socioeconomic beliefs. wealth). Finally, they read a list of TV programmes and indicated which they regularly watched. belief in the American Dream than those who never watched such shows. Kim concludes that “rags-to-riches entertainment media are an important cultural force that promotes and perpetuates beliefs in upward mobility”. And here’s the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality. “In this era of choice, entertainment media are what captures hearts and minds,” Kim writes. “Its political consequences are anything but trivial”.",
+ "questions": [
+  {
+   "q": "What do we learn from the passage about young Americans of today?",
+   "options": [
+    "They have greater ambitions than their parents.",
+    "They find it difficult to achieve upward mobility.",
+    "They have overtaken their parents in terms of earnings.",
+    "They envy the opportunities in other industrialised nations."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What does Kim’s team find about reality TV shows in America?",
+   "options": [
+    "They reinterpret the essence of the popular rags-to-riches culture.",
+    "They urge people to achieve economic success through hard work.",
+    "They help strengthen people’s conviction in the American Dream.",
+    "They feature ordinary Americans striving for social recognition."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What does the author say about news broadcasts in America?",
+   "options": [
+    "They attract far fewer viewers than reality TV.",
+    "They are bent on reporting the dark side of life.",
+    "They stand in striking contrast with reality TV.",
+    "They focus on Americans’ economic hardships."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What can we infer from the passage about Republicans in general?",
+   "options": [
+    "They believe strongly in the American Dream.",
+    "They strive to climb the socio-economic ladder.",
+    "They have a very strong affiliation with their party.",
+    "They tend to watch more rags-to-riches TV shows."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What is stated about people who believe in upward mobility?",
+   "options": [
+    "They are likely to blame the government for their plight.",
+    "They regard political consequences as anything but trivial.",
+    "They respect individuals striving to climb the social ladder.",
+    "They are less likely to approve of policies to fight inequality."
+   ],
+   "answer": 3,
+   "explain": ""
+  }
+ ]
+}

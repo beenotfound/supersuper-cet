@@ -1,0 +1,71 @@
+{
+ "id": "real4-2026-06-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2026年6月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2026-06-1",
+ "paperTitle": "2026年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "passage": "P1 It is still controversial whether we are fundamentally generous or selfish and whether these tendencies are shaped by our genes or environment.\n\nP2 Some evidence points to humans being born cooperative. At later stages in life we routinely work together to reach goals and help out in times of need.\n\nP3 Yet instances of selfish behavior are also plenty. One recent study tested people's willingness to set aside selfish interests to reach a greater good. It found that being selfish was more advantageous than cooperating. The benefit may be short-lived, however. Another study showed that players who cooperated did better in the long run.\n\nP4 It seems that human nature supports both pro-social and selfish traits(特征). Genetic studies have made some progress toward identifying their biological roots. By comparing identical twins, who share nearly 100 percent of their genes, and non-identical twins, who share about half, researchers have found overwhelming evidence for genetic effects on behaviors. In these twin studies, identical and non-identical twins are asked, for example, to split a sum of money with a peer. Such studies often also rely on careful psychological assessments and DNA analysis.\n\nP5 Other work highlights specific genes as key players. My colleagues and I recently identified a gene linked to altruistic(利他的) behavior and found that a particular variant of it was associated with more selfish behavior in preschoolers.\n\nP6 According to evolutionary scientists, cooperative behavior may have evolved first among relatives to promote the continuation of their genetic line. As communities diversified, mutual support could have broadened to include individuals not linked by blood. Another possibility is that humans cooperate to gain some advantage, such as boosting reputation. Finally, evolutionary processes take place at the group level. Groups of highly cooperative individuals have higher chances of survival because they can work together to reach goals that are unattainable to less cooperative groups.\n\nP7 Yet almost no behavior is entirely genetic, even among identical twins. Culture, schooling and parenting are important determinants of cooperation. Thus, the degree to which we act cooperatively or selfishly is unique to each individual and depends on a variety of genetic and environmental influences.",
+ "questions": [
+  {
+   "q": "What is the finding of one recent study about being selfish?",
+   "options": [
+    "It may bring certain benefits in the short term.",
+    "It usually yields more disadvantages than advantages.",
+    "It serves individual interest rather than a collective's.",
+    "It may give way to cooperating in the long run."
+   ],
+   "answer": 0,
+   "explain": "题干What is the finding of ...?直接询问某研究的客观结论，属于对文中具体信息的查找。 题干What is the finding of one recent study about being selfish?是主系表特殊疑问 句：What（表语）+ is（系动词）+ the finding of one recent study about being selfish（主语），整体询问关于 being sel…"
+  },
+  {
+   "q": "What have researchers found by studying identical and non-identical twins?",
+   "options": [
+    "They are overwhelmingly different in the amounts of genes.",
+    "One's behavior is largely determined by their genetic traits.",
+    "One's biological roots can be identified by their genes.",
+    "They differ from each other in their behavior patterns."
+   ],
+   "answer": 1,
+   "explain": "题干What have researchers found ...?询问研究人员的具体发现，属于细节题。 52. What have researchers found by studying identical and non-identical twins? A) They are overwhelmingly different in the amounts of genes. B) One's behavior is large…"
+  },
+  {
+   "q": "What did the author and colleagues identify in their recent research?",
+   "options": [
+    "A gene-related selfish behavior in preschool children.",
+    "Key factors that determine one's altruistic behavior.",
+    "A specific gene associated with altruistic behavior.",
+    "Roles played by genes in shaping one's character."
+   ],
+   "answer": 2,
+   "explain": "题干What did the author and colleagues identify ...?询问具体识别出的内容，属于细 节题。 题干What did the author and colleagues identify in their recent research?是what引导 的特殊疑问句，主语the author and colleagues，谓语did...identify，in their recent rese…"
+  },
+  {
+   "q": "What do we learn from evolutionary scientists about cooperative behavior?",
+   "options": [
+    "It may have initially originated in individuals linked by blood.",
+    "It may have caused the diversification of communities.",
+    "It helps to build relationships among blood-related people.",
+    "It guarantees the achievement of goals otherwise unattainable."
+   ],
+   "answer": 0,
+   "explain": "题干What do we learn from evolutionary scientists about ...?要求获取进化科学家的具 体观点，属于细节题。 题干What do we learn from evolutionary scientists about cooperative behavior?是 what引导的特殊疑问句，'do we learn from evolutionary scientists'为谓语部分，'…"
+  },
+  {
+   "q": "What can we infer from the last paragraph?",
+   "options": [
+    "Cooperative behavior is evident among identical twins.",
+    "One is born either cooperative or non-cooperative.",
+    "Genes determine one's tendency to cooperate.",
+    "Cooperative behavior may be cultivated."
+   ],
+   "answer": 3,
+   "explain": "题干What can we infer from the last paragraph?中的infer表明需要从末段信息推导出言 外之意。 题干What can we infer from the last paragraph?是what引导的特殊疑问句，'can we infer'表示推断，'from the last paragraph'限定推断范围。 55. What can we infer from the last para…"
+  }
+ ]
+}

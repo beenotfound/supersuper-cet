@@ -1,0 +1,63 @@
+{
+  "id": "match-008",
+  "type": "matching",
+  "level": "cet4",
+  "title": "A Weekend Without Screens",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["habit", "attention", "silence"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The first hour is the hardest. Without a screen to fill it, the morning feels strangely long, and the hand reaches for a phone that is not there. Most people describe the same set of feelings: restlessness, then boredom, then a kind of quiet. By the second hour the silence stops feeling like a problem and starts feeling like space. The discomfort is shorter than most people expect. Most people find the fear passes faster than they expected."
+    },
+    {
+      "label": "B",
+      "text": "Time behaves differently without a screen. A walk that once seemed short now passes slowly enough to notice gardens, doorways and birds. Small tasks take as long as they take, instead of being squeezed between one message and the next. People report that the day feels longer, and not in a bad way: there is room in it for things that usually get postponed. Slowness, for once, is not a failure. A slow day is not an empty one."
+    },
+    {
+      "label": "C",
+      "text": "Sleep often improves. Looking at a bright screen late in the evening keeps the mind alert and pushes bedtime later, so a weekend without screens often produces earlier nights. Waking without a phone is also different: instead of starting the day with other people's news, a person has a few minutes of their own thoughts. Many say that those minutes are the ones they miss most on Monday. Rest begins before the head touches the pillow. A screen-free evening is a small gift to the next morning."
+    },
+    {
+      "label": "D",
+      "text": "Conversations change. Without a device on the table, family members talk for longer and interrupt less, and a meal can last an hour without anyone reaching for an update. There are silences, but they are not unpleasant. Several families report that the most interesting conversations happened during the gaps, when nobody had anything to fill. Attention is a form of generosity, and it can be felt. A shared silence can be comfortable when nobody is escaping into a screen."
+    },
+    {
+      "label": "E",
+      "text": "Outdoor activity becomes the obvious alternative. A bike ride, a game in the park or a walk to the shops replaces the hours that would have been spent scrolling. None of this needs to be organised or expensive; the point is that the body is moving and the mind is following it. Even weeding a garden can feel satisfying when it is done without a podcast in the ears. Movement offers the mind something to hold. The body rarely needs encouragement when the phone is away."
+    },
+    {
+      "label": "F",
+      "text": "Planning ahead helps. A weekend of nothing but prohibition is likely to end in a relapse, so experienced people prepare a few alternatives: a book, a recipe, a friend to visit or a job that has been waiting. The plan should be flexible. The aim is not to fill every hour but to have an obvious next thing to do when the hand reaches for the phone. A little preparation protects a good intention. Without a plan, the phone wins by default."
+    },
+    {
+      "label": "G",
+      "text": "The experiment is not a permanent rule. Few people want to abandon their devices completely, and there are good reasons to answer a message from a relative or check the weather. The useful conclusion is that screens are a choice rather than a reflex. A person who has spent a weekend without them usually returns with a clearer sense of when a device helps and when it merely fills a gap. The point is control, not abstinence. A tool used on purpose is different from a tool used out of habit."
+    },
+    {
+      "label": "H",
+      "text": "Social pressure is real. Friends expect quick replies, and a silence can seem rude. It helps to tell people in advance that replies will be slow, and to leave one channel open for emergencies. Most friends are understanding once they know the reason, and some are curious enough to try a quiet weekend themselves. A boundary explained is usually a boundary respected. Silence surprises people only when it is unexplained. A short honest message prevents most misunderstandings."
+    },
+    {
+      "label": "I",
+      "text": "Children and teenagers react differently. Younger children may enjoy the novelty at first and then complain of boredom, which is often the beginning of play. Teenagers may feel cut off from friends and need a compromise that keeps some contact while limiting the endless scroll. A family rule works better when it is discussed than when it is announced. The young are quick to detect a rule that adults do not follow themselves. Consistency in adults matters more than strictness."
+    },
+    {
+      "label": "J",
+      "text": "The habit rarely lasts exactly as planned, and that is fine. Most people return to their phones by Monday, but they keep one small change: a phone left in another room at night, a screen-free meal or a walk without headphones. A weekend is too short to transform a life, but it is long enough to show that the life can be arranged differently. Small changes survive where grand resolutions do not. A habit kept is worth more than a rule broken."
+    }
+  ],
+  "statements": [
+    { "text": "The initial discomfort gives way to a sense of openness.", "answer": "A" },
+    { "text": "Without a screen, everyday life unfolds at a pace that reveals small details.", "answer": "B" },
+    { "text": "Fewer late-night screens and calmer mornings improve rest.", "answer": "C" },
+    { "text": "Meals without devices last longer and allow real exchange.", "answer": "D" },
+    { "text": "Physical activity naturally takes the place of scrolling.", "answer": "E" },
+    { "text": "Preparing flexible options prevents the attempt from collapsing.", "answer": "F" },
+    { "text": "The weekend shows that devices should be used deliberately, not automatically.", "answer": "G" },
+    { "text": "Telling friends beforehand makes the break easier to sustain.", "answer": "H" },
+    { "text": "Younger family members need different arrangements and discussion.", "answer": "I" },
+    { "text": "Small lasting changes are a more realistic outcome than total abstinence.", "answer": "J" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "trans-006",
+  "type": "translation",
+  "level": "cet6",
+  "title": "乡村振兴",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["rural", "revitalization", "harvest", "infrastructure"],
+  "prompt": "过去，许多农村的年轻人到城市打工，村里只剩下老人和孩子。近年来，随着乡村振兴战略的推进，这种状况正在慢慢改变。一些村庄修好了道路，通了网络，还建起了卫生室和文化广场。返乡的年轻人开起民宿、网店和农产品加工厂，把家乡的特产卖到了全国各地。农村的环境也越来越整洁，垃圾分类和污水治理让村庄面貌焕然一新。当然，乡村振兴不是一朝一夕的事，还需要长期的投入和耐心。",
+  "reference": "In the past, many young people from rural areas went to cities to work, leaving only the elderly and children behind in the villages. In recent years, as the rural revitalization strategy has been carried forward, this situation has been changing. Some villages have built proper roads, gained internet access and set up clinics and cultural squares. Young people who have returned home are opening guesthouses, online shops and small factories that process farm products, selling local specialities across the country. The countryside is also becoming cleaner, as rubbish sorting and sewage treatment have given many villages a completely new look. Better roads and faster delivery services mean that fresh produce can reach city tables within a day, which brings farmers a steadier income. What matters most is not simply money but the chance for local people to build a decent life without leaving their land. Of course, rural revitalization cannot be achieved overnight; it calls for long-term investment and patience.",
+  "keyPoints": [
+    "“乡村振兴”是固定译法 rural revitalization，不要译成 countryside rising。",
+    "“只剩下老人和孩子”用 leaving only the elderly and children behind。",
+    "“通了网络”不宜直译，可译为 gained internet access。",
+    "“卖到全国各地”译为 selling ... across the country。",
+    "“不是一朝一夕的事”意译为 cannot be achieved overnight。"
+  ]
+}

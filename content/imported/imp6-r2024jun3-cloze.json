@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2024jun3-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2024年6月六级第三套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2024jun3",
+ "paperTitle": "2024年6月大学英语六级第三套",
+ "paperLevel": "cet6",
+ "paperYear": "2024-06",
+ "passage": "The Sun Is Also a Star is a truly lovely story of love, romance, fate, and destiny. Natasha is a Jamaican-born immigrant living {{1}} in America, not by choice exactly. Her parents brought her over and created the situation she {{2}} to be out of. nonsense that Natasha {{3}} through scientific reasoning. Daniel and Natasha meet by {{4}} on the streets of New York on the day that she is to be {{5}} . She doesn’t tell him that but does allow him to keep her company while he tries to get her to fall in love with him over the course of the day. Natasha is me. I found her so similar to myself. She’s scientifically-minded, practical, somewhat cynical, and always {{6}} . Her obsession with the universe through a scientific lens is infectious and I {{7}} Daniel seeing that too. Daniel is charming and passionate and has a way with words that even {{8}} Natasha’s tough outer shell. By the end of the book I fell in love with both of them. I used to find romance stories to always be cheap or laughable. I think now I can see the value in escaping into a story of pure optimism. I got {{9}} in The Sun Is Also a Star and finished it cover to cover in a weekend. I couldn’t wait to get to what I hoped would be a happy ending. It’s nice every once in a while to give in to magic. It doesn’t have to be a hard fantasy novel with actual spells, it can be the magic found between two people who just have that special something. That {{10}} that causes them to react and spark when they’re near each other.",
+ "bank": [
+  "A. adore",
+  "B. appraise",
+  "C. assaults",
+  "D. chemistry",
+  "E. coincidence",
+  "F. cracks",
+  "G. deported",
+  "H. dismisses",
+  "I. illegally",
+  "J. lost",
+  "K. perpetually",
+  "L. prescribed",
+  "M. shrewd",
+  "N. skeptical",
+  "O. strives"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "C. assaults",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "H. dismisses",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "M. shrewd",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "F. cracks",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "N. skeptical",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "O. strives",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "E. coincidence",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "A. adore",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "G. deported",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "B. appraise",
+   "explain": ""
+  }
+ ]
+}

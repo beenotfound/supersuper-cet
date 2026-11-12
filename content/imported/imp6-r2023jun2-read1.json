@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2023jun2-read1",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2023年6月六级第二套 阅读1",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023jun2",
+ "paperTitle": "2023年6月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-06",
+ "passage": "If you’re someone who has turned to snacking on junk food more in the pandemic (大流行病）， you’re not alone. Investigative reporter Michael Moss says processed food is engineered to hook you, not responding to complaints from consumers and health advocates. Processed food is inexpensive, it’s legal, and it’s everywhere. Companies’ advertising is cueing us to remember those products and we want those products constantly. So the food environment is one of those particular, plays a big role in the foods we crave. Soda companies discovered that if they put a soda in the hands of a child when they’re at a ball game with their parents, that soda will forever be associated with that joyous moment. Later in life, when that child wants to experience a joyous moment, they’re going to think of soda. Many people seek comfort in the snacks they remember from childhood. Moss examines the way companies capitalize on our memories, cravings and brain chemistry to keep us snacking. One of the reasons I came to think that some of these food products are even more powerful, more memories for food at a really early age. And we keep those memories for a lifetime. Knowing this, the food industry spends lots of time trying to shape the memories that we have for their products. One of the faster a substance hits the brain, the more apt we are as a result to act impulsively. There’s nothing faster than food in its ability to hit the brain. For Moss, this puts the notion of “fast food” in an entirely new processed foods. Everything in the industry is about speed, from manufacturing to packaging. they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods.",
+ "questions": [
+  {
+   "q": "In what way does Michael Moss think processed food is comparable to alcohol and cigarettes?",
+   "options": [
+    "They are all addictive.",
+    "They are all engineered to be enjoyed.",
+    "They are all necessary evils.",
+    "They are all in increasingly great demand."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What does the author say plays a key role in the foods we crave?",
+   "options": [
+    "The food environment.",
+    "Aggressive marketing.",
+    "Convenience",
+    "Memory."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What do food companies do to capitalize on consumers’ association with their food products?",
+   "options": [
+    "They strive to influence how consumers remember their products.",
+    "They attempt to use consumers’ long-term memories to promote addiction.",
+    "They try to exploit consumers’ memories for their products as early as possible.",
+    "They endeavor to find what consumers remember about their products."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "How does the food industry operate from manufacturing to packaging, according to Moss?",
+   "options": [
+    "Placing the idea of fast food in an entirely new light.",
+    "Setting no limit to the number of fast food chains.",
+    "Focusing on how quickly the work is done.",
+    "Prioritizing the quality of their products."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "Why are companies finding it difficult to satisfy consumers’ demand for healthier food products?",
+   "options": [
+    "They think speed of production outweighs consumers’ health.",
+    "They believe their industry would perish without fast foods.",
+    "They have to strike a balance between taste and nutrition.",
+    "They are hooked on manufacturing convenience foods."
+   ],
+   "answer": 3,
+   "explain": ""
+  }
+ ]
+}

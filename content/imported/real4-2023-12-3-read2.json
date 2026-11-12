@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-12-3-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年12月四级真题 第3套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-12-3",
+ "paperTitle": "2023年12月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "passage": "P1 People in business often make decisions based on their own personal feelings or instincts. It is quite horrifying to see people being guided by some unknown force. But how wise is it, really, to let your instincts drive your decisions?\n\nP2 In the decision-making process, relying on instincts only makes sense when you have a vast experience to support you. Simply \"feeling\" that something is right or should be done is highly subjective and can drown you.\n\nP3 On the other hand, there is a more rational approach to making decisions. Data and analysis have long been associated with informed decisions. These reduce the likelihood of errors and increase the chances of success. Big, systematic data is mostly the foundation of most of our decisions, personal and business alike. But with its extreme usability comes a complication: what do you do if you strongly feel something should not be done, even if the data insists that it should?\n\nP4 This seemingly easy question is what drives the need to understand the relationship between instincts and data in the decision-making process. Without making things complicated, the solution to this dilemma is using data and instincts in conjunction to arrive at the best possible decisions.\n\nP5 Instinctive decisions are always backed by previous experiences or information, which acknowledges that instinctive decisions have worked in the past. Decisions are not about making the choice and braving the consequences because you want to blindly trust your instincts. They are about combining your inner wisdom with the knowledge of systematic data to make the best decisions.\n\nP6 Sometimes, rational analysis and data are impractical to be employed in certain situations. Absence of definitive criteria, and time and resource constraints, and novel situations are instances which limit the practicality of data. The only feasible option is to rely on what your instincts tell you. In these situations, instincts can help you make effective and quick decisions.\n\nP7 Combining instinctive and rational analysis produces well-rounded decisions. It reduces the chances of making mistakes, and has increasingly become a favorite approach to decision-making among leaders of today.",
+ "questions": [
+  {
+   "q": "What does the author say businesspeople often do?",
+   "options": [
+    "Strive to make sense of some unknown forces.",
+    "Avoid being driven by their own feeling.",
+    "Draw on a vast wealth of past experience.",
+    "Rely on instincts in decision-making."
+   ],
+   "answer": 3,
+   "explain": "What does the author say businesspeople often do? 问的是「商人通常做什么」这一可 在原文逐字核实的客观行为，不含 infer/imply。 题干主干是 What does the author say businesspeople often do?，what 作宾语前置； the author say 是插入成分，可剥离；剥离后等价于「Businesspeople often do w…"
+  },
+  {
+   "q": "What should we take into account in order to make informed decisions?",
+   "options": [
+    "The likelihood of errors.",
+    "Systematic data and analysis.",
+    "The complexity of circumstances.",
+    "Personal feelings and business strategies"
+   ],
+   "answer": 1,
+   "explain": "What should we take into account in order to make informed decisions? 问的是「为 了做出明智决策应当考虑什么」，答案是原文直接陈述的因素。 题干主干 What should we take into account，what 作 take into account 的宾语前置； in order to make informed decisions 是表目的的不定式状…"
+  },
+  {
+   "q": "What should people do in a decision-making process if instincts disagree with data?",
+   "options": [
+    "Resolve the dilemma with previous experience.",
+    "Figure out which of the two is more reliable.",
+    "Combine the two together.",
+    "Prioritize instincts over data."
+   ],
+   "answer": 2,
+   "explain": "What should people do in a decision-making process if instincts disagree with data? 问的是作者给出的具体做法，原文有 using data and instincts in conjunction 直陈方案。 题干 What should people do in a decision-making process if instincts disagr…"
+  },
+  {
+   "q": "What should we do when facing various factors that limit the practicality of data?",
+   "options": [
+    "Make a rational and systematic analysis.",
+    "Explore the most feasible options.",
+    "Resort to our inner wisdom.",
+    "Apply definitive criteria."
+   ],
+   "answer": 2,
+   "explain": "What should we do when facing various factors that limit the practicality of data? 问 的是特定情境下的做法，仍是定位＋复述。 题干主句 What should we do，when facing various factors 是 when 引导的现在分词时 间状语，省略主语 we；that limit the practicality of data …"
+  },
+  {
+   "q": "What does it take for decisions to become the best according to the author?",
+   "options": [
+    "Applying instincts and data in conjunction.",
+    "Assessing all factors when making a choice.",
+    "Recalling what has actually worked in the past.",
+    "Refraining from trusting instincts arbitrarily."
+   ],
+   "answer": 0,
+   "explain": "What does it take for decisions to become the best according to the author? 问的是 「让决策成为最佳」的所需条件，是原文有明确句子可对应的细节，并非要从全文归纳的 主旨。 题干 What does it take for decisions to become the best according to the author? 句 型为「it takes sth…"
+  }
+ ]
+}

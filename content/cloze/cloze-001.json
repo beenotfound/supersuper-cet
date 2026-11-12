@@ -1,0 +1,63 @@
+{
+  "id": "cloze-001",
+  "type": "cloze",
+  "level": "cet6",
+  "title": "Meetings on the Move",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["memorable", "candid", "contribute"],
+  "passage": "Ask a group of office workers to describe their most {{1}} meetings and few will mention a conference room. The ones they remember tend to be conversations that happened while moving: on a walk to a nearby cafe or around a city block. That observation has led some managers to {{2}} the traditional seated discussion with a walking meeting, in which colleagues talk side by side rather than facing each other across a table.\n\nSupporters insist the change is more than a fashion. Walking gives the body a steady rhythm, and that rhythm appears to {{3}} the grip of the usual workplace routine. Ideas that might have been ignored are more likely to be voiced. Because nobody is typing, the exchange becomes more {{4}}: people listen, pause, and answer in full sentences instead of firing off quick replies.\n\nThe arrangement also shifts the balance of power. In a conference room whoever sits at the head of the table tends to dominate, but outdoors that hierarchy {{5}}. Quieter members find it easier to {{6}} to the discussion, and a junior employee may speak as freely as a director. Difficult news, some say, is delivered more honestly on a footpath.\n\nThe method is not suitable for everything. A {{7}} budget needs a spreadsheet, and a complex plan needs diagrams that nobody can {{8}} while crossing a street. Weather is another {{9}} consideration, and long routes may leave out colleagues with {{10}} mobility. Experienced organisers therefore keep walks short, choose flat paths, and reserve the format for informal thinking. Used with care, a walk can turn a dull update into a conversation.",
+  "bank": ["candid", "fragile", "dissolves", "postpone", "contribute", "limited", "borrow", "sketch", "abandon", "memorable", "practical", "hostile", "loosen", "replace", "detailed"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "memorable",
+      "explain": "空格修饰 meetings，后文“the ones they remember”提示是“令人难忘的”，故填 memorable；hostile、fragile 与语境不符。"
+    },
+    {
+      "n": 2,
+      "answer": "replace",
+      "explain": "replace A with B 表示“用 B 取代 A”，与后面的 with a walking meeting 呼应；postpone、borrow、abandon 都不能构成该搭配。"
+    },
+    {
+      "n": 3,
+      "answer": "loosen",
+      "explain": "appear to 后接动词原形，loosen the grip of... 意为“放松……的束缚”；postpone、borrow 等无法与 the grip 搭配。"
+    },
+    {
+      "n": 4,
+      "answer": "candid",
+      "explain": "because nobody is typing 以及人们认真倾听、完整作答，说明交流更“坦率”，candid 符合；hostile 与前后语气相反。"
+    },
+    {
+      "n": 5,
+      "answer": "dissolves",
+      "explain": "主语 hierarchy 为第三人称单数，dissolve 表示“（等级差别）消失”，语法与语义都成立；其余动词不合。"
+    },
+    {
+      "n": 6,
+      "answer": "contribute",
+      "explain": "contribute to 表示“参与、对……有所贡献”；postpone、borrow 等不能接 to，abandon 语义也不合。"
+    },
+    {
+      "n": 7,
+      "answer": "detailed",
+      "explain": "修饰 budget，指“详尽的预算”，需要形容词；hostile、fragile 语义不合。"
+    },
+    {
+      "n": 8,
+      "answer": "sketch",
+      "explain": "sketch diagrams 意为“画示意图”，与“过马路时无法画图”的语境相符；borrow、abandon 不合。"
+    },
+    {
+      "n": 9,
+      "answer": "practical",
+      "explain": "practical consideration 指“实际层面的考虑”，天气和路线都属于实际因素；fragile 等不合。"
+    },
+    {
+      "n": 10,
+      "answer": "limited",
+      "explain": "limited mobility 是固定搭配，意为“行动不便”，与 long routes 的顾虑一致；hostile、fragile 不合。"
+    }
+  ]
+}

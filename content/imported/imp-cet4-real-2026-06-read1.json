@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-real-2026-06-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2026-06",
+ "paperTitle": "2026年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2026-06",
+ "sectionOrder": 4,
+ "passage": "Three years ago, the science magazine of a small university nearly closed. Its editor had graduated, the printer had raised its prices, and only four students remained on the team. Rather than let the magazine disappear, the four decided to change it. They stopped printing long articles written by professors and began to publish short pieces by undergraduates about research taking place on campus. The first issue of the new format was thirty pages long and included an interview with a student who had spent the summer counting insects in a city park.\nThe change worked. Readers said they finally understood what their classmates were working on, and students who had never written anything for a general audience discovered that explaining their subject was harder than they had imagined. A chemistry student described how a paragraph about her project went through five drafts before her flatmate could follow it. That experience, she said, was more useful than any writing course.\nThe magazine is now published twice a term, with a print run of eight hundred copies, and it has a small budget from the student union. The editor is careful not to call it a research journal. Its purpose, she says, is not to record science but to start conversations: a reader who finishes an article should have a question to ask the person sitting next to them.\nNot every issue succeeds. Some topics attract few readers, and the team has learned to accept that. What matters is that a magazine which almost closed now has a waiting list of students who want to write for it, and that the science on campus is no longer invisible.",
+ "questions": [
+  {
+   "q": "What caused the science magazine to nearly close?",
+   "options": [
+    "Professors stopped writing for it.",
+    "It lost its editor and faced higher printing costs.",
+    "The student union cut its budget.",
+    "Readers complained about its length."
+   ],
+   "answer": 1,
+   "explain": "第一段说 Its editor had graduated, the printer had raised its prices, and only four students remained，即编辑毕业、印刷涨价、人手只剩四人，故选 B。"
+  },
+  {
+   "q": "What did the team change about the magazine?",
+   "options": [
+    "They began publishing short articles by undergraduates about campus research.",
+    "They moved the magazine online.",
+    "They invited professors to write longer articles.",
+    "They started a second journal."
+   ],
+   "answer": 0,
+   "explain": "第一段说 They stopped printing long articles written by professors and began to publish short pieces by undergraduates about research taking place on campus，故选 A。"
+  },
+  {
+   "q": "What did the chemistry student learn from writing her article?",
+   "options": [
+    "How to run a laboratory experiment.",
+    "How to use a printing machine.",
+    "How hard it is to explain research clearly.",
+    "How to become an editor."
+   ],
+   "answer": 2,
+   "explain": "第二段说她的一段文字改了五稿才让室友读懂，并说这段经历比任何写作课都有用，即体会到把研究讲清楚很难，故选 C。"
+  },
+  {
+   "q": "What does the editor say is the purpose of the magazine?",
+   "options": [
+    "To record scientific results.",
+    "To train professional writers.",
+    "To make money for the student union.",
+    "To start conversations among readers."
+   ],
+   "answer": 3,
+   "explain": "第三段说 Its purpose is not to record science but to start conversations，并希望读者读完后有问题想问旁边的人，故选 D。"
+  }
+ ]
+}

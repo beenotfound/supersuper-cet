@@ -1,0 +1,18 @@
+{
+  "id": "trans-014",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国的环境保护",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["emission", "renewable", "conservation", "awareness"],
+  "prompt": "过去几十年，中国经济快速发展，但也付出了环境代价。一些河流被污染，空气质量一度成为人们最关心的问题。近年来，情况有了明显改善。许多城市推广新能源汽车，公交和出租车逐渐换成电动车；北方的冬天减少了燃煤取暖，天空比过去蓝了很多。与此同时，植树造林和湿地保护让一些消失的鸟类重新出现。环保不只是政府的事，普通人少用一次性用品、做好垃圾分类，同样重要。",
+  "reference": "In the past few decades China's economy has grown rapidly, but this growth has come at an environmental cost. Some rivers were polluted, and air quality once became the issue people cared about most. In recent years the situation has improved noticeably. Many cities are promoting new energy vehicles, and buses and taxis are gradually being replaced by electric ones; in the north, less coal is burned for heating in winter, and the sky is much bluer than before. At the same time, tree planting and wetland conservation have brought back some birds that had disappeared. Environmental protection is not only the government's business: for ordinary people, using fewer disposable items and sorting rubbish properly matters just as much. Cleaner air and clearer water are not luxuries but basic conditions for a decent life, and no one can afford to stand aside. Schools now teach children to save water and electricity, so that the habit starts early.",
+  "keyPoints": [
+    "“付出了环境代价”译为 has come at an environmental cost。",
+    "“新能源汽车”用 new energy vehicles。",
+    "“植树造林和湿地保护”译为 tree planting and wetland conservation。",
+    "“一次性用品”译为 disposable items。",
+    "“不只是政府的事”用 not only the government's business。"
+  ]
+}

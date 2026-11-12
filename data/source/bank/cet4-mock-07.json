@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-07",
+      "title": "大学英语四级标准模拟卷 07",
+      "level": "CET4",
+      "year": "mock-07",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: For this part, you are allowed 30 minutes to write a short essay on how college students can prepare for the job market through internships. Your essay should include: 1) the importance of internships for career preparation; 2) the main difficulties students face in finding a suitable internship; 3) what you think students should do to make the most of internship opportunities. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "假定你要就「大学生如何通过实习为就业做准备」写一篇短文。文章应包括：1）实习对职业准备的重要性；2）学生寻找合适实习时面临的主要困难；3）你认为学生应如何充分利用实习机会。词数 120–180 词。",
+          "reference": "Internships have become an important bridge between the classroom and the workplace. A well-chosen internship allows students to test their interests, learn how an organisation really works and discover which skills they still need to develop. In a competitive job market, such experience often makes a graduate's application far more convincing.\n\nHowever, many students struggle to find a suitable placement. Some positions are unpaid or badly paid, while others are far from home. Students also complain that employers prefer candidates with previous experience, which creates a frustrating circle.\n\nIn my view, students should start early and look beyond famous companies. A small firm may offer more responsibility and closer guidance. During the internship, they should keep a simple record of what they do, ask for feedback and build relationships with colleagues, because a good reference is as valuable as a line on a CV.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。本部分含 Conversation One 与 Passage One 两段材料，每段材料后各有 4 道选择题，请阅读文字稿后作答。\n\nConversation One:\nWoman: Good morning, and thank you for coming in. I am Helen Carter from the personnel team at Brightline Media.\nMan: Good morning, Ms. Carter. Thank you for the opportunity. I am Li Wei, a third-year student majoring in advertising.\nWoman: Your application mentions a summer internship with a local newspaper. What did you actually do there?\nMan: I joined the social media desk. My main job was to turn long reports into short posts, and later I was allowed to write captions for a weekly video series. It taught me how to edit quickly and how to work with designers.\nWoman: What was the hardest part?\nMan: Probably the deadlines. In the first two weeks I spent too long polishing my sentences, and my editor had to remind me that publishing on time matters more than perfection.\nWoman: That is a useful lesson. This internship would run for three months, from July. We need someone to help with campaign reports and customer research. Would you be able to work four days a week?\nMan: Yes. My exams finish in late June, and I have already spoken to my tutor about the arrangement.\nWoman: One more thing: the position is paid, but the allowance is modest, about 2,000 yuan a month. Is that acceptable?\nMan: That is fine. For me the experience and the feedback matter more at this stage.\nWoman: Good. We will contact you by Friday. If you are successful, you will begin with a short training week.\n\nPassage One:\nGood afternoon, everyone. I am glad to see so many of you at this talk on career planning, because most students start thinking about it far too late. In my experience as a university careers adviser, the students who find satisfying jobs are not always the ones with the highest grades. They are the ones who began exploring early.\n\nLet me give you a simple framework. In your first year, focus on discovering what you enjoy. Join a club, volunteer for an event, or take a part-time job at the weekend. The aim is not to build a perfect CV but to collect evidence about yourself. In your second year, test one or two possibilities seriously: a short internship, a project with a local company, or a summer programme. By your third year you should be able to describe, in one sentence, the kind of work you want to do and why.\n\nMany students ask me whether they should choose a job for money or for interest. My answer is that the question is usually a false one. Most people change direction several times, and skills such as writing clearly, analysing data and working in a team travel with you. What you should avoid is waiting until graduation to begin. Employers can tell the difference between a candidate who has reflected on their choices and one who has simply sent out fifty identical applications. Start small, but start now.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "Where does the conversation most probably take place?",
+              "transcript": "",
+              "options": [
+                "A. In a university library.",
+                "B. In a media company.",
+                "C. In a newspaper printing house.",
+                "D. At a job fair."
+              ],
+              "answer": "B",
+              "explanation": "女士自我介绍来自 Brightline Media 的人事部门，并在询问男士的实习经历与工作时间，因此对话最可能发生在媒体公司的面试现场，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "What did the man mainly do during his summer internship?",
+              "transcript": "",
+              "options": [
+                "A. He designed advertisements.",
+                "B. He wrote weekly reports.",
+                "C. He turned reports into social media posts.",
+                "D. He interviewed customers."
+              ],
+              "answer": "C",
+              "explanation": "男士说他在社交媒体组工作，My main job was to turn long reports into short posts，即把长篇报道改写成社交媒体的短文，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "What was the man's biggest difficulty at the beginning of his internship?",
+              "transcript": "",
+              "options": [
+                "A. Meeting deadlines.",
+                "B. Using design software.",
+                "C. Working with a tutor.",
+                "D. Speaking in public."
+              ],
+              "answer": "A",
+              "explanation": "被问到最难的部分时，男士回答 Probably the deadlines，并说编辑提醒他按时发布比追求完美更重要，故选 A。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What do we learn about the internship the man is applying for?",
+              "transcript": "",
+              "options": [
+                "A. It lasts for a whole year.",
+                "B. It is unpaid.",
+                "C. It requires five days a week.",
+                "D. It offers a modest allowance."
+              ],
+              "answer": "D",
+              "explanation": "女士说明该实习有报酬，只是 the allowance is modest，约每月两千元，每周工作四天，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "What does the speaker say about students who find satisfying jobs?",
+              "transcript": "",
+              "options": [
+                "A. They usually have the highest grades.",
+                "B. They all study business.",
+                "C. They tend to start exploring early.",
+                "D. They often change universities."
+              ],
+              "answer": "C",
+              "explanation": "讲座开头指出，找到满意工作的学生并不总是成绩最好的，而是 the ones who began exploring early，故选 C。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What does the speaker suggest students do in their first year?",
+              "transcript": "",
+              "options": [
+                "A. Send applications to big companies.",
+                "B. Collect evidence about themselves.",
+                "C. Choose a well-paid major.",
+                "D. Write a complete CV."
+              ],
+              "answer": "B",
+              "explanation": "讲者建议大一学生参加社团、做志愿者或兼职，目的不是打造完美简历，而是 to collect evidence about yourself，故选 B。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What is the speaker's view on choosing between money and interest?",
+              "transcript": "",
+              "options": [
+                "A. The question is usually a false one.",
+                "B. Money should always come first.",
+                "C. Interest matters only in the arts.",
+                "D. Students should ask their parents."
+              ],
+              "answer": "A",
+              "explanation": "讲者明确说 the question is usually a false one，并解释多数人会多次转换方向，而可迁移的技能会一直跟随自己，故选 A。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What mistake does the speaker warn students against?",
+              "transcript": "",
+              "options": [
+                "A. Working part-time at weekends.",
+                "B. Joining too many clubs.",
+                "C. Asking employers for advice.",
+                "D. Waiting until graduation to plan."
+              ],
+              "answer": "D",
+              "explanation": "讲者提醒 What you should avoid is waiting until graduation to begin，即不要等到毕业才开始规划，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "词库（A–O，共 15 个词，从中选出 10 个填入短文中的空白，每个词只能使用一次）：\nA. achieve\nB. argue\nC. conclusive\nD. delay\nE. establish\nF. ignore\nG. indicate\nH. motivated\nI. obstacle\nJ. permanent\nK. recommend\nL. reduce\nM. regret\nN. roughly\nO. suggests\n\n短文（空白处标有 26–35）：\n\nLearning a Musical Instrument in Adulthood\n\nMany adults believe that learning to play a musical instrument is a task for children, yet a growing body of research (26) ____ that the adult brain is far more adaptable than was once thought. Teachers of adult beginners report that their students are often more (27) ____ than teenagers, because they choose to be there.\n\nThe main (28) ____ for adults is time. Work and family duties leave little space for daily practice, and progress can seem painfully slow. Teachers therefore (29) ____ short, frequent sessions rather than one long one at the weekend. Fifteen minutes a day is enough to (30) ____ a new habit.\n\nAdults also tend to be hard on themselves. A wrong note that a child barely notices may make an adult want to give up entirely. Experienced teachers (31) ____ this anxiety by choosing simple pieces at first and by celebrating small improvements.\n\nThe benefits go beyond music. Studies (32) ____ that playing an instrument engages memory, attention and coordination at the same time. Some researchers (33) ____ that this mental exercise may help keep the brain healthy in later life, although the evidence is not yet (34) ____.\n\nWhat is clear is that adults who begin lessons rarely (35) ____ the decision, even if they never perform in public.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. Many adults believe that learning to play a musical instrument is a task for children, yet a growing body of research ____ that the adult brain is far more adaptable than was once thought.",
+              "answer": "suggests",
+              "explanation": "选 O. suggests。research 为不可数名词作主语，谓语用第三人称单数，且后接 that 从句表示研究结果显示；indicate 形式不符，故排除。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. Teachers of adult beginners report that their students are often more ____ than teenagers, because they choose to be there.",
+              "answer": "motivated",
+              "explanation": "选 H. motivated。be more motivated than 表示比青少年更有动力，与后半句 because they choose to be there 相呼应；permanent 不能修饰人的学习状态。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. The main ____ for adults is time.",
+              "answer": "obstacle",
+              "explanation": "选 I. obstacle。the main obstacle 意为主要障碍，后文说工作与家庭占去练习时间，正是成年人学琴的主要困难；roughly 是副词，不能作主语。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Teachers therefore ____ short, frequent sessions rather than one long one at the weekend.",
+              "answer": "recommend",
+              "explanation": "选 K. recommend。recommend A rather than B 意为建议选 A 而不选 B，符合教师给成年初学者的练习建议；delay 与句意相反。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Fifteen minutes a day is enough to ____ a new habit.",
+              "answer": "establish",
+              "explanation": "选 E. establish。establish a habit 是固定搭配，意为养成新习惯；achieve 通常接 goal 或 success，不与 habit 搭配。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Experienced teachers ____ this anxiety by choosing simple pieces at first and by celebrating small improvements.",
+              "answer": "reduce",
+              "explanation": "选 L. reduce。reduce anxiety 意为减轻焦虑，与后文先选简单曲目、肯定小进步的做法对应；ignore 与教师主动处理的做法矛盾。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. Studies ____ that playing an instrument engages memory, attention and coordination at the same time.",
+              "answer": "indicate",
+              "explanation": "选 G. indicate。Studies 为复数主语，谓语用动词原形 indicate，后接 that 从句引出研究结论；suggests 为第三人称单数，在此不搭配。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. Some researchers ____ that this mental exercise may help keep the brain healthy in later life.",
+              "answer": "argue",
+              "explanation": "选 B. argue。argue that 意为主张、论证，符合研究者提出观点的语境；delay 后不能接 that 从句表达观点。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. This mental exercise may help keep the brain healthy in later life, although the evidence is not yet ____.",
+              "answer": "conclusive",
+              "explanation": "选 C. conclusive。not yet conclusive 意为尚无定论，用于说明前面观点仍缺乏充分证据；permanent 意为永久的，与 evidence 不搭配。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. What is clear is that adults who begin lessons rarely ____ the decision, even if they never perform in public.",
+              "answer": "regret",
+              "explanation": "选 M. regret。rarely regret the decision 意为很少后悔这个决定，与 even if they never perform in public 的让步语气一致；ignore 与 decision 搭配不当。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，每个段落前给出该段落的简短标题。请为第 1–5 题中的每个陈述句选择对应的段落。\n\nParagraph A: Growing demand\nFarmers' markets were once a small weekend activity in a few towns. Over the past decade their number has grown steadily, and many now run twice a week. Part of the reason is that shoppers ask more questions about food: where it was grown, when it was picked and how it was transported. Stallholders can answer these questions directly, which supermarkets, with their long supply chains, find much harder to do.\n\nParagraph B: A shorter journey\nFood sold at a market usually travels only a few miles from field to stall. That means it can be picked closer to ripeness, and it does not need the cold storage that long-distance transport requires. Several studies suggest that local produce can also lose fewer nutrients. The saving in transport is real, though researchers caution that small deliveries made by many individual vans may not always be greener overall.\n\nParagraph C: Bringing people together\nA market is more than a place to buy vegetables. Regular customers learn the names of stallholders, and neighbours meet while queuing for bread. In some towns the market has become the centre of community life, hosting cooking demonstrations and children's activities. Shopkeepers nearby report that the visitors also spend money in their businesses, so the benefit spreads beyond the stalls themselves.\n\nParagraph D: Challenges for small farmers\nRunning a stall is hard work. Farmers must leave home before dawn, pay for the pitch and still look after their land. Bad weather can ruin a whole day's income. Some smaller producers have joined together to share a stall and transport costs. Without such cooperation, many would find that selling directly takes more time than they can spare from actual farming.\n\nParagraph E: Changing habits of young people\nMarket organisers say the average customer is getting younger. Students and young professionals come for a cheap lunch, then leave with unfamiliar vegetables they have never cooked before. Online videos have helped: a short clip showing how to prepare a strange-looking root can turn it into a bestseller the following weekend. This experimentation is slowly changing the way young people plan their meals.\n\nParagraph F: What the future may hold\nMost people involved in farmers' markets are optimistic. As food prices rise and concern about the environment grows, buying directly from producers looks attractive. Permanent indoor market halls, card payments and home delivery are already appearing in some cities. Observers warn, however, that rising rents may push markets away from the very neighbourhoods that need them most.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "Shoppers increasingly want to know where their food comes from and how it was produced.",
+              "options": [
+                "A. Growing demand",
+                "B. A shorter journey",
+                "C. Bringing people together",
+                "D. Challenges for small farmers",
+                "E. Changing habits of young people",
+                "F. What the future may hold"
+              ],
+              "answer": "A",
+              "explanation": "A 段说 shoppers ask more questions about food: where it was grown, when it was picked and how it was transported，与题干「想知道食物来源与生产方式」对应，故选 A。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Markets give local residents a place to meet and talk, not just to shop.",
+              "options": [
+                "A. Growing demand",
+                "B. A shorter journey",
+                "C. Bringing people together",
+                "D. Challenges for small farmers",
+                "E. Changing habits of young people",
+                "F. What the future may hold"
+              ],
+              "answer": "C",
+              "explanation": "C 段提到 neighbours meet while queuing for bread，并说市场已成为社区生活的中心，说明它不只是购物场所，故选 C。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "Younger customers are trying unfamiliar vegetables and changing how they plan meals.",
+              "options": [
+                "A. Growing demand",
+                "B. A shorter journey",
+                "C. Bringing people together",
+                "D. Challenges for small farmers",
+                "E. Changing habits of young people",
+                "F. What the future may hold"
+              ],
+              "answer": "E",
+              "explanation": "E 段指出年轻顾客会买下从未做过的蔬菜，短视频走红后这些菜成为畅销品，并说这种尝试正改变年轻人的备餐方式，故选 E。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Selling locally means the food is fresher and needs less transport and storage.",
+              "options": [
+                "A. Growing demand",
+                "B. A shorter journey",
+                "C. Bringing people together",
+                "D. Challenges for small farmers",
+                "E. Changing habits of young people",
+                "F. What the future may hold"
+              ],
+              "answer": "B",
+              "explanation": "B 段说市场食物只运输几英里，可更接近成熟时采摘，也不需要长途运输所需的冷藏，与题干完全对应，故选 B。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Organisers believe markets will keep growing as people seek sustainable food.",
+              "options": [
+                "A. Growing demand",
+                "B. A shorter journey",
+                "C. Bringing people together",
+                "D. Challenges for small farmers",
+                "E. Changing habits of young people",
+                "F. What the future may hold"
+              ],
+              "answer": "F",
+              "explanation": "F 段开头说参与者普遍乐观，As food prices rise and concern about the environment grows, buying directly from producers looks attractive，即需求会继续增长，故选 F。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: Every spring, thousands of students compete for summer internships, and the pressure is easy to understand. A recent survey of graduates found that those who had completed at least one internship received more job offers than those who had none. But the same survey produced a more interesting result: the length of the internship mattered less than the quality of the feedback the students received.\n\nThis finding challenges a common assumption. Many students believe that simply adding a famous company's name to their CV is enough. In practice, interviewers often ask what the candidate actually did. A student who spent three months photocopying documents in a large firm may have less to say than one who spent six weeks in a small studio where the manager explained every decision.\n\nThe nature of the work matters too. Tasks that require judgement, such as writing a short report, contacting clients or solving a practical problem, teach skills that cannot be learned from a textbook. By contrast, repetitive tasks may look impressive on paper but leave little to discuss in an interview.\n\nThere is also the question of payment. Unpaid internships are often criticised because they favour students whose families can support them. Some employers have responded by offering a modest allowance and travel costs, and a few universities now fund summer placements for students from lower-income backgrounds.\n\nThe lesson for students is clear. Before accepting an internship, ask what you will be doing, who will supervise you and whether anyone will comment on your work. A famous logo may open a door, but it is the experience behind the door that employers actually value.\n\nPassage 2: Li Na delivers food on an electric bike in a large city in eastern China. She chooses her own hours, works for three different platforms, and earns roughly what she did in her previous office job. I do not have a manager watching me, she says. But if I am ill, nobody pays me, and if the app changes its rules, I cannot argue.\n\nLi Na is one of millions of young people in the growing gig economy, where work is organised through apps and paid by the task rather than by the month. Supporters describe it as freedom: students can earn between lectures, parents can work around childcare, and retired people can take on a few hours a week. For people who find fixed schedules difficult, this flexibility is genuinely valuable.\n\nThe disadvantages, however, are also real. Gig workers usually have no paid holiday, no sick leave and no pension contributions from an employer. Their income changes with demand, weather and the decisions of the platforms. When a company alters its payment rules overnight, workers have little power to negotiate, because they are not employees in the legal sense.\n\nSome governments are now experimenting with a middle category that would give gig workers basic protections while keeping their flexibility. Others are leaving the question to the platforms. Either way, the debate is no longer about whether the gig economy should exist, but about how the people in it should be treated.\n\nYoung people entering this world need more than a smartphone. They need to understand how their pay is calculated, keep records of their earnings, and think about what happens when they are forty rather than twenty-five. Flexibility is a benefit only if it is chosen with open eyes.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What did the survey find mattered most about an internship?",
+              "options": [
+                "A. How long it lasted.",
+                "B. The reputation of the company.",
+                "C. The salary that was paid.",
+                "D. The quality of feedback the student received."
+              ],
+              "answer": "D",
+              "explanation": "Passage 1 第一段末尾明确说 the length of the internship mattered less than the quality of the feedback the students received，即反馈质量最重要，故选 D。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) Why might a small studio offer a better internship than a large firm?",
+              "options": [
+                "A. It usually pays more money.",
+                "B. The manager explains every decision.",
+                "C. The work is much easier.",
+                "D. It lasts much longer."
+              ],
+              "answer": "B",
+              "explanation": "第二段举例说，在小工作室实习的学生有 the manager explained every decision，因而在面试中有更多可谈的内容，故选 B。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What kind of tasks does the author value most?",
+              "options": [
+                "A. Tasks that require judgement.",
+                "B. Repetitive paperwork.",
+                "C. Tasks done straight from a textbook.",
+                "D. Photocopying documents."
+              ],
+              "answer": "A",
+              "explanation": "第三段指出 Tasks that require judgement ... teach skills that cannot be learned from a textbook，而重复性工作虽好看却无话可谈，故选 A。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) Why are unpaid internships often criticised?",
+              "options": [
+                "A. They last too long.",
+                "B. They offer no training at all.",
+                "C. They favour students from wealthier families.",
+                "D. They are against the law."
+              ],
+              "answer": "C",
+              "explanation": "第四段说 Unpaid internships are often criticised because they favour students whose families can support them，即对家庭条件好的学生更有利，故选 C。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) What does Li Na like about her work?",
+              "options": [
+                "A. It pays more than her office job.",
+                "B. It offers sick pay.",
+                "C. She has a manager to guide her.",
+                "D. She chooses her own hours."
+              ],
+              "answer": "D",
+              "explanation": "Passage 2 开头说 She chooses her own hours，并引用她的话 I do not have a manager watching me，说明她喜欢自己安排时间，故选 D。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What is one advantage of gig work mentioned in the passage?",
+              "options": [
+                "A. It fits around other responsibilities.",
+                "B. It guarantees a monthly income.",
+                "C. It provides a pension.",
+                "D. It offers paid holidays."
+              ],
+              "answer": "A",
+              "explanation": "第二段说学生可以在课间挣钱、父母可兼顾照看孩子，For people who find fixed schedules difficult, this flexibility is genuinely valuable，故选 A。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the main concern about gig workers?",
+              "options": [
+                "A. They earn too much money.",
+                "B. They work too few hours.",
+                "C. They lack basic protections.",
+                "D. They are unable to use apps."
+              ],
+              "answer": "C",
+              "explanation": "第三段列举他们通常没有带薪假期、病假和雇主缴纳的养老金，且平台改规则时难以协商，核心问题是缺乏基本保障，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "中国的移动支付已经成为日常生活中很普通的一部分。无论是在超市结账，还是在路边买一份早点，人们只要拿出手机扫一下二维码，几秒钟就能完成付款。这种方式不仅省去了排队找零的麻烦，也让许多小摊主不必准备大量现金。对游客来说，移动支付同样方便，他们可以在手机上绑定银行卡，用一部手机完成旅行中的大部分消费。不过，也有老人表示，自己不太会使用这些软件，希望商家仍然保留现金支付的选项。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "Mobile payment has become an ordinary part of daily life in China. Whether paying at a supermarket checkout or buying breakfast at a roadside stall, people only need to take out their phones and scan a QR code, and the payment is completed within seconds. This method not only saves the trouble of queuing and making change, but also means that many small stallholders no longer need to keep large amounts of cash. For visitors, mobile payment is convenient as well: they can link a bank card to their phone and use a single device for most of their spending during a trip. Some elderly people, however, say that they are not good at using these apps and hope that shops will still keep the option of paying in cash.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

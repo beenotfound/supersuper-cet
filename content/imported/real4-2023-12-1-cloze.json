@@ -1,0 +1,83 @@
+{
+ "id": "real4-2023-12-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2023年12月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-12-1",
+ "paperTitle": "2023年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "passage": "Exercising for just 10 minutes a week is linked to a longer life, according to a new study published in The British Journal of Sports Medicine. Several recent studies have found that even low-intensity exercise, done for a short amount of time, can have a meaningful {{1}}  on health. Still, the idea that exercising for just 10 minutes a week may be enough to increase your lifespan is novel. It's also somewhat ,  {{2}} since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of  {{3}} exercise each week. The study was based on data from more than 88,000 U.S. adults who  {{4}} in the National Health Interview Survey between 1997 and 2008. Contrary to some research that has found an  {{5}} limit to the amount of exercise that is healthy, the researchers found that there was {{6}}  no limit to the longevity( 长寿) benefits of exercise. Even the small group of people who got 10 times the amount of exercise recommended by the federal government had a 46% lower  {{7}} of death than the least active group. Still, observational studies like this one cannot prove cause and effect; they can only find {{8}}  . The researchers also were not able to  {{9}} for certain lifestyle factors that could affect lifespan, including dietary habits and changes in physical activity over time. Despite these ,  {{10}} the study's results are yet another indication of the power of physical activity, even in small amounts.",
+ "bank": [
+  "adjust",
+  "alter",
+  "approximately",
+  "controversial",
+  "coordinates",
+  "impact",
+  "limitations",
+  "moderate",
+  "participated",
+  "patterns",
+  "populated",
+  "risk",
+  "seemingly",
+  "type",
+  "upper"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "impact",
+   "explain": "形容词 meaningful 后、a 后缺名词 have an impact on 是固定搭配，意为\"对……产生影响\" even low-intensity exercise, done for a short amount of time, can have a meaningful __(26)__ on health——have a(n) impact on health 即\"对健康有影响\"，搭配标准、语义 贴切：低强度运动对健康…"
+  },
+  {
+   "n": 2,
+   "answer": "controversial",
+   "explain": "系动词 is + somewhat 之后作表语，需形容词 因与官方指南冲突，故\"有争议\" It's also somewhat __(27)__, since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of __(28)__ exercise ——si…"
+  },
+  {
+   "n": 3,
+   "answer": "moderate",
+   "explain": "名词 exercise 前作定语，需形容词 与 vigorous 对照，moderate exercise 即\"适度/中等强度运动\" at least 75 minutes of vigorous exercise or 150 minutes of __(28)__ exercise—— vigorous（剧烈）对应 75 分钟，or 后强度更低的运动要更多时长 150 分钟，正是 moderate（中等强度）。moderate ex…"
+  },
+  {
+   "n": 4,
+   "answer": "participated",
+   "explain": "关系代词 who 后缺谓语，要填动词且用过去式 participate in 是固定搭配，意为\"参与某调查\" 空后紧跟 in：who __(29)__ in the National Health Interview Survey，participate in 正 是\"参加（一项调查/活动）\"的标准搭配，主语是 88,000 名成年人，语义完全契合\"参加了 全国健康访谈调查\"。 A) adjust 搭配与语义都不对 adjust 意为\"…"
+  },
+  {
+   "n": 5,
+   "answer": "upper",
+   "explain": "名词 limit 前、an 后作定语，需形容词 upper limit（上限）是固定搭配，呼应\"运动量过多是否仍健康\" Contrary to some research that has found an __(30)__ limit to the amount of exercise that is healthy——upper limit 即\"上限\"：有研究认为健康运动量存在一个上限，而本研究 发现\"几乎没有上限\"，前后正成对比，…"
+  },
+  {
+   "n": 6,
+   "answer": "seemingly",
+   "explain": "修饰 no limit 的程度/口吻，需副词 对\"无上限\"这一惊人结论留有余地，\"看似\"无上限 there was __(31)__ no limit to the longevity benefits of exercise——\"运动延寿几乎没 有上限\"是个强结论，作者用 seemingly（看似、貌似）留有余地，既转述发现又不把话说 满，符合科普文严谨口吻。 C) approximately approximately 修饰数字，不…"
+  },
+  {
+   "n": 7,
+   "answer": "risk",
+   "explain": "形容词 lower 之后、of death 之前缺名词 risk of death（死亡风险）是固定搭配，且呼应\"延寿\"主题 had a 46% lower __(32)__ of death——risk of death 即\"死亡风险\"，运动多的人死亡风 险低 46%，正好支撑全文\"运动有益寿命\"的主旨，搭配与语义双双契合。 N) type type of death 不合此处逻辑 type of death 是\"死亡的类型\"，无法用…"
+  },
+  {
+   "n": 8,
+   "answer": "patterns",
+   "explain": "动词 find 后缺宾语，需复数名词 与\"不能证因果、只能发现关联\"形成对照，patterns 即\"关联型态\" observational studies like this one cannot prove cause and effect; they can only find __(33)__——分号前后是对比：不能证明因果，只能找出\"模式/关联\"。patterns 正指观察研 究能看到的相关规律，与 cause and effe…"
+  },
+  {
+   "n": 9,
+   "answer": "adjust",
+   "explain": "情态 able to 之后缺动词原形 adjust for 是研究术语，意为\"校正、排除……因素的影响\" were not able to __(34)__ for certain lifestyle factors that could affect lifespan—— adjust for（在统计中）\"对某些因素加以校正/控制\"是研究方法的固定说法，承接上文\"该研 究有局限\"：研究者没能排除饮食、运动量变化等干扰因素，逻辑严丝合缝…"
+  },
+  {
+   "n": 10,
+   "answer": "limitations",
+   "explain": "介词 Despite + these 之后缺名词，且要复数 承接上文研究的两处不足，these 指代\"这些局限\" 上文刚说研究 cannot prove cause and effect 又 were not able to __(34)__ for certain lifestyle factors，这些都是研究的不足；Despite these limitations（尽管有这些局限）正 好回指这两处缺陷，转折后再肯定研究价值，逻辑…"
+  }
+ ]
+}

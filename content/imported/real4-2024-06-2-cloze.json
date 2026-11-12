@@ -1,0 +1,83 @@
+{
+ "id": "real4-2024-06-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2024年6月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2024-06-2",
+ "paperTitle": "2024年6月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "passage": "A team of researchers led by Priyanka Joshi examined the degree to which men and women relied on \"communicative abstraction\" to verbally convey their ideas and emotions. Communicative abstraction, according to the researchers, reflects the tendency of people to use \"abstract speech that focuses on the broader picture and {{1}}  purpose of action rather than concrete speech focusing on details and the means of {{2}}  action.\" Interestingly, they found that men were far more likely to speak in the abstract than were women. To arrive at this ,  {{3}} the researchers examined the linguistic(语言的) patterns of men and women in over 600,000 blog posts written on websites. To do this, the researchers computed abstractness ratings for {{4}}  40,000 commonly used words in the English language. Words considered to be concrete could be easily visualized, such as \"table\" or \"chair\". Words that were more {{5}}  to visualize, for example, \"justice\" or \"morality\" were considered to be more abstract. They found that men used  {{6}} more abstract language in their blog posts. What is the  {{7}} of this effect? The researchers suggest that power differences between the genders—that is, men having more power in society—might be a key determinant( 决定因素). For instance, in a follow-up study conducted with a sample of 300 students, the researchers  {{8}} power dynamics in an interpersonal setting to see if this would influence communicative abstraction. They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power interviewee role. This suggests that communicating more abstractly does not reflect a {{9}}  tendency of men or women but rather {{10}}  within specific contexts.",
+ "bank": [
+  "approximately",
+  "attaining",
+  "conclusion",
+  "difficult",
+  "emerges",
+  "fixed",
+  "ignored",
+  "legally",
+  "manipulated",
+  "recommended",
+  "refraining",
+  "signals",
+  "significantly",
+  "source",
+  "ultimate"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "ultimate",
+   "explain": "and 前后并列，名词 purpose 之前需要一个与 broader 平行的形容词 ultimate purpose 是英语固定搭配，意为「最终目的」 the ultimate purpose of action「行动的最终目的」与 the broader picture「更宏观的画 面」语义共振，都指向抽象 speech 关注「全局/根本」。与 abstract speech that focuses on the broader …"
+  },
+  {
+   "n": 2,
+   "answer": "attaining",
+   "explain": "介词 of 之后需要动名词作宾语 与前句的 purpose of action 构成「目的—手段」对照 前一句讲抽象 speech 关注 the broader picture and __(26)__ purpose of action，本句讲 具体 speech 关注 details and the means of __(27)__ action。purpose of action（行动 的目的）与 means of attain…"
+  },
+  {
+   "n": 3,
+   "answer": "conclusion",
+   "explain": "指示代词 this 之后需要名词 arrive at a conclusion 是固定搭配，意为「得出结论」 上一段 they found that men were far more likely to speak in the abstract than were women 已经摆出了研究结论；本段开头 To arrive at this __(28)__, the researchers examined…「为得出这一结论，研究…"
+  },
+  {
+   "n": 4,
+   "answer": "approximately",
+   "explain": "空后紧跟数词，需要修饰数词的副词 approximately 是英语里专门修饰数词表「大约」的标配副词 approximately + 数字 是英语里几乎固定的表达「大约 40,000 个常用词」，对应中文「研 究者对大约 4 万个常用英语单词计算了抽象度评分」，与 computed abstractness ratings for __(29)__ 40,000 commonly used words 完全贴合。 H) legally…"
+  },
+  {
+   "n": 5,
+   "answer": "difficult",
+   "explain": "be 动词 were 之后作表语 与上一句「easily visualized」形成 easy ↔ difficult 的反义对照 前一句说具体词「Words considered to be concrete could be easily visualized, such as table or chair」（容易在脑中可视化）；本句说抽象词「more difficult to visualize, for example, jus…"
+  },
+  {
+   "n": 6,
+   "answer": "significantly",
+   "explain": "动词 used 与比较级 more abstract language 之间需要副词修饰 significantly more 是研究/统计文体的高频搭配「显著更多」 research / statistics 文体里 significantly more / significantly higher 几乎是标配表达 「在统计上显著高于」，与 They found that men used __(31)__ more abstract…"
+  },
+  {
+   "n": 7,
+   "answer": "source",
+   "explain": "定冠词 the 之后、of 之前需要名词 the source of this effect 意为「这一效应的根源」，正是下文要追究的「为何如此」 紧接着 The researchers suggest that power differences between the genders…might be a key determinant——把权力差异当作「关键决定因素」，正是回答「root/source 在 哪里」的问题。sourc…"
+  },
+  {
+   "n": 8,
+   "answer": "manipulated",
+   "explain": "主语 the researchers 之后需要谓语动词（过去式） manipulate 在心理学实验语境里的固定义：操控/调控自变量 实验研究中 manipulate 是术语：研究者「人为操控/调控」某一变量看其因果效应。原文 in a follow-up study conducted with a sample of 300 students, the researchers __(33)__ power dynamics in a…"
+  },
+  {
+   "n": 9,
+   "answer": "fixed",
+   "explain": "不定冠词 a 与名词 tendency 之间是定语位 与下半句 rather…within specific contexts 形成「固有 vs 因情境而异」的对比 原句结构 does not reflect a __ tendency…but rather __ within specific contexts 是 not A but B 的反义对比。后半 within specific contexts（在具体情境中浮现）暗示「不是…"
+  },
+  {
+   "n": 10,
+   "answer": "emerges",
+   "explain": "but rather 后并列谓语，需与前句 reflect 平行的第三人称单数动词 与 within specific contexts「在具体情境中」最自然搭配——浮现、出现 emerge within/in specific contexts「在特定情境中浮现」是地道搭配，对应「这种抽象表 达倾向是因情境而生」的结论，与 does not reflect a __(34)__ fixed tendency（不是固有 倾向）正好对仗。…"
+  }
+ ]
+}

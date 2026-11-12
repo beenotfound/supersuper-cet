@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-05-writing",
+ "type": "writing",
+ "level": "cet4",
+ "title": "Writing 写作",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-05",
+ "paperTitle": "大学英语四级标准模拟卷 05",
+ "paperLevel": "cet4",
+ "paperYear": "mock-05",
+ "sectionOrder": 0,
+ "prompt": "Directions: Suppose you took part in a volunteer activity in your community last term. Write an essay of 120 to 150 words describing the experience. In your essay you should: 1) describe what you did; 2) explain what you gained from the activity; 3) encourage your classmates to take part in similar activities.",
+ "reference": "Last term I spent every Saturday morning at a community centre three streets away from my university. My job sounded simple: to help serve breakfast to about forty elderly people and then clean the tables. For the first two weeks I was slow and confused. By the third Saturday, though, I knew who took sugar, who needed a chair near the window, and who simply wanted someone to sit down and listen.\n\nWhat struck me most was how much the visits changed my idea of being useful. I had expected to give my time, but I received lessons in patience and in asking questions instead of giving advice. I also made friends with people whose lives are very different from mine.\n\nIf your schedule allows two hours a week, I would encourage you to sign up. The centre always needs helping hands, and you will probably come back with more than you give.",
+ "keyPoints": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "match-007",
+  "type": "matching",
+  "level": "cet4",
+  "title": "Joining a School Club",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["confidence", "commitment", "responsibility"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "When a new term begins, most students have the same worries: where to sit, which teachers to avoid and how to find friends. A club can answer all three. Members meet regularly, learn names quickly and share a task that gives them something to talk about. The friendships that form in a drama group or a chess club often outlast those made in class, because they grow from a shared interest rather than from sitting near each other. A common purpose is a good introduction. It is easier to talk to someone who is already doing the same thing."
+    },
+    {
+      "label": "B",
+      "text": "Clubs also teach time management. A student who plays in the school band and studies for exams must decide what to do each evening and what to leave until tomorrow. That sounds like pressure, and sometimes it is, but it is also practice for adult life. Members usually discover that a busy week arranged well leaves more free time than an empty week that drifts. Planning is a habit, and a club gives it a reason. The skill is not the activity but the planning around it."
+    },
+    {
+      "label": "C",
+      "text": "Many students join a club without knowing what they want. That is the point. A science club may reveal a taste for experiments; a debating society may show that an argument can be enjoyable. Trying an activity for a term is a cheap way to find out what one likes, and it is much less costly than choosing a university course on a guess. Curiosity is a better guide than a plan made too early. A term is short enough to be safe and long enough to be useful."
+    },
+    {
+      "label": "D",
+      "text": "Clubs also give students a chance to lead. A treasurer, a secretary or a team captain learns to keep records, speak to adults and make decisions that affect other people. These roles are rarely offered in ordinary lessons. A student who has organised a charity collection or a school concert has evidence of responsibility that no examination can provide. Leadership, like any skill, is learned by doing it badly at first. Mistakes are cheaper here than in a first job."
+    },
+    {
+      "label": "E",
+      "text": "Speaking in front of others becomes easier with practice. A member who has presented a report to fifteen classmates is less frightened by a job interview later. Clubs are forgiving places to make mistakes: the audience already knows the speaker and expects imperfection. Confidence grows from small successes rather than from a single lucky performance. A nervous first attempt is part of the training, not a verdict on talent. Practice, not perfection, is the aim of the first term."
+    },
+    {
+      "label": "F",
+      "text": "Teachers can help, but they should not take over. A supportive teacher may find a room, explain the school's rules and suggest a sensible budget, while leaving the ideas to students. Clubs that depend entirely on one member of staff tend to collapse when that teacher changes school. The healthier pattern is a partnership in which adults advise and students decide. Help that creates dependence is not really help. Advice is welcome; a takeover is not."
+    },
+    {
+      "label": "G",
+      "text": "If no suitable club exists, students can start one. The process is usually less difficult than it appears: find a teacher willing to supervise, write a short plan, and ask for the use of a classroom once a week. Schools often welcome new groups because they improve the atmosphere. The first term is the hardest part, and a club needs only a few committed members to survive it. Every large club began with a small meeting. A notice board and a first meeting are enough to begin."
+    },
+    {
+      "label": "H",
+      "text": "Attendance is a commitment to other people. Members who leave early or arrive unprepared make the work heavier for everyone else, and a performance or a competition depends on everyone turning up. Learning to be reliable in a small group is a lesson that is difficult to teach in a classroom, and it is one that members remember long after they forget the club's name. Reliability is a habit that travels beyond school. Being counted on is a quiet kind of reward."
+    },
+    {
+      "label": "I",
+      "text": "Some clubs serve the wider community. A group that visits a care home, collects food for a local charity or plants trees in a park teaches students that their time has value beyond school. The work is often simple, but it changes how members see their neighbourhood. It also looks good on applications, though that should not be the main reason for doing it. Service is most useful when nobody is counting the credit. The effort matters more than the size of the gesture."
+    },
+    {
+      "label": "J",
+      "text": "Parents sometimes worry about cost. Uniforms, instruments and trips can be expensive, and not every family can pay. Most schools have funds or second-hand equipment, and a club that depends on money tends to attract only the students who have it. The best clubs are the ones that ask for enthusiasm first and money second. A group that welcomes everyone is also a better place to learn. A small contribution from many is better than a large one from few."
+    }
+  ],
+  "statements": [
+    { "text": "Clubs help students make friends through shared interests rather than proximity.", "answer": "A" },
+    { "text": "Balancing activities with study teaches planning that carries into adulthood.", "answer": "B" },
+    { "text": "A term in a club is a low-cost way of discovering what one enjoys.", "answer": "C" },
+    { "text": "Roles such as treasurer or captain build skills that exams do not measure.", "answer": "D" },
+    { "text": "Presenting to a familiar audience makes later formal speaking less alarming.", "answer": "E" },
+    { "text": "Adults should guide without controlling, since a club depends on students.", "answer": "F" },
+    { "text": "Starting a group is manageable with a teacher's support and a simple plan.", "answer": "G" },
+    { "text": "Reliability matters because others depend on each member's contribution.", "answer": "H" },
+    { "text": "Service work gives students a sense that their time helps the wider community.", "answer": "I" },
+    { "text": "Cost should not decide who can join, so clubs should offer help.", "answer": "J" }
+  ]
+}

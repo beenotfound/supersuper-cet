@@ -1,0 +1,63 @@
+{
+  "id": "cloze-012",
+  "type": "cloze",
+  "level": "cet4",
+  "title": "Saturday at the Shelter",
+  "difficulty": 2,
+  "source": "original",
+  "targetWords": ["volunteers", "essential", "donate"],
+  "passage": "Every Saturday morning, a small group of people gathers at the animal shelter on the edge of town. They are not staff. They are {{1}}, and they come to walk dogs, clean cages, and spend time with cats that have been waiting a long time for a home.\n\nMost of them started with a simple wish to help, and discovered that the work {{2}} more than it takes. Dogs that are walked regularly become {{3}} and easier to adopt. Cats that are touched every day learn to trust people again. A helper who arrives feeling tired often leaves feeling {{4}}, because the animals do not care about the problems waiting at home.\n\nThe shelter's manager says the helpers are {{5}} to its survival. The budget covers food and medical care, but there is never enough money for extra staff. Without people who {{6}} their free time, many animals would spend whole days alone.\n\nVolunteering is not always {{7}}. Some animals are frightened, some are sick, and a few cannot be adopted at all. New helpers are trained to {{8}} the rules: wash your hands, watch your fingers, and never open a cage without asking. It can be {{9}} at first, but most people find the routine satisfying.\n\nThe shelter also asks its helpers to {{10}} the message that an animal is a long-term responsibility. A puppy given as a gift may be abandoned by winter. If more people understood that, fewer dogs would be waiting on a Saturday morning.",
+  "bank": ["volunteers", "postpone", "calmer", "pleasant", "wooden", "gives", "annual", "cheerful", "follow", "donate", "kitchen", "essential", "confusing", "spread", "punish"],
+  "blanks": [
+    {
+      "n": 1,
+      "answer": "volunteers",
+      "explain": "They are not staff. They are volunteers 指他们不是员工而是“志愿者”，需要复数名词。"
+    },
+    {
+      "n": 2,
+      "answer": "gives",
+      "explain": "the work gives more than it takes 指这份工作“给予”的比索取的多，主语 the work 决定用第三人称单数。"
+    },
+    {
+      "n": 3,
+      "answer": "calmer",
+      "explain": "dogs become calmer 指被经常遛的狗变得更“平静”，也更容易被领养；wooden、annual 不合。"
+    },
+    {
+      "n": 4,
+      "answer": "cheerful",
+      "explain": "leaves feeling cheerful 指离开时感到“愉快”，与 arrives feeling tired 形成对比。"
+    },
+    {
+      "n": 5,
+      "answer": "essential",
+      "explain": "volunteers are essential to its survival 指志愿者对收容所的存续“必不可少”，后文说明人手不足。"
+    },
+    {
+      "n": 6,
+      "answer": "donate",
+      "explain": "people who donate their free time 指“捐出”业余时间的人，与志愿工作的性质吻合。"
+    },
+    {
+      "n": 7,
+      "answer": "pleasant",
+      "explain": "not always pleasant 指志愿工作并不总是“愉快的”，后面列举了害怕、生病的动物。"
+    },
+    {
+      "n": 8,
+      "answer": "follow",
+      "explain": "trained to follow the rules 指接受培训以“遵守”规则，冒号后正是具体规定。"
+    },
+    {
+      "n": 9,
+      "answer": "confusing",
+      "explain": "it can be confusing at first 指一开始可能“令人困惑”，与后文 most people find the routine satisfying 转折。"
+    },
+    {
+      "n": 10,
+      "answer": "spread",
+      "explain": "spread the message 指“传播”这一信息，即养宠物是长期责任；postpone、punish 不合。"
+    }
+  ]
+}

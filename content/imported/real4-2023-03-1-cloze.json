@@ -1,0 +1,83 @@
+{
+ "id": "real4-2023-03-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2023年3月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-03-1",
+ "paperTitle": "2023年3月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-03",
+ "passage": "It's a fantasy that goes back centuries: a message in a bottle, carried ashore from far-off lands. Authors, artists and children {{1}}  have dreamed of such a gift from the sea. This time, though, it's not a bottle that washes ashore. It's eggs—thousands of little toy eggs. That's what happened on the German island of Langeoog this week. Lying just off the North Sea coast, it found itself  {{2}} by an invasion of colored plastic eggs —much to the  {{3}} of local children, because the eggs contained toys. Police  {{4}} the eggs came from a freighter that lost part of its cargo during an unusually {{5}}  storm, the worst to hit Germany's northeastern coast since 2006. At any rate, what was lost has now been found by many of the community's littlest residents. \"The surprise eggs have found their way to freedom,\" said Mayor Uwe Garrels. However, the joy of the moment {{6}}  off soon. \"At first I thought this was a wonder, because everything was so {{7}}  , but then we realized that this is a huge {{8}}  in the end,\" said the mayor. He also noted the plastic bags and other materials that have washed ashore on the island can cause serious problems for {{9}}  . Still, all these little eggs contained an extra treat with their toys. They  {{10}} notes from afar. There was just one problem for the German children who received them: They were written in Russian.",
+ "bank": [
+  "wore",
+  "wildlife",
+  "suspect",
+  "struck",
+  "similar",
+  "quantity",
+  "overthrown",
+  "mess",
+  "intense",
+  "human",
+  "effective",
+  "delight",
+  "colorful",
+  "bore",
+  "alike"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "alike",
+   "explain": "主语 + ___ + have dreamed，插在主语与谓语间修饰整句 alike 作副词表\"同样地、都\"，强调三类人\"都\"做过此梦 前文列举 Authors, artists and children三类主体，alike 置于其后表\"作家、艺术家和孩子 都一样（地做过这样的梦）\"，呼应开篇\"延续数百年的幻想\"。 31 32 33 34 35"
+  },
+  {
+   "n": 2,
+   "answer": "struck",
+   "explain": "it found itself ___ by an invasion，过去分词作宾补 be struck by 表\"遭受、被袭击\"，小岛被彩蛋\"大军\"侵袭 宾语是 an invasion of colored plastic eggs（彩蛋的\"入侵/大举涌来\"）。be struck by （遭…袭击）与 invasion 呼应，\"小岛发现自己被一场彩蛋入侵所袭\"，生动且搭配地道。 G) overthrown overthrown 指\"推…"
+  },
+  {
+   "n": 3,
+   "answer": "delight",
+   "explain": "to the ___ of 结构里，定冠词 the 后必跟名词 蛋里有玩具，孩子\"非常高兴\"，且 much to the delight of 是固定表达 下文给出原因 because the eggs contained toys——蛋里装着玩具，对孩子是大喜 事。\"much to the delight of local children\"（令当地孩子大喜）语义与搭配双双吻合。 F) quantity 语义不对，孩子的是\"喜悦\"不是…"
+  },
+  {
+   "n": 4,
+   "answer": "suspect",
+   "explain": "Police ___ the eggs came...，主语 Police 后缺谓语 警方\"猜测\"蛋来自一艘失货货轮，suspect + 从句表推测 下文 the eggs came from a freighter that lost part of its cargo是警方推断的内容； suspect that... 正表\"警方怀疑/认为……\"，符合警方调查口吻。"
+  },
+  {
+   "n": 5,
+   "answer": "intense",
+   "explain": "an unusually ___ storm，副词 + 空 + 名词，空作定语修饰 storm 形容\"风暴\"且后文\"自2006年以来最猛\"印证其强烈 同句下文 the worst to hit Germany's northeastern coast since 2006——自 2006 年以 来最严重的一场。an unusually intense storm（异常猛烈的风暴）与\"最严重\"互相印证。 M) colorful 搭配荒谬，…"
+  },
+  {
+   "n": 6,
+   "answer": "wore",
+   "explain": "the joy ___ off soon，主语 joy 后缺谓语，紧跟 off wear off 是固定短语\"逐渐消退\"，喜悦\"很快消退\"合转折 前句 \"The surprise eggs have found their way to freedom\"是欢快的，紧接 However, the joy of the moment __(31)__ off soon——However 转折，\"那一刻的喜悦很快消 退\"。wore off（w…"
+  },
+  {
+   "n": 7,
+   "answer": "colorful",
+   "explain": "everything was so ___，系动词 was + so + 空作表语 回指前文\"彩色塑料蛋\"，市长起初觉得\"一切如此缤纷\"像奇迹 前文 an invasion of colored plastic eggs——彩色塑料蛋遍地。市长说 At first I thought this was a wonder, because everything was so __(32)__，\"起初以为是奇迹，因为一切都 那么缤纷\"，co…"
+  },
+  {
+   "n": 8,
+   "answer": "mess",
+   "explain": "a huge ___，冠词 a + 形容词 huge + 空，空作中心名词 but then 转折后揭示是个\"大麻烦/烂摊子\" 句中 but then we realized that this is a huge __(33)__ in the end——\"但随后我们意识 到这最终是个大麻烦\"。but then 与前半\"以为是奇迹\"对立，需一个负面名词，mess（烂摊 子）正合。 F) quantity 中性词，撑不起 but the…"
+  },
+  {
+   "n": 9,
+   "answer": "wildlife",
+   "explain": "介词 for 后接宾语，需名词 塑料袋等垃圾对\"野生动物\"造成危害，环保语境最贴 上文 the plastic bags and other materials that have washed ashore——冲上岸的塑料 袋等垃圾。海洋塑料垃圾危害的正是 wildlife（野生动物），逻辑顺理成章。 J) human 义近干扰：垃圾确也害人，但本句焦点是海岛生态而非人 human 看着也沾边，但塑料垃圾在环保叙事里的典型受害者是野生…"
+  },
+  {
+   "n": 10,
+   "answer": "bore",
+   "explain": "They ___ notes...，主语 They 后缺谓语，带宾语 notes 蛋\"带有/装着\"远方的纸条，bore（bear 过去式）表携带 上文 all these little eggs contained an extra treat with their toys说蛋里还藏着额外惊 喜。承接此意，They bore notes from afar——\"它们带着来自远方的纸条\"，bore 取 bear\"携带、装载\"义，与 co…"
+  }
+ ]
+}

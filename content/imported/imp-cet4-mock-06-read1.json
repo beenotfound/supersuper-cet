@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-06-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-06",
+ "paperTitle": "大学英语四级标准模拟卷 06",
+ "paperLevel": "cet4",
+ "paperYear": "mock-06",
+ "sectionOrder": 4,
+ "passage": "When students go abroad, they usually prepare for language problems. Few prepare for the quieter difficulty of everyday habits.\n\nA month after arriving in Germany, a Chinese student found that she was exhausted every evening, although her classes were no longer than they had been at home. Nothing was wrong with her health. Her energy was going into small decisions: whether to greet a neighbour in the corridor, how long to wait for a bus that might not come, whether the silence of a shared kitchen meant that her flatmates disliked her. Each choice took seconds, but there were hundreds of them a day.\n\nResearchers who study adaptation call this 'cultural fatigue'. It is not a sign of weakness, and it does not mean that the move was a mistake. It appears in students who are doing well academically as well as in those who are homesick. The usual advice, such as making local friends and joining clubs, is sound but incomplete, because it describes the cure without naming the illness.\n\nWhat seems to help most is routine. Students who keep one or two fixed habits, such as a Saturday morning run or a weekly cooking evening with the same people, report feeling more settled than those who try to be social every night. Predictability saves energy, and energy is exactly what adaptation demands.\n\nThe second helpful thing is a sense of humour about mistakes. Students who can laugh when they use the wrong word in a shop recover faster than those who treat every misunderstanding as a personal failure. Nobody speaks a foreign language perfectly in the first month, and the people serving you are usually too busy to remember your mistake five minutes later.",
+ "questions": [
+  {
+   "q": "What left the Chinese student in Germany exhausted?",
+   "options": [
+    "Making a great many small decisions every day.",
+    "Attending classes that were longer than before.",
+    "Cooking for her flatmates every evening.",
+    "Travelling to the city centre by bus."
+   ],
+   "answer": 0,
+   "explain": "第二段说 Her energy was going into small decisions，并列举问候邻居、等公交等琐事，故 A 正确；文中明确说课时并不比国内长，排除 B。"
+  },
+  {
+   "q": "What do researchers say about cultural fatigue?",
+   "options": [
+    "It only affects students who are homesick.",
+    "It can affect students who are doing well in their studies.",
+    "It usually disappears within the first month.",
+    "It shows that the student chose the wrong country."
+   ],
+   "answer": 1,
+   "explain": "第三段说 It appears in students who are doing well academically as well as in those who are homesick，故选 B。"
+  },
+  {
+   "q": "Why is the usual advice thought to be incomplete?",
+   "options": [
+    "It costs money that students do not have.",
+    "It is too difficult for most students to follow.",
+    "It describes the cure without naming the illness.",
+    "It only works for outgoing students."
+   ],
+   "answer": 2,
+   "explain": "第三段说 it describes the cure without naming the illness，即只给对策却没有指出问题所在，故选 C。"
+  },
+  {
+   "q": "What seems to help students feel more settled?",
+   "options": [
+    "Trying to be social every night.",
+    "Learning the language perfectly.",
+    "Living with a local family.",
+    "Keeping one or two fixed routines."
+   ],
+   "answer": 3,
+   "explain": "第四段说 Students who keep one or two fixed habits... report feeling more settled than those who try to be social every night，故选 D。"
+  }
+ ]
+}

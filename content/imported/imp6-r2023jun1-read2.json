@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2023jun1-read2",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2023年6月六级第一套 阅读2",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023jun1",
+ "paperTitle": "2023年6月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-06",
+ "passage": "children to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom. Most American children are taught to read in a way that study after study has found to be wrong. The consequences of this are striking. Less than half of all American adults were proficient readers international exam. Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as “whole language”. Most teachers today, almost three out of four according to a survey by the EdWeek ineffective. “You can’t sprinkle in a little phonics,” says Tenette Smith, executive director of elementary Mississippi, often behind in social policy, has set an example here. In a state once notorious for its Mississippi has seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam. In 2019 it was the only state to readers, a remarkable achievement in such a poor state. Mississippi’s success is attributed to implementing reading methods supported by a body of research known as the science of reading. In 1997 Congress requested the National Institute of Child Health and Human Development and the Department of Education to convene a National Reading Panel to end the “reading wars” and synthesize the evidence. The panel found that phonics, along with explicit instruction in phonemic (音位的) awareness, fluency and comprehension, worked best. osmosis (潜移默化) when they were children. Without proper training, they bring this to classrooms.",
+ "questions": [
+  {
+   "q": "What do we learn about phonics in many American classrooms?",
+   "options": [
+    "It is ill reputed.",
+    "It is mostly misapplied.",
+    "It is arbitrarily excluded.",
+    "It is misrepresented."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What has America been witnessing for decades?",
+   "options": [
+    "An obsession with innovating teaching methodologies of reading.",
+    "An enduring debate over the approach to teaching children to read.",
+    "An increasing concern with many children’s inadequacy in literacy.",
+    "An ever-forceful advocacy of a combined method for teaching reading."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "Why does Tenette Smith think a combination of teaching methods is ineffective?",
+   "options": [
+    "Elementary school children will be frustrated when taught with several methods combined.",
+    "Phonics has to be systematically applied and clearly taught to achieve the desired effect.",
+    "Sprinkling in a little phonics deters the progress of even adequately motivated children.",
+    "Balanced literacy fails to sustain children’s interest in developing a good reading habit."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What does the author say Mississippi’s success is attributed to?",
+   "options": [
+    "Convening a National Reading Panel to synthesize research evidence.",
+    "Placing sufficient emphasis upon both fluency and comprehension.",
+    "Adopting scientifically grounded approaches to teaching reading.",
+    "Obtaining support from Congress to upgrade teaching methods."
+   ],
+   "answer": 2,
+   "explain": ""
+  },
+  {
+   "q": "What have advances in statistics and brain imaging proved ineffective?",
+   "options": [
+    "The teaching of symbol-sound relationships.",
+    "Efforts to end the reading wars.",
+    "Explicit instruction in phonemic awareness.",
+    "The immersive approach."
+   ],
+   "answer": 3,
+   "explain": ""
+  }
+ ]
+}

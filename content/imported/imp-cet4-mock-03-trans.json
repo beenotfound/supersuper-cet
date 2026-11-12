@@ -1,0 +1,17 @@
+{
+ "id": "imp-cet4-mock-03-trans",
+ "type": "translation",
+ "level": "cet4",
+ "title": "Translation 翻译",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-03",
+ "paperTitle": "大学英语四级标准模拟卷 03",
+ "paperLevel": "cet4",
+ "paperYear": "mock-03",
+ "sectionOrder": 5,
+ "prompt": "“绿水青山就是金山银山”这一理念如今被越来越多的中国人所熟悉。它提醒我们，保护环境与发展经济并不矛盾。近年来，许多地方通过植树造林、治理河流和建设公园，让曾经污染的矿区变成了旅游景点。当地居民靠经营民宿和出售农产品增加了收入，也更加珍惜身边的环境。绿色发展意味着节约资源、减少浪费，把干净的空气和水留给下一代。这不仅是政府的责任，也需要每个人从日常生活做起。",
+ "reference": "The idea that green mountains and clear waters are as valuable as gold and silver is now familiar to more and more Chinese people. It reminds us that protecting the environment and developing the economy do not contradict each other. In recent years, many places have turned polluted mining areas into tourist attractions by planting trees, cleaning up rivers and building parks. Local residents have earned more by running guesthouses and selling farm products, and they value the environment around them even more. Green development means saving resources, reducing waste and leaving clean air and water to the next generation. This is not only the responsibility of the government; it also requires each of us to start with our daily lives.",
+ "keyPoints": []
+}

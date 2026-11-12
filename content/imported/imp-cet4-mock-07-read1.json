@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-mock-07-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-07",
+ "paperTitle": "大学英语四级标准模拟卷 07",
+ "paperLevel": "cet4",
+ "paperYear": "mock-07",
+ "sectionOrder": 4,
+ "passage": "Every spring, thousands of students compete for summer internships, and the pressure is easy to understand. A recent survey of graduates found that those who had completed at least one internship received more job offers than those who had none. But the same survey produced a more interesting result: the length of the internship mattered less than the quality of the feedback the students received.\n\nThis finding challenges a common assumption. Many students believe that simply adding a famous company's name to their CV is enough. In practice, interviewers often ask what the candidate actually did. A student who spent three months photocopying documents in a large firm may have less to say than one who spent six weeks in a small studio where the manager explained every decision.\n\nThe nature of the work matters too. Tasks that require judgement, such as writing a short report, contacting clients or solving a practical problem, teach skills that cannot be learned from a textbook. By contrast, repetitive tasks may look impressive on paper but leave little to discuss in an interview.\n\nThere is also the question of payment. Unpaid internships are often criticised because they favour students whose families can support them. Some employers have responded by offering a modest allowance and travel costs, and a few universities now fund summer placements for students from lower-income backgrounds.\n\nThe lesson for students is clear. Before accepting an internship, ask what you will be doing, who will supervise you and whether anyone will comment on your work. A famous logo may open a door, but it is the experience behind the door that employers actually value.",
+ "questions": [
+  {
+   "q": "What did the survey find mattered most about an internship?",
+   "options": [
+    "How long it lasted.",
+    "The reputation of the company.",
+    "The salary that was paid.",
+    "The quality of feedback the student received."
+   ],
+   "answer": 3,
+   "explain": "Passage 1 第一段末尾明确说 the length of the internship mattered less than the quality of the feedback the students received，即反馈质量最重要，故选 D。"
+  },
+  {
+   "q": "Why might a small studio offer a better internship than a large firm?",
+   "options": [
+    "It usually pays more money.",
+    "The manager explains every decision.",
+    "The work is much easier.",
+    "It lasts much longer."
+   ],
+   "answer": 1,
+   "explain": "第二段举例说，在小工作室实习的学生有 the manager explained every decision，因而在面试中有更多可谈的内容，故选 B。"
+  },
+  {
+   "q": "What kind of tasks does the author value most?",
+   "options": [
+    "Tasks that require judgement.",
+    "Repetitive paperwork.",
+    "Tasks done straight from a textbook.",
+    "Photocopying documents."
+   ],
+   "answer": 0,
+   "explain": "第三段指出 Tasks that require judgement ... teach skills that cannot be learned from a textbook，而重复性工作虽好看却无话可谈，故选 A。"
+  },
+  {
+   "q": "Why are unpaid internships often criticised?",
+   "options": [
+    "They last too long.",
+    "They offer no training at all.",
+    "They favour students from wealthier families.",
+    "They are against the law."
+   ],
+   "answer": 2,
+   "explain": "第四段说 Unpaid internships are often criticised because they favour students whose families can support them，即对家庭条件好的学生更有利，故选 C。"
+  }
+ ]
+}

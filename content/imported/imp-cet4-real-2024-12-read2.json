@@ -1,0 +1,50 @@
+{
+ "id": "imp-cet4-real-2024-12-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-12",
+ "paperTitle": "2024年12月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-12",
+ "sectionOrder": 4,
+ "passage": "Twenty years ago, bottled water seemed to be the future. Supermarkets devoted whole aisles to it, restaurants proudly poured it, and carrying a plastic bottle became a habit for commuters and students alike. Today the picture looks different. Across Europe and parts of Asia, cities are installing public refill stations and handing out reusable bottles, and a growing number of shops and cafes allow customers to fill up for free.\n\nThe argument for refill stations is partly about waste. A single plastic bottle may take hundreds of years to break down, and even when it is recycled, the process uses energy and water. Refill stations, by contrast, serve thousands of people from one pipe. Supporters also point to cost: tap water is far cheaper than the bottled kind, and they question whether the difference in taste is as great as advertising suggests. In blind tests, many volunteers cannot tell one from the other, and restaurants and offices have begun to install refill points of their own.\n\nBut the movement has its critics. Some consumers worry about the quality of tap water, especially in cities where the pipes are old. Others say that refill stations are only convenient for people who work or travel in the city centre; those living in distant suburbs may still find it easier to buy a bottle. For the habit to change, therefore, the stations must be almost everywhere a person goes: stations, parks, schools, offices and bus stops.\n\nThat is a practical challenge, but hardly an impossible one. The real test is not whether people approve of free water in theory, but whether a refill is easier than a purchase. Where that is true, the old habit tends to disappear.",
+ "questions": [
+  {
+   "q": "What change does the author describe at the beginning of the passage?",
+   "options": [
+    "Bottled water has lost its status as the natural choice.",
+    "Bottled water has become more expensive than ever.",
+    "Tap water has disappeared from supermarket shelves.",
+    "Restaurants have stopped serving water to customers."
+   ],
+   "answer": 0,
+   "explain": "首段说二十年前瓶装水似乎是未来，如今城市安装公共直饮点、发放可重复使用的水瓶，说明它不再是默认选择，故选 A。"
+  },
+  {
+   "q": "What do supporters of refill stations argue?",
+   "options": [
+    "Bottled water contains too much sugar.",
+    "Refill stations should be run by the government.",
+    "Bottled water costs more and often tastes no better.",
+    "Reusable bottles are easier to carry than plastic ones."
+   ],
+   "answer": 2,
+   "explain": "第二段说支持者指出自来水比瓶装水便宜得多，并质疑口感差异是否真有广告说的那么大，盲测中许多人分辨不出，故选 C。"
+  },
+  {
+   "q": "What is the main challenge facing the refill movement?",
+   "options": [
+    "Lack of support from city governments.",
+    "Making refill stations convenient for everyone.",
+    "The high cost of building the stations.",
+    "A shortage of clean water in big cities."
+   ],
+   "answer": 1,
+   "explain": "第三、四段说真正的挑战是让直饮点几乎出现在人们去的所有地方，使接水比买水更方便，故选 B。"
+  }
+ ]
+}

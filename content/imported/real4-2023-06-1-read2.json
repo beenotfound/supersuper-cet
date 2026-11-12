@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-06-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年6月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-06-1",
+ "paperTitle": "2023年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-06",
+ "passage": "P1 Most of us in the entrepreneurial community are blessed—or cursed—with higher-than-average ambition. Ambitious people strongly desire accomplishments and are willing to take more risks and spend more effort to get them.\n\nP2 Overall, this is a positive quality, especially for people trying to build their own businesses. Apparently, if you're more naturally driven to set goals, you are more likely to succeed.\n\nP3 Actually, this isn't always the case. In fact, in some cases, extreme ambition may end up doing more harm than good.\n\nP4 One major side effect of excessive ambition is the tendency to focus too determinedly on one particular vision or end goal. This is problematic because it hinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur. If a new competitor emerges to threaten your business, you may need to change direction, even if that means straying from your original vision. If you have too much ambition, you'll find this hard, if not impossible.\n\nP5 Few people are successful when they try to build their first brand. Unfortunately, for the most ambitious entrepreneurs, a failure is seen as disastrous, and impossible to recover from.\n\nP6 It's a clear departure from the intended plan toward the intended goal. For people with limited ambition, however, failure is viewed as something closer to reality. Remember, failure is inevitable, and every failure you survive is a learning experience.\n\nP7 Ambitious people tend to be more materialistically successful than their non-ambitious counterparts. However, they're only slightly happier than their less-ambitious counterparts, and tend to live significantly shorter lives. This implies that even though ambitious people are more likely to achieve conventional \"success,\" such success means nothing for their health and happiness—and if you don't have health and happiness, what else could possibly matter?\n\nP8 Clearly, some amount of ambition is good for your motivation. Without any ambition, you wouldn't start your own business, set or achieve goals and get far in life. But an excess of ambition can also be dangerous, putting you at risk of burnout, stubbornness and even a shorter life.",
+ "questions": [
+  {
+   "q": "What does the author think of most entrepreneurs?",
+   "options": [
+    "They are more willing to risk their own lives.",
+    "They are more ambitious than ordinary people.",
+    "They achieve greater nonconventional success.",
+    "They have more positive qualities than most of us."
+   ],
+   "answer": 1,
+   "explain": "题干 What does the author think of most entrepreneurs? 直接问对一个明确对象的看 法，答案能在原文某句找到对应陈述，不需跨段综合，属细节题而非推断。 题干 What does the author think of most entrepreneurs? 是 think of 引导的特殊疑问 句，think of sb 意为\"对某人的看法\"，结构平铺直叙、无陷阱。 Most of us …"
+  },
+  {
+   "q": "What does the author imply by saying \"this isn't always the case\" (Line 1, Para. 3)?",
+   "options": [
+    "Ambitious people may not have a greater chance of success.",
+    "Ambitious people may not have more positive qualities.",
+    "Entrepreneurs' ambition does as much good as harm.",
+    "Entrepreneurs are more naturally driven to success."
+   ],
+   "answer": 0,
+   "explain": "题干 What does the author imply by saying \"this isn't always the case\" 用 imply by saying 问一个具体句子的含义，要求理解 this 指代什么、否定的是什么，属词义句意题。 题干主干 What does the author imply，by saying \"...\" 是方式状语；关键在引文里的 this 是指代词，须回原文找它替代的上文内容；isn't …"
+  },
+  {
+   "q": "What does the author say is of extreme importance for one to become a successful entrepreneur?",
+   "options": [
+    "Holding on to one's original vision.",
+    "Being able to adapt to new situations.",
+    "Focusing determinedly on one particular goal.",
+    "Avoiding radical change in one's career direction."
+   ],
+   "answer": 1,
+   "explain": "题干 What does the author say is of extreme importance 用 say 直问作者明说的内容， 答案是原文一句强调重要性的话，属细节题。 题干 What does the author say is of extreme importance for one to become a successful entrepreneur?，主干是 What...is of extreme import…"
+  },
+  {
+   "q": "How do the most ambitious entrepreneurs regard failure in their endeavor?",
+   "options": [
+    "It will awaken them to reality.",
+    "It is a lesson they have to learn.",
+    "It means the end of their career.",
+    "It will result in a slow recovery."
+   ],
+   "answer": 2,
+   "explain": "题干 How do the most ambitious entrepreneurs regard failure 问一个明确群体对失败 的态度，原文有明文表述，属细节题。 题干 How do the most ambitious entrepreneurs regard failure in their endeavor?， regard sth 意为\"看待某事\"，in their endeavor（在其奋斗中）是范围状语；结构清晰、…"
+  },
+  {
+   "q": "What does the author advise us to do concerning ambition?",
+   "options": [
+    "Distinguish between conventional success and our life goal.",
+    "Follow the example of the most ambitious entrepreneurs.",
+    "Avoid taking unnecessary risks when starting a business.",
+    "Prioritize health and happiness over material success."
+   ],
+   "answer": 3,
+   "explain": "题干 What does the author advise us to do concerning ambition? 问作者的建议，原文 未必有一句直说\"我建议你……\"，需综合全文对野心利弊的论述提炼，属推断题。 题干 What does the author advise us to do concerning ambition?，advise sb to do 意为\"建议某人做某事\"，concerning ambition（关于…"
+  }
+ ]
+}

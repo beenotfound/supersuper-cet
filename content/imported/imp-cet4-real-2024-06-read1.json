@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-real-2024-06-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-06",
+ "paperTitle": "2024年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "sectionOrder": 4,
+ "passage": "Each autumn, thousands of students arrive at university straight from school, and a small but growing number arrive a year later, after a gap year. The idea of taking a year off between school and university used to worry parents, who imagined a year of sleeping late and playing computer games. Research suggests a different picture. In Britain, where the practice has been studied for decades, students who took a structured gap year, working, volunteering or travelling with a purpose, are slightly less likely to drop out and slightly more likely to finish with a good degree. The effect is small, and researchers are careful not to overstate it. Students who take a gap year are already, on average, more confident and better organized than those who do not, so it is hard to separate the year from the person.\n\nWhat the evidence does support is narrower. A year of doing something difficult, teaching in a rural school, working in a restaurant kitchen or learning a language badly before learning it better, gives young people a kind of confidence that classrooms rarely produce. They discover that they can be useful, that adults will listen to them, and that failure is survivable. They also learn what they do not want to do, which can be as valuable as discovering a career.\n\nFor families considering it, the practical advice from universities is simple. The year should have a plan, a purpose and someone to report back to; it does not need to be expensive or far away. A gap year spent well is not a year off. It is a year of a completely different kind of learning.",
+ "questions": [
+  {
+   "q": "What does the British research suggest about a structured gap year?",
+   "options": [
+    "It is useful only for students who failed their school exams.",
+    "It is linked to slightly better results at university.",
+    "It makes students much more likely to drop out.",
+    "It costs more than a year of university study."
+   ],
+   "answer": 1,
+   "explain": "Passage 1 首段说学生 slightly less likely to drop out and slightly more likely to finish with a good degree，即与更好的学业结果略有相关，故选 B。"
+  },
+  {
+   "q": "Why is it hard to separate the effect of the gap year from the person?",
+   "options": [
+    "Gap-year students rarely answer surveys.",
+    "Universities keep no records of gap years.",
+    "Gap-year activities are too different to compare.",
+    "Students who take a gap year are already more confident and organized."
+   ],
+   "answer": 3,
+   "explain": "首段末尾说 Students who take a gap year are already, on average, more confident and better organized than those who do not, so it is hard to separate the year from the person，故选 D。"
+  },
+  {
+   "q": "What do young people gain from doing something difficult for a year?",
+   "options": [
+    "A guaranteed place on a prestigious course.",
+    "Higher marks in their final school exams.",
+    "Confidence and the knowledge that failure is survivable.",
+    "A career plan chosen by their parents."
+   ],
+   "answer": 2,
+   "explain": "第二段说他们发现自己有用、大人会听他们说话，and that failure is survivable，即获得自信并明白失败可以承受，故选 C。"
+  },
+  {
+   "q": "What practical advice does the passage give to families?",
+   "options": [
+    "The year should have a plan, a purpose and someone to report back to.",
+    "The year should be spent as far from home as possible.",
+    "The year must be paid for by the university.",
+    "The year should be kept secret from friends."
+   ],
+   "answer": 0,
+   "explain": "末段建议 The year should have a plan, a purpose and someone to report back to，并说不必昂贵或远行，故选 A。"
+  }
+ ]
+}

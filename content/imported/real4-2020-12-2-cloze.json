@@ -1,0 +1,83 @@
+{
+ "id": "real4-2020-12-2-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2020年12月大学英语四级真题（第2套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-12-2",
+ "paperTitle": "2020年12月大学英语四级真题（第2套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-12",
+ "passage": "When my son completes a task, I can't help but praise him. It's only natural to give praise where praise is due, right? But is there such a thing as too much praise? According to psychologist Katherine Phillip, children don't benefit from  {{1}} praise as much as we'd like to think. \"Parents often praise, believing they are building their child's self-confidence. However, over-praising can have a {{2}}  effect,\" says Phillip. \"When we use the same praise {{3}}  , it may become empty and no longer valued by the child. It can also become an expectation that anything they do must be {{4}}  with praise. This may lead to the child avoiding taking risks due to fear of {{5}}  their parents.\" Does this mean we should do away with all the praise? Phillip says no. \"The key to healthy praise is to focus on the process rather than the {{6}}  . It is the recognition of a child's attempt, or the process in which they achieved something, that is essential,\" she says. \"Parents should encourage their child to take the risks needed to learn and grow.\" So how do we break the  {{7}} of praise we're all so accustomed to? Phillip says it's important to  {{8}} between \"person praise\" and \"process praise\". \"Person praise is  {{9}} saying how great someone is. It's a form of personal approval. Process praise is acknowledgement of the efforts the person has just {{10}}  . Children who receive person praise are more likely to feel shame after losing,\" says Phillip.",
+ "bank": [
+  "choose",
+  "constant",
+  "disappointing",
+  "distinguish",
+  "exhausting",
+  "experienced",
+  "negative",
+  "outcome",
+  "pattern",
+  "plural",
+  "repeatedly",
+  "rewarded",
+  "separately",
+  "simply",
+  "undertaken"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "constant",
+   "explain": "from + ___ + 名词 praise，定语位 对应下文\"反复使用\"\"过度表扬\"——\"持续不断的表扬\" over-praising can have a __(27)__ effect 与 When we use the same praise __(28)__ 都 在说\"表扬太多/太频繁\"，故空里要的是\"持续不断的\"——constant praise 完美对应主旨\"过 度表扬反成害\"。 C) disappointing \"令人失…"
+  },
+  {
+   "n": 2,
+   "answer": "negative",
+   "explain": "冠词 a 与名词 effect 之间，定语位 与上文\"父母以为表扬利于自信\"形成 However 转折 Parents often praise, believing they are building their child's self-confidence. However, over-praising can have a __(27)__ effect：However 提示语义反转，前句是正 面（建立自信），所以 effect…"
+  },
+  {
+   "n": 3,
+   "answer": "repeatedly",
+   "explain": "动词 use 后修饰动作 → 要副词 对应上文\"使用同样的表扬\"暗含的\"反复\" When we use the same praise __(28)__, it may become empty：\"反复地\"用同一句表 扬，才会让表扬变得空洞无意义；repeatedly 与 the same praise、become empty 三者 构成完整因果链。 M) separately \"分开地\"与上下文逻辑无关 separately 表示\"…"
+  },
+  {
+   "n": 4,
+   "answer": "rewarded",
+   "explain": "be + ___ + with：被动结构里要过去分词作表语 be rewarded with 是\"被奖以……\"的固定搭配 anything they do must be __(29)__ with praise：\"他们做的任何事都必须以表扬作为奖 励\"，be rewarded with praise 是地道搭配，完美对应上下文\"孩子开始期待每件事都得到 表扬\"。 C) disappointing be disappointing wi…"
+  },
+  {
+   "n": 5,
+   "answer": "disappointing",
+   "explain": "fear of + 动名词：of 后接 V-ing fear of disappointing their parents = \"怕让父母失望\" the child avoiding taking risks due to fear of __(30)__ their parents：上文说孩子被表 扬养成依赖，做事就怕没表扬；逻辑链 = 怕没被表扬 → 怕让父母失望 → 不敢冒险。 disappointing 表\"使……失望\"，逻辑完…"
+  },
+  {
+   "n": 6,
+   "answer": "outcome",
+   "explain": "rather than 后与前面 the process 平行 → 名词 \"过程 vs 结果\"是教育心理学经典对立 focus on the process rather than the __(31)__：process（过程）的天然反义就是 outcome（结果）；下文 It is the recognition of a child's attempt, or the process in which they achieved …"
+  },
+  {
+   "n": 7,
+   "answer": "pattern",
+   "explain": "the + ___ + of 名词 = 名词中心词 \"打破表扬的（习惯化）模式\"——pattern 表惯常做法 how do we break the __(32)__ of praise we're all so accustomed to：we're all so accustomed to 提示这是\"我们都已习惯的\"东西，pattern 正是\"惯常模式\"；break the pattern 是固定搭配\"打破惯例\"。"
+  },
+  {
+   "n": 8,
+   "answer": "distinguish",
+   "explain": "情态动词 important to 后接动词原形 固定搭配 distinguish between A and B = 区分两者 to __(33)__ between \"person praise\" and \"process praise\"：英语中\"区分 A 和 B\"的标 准搭配就是 distinguish between A and B；下文紧接着分别给两者下定义，正是\"区分\"的 展开。 A) choose choose betwe…"
+  },
+  {
+   "n": 9,
+   "answer": "simply",
+   "explain": "be 动词与现在分词之间 → 副词作状语 \"仅仅是说某人多棒\"——是给 person praise 下定义 Person praise is __(34)__ saying how great someone is. It's a form of personal approval.：simply 表\"仅仅、只不过\"，用来给概念下精简的定义最贴切：\"person praise 不过就是夸某人多棒\"。"
+  },
+  {
+   "n": 10,
+   "answer": "undertaken",
+   "explain": "has just + ___：现在完成时要过去分词 undertake efforts = \"付出努力\"，是地道动宾搭配 acknowledgement of the efforts the person has just __(35)__：undertake 表\"承担、从 事\"，undertake efforts/a task 是常见搭配；\"承认这个人刚刚付出的努力\"——与上文 process praise 关注\"过程\"完美呼应。 F…"
+  }
+ ]
+}

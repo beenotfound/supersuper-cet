@@ -1,0 +1,413 @@
+{
+  "papers": [
+    {
+      "id": "cet4-mock-02",
+      "title": "大学英语四级标准模拟卷 02",
+      "level": "CET4",
+      "year": "mock-02",
+      "durationMinutes": 125,
+      "tags": ["模拟", "星火式编排"],
+      "sections": [
+        {
+          "id": "writing",
+          "title": "Writing 写作",
+          "type": "writing",
+          "prompt": "Directions: More and more university students use AI tools to help with their studies. Some say such tools save time, while others worry that students may become too dependent on them. Write an essay on how students should use AI tools in their studies. In your essay you should: 1) describe the benefits of AI tools; 2) point out the possible risks; 3) give your advice on how to use them properly. You should write at least 120 words but no more than 180 words.",
+          "promptZh": "越来越多的大学生借助人工智能工具学习。请就“学生应如何在学习中使用人工智能工具”写一篇短文，内容包括：1）说明人工智能工具的好处；2）指出可能的风险；3）给出合理使用的建议。词数 120–180 词。",
+          "reference": "AI tools are now part of everyday study, and I believe they can be helpful if they are used with care. They save time on boring tasks such as checking grammar or finding the right word, and they can explain a difficult idea in several different ways. For a student who is too shy to ask in class, that is a real advantage. The risks, however, are equally clear. A tool that writes whole paragraphs for us may weaken our own writing, and it can produce confident answers that are simply wrong. My advice is to use AI as a tutor rather than a ghost writer. Ask it to explain, to test and to criticise; do not ask it to replace your own thinking. Keep your notes and drafts in your own hand, check every fact, and treat every answer as a question to be examined rather than a truth to be copied.",
+          "wordLimit": 120,
+          "questions": []
+        },
+        {
+          "id": "listening",
+          "title": "Listening 听力",
+          "type": "listening",
+          "note": "音频以文字稿形式提供。请先阅读以下两段材料（Conversation One 与 Passage One），再回答下面的 8 道题。\n\nConversation One:\nWoman: Have you finished the essay for Professor Li's course? I have written three drafts and I am still not happy with it.\nMan: I finished last night, but I used an AI tool to comment on my draft. It found that my introduction did not match my conclusion.\nWoman: Really? Is that allowed? Our course guide says we can use AI for planning and grammar, but the ideas must be our own.\nMan: That is how I understood it too. I did not ask it to write anything. I just pasted my draft and asked it which paragraph was the weakest. It suggested I move the example about the school garden to the beginning.\nWoman: That seems fair. I tried it once for grammar, but it rewrote my whole paragraph in a style that did not sound like me. I deleted it.\nMan: You can tell it to explain the problem rather than rewrite. I asked why a sentence was unclear, and it explained the grammar, which actually helped.\nWoman: I will try that next time. What about the final check? I heard the library runs a writing clinic on Thursday afternoons.\nMan: Yes, it is run by the writing centre. You book a half-hour slot online, and it is free. But the tutor will not correct your essay for you; they ask questions so that you find the problems yourself.\nWoman: That is exactly what I need. Did Professor Li say what she looks for when she marks the essay?\nMan: Mainly a clear argument and evidence. She said she would rather read a simple essay with one good example than a complicated one with none.\nWoman: Then I know what to do tonight. I will book a slot for Thursday and rewrite my introduction.\n\nPassage One:\nSoftware that claims to teach a subject better than a teacher has been advertised for decades, but the latest generation of so-called smart learning apps is different. Instead of showing the same exercises to everyone, these programs adjust the difficulty of each question according to how the student answers. Answer three questions on fractions correctly, and the next one will be harder; make the same mistake twice, and the app will offer a short video explaining the idea. The approach is based on research into practice and feedback, and many students say they enjoy the immediate response. Teachers, however, remain cautious. They point out that the software is good at testing facts and rules but poor at judging whether a student can explain a line of reasoning or work with others. There is also the question of time. Some schools report that students spend so long on the app's exercises that they have less time to read, discuss and write. The tools are also expensive, and a school that buys one program may have little money left for books or training. Most researchers agree that the tools are useful when they are part of a lesson rather than a replacement for it. One teacher put it plainly: the app can tell me who is stuck, but I decide what to do about it. Used well, it saves time; used alone, it may simply keep students busy.",
+          "questions": [
+            {
+              "id": "l1",
+              "kind": "choice",
+              "stem": "What did the man use the AI tool for?",
+              "transcript": "",
+              "options": [
+                "A. To write the whole essay for him.",
+                "B. To find the weakest part of his draft.",
+                "C. To translate the essay into Chinese.",
+                "D. To check the word count."
+              ],
+              "answer": "B",
+              "explanation": "男士说他用 AI tool to comment on my draft，并提到它指出 introduction did not match my conclusion，即用来找出草稿最薄弱的部分，故选 B。"
+            },
+            {
+              "id": "l2",
+              "kind": "choice",
+              "stem": "According to the course guide, what can students use AI for?",
+              "transcript": "",
+              "options": [
+                "A. Writing the conclusion of an essay.",
+                "B. Inventing examples for the essay.",
+                "C. Planning and grammar, while the ideas must be their own.",
+                "D. Choosing a title for the essay."
+              ],
+              "answer": "C",
+              "explanation": "女士引述课程要求说 we can use AI for planning and grammar, but the ideas must be our own，即 AI 只能用于构思和语法，观点必须自己提出，故选 C。"
+            },
+            {
+              "id": "l3",
+              "kind": "choice",
+              "stem": "Why did the woman delete the AI's suggestion?",
+              "transcript": "",
+              "options": [
+                "A. It rewrote her paragraph in a style that did not sound like her.",
+                "B. It contained a spelling mistake.",
+                "C. It was much too short.",
+                "D. It was written in Chinese."
+              ],
+              "answer": "A",
+              "explanation": "女士说她试用 AI 改语法时，it rewrote my whole paragraph in a style that did not sound like me，于是删掉了，故选 A。"
+            },
+            {
+              "id": "l4",
+              "kind": "choice",
+              "stem": "What does the man say about the writing clinic?",
+              "transcript": "",
+              "options": [
+                "A. It costs a small fee.",
+                "B. It is run by an AI tool.",
+                "C. It corrects essays for students.",
+                "D. A student tutor asks questions so that students find the problems themselves."
+              ],
+              "answer": "D",
+              "explanation": "男士说写作门诊虽然免费，但 the tutor will not correct your essay for you; they ask questions so that you find the problems yourself，故选 D。"
+            },
+            {
+              "id": "l5",
+              "kind": "choice",
+              "stem": "How do smart learning apps differ from earlier teaching software?",
+              "transcript": "",
+              "options": [
+                "A. They are free of charge.",
+                "B. They are designed by teachers.",
+                "C. They change the difficulty of questions according to the student's answers.",
+                "D. They show the same exercises to every student."
+              ],
+              "answer": "C",
+              "explanation": "短文说这些程序 adjust the difficulty of each question according to how the student answers，即根据学生的作答调整题目难度，故选 C。"
+            },
+            {
+              "id": "l6",
+              "kind": "choice",
+              "stem": "What does the app do if a student makes the same mistake twice?",
+              "transcript": "",
+              "options": [
+                "A. It offers a short video explaining the idea.",
+                "B. It stops the lesson at once.",
+                "C. It sends a message to the student's parents.",
+                "D. It gives a much harder question."
+              ],
+              "answer": "A",
+              "explanation": "文中说 make the same mistake twice, and the app will offer a short video explaining the idea，故选 A。"
+            },
+            {
+              "id": "l7",
+              "kind": "choice",
+              "stem": "What criticism do teachers make of the software?",
+              "transcript": "",
+              "options": [
+                "A. It is too expensive for schools to buy.",
+                "B. It is good at testing facts but poor at judging reasoning.",
+                "C. It makes students read too much.",
+                "D. It cannot be used on mobile phones."
+              ],
+              "answer": "B",
+              "explanation": "教师指出 the software is good at testing facts and rules but poor at judging whether a student can explain a line of reasoning，故选 B。"
+            },
+            {
+              "id": "l8",
+              "kind": "choice",
+              "stem": "What is the teacher's view at the end of the passage?",
+              "transcript": "",
+              "options": [
+                "A. The app should replace some teachers.",
+                "B. The app is a complete waste of time.",
+                "C. The app should be used only at home.",
+                "D. The app can show who is stuck, but the teacher decides what to do."
+              ],
+              "answer": "D",
+              "explanation": "短文最后引述教师的话 the app can tell me who is stuck, but I decide what to do about it，故选 D。"
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "title": "Reading Section A 选词填空",
+          "type": "reading",
+          "note": "选词填空：阅读下面短文，从词库 A–O 中选出 10 个词填入短文中的空白处（编号 26–35），每个词只能使用一次。\n\n词库：\nA. benefit\nB. connect\nC. effective\nD. entirely\nE. eventually\nF. memory\nG. obvious\nH. planning\nI. plot\nJ. record\nK. replace\nL. retain\nM. substitute\nN. tool\nO. wisely\n\n短文：\nWatching films is one of the most enjoyable ways to learn a foreign language, but it works best when it is done with some (26) ____. Many learners simply switch on the subtitles in their own language and follow the story, which is entertaining but does little for their vocabulary. A better method is to watch a short scene twice: first with English subtitles and then without. On the second viewing, the brain is forced to (27) ____ the sound of words with their meaning. It also helps to (28) ____ difficult expressions in a notebook and to look them up afterwards. Research on vocabulary learning suggests that a word must be met many times before it is remembered, so choosing one film and watching it again after a week may be more (29) ____ than watching five new films in a row. Teachers warn, however, that films should not (30) ____ other kinds of practice. Speaking, reading and writing still need time. Used (31) ____, though, films can bring the language to life and remind learners why they are studying it. The (32) ____ of the story also gives the brain something to hold on to, which makes new words easier to (33) ____. In short, films are not a (34) ____ for hard work, but a (35) ____ that makes the work more pleasant.",
+          "questions": [
+            {
+              "id": "c1",
+              "kind": "blank",
+              "stem": "26. Films work best as a language-learning method when they are used with some ____.",
+              "answer": "planning",
+              "explanation": "选 H. planning。with some planning 意为“有所计划”，与后文“不要只是打开母语字幕看故事”形成对比，空格需名词。"
+            },
+            {
+              "id": "c2",
+              "kind": "blank",
+              "stem": "27. On the second viewing, the brain is forced to ____ the sound of words with their meaning.",
+              "answer": "connect",
+              "explanation": "选 B. connect。connect A with B 意为“把 A 与 B 联系起来”，指把词的读音与意义对应起来，是语言学习的常用搭配。"
+            },
+            {
+              "id": "c3",
+              "kind": "blank",
+              "stem": "28. It also helps to ____ difficult expressions in a notebook and look them up afterwards.",
+              "answer": "record",
+              "explanation": "选 J. record。record ... in a notebook 意为“把……记在笔记本里”，与 look them up afterwards 前后衔接；retain 强调记住，不接 in a notebook。"
+            },
+            {
+              "id": "c4",
+              "kind": "blank",
+              "stem": "29. Watching one film again after a week may be more ____ than watching five new films in a row.",
+              "answer": "effective",
+              "explanation": "选 C. effective。more effective than 为比较级结构，effective 意为“有效的”，说明重复看同一部电影的学习效果可能更好。"
+            },
+            {
+              "id": "c5",
+              "kind": "blank",
+              "stem": "30. Teachers warn that films should not ____ other kinds of practice.",
+              "answer": "replace",
+              "explanation": "选 K. replace。replace 意为“取代”，句中说明电影不应取代说、读、写等其他形式的练习，与后文 Speaking, reading and writing still need time 呼应。"
+            },
+            {
+              "id": "c6",
+              "kind": "blank",
+              "stem": "31. Used ____, films can bring the language to life and remind learners why they are studying.",
+              "answer": "wisely",
+              "explanation": "选 O. wisely。used wisely 为过去分词短语作状语，意为“如果使用得当”，需要副词修饰 used。"
+            },
+            {
+              "id": "c7",
+              "kind": "blank",
+              "stem": "32. The ____ of the story gives the brain something to hold on to.",
+              "answer": "plot",
+              "explanation": "选 I. plot。the plot of the story 意为“故事情节”，情节为大脑提供线索，使新词更容易记住。"
+            },
+            {
+              "id": "c8",
+              "kind": "blank",
+              "stem": "33. A strong story makes new words easier to ____.",
+              "answer": "retain",
+              "explanation": "选 L. retain。retain 意为“记住、保持”，easier to retain 表示新词更容易记住；record 强调记录动作，与“记住”语义不同。"
+            },
+            {
+              "id": "c9",
+              "kind": "blank",
+              "stem": "34. Films are not a ____ for hard work.",
+              "answer": "substitute",
+              "explanation": "选 M. substitute。a substitute for sth 意为“某物的替代品”，此处说明电影不能代替刻苦学习。"
+            },
+            {
+              "id": "c10",
+              "kind": "blank",
+              "stem": "35. Films are a ____ that makes the work more pleasant.",
+              "answer": "tool",
+              "explanation": "选 N. tool。a tool that makes the work more pleasant 意为“一种让学习更愉快的工具”，与前半句 not a substitute 形成对比。"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "title": "Reading Section B 长篇阅读匹配",
+          "type": "reading",
+          "note": "阅读下面的短文，短文共 A–F 六个段落，选项 A–F 为各段落主题的短标题。请为下面的每个陈述句选择对应的段落。\n\nParagraph A: Banks, bus companies and government offices have moved most of their services onto the internet, and the change has left many older people behind. A person who once paid every bill at the counter may now be asked to download an app, create a password and confirm a code sent by message. For those who have never owned a smartphone, these small tasks can feel like a locked door. The charity behind the sessions says that calls for help have doubled in three years, and most come from people over seventy.\n\nParagraph B: The sessions take place on Tuesday and Friday mornings in a quiet room at the back of the town library. Volunteers put out long tables, a kettle and a box of written instructions in large print. Learners arrive with their own phones, often still in the box, and sit beside the volunteer they have been paired with. There is no lecture and no fixed programme; people bring the problems they met during the week, and the room slowly fills with quiet conversation.\n\nParagraph C: The first lesson is always the same. Learners practise switching the phone on and off, making a call, sending a short message and adding a name to the contacts list. Only when these actions feel natural do they move on to photographs or the internet. Volunteers say it is a mistake to begin with the most exciting features; a person who cannot answer a call will soon lose confidence. Simple actions are repeated until they become habits, and each small success makes the next lesson easier.\n\nParagraph D: Each learner works with the same student volunteer every week. This pairing matters more than it might seem. The volunteer learns what the person already knows, which buttons frighten them and how quickly they tire, and the learner does not have to explain the same difficulties to a stranger each time. One volunteer describes her role as a patient neighbour rather than a teacher. When her learner finally sent a photograph to her grandchild, she says, both of them were close to tears.\n\nParagraph E: Not every danger comes from a broken phone. Volunteers spend a full session on fraud, because older people are often targeted by callers pretending to be from a bank. Learners are shown how to recognise a suspicious message, why they should never share a password or bank details, and what to do if money has already been taken. The advice is written on a card that fits in a purse. Several learners have since stopped a scam themselves, and one brought the card to the police station to show an officer.\n\nParagraph F: The charity measures success in small events: a first video call with a grandchild, a bus ticket bought on the phone, a photograph sent to a friend. These moments rarely appear in national statistics, but they change a person's week. Volunteers also report a benefit they did not expect. Many learners stay after the session for tea and begin to help each other, so the room has become a social club as much as a classroom. The project now runs in eleven towns, and the waiting list grows every month.",
+          "questions": [
+            {
+              "id": "m1",
+              "kind": "choice",
+              "stem": "New learners first practise simple actions such as switching the phone on and making a call.",
+              "options": [
+                "A. A growing need",
+                "B. Meeting in the library",
+                "C. Starting with the basics",
+                "D. One-to-one help",
+                "E. Safety and scams",
+                "F. Small changes, big effects"
+              ],
+              "answer": "C",
+              "explanation": "C 段说 The first lesson is always the same. Learners practise switching the phone on and off, making a call, sending a short message，与题干“先练简单操作”一致，故选 C。"
+            },
+            {
+              "id": "m2",
+              "kind": "choice",
+              "stem": "Learners are warned not to give bank details to strangers who call or send messages.",
+              "options": [
+                "A. A growing need",
+                "B. Meeting in the library",
+                "C. Starting with the basics",
+                "D. One-to-one help",
+                "E. Safety and scams",
+                "F. Small changes, big effects"
+              ],
+              "answer": "E",
+              "explanation": "E 段专门讲防诈骗，提到 how to recognise a suspicious message, why they should never share a password or bank details，故选 E。"
+            },
+            {
+              "id": "m3",
+              "kind": "choice",
+              "stem": "More and more older people need help as everyday services move online.",
+              "options": [
+                "A. A growing need",
+                "B. Meeting in the library",
+                "C. Starting with the basics",
+                "D. One-to-one help",
+                "E. Safety and scams",
+                "F. Small changes, big effects"
+              ],
+              "answer": "A",
+              "explanation": "A 段指出 many services have moved onto the internet and left many older people behind，并说 calls for help have doubled in three years，与题干对应，故选 A。"
+            },
+            {
+              "id": "m4",
+              "kind": "choice",
+              "stem": "Each learner is paired with one student who can go at the learner's own speed.",
+              "options": [
+                "A. A growing need",
+                "B. Meeting in the library",
+                "C. Starting with the basics",
+                "D. One-to-one help",
+                "E. Safety and scams",
+                "F. Small changes, big effects"
+              ],
+              "answer": "D",
+              "explanation": "D 段说 Each learner works with the same student volunteer every week ... the volunteer learns what the person already knows，即固定的一对一帮助，故选 D。"
+            },
+            {
+              "id": "m5",
+              "kind": "choice",
+              "stem": "Volunteers hold regular sessions in a quiet room of the local library.",
+              "options": [
+                "A. A growing need",
+                "B. Meeting in the library",
+                "C. Starting with the basics",
+                "D. One-to-one help",
+                "E. Safety and scams",
+                "F. Small changes, big effects"
+              ],
+              "answer": "B",
+              "explanation": "B 段说 The sessions take place on Tuesday and Friday mornings in a quiet room at the back of the town library，与题干时间地点完全对应，故选 B。"
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "title": "Reading Section C 仔细阅读",
+          "type": "reading",
+          "note": "Passage 1: Every new technology that enters education seems to attract the same argument. Supporters say it will help students who are struggling; critics say it will make them lazy. AI tutoring tools are no exception. These programs can answer questions in clear language, explain a grammar point for the tenth time without losing patience, and give a student immediate feedback at midnight. For learners in places where good tutors are expensive or far away, that is a serious advantage. Studies of basic mathematics and language practice suggest that students who use such tools regularly do improve their test scores, especially when the tool is used for short, focused sessions.\n\nThe doubts begin elsewhere. A machine can produce a confident answer that is simply wrong, and a student who has not learned to check may accept it. There is also a quieter worry: if a program always supplies the next step, students may never experience the struggle that teaches them how to think. Teachers report that some students now submit work that is grammatically flawless but strangely empty, as if no one had an opinion behind it.\n\nMost experts therefore draw a sensible line. AI can explain, test and remind; it cannot care whether the student understands. The human teacher remains the person who notices a silent pupil, changes the plan halfway through a lesson and asks the question that makes a class think. In that division of labour, the machine is useful only if the teacher is in charge.\n\nPassage 2: Ten years ago, a student who wanted to study had to leave the internet behind. The phone stayed in a bag, the laptop was used for one task at a time, and a long evening of reading was normal. Today the same student may have six tabs open, a group chat buzzing and a video playing in the corner of the screen.\n\nThe result is not that young people cannot concentrate, but that they concentrate in shorter bursts. Researchers who watch students studying describe a pattern of rapid switching: a few minutes on the essay, a quick check of messages, back to the essay, then a search for a fact that turns into twenty minutes of reading something unrelated. Each switch feels harmless, yet the cost adds up.\n\nAfter an interruption, the mind needs time to return to the point where it stopped, and some studies estimate that this recovery takes several minutes.\n\nThe good news is that attention can be trained. Experiments in which students put their phones in another room and worked for fixed periods found that they completed tasks faster and remembered more. Many now use simple methods: a timer for twenty-five minutes of work, a notebook for distracting thoughts, and one evening a week without a screen. None of these ideas is new. What is new is that they have to be taught, because the digital world will not switch itself off.",
+          "questions": [
+            {
+              "id": "r1_1",
+              "kind": "choice",
+              "stem": "(Passage 1) What advantage of AI tutoring tools is mentioned?",
+              "options": [
+                "A. They can give immediate feedback at any time.",
+                "B. They replace the need for human teachers.",
+                "C. They are always cheaper than books.",
+                "D. They help students make friends online."
+              ],
+              "answer": "A",
+              "explanation": "第一段说 AI 工具 can ... give a student immediate feedback at midnight，即为学生随时提供即时反馈，故选 A。"
+            },
+            {
+              "id": "r1_2",
+              "kind": "choice",
+              "stem": "(Passage 1) What do the studies of basic mathematics and language practice suggest?",
+              "options": [
+                "A. Students should use AI for very long sessions.",
+                "B. Regular short sessions with such tools improve test scores.",
+                "C. AI tools are useless for language learning.",
+                "D. Test scores fall when AI tools are used."
+              ],
+              "answer": "B",
+              "explanation": "第一段提到 students who use such tools regularly do improve their test scores, especially when the tool is used for short, focused sessions，故选 B。"
+            },
+            {
+              "id": "r1_3",
+              "kind": "choice",
+              "stem": "(Passage 1) What is the quieter worry mentioned in the passage?",
+              "options": [
+                "A. Students may become too polite.",
+                "B. AI tools may cost too much money.",
+                "C. Students may never experience the struggle that teaches them to think.",
+                "D. Teachers may lose their jobs immediately."
+              ],
+              "answer": "C",
+              "explanation": "第二段说 if a program always supplies the next step, students may never experience the struggle that teaches them how to think，故选 C。"
+            },
+            {
+              "id": "r1_4",
+              "kind": "choice",
+              "stem": "(Passage 1) What line do most experts draw?",
+              "options": [
+                "A. AI should replace teachers in large classes.",
+                "B. AI should be used only in mathematics.",
+                "C. AI should be banned from schools.",
+                "D. AI can explain, test and remind, but the teacher must stay in charge."
+              ],
+              "answer": "D",
+              "explanation": "末段说 AI can explain, test and remind; it cannot care whether the student understands，并强调 the machine is useful only if the teacher is in charge，故选 D。"
+            },
+            {
+              "id": "r2_1",
+              "kind": "choice",
+              "stem": "(Passage 2) How does the author describe the way many students concentrate today?",
+              "options": [
+                "A. In shorter bursts with rapid switching.",
+                "B. For hours without any interruption.",
+                "C. Only in the morning.",
+                "D. With the help of AI tools."
+              ],
+              "answer": "A",
+              "explanation": "第二段说 they concentrate in shorter bursts，并描述 a pattern of rapid switching，故选 A。"
+            },
+            {
+              "id": "r2_2",
+              "kind": "choice",
+              "stem": "(Passage 2) What is the cost of an interruption according to the passage?",
+              "options": [
+                "A. It makes the screen brighter.",
+                "B. The mind needs several minutes to return to where it stopped.",
+                "C. It improves memory of the essay.",
+                "D. It saves time in the long run."
+              ],
+              "answer": "B",
+              "explanation": "第三段说 After an interruption, the mind needs time to return to the point where it stopped, and some studies estimate that this recovery takes several minutes，故选 B。"
+            },
+            {
+              "id": "r2_3",
+              "kind": "choice",
+              "stem": "(Passage 2) What did experiments with phones in another room find?",
+              "options": [
+                "A. Students worked more slowly.",
+                "B. Students forgot what they had read.",
+                "C. Students completed tasks faster and remembered more.",
+                "D. Students refused to work at all."
+              ],
+              "answer": "C",
+              "explanation": "第四段说 Experiments ... found that they completed tasks faster and remembered more，故选 C。"
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "title": "Translation 翻译",
+          "type": "translation",
+          "prompt": "中国高铁的发展速度令世界瞩目。如今，高铁网络连接了全国大多数大中城市，从北京到上海只需四个多小时。高铁不仅缩短了城市之间的时间距离，也改变了人们的生活方式：有人乘高铁上下班，有人周末去另一座城市看展览。与飞机相比，高铁车站通常离市区更近，乘车手续也更简便。许多外国游客把乘坐中国高铁列为旅行中难忘的体验。高铁还带动了沿线小城市的发展，使人才和资源流动更加便利。",
+          "promptZh": "请将上面的中文段落翻译成英文。",
+          "reference": "The development of China's high-speed railway has attracted worldwide attention. Today the network connects most large and medium-sized cities in the country, and the journey from Beijing to Shanghai takes only a little over four hours. High-speed trains have not only shortened the travel time between cities but also changed the way people live: some people commute by high-speed train, and others travel to another city for an exhibition at the weekend. Compared with planes, high-speed railway stations are usually closer to city centres and the boarding procedures are simpler. Many foreign visitors regard a ride on a Chinese high-speed train as an unforgettable experience of their trip. The railways have also boosted the development of smaller cities along the lines, making it easier for talent and resources to flow.",
+          "questions": []
+        }
+      ]
+    }
+  ]
+}

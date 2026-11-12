@@ -1,0 +1,71 @@
+{
+ "id": "imp6-r2023dec1-read1",
+ "type": "reading",
+ "level": "cet6",
+ "title": "2023年12月六级第一套 阅读1",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2023dec1",
+ "paperTitle": "2023年12月大学英语六级第一套",
+ "paperLevel": "cet6",
+ "paperYear": "2023-12",
+ "passage": "One of the great successes of the Republican Party in recent decades is the relentless propagation of a simple formula for economic growth: tax cuts. The formula doesn’t work, but that has not affected its popularity. And while the cult of tax cuts has attracted many critics, it lacks for obvious rivals. When Democrats do talk about encouraging economic growth, they often sound like Republicans. This is not just a political problem for Democrats; it is an economic problem for the United States. The nation needs a better story about the drivers of economic growth. The painful lessons of recent decades point to a promising candidate: higher wages. Raising the wages of American workers ought to be the priority of economic policymakers. We’d all be (GDP) and focusing instead on the growth of workers’ paychecks. Set aside, for the moment, the familiar argument for higher wages: fairness. The argument here is that higher wages can fuel the engine of economic growth. Perhaps the most famous illustration of the benefits is the story of Henry Ford’s decision in 1914 to pay $5 a day to workers his Model T assembly lines. He did it to increase production — he paying a premium to maintain a reliable workforce. The unexpected benefit was that Ford’s factory workers became Ford customers, too. The same logic still holds: Consumption drives the American economy, and workers who are paid more can spend more. Mainstream economists insist that it is impossible to order up a sustainable increase in wages because compensation levels reflect the unerring judgment of market forces. The conventional wisdom held that productivity growth was the only route to higher wages. Through counterproductive. unemployment because there was only so much money in the wage pool, and if some people got more, others would get none. prosperity. Rich people would invest, productivity would increase, wages would rise. In the real world, things are more complicated. Wages are influenced by a tug of war between employers and workers, and employers have been winning. One clear piece of evidence is the widening gap between productivity growth and wage growth since roughly 1970. Productivity has more than doubled; wages have lagged far behind. A focus on wage growth would provide an antidote (矫正方法) to the attractive simplicity of the belief in the magical power of tax cuts.",
+ "questions": [
+  {
+   "q": "Why does the formula of tax cuts remain popular though ineffective?",
+   "options": [
+    "Its critics’ voice has not been heard throughout the country.",
+    "There seem to be no other options available to replace it.",
+    "The cult of tax cuts has been relentlessly propagated by all policymakers.",
+    "There appears to be a misunderstanding of the formula among the public."
+   ],
+   "answer": 3,
+   "explain": ""
+  },
+  {
+   "q": "What does the author think is a more effective measure for driving economic growth in the U.S.?",
+   "options": [
+    "Aiding people left behind by economic growth.",
+    "Prioritizing the growth of the nation’s GDP.",
+    "Increasing the compensation for labor.",
+    "Introducing even more extensive tax cuts."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What is the logic underlying the author’s viewpoint?",
+   "options": [
+    "The growth of workers’ paychecks ultimately boosts the nation’s economy.",
+    "Paying a premium to maintain a reliable workforce attracts more customers.",
+    "Consumption stimulates the desire for higher wages.",
+    "Familiar arguments for higher wages are outdated."
+   ],
+   "answer": 1,
+   "explain": ""
+  },
+  {
+   "q": "What is the basis for higher wages according to the conventional wisdom?",
+   "options": [
+    "Fairness in distribution.",
+    "Increase in productivity.",
+    "The priority of economic policymakers.",
+    "The unerring judgment of market forces."
+   ],
+   "answer": 0,
+   "explain": ""
+  },
+  {
+   "q": "What do we learn about things in the real world in America for the past 50 years or so?",
+   "options": [
+    "People have failed to see a corresponding increase in wages and in productivity.",
+    "People have been disheartened by the widening gap between the haves and have-nots.",
+    "People have witnessed a tug of war between Republicans and Democrats over tax cuts.",
+    "People have seen the link disappearing between productivity and workers’ well-being."
+   ],
+   "answer": 2,
+   "explain": ""
+  }
+ ]
+}

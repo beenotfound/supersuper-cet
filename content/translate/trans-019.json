@@ -1,0 +1,18 @@
+{
+  "id": "trans-019",
+  "type": "translation",
+  "level": "cet6",
+  "title": "中国民间手工艺",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["craftsmanship", "inherit", "pattern", "apprentice"],
+  "prompt": "中国手工艺种类繁多，木雕、刺绣、陶瓷、剪纸各有独到之处。老手艺人往往从十几岁开始学艺，一干就是几十年，手上的功夫是机器替代不了的。这些作品不仅是生活用品，也承载着地方的习俗和审美。然而，随着工业化发展，许多手工艺面临失传的危险，年轻人不愿花时间学习。近年来，一些设计师把传统纹样用在服装和家居上，让老手艺重新回到人们的视野。保护手工艺，关键是让它能养活手艺人，而不只是放进博物馆。",
+  "reference": "Chinese folk crafts come in many forms, and wood carving, embroidery, ceramics and paper cutting each have their own merits. Old craftsmen often began learning their trade as teenagers and kept at it for decades; the skill in their hands cannot be replaced by machines. Such works are not merely daily objects but also carry local customs and tastes. However, as industry has developed, many crafts are in danger of being lost, because young people are unwilling to spend years learning them. In recent years some designers have used traditional patterns on clothing and household goods, bringing old skills back into view. Some villages have set up workshops where visitors can watch and try, and a few young people have become apprentices after discovering the craft online. To protect a craft, the key is to let it support the craftsmen, not simply put it in a museum. Every piece made by hand is slightly different, and that difference is exactly what makes it valuable.",
+  "keyPoints": [
+    "“独到之处”可译为 have their own merits。",
+    "“一干就是几十年”译为 kept at it for decades。",
+    "“失传”用 in danger of being lost。",
+    "“养活手艺人”意译为 support the craftsmen。",
+    "“而不是放进博物馆”用 not simply put it in a museum。"
+  ]
+}

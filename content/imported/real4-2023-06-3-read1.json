@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-06-3-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年6月四级真题 第3套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-06-3",
+ "paperTitle": "2023年6月大学英语四级真题（第3套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-06",
+ "passage": "P1 Team-building exercises have become popular for managers trying to increase organisational and team harmony and productivity. Unfortunately many employees resent compulsory bonding and often regard these exercises as a nuisance.\n\nP2 A paper published this week by University of Sydney researchers in Social Networks has reported participants' feelings about team-building interventions(干预), revealing ethical implications in forcing employees to take part.\n\nP3 \"Many people see team-building activities as a waste of time, so we decided to look in more depth at what's behind this,\" said the paper's lead researcher, Dr. Peter Matous.\n\nP4 \"Teams are formed, combined and restructured. Staff are relocated and office spaces redesigned. All this is done with the aim of improving workplace efficiency, collaboration and cohesion. But does any of this work?\" said Dr. Matous.\n\nP5 The study found that team-building exercises which focused on the sharing of and intervening into personal attitudes and relationships between team members were considered too heavy-handed and intrusive, although the researchers say some degree of openness and vulnerability is often necessary to make deep, effective connections with colleagues.\n\nP6 \"Some participants were against team-building exercises because they were implicitly compulsory. They didn't welcome management's interest in their lives beyond their direct work performance,\" said Matous. \"Many people don't want to be forced into having fun or making friends, especially not on top of their busy jobs. They feel management is being too nosy or trying to control their lives too much.\"\n\nP7 In this study the researchers recommended a self-disclosure(表露) approach where participants were guided through a series of questions that allowed them to increasingly disclose personal information and values. The method is well-tested and has been shown to increase interpersonal closeness. However, to be successful it must be voluntary.\n\nP8 The researchers said there are numerous schools of thought that propose differing psychological methods for strengthening relationships. \"With caution, many relational methods to improve teams and organisations can be borrowed from other fields. The question is how to apply them effectively to strengthen an entire collective, which is more than just the sum of individual relationships,\" said Dr. Matous.",
+ "questions": [
+  {
+   "q": "Why are many employees opposed to team-building exercises?",
+   "options": [
+    "They consider such exercises annoying.",
+    "They deem these exercises counter-productive.",
+    "They see such exercises as harmful to harmony.",
+    "They find these exercises too demanding."
+   ],
+   "answer": 0,
+   "explain": "Why are many employees opposed to team-building exercises? 用 Why 提问，问的是 原文已写明的具体理由，不需要跨段推理。 题干 Why are many employees opposed to team-building exercises? 是一般疑问句， 主干为员工反对团建练习，be opposed to 是固定搭配表示反对、抵触，结构平铺直叙，无 陷阱。 Unfort…"
+  },
+  {
+   "q": "What did Dr. Matous and his team do to find out whether team-building activities would improve",
+   "options": [
+    "They relocated team leaders and their offices.",
+    "They rearranged the staff and office spaces.",
+    "They redesigned the staff's work schedules.",
+    "They reintroduced some cohesive activities."
+   ],
+   "answer": 1,
+   "explain": "What did Dr. Matous and his team do 问的是研究团队具体做了什么，答案是原文明写的 动作清单，属事实查找。 题干主干是 What did Dr. Matous and his team do，后接不定式目的状语 to find out whether...，其中 whether 引导宾语从句表示是否提升效率；理清主干问做法、状语说目 的，即无障碍。 Teams are formed, combined …"
+  },
+  {
+   "q": "What did the study by Matous' team find about some team-building exercises?",
+   "options": [
+    "They were intended to share personal attitudes and relationships.",
+    "They implicitly added to the vulnerability of team members.",
+    "They invariably strengthened connections among colleagues.",
+    "They were regarded as an intrusion into employees' private lives."
+   ],
+   "answer": 3,
+   "explain": "What did the study by Matous' team find about some team-building exercises? 问的 是研究已写明的发现，可直接定位明文结论，属细节查找。 题干 What did the study by Matous' team find about some team-building exercises? 主干为研究发现了什么，about 引出对象范围；注意 some 限定的…"
+  },
+  {
+   "q": "How can the self-disclosure approach succeed in increasing interpersonal closeness?",
+   "options": [
+    "By allowing participants freedom to express themselves.",
+    "By applying it to employees who volunteer to participate.",
+    "By arranging in proper order the questions participants face.",
+    "By guiding employees through a series of steps in team building."
+   ],
+   "answer": 1,
+   "explain": "How can the self-disclosure approach succeed in increasing interpersonal closeness? 问的是原文明写的成功前提，可直接定位，属细节题。 题干 How can the self-disclosure approach succeed in increasing interpersonal closeness? 主干问该方法如何才能成功，succeed in …"
+  },
+  {
+   "q": "What does Matous think of the various psychological methods borrowed from other fields for",
+   "options": [
+    "They must be used in combination for an entire collective.",
+    "They prioritise some psychological aspects over others.",
+    "They place too much stress on individual relationships.",
+    "They have to be applied cautiously to be effective."
+   ],
+   "answer": 3,
+   "explain": "What does Matous think of the various psychological methods... 虽问看法，但 Matous 的观点在原文引语中已明说，可直接定位，按细节题处理。 题干 What does Matous think of the various psychological methods borrowed from other fields for strengthening relation…"
+  }
+ ]
+}

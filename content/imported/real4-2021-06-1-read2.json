@@ -1,0 +1,71 @@
+{
+ "id": "real4-2021-06-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2021年6月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2021-06-1",
+ "paperTitle": "2021年6月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2021-06",
+ "passage": "P1 Being an information technology, or IT, worker is not a job I envy. They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working. They have to tolerate the bad tempers of colleagues frustrated at the number of times they've had to call the help desk for the same issue. They are also the ones who know there are systems that are more powerful, reliable and faster, but their employer simply will not put up the funds to buy them.\n\nP2 According to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction. Through no fault of their own, they can suddenly find their productivity deteriorating or quality control non-existent. And there's little they can do about it.\n\nP3 The experience of using IT penetrates almost the entire work field. It has become a crucial part of employees' overall work experience. When IT is operating as it should, employee self-confidence swells. Their job satisfaction, too, can surge when well-functioning machines relieve them of dull tasks or repetitive processes. But if there's one thing that triggers widespread employee frustration, it's an IT transformation project gone wrong, where swollen expectations have been popped and a long list of promised efficiencies has been reversed. This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user.\n\nP4 Which is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. Adequate and timely IT support should also be available to enable users to cope with technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT.\n\nP5 Therefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees' work, rather than adjust their work to fit in with the company's IT limitations.",
+ "questions": [
+  {
+   "q": "What does the author say about working in IT?",
+   "options": [
+    "It is envied by many.",
+    "It does not appeal to him.",
+    "It is financially rewarding.",
+    "It does not match his abilities."
+   ],
+   "answer": 1,
+   "explain": "What does the author say about working in IT? 用 what 引导，问作者对某一具体对象 的明确表态，属于带主观色彩的细节题，而不是 infer/imply。 题干是简单疑问句，主干为 What does the author say about working in IT?，about 引 出话题，结构平铺直叙，无陷阱。 Being an information technology, or…"
+  },
+  {
+   "q": "What is the finding of a recent survey on employees who have a job reliant on IT support?",
+   "options": [
+    "IT helps boost productivity.",
+    "IT helps improve quality control.",
+    "Many employees are deeply frustrated by IT.",
+    "Most employees rely heavily on IT in their work."
+   ],
+   "answer": 2,
+   "explain": "What is the finding of a recent survey 直接问一项调查的发现，是对原文具体信息的复 述，属于细节题。 主干 What is the finding of a recent survey on employees，on 引出调查对象、who 从 句进一步限定。结构平铺直叙，无陷阱。 According to a recent survey, employees who have a job relia…"
+  },
+  {
+   "q": "What is said to happen when IT is functioning properly?",
+   "options": [
+    "There is a big boost in employees' work efficiency.",
+    "Employees become more dependent on machines.",
+    "There are no longer any boring or repetitive tasks.",
+    "Employees become more confident in their work."
+   ],
+   "answer": 3,
+   "explain": "What is said to happen when IT is functioning properly? 问在某条件下会发生什么具体 结果，是原文已有陈述的复述题，属细节题。 题干主干 What is said to happen，when 从句修饰 happen，is said 是被动语态，弱化 作者主观色彩，照常按客观细节处理。 When IT is operating as it should, employee self-…"
+  },
+  {
+   "q": "What should business leaders do before implementing new IT initiatives?",
+   "options": [
+    "Consider the various expectations of their customers.",
+    "Draw up a list of the efficiencies to be promised.",
+    "Assess the swollen cost of training the employees.",
+    "Think about the possible effects on their employees."
+   ],
+   "answer": 3,
+   "explain": "What should business leaders do before implementing new IT initiatives? 问\"应当做 什么\"，对应原文里直接给出建议/批评的句子，是细节题。 主干 What should business leaders do，before 引导时间状语 before implementing new IT initiatives，implementing 是动名词作介词宾语。结构平…"
+  },
+  {
+   "q": "How can a business help improve its employees' experience in using IT?",
+   "options": [
+    "By designing systems that suit their needs.",
+    "By ensuring that their mental health is sound.",
+    "By adjusting their work to suit the IT system.",
+    "By offering them regular in-service training."
+   ],
+   "answer": 0,
+   "explain": "How can a business help improve its employees' experience in using IT? 问公司具体 如何改善，对应原文给出的具体做法句，属细节题。 主干 How can a business help improve its employees' experience，in using IT 是后置 介词短语修饰 experience。结构平铺直叙，无陷阱。 Therefore, b…"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "real4-2020-07-1-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2020年7月四级真题 第1套 阅读1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-07-1",
+ "paperTitle": "2020年7月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-07",
+ "passage": "P1 The wallet is heading for extinction. As a day-to-day essential, it will die off with the generation who read print newspapers. The kind of shopping where you hand over notes and count out change in return now happens only in the most minor of our retail encounters, like buying a bar of chocolate or a pint of milk, from a corner shop. At the shops where you spend any real money, that money is increasingly abstracted. And this is more and more true, the higher up the scale you go. At the most cutting-edge retail stores Victoria Beckham on Dover Street, for instance you don't go and stand at any kind of cash register, when you decide to pay. The staff are equipped with iPads to take your payment while you relax on a sofa.\n\nP2 Which is nothing more or less than excellent service, if you have the money. But across society, the abstraction of the idea of cash makes me uneasy. Maybe I'm just old-fashioned. But earning money isn't quick or easy for most of us. Isn't it a bit weird that spending it should happen in half a blink(眨眼) of an eye? Doesn't a wallet—that time-honoured Friday-night feeling of pleasing, promising fatness— represent something that matters?\n\nP3 But I'll leave the economics to the experts. What bothers me about the death of the wallet is the change it represents in our physical environment. Everything about the look and feel of a wallet—the way the fastenings and materials wear and tear and loosen with age, the plastic and paper and gold and silver, and handwritten phone numbers and printed cinema tickets—is the very opposite of what our world is becoming. The opposite of a wallet is a smartphone or an iPad. The rounded edges, cool glass, smooth and unknowable as a pebble(鹅卵石). Instead of digging through pieces of paper and peering into corners, we move our fingers left and right. No more counting out coins. Show your wallet, if you still have one. It may not be here much longer.",
+ "questions": [
+  {
+   "q": "What is happening to the wallet?",
+   "options": [
+    "It is disappearing.",
+    "It is being fattened.",
+    "It is becoming costly.",
+    "It is changing in style."
+   ],
+   "answer": 0,
+   "explain": "题干 What is happening to the wallet 是开放式 what 问句，直接问钱包“正在发生什 么”，不含 infer/suggest/imply，属于对原文事实的客观转述。 Q46 主干 What is happening to the wallet，what 作主语，is happening 现在进行时， to the wallet 介宾短语作状语，结构平铺直叙，无陷阱。 The wallet is head…"
+  },
+  {
+   "q": "How are business transactions done in big modern stores?",
+   "options": [
+    "Individually.",
+    "Electronically.",
+    "In the abstract.",
+    "Via cash register."
+   ],
+   "answer": 1,
+   "explain": "How are business transactions done 用 how 直问交易在大店里怎么完成，要的是原文对 做法的客观描述。 Q47 主干 transactions are done，被动语态，how 问做法的方式，介词短语 in big modern stores 限定场景。 At the most cutting-edge retail stores—Victoria Beckham on Dover Street, …"
+  },
+  {
+   "q": "What makes the author feel uncomfortable nowadays?",
+   "options": [
+    "Saving money is becoming a thing of the past.",
+    "The pleasing Friday-night feeling is fading.",
+    "Earning money is getting more difficult.",
+    "Spending money is so fast and easy."
+   ],
+   "answer": 3,
+   "explain": "What makes the author feel uncomfortable 直问导致作者不适的事物，答案在原文中有 对应陈述，不需推断。 Q48 主干 What makes the author feel uncomfortable，使役结构 make sb do，what 作主语问主语本身，nowadays 时间状语限定范围。 But across society, the abstraction of the idea of …"
+  },
+  {
+   "q": "Why does the author choose to write about what's happening to the wallet?",
+   "options": [
+    "It represents a change in the modern world.",
+    "It has something to do with everybody's life.",
+    "It marks the end of a time-honoured tradition.",
+    "It is the concern of contemporary economists."
+   ],
+   "answer": 0,
+   "explain": "Why does the author choose to write 问的是作者的写作动机，原文不会一字一句写“我 写本文是因为…”，需要从作者明确表达“在意什么”的句子做一步延伸。 Q49 主干 Why does the author choose to write about X，choose to + 不定式作宾 语，about 引导写作话题，what's happening to the wallet 名词性从句作 about…"
+  },
+  {
+   "q": "What can we infer from the passage about the author?",
+   "options": [
+    "He is resistant to social changes.",
+    "He is against technological progress.",
+    "He feels reluctant to part with the traditional wallet.",
+    "He feels insecure in the ever-changing modern world."
+   ],
+   "answer": 2,
+   "explain": "题干 What can we infer from the passage about the author 直接用 infer 提示推断题， 要求基于全文判断作者形象。 Q50 主干 What can we infer，情态动词 can 表能力可能，from the passage 与 about the author 是两个并列介宾短语分别交代依据与对象，结构平稳无陷阱。 50. What can we infer from the…"
+  }
+ ]
+}

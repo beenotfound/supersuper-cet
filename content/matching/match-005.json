@@ -1,0 +1,63 @@
+{
+  "id": "match-005",
+  "type": "matching",
+  "level": "cet6",
+  "title": "The Revival of Apprenticeships",
+  "difficulty": 4,
+  "source": "original",
+  "targetWords": ["apprentice", "mentor", "vocational"],
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "For a generation, the expected route out of school was a degree. Young people were told that university would open doors, and many took on debt to walk through them. The calculation is now less certain. Graduates compete for a limited number of entry-level roles, while skilled trades report shortages of people who can actually do the work. Families that once dismissed vocational training are beginning to ask whether a different path might be safer. The question is no longer whether university is good, but whether it is the only respectable choice."
+    },
+    {
+      "label": "B",
+      "text": "An apprenticeship combines both halves of the equation. The apprentice is employed, paid and taught on the job, while also studying part-time for a qualification. Because the training happens where the work happens, the learner sees the consequences of a mistake and the reason for a technique. The wage is modest, but it arrives from the first month, which changes the arithmetic for anyone who cannot afford to study unpaid. Learning and earning, once treated as opposites, happen at the same time."
+    },
+    {
+      "label": "C",
+      "text": "Employers have their own reasons to value the model. A person trained inside a company learns its equipment, its standards and its customers, and is likely to stay. Replacing an experienced worker is expensive, and a home-grown apprentice is a way of filling a gap that the job market cannot supply. Firms that run good schemes describe them as an investment in the future rather than a cost to be minimised. Loyalty, they argue, is built in the first year and lost in the last."
+    },
+    {
+      "label": "D",
+      "text": "The image problem has not disappeared. Many parents still associate apprenticeships with low status and limited prospects, and some schools steer able pupils towards university because it reflects well on the school. Careers advice can be patchy, and a teenager may hear about apprenticeships only from a leaflet. Changing this requires visible examples of people who started on the workshop floor and ended up running the business. Status follows success, and success needs to be shown."
+    },
+    {
+      "label": "E",
+      "text": "Quality varies enormously. A well-run scheme rotates an apprentice through different departments, provides a mentor and links college study to real tasks. A poor one uses the label to hire cheap labour and teaches little beyond a single repetitive job. Because the word covers both, an applicant needs to ask careful questions about what the training will include, who will supervise it and what happened to previous apprentices. A title on a contract is not the same thing as training."
+    },
+    {
+      "label": "F",
+      "text": "Mentoring is often the difference between a scheme that works and one that quietly fails. A young person entering a workplace needs someone to explain the unwritten rules, to correct a mistake without humiliation and to notice when confidence is slipping. Good mentors are not always the most technically expert; they are the ones who remember what it felt like to be new. Firms that treat mentoring as an extra duty tend to lose the people they trained. Time given to a beginner is rarely wasted."
+    },
+    {
+      "label": "G",
+      "text": "Apprenticeships are no longer only for school leavers. Adults who spent years in one industry and now face a changing market can use the same structure to retrain, often with family commitments that make full-time study impossible. Employers gain maturity and reliability, while the learner gains a recognised qualification without abandoning paid work. The model fits an economy in which careers are less likely to follow a single straight line. A person can begin again without starting from nothing."
+    },
+    {
+      "label": "H",
+      "text": "Small businesses find the system harder to use. Taking on an apprentice means time for supervision, paperwork and contact with a college, and a firm with few staff may not be able to spare any of it. Group training schemes, where several employers share a trainer, help to spread the burden. Without such support, the firms that most need skilled workers are the least able to create them. The smallest businesses are often the best teachers and the least able to prove it."
+    },
+    {
+      "label": "I",
+      "text": "Partnerships with colleges make the academic side work. A trainer who visits the workplace can adjust the syllabus to the tasks the apprentice actually performs, and a college can supply equipment that no single employer could justify buying. The arrangement fails when the two sides do not talk, leaving apprentices to study material that never appears in their daily work. Regular contact between tutor and supervisor is the practical fix. A course that ignores the workshop teaches half a trade."
+    },
+    {
+      "label": "J",
+      "text": "Success is usually measured by completion. An apprentice who leaves before the end represents wasted money and a damaged expectation, so schemes track progress and intervene early when someone is struggling. Completion alone is not enough, however: the real test is whether the person is still using the skill years later, and whether the employer would take on another apprentice tomorrow. A programme that produces certificates but not confidence has missed the point. Numbers tell you who finished, not who stayed."
+    }
+  ],
+  "statements": [
+    { "text": "Rising costs and uncertain graduate prospects make vocational routes look safer.", "answer": "A" },
+    { "text": "Apprentices earn while learning, which matters for those who cannot study unpaid.", "answer": "B" },
+    { "text": "Firms value workers shaped by their own standards because such people tend to stay.", "answer": "C" },
+    { "text": "The low-status image persists, partly because schools and advisers favour university.", "answer": "D" },
+    { "text": "Applicants should investigate what training a scheme really provides.", "answer": "E" },
+    { "text": "A mentor who remembers being new can keep a trainee from dropping out.", "answer": "F" },
+    { "text": "The model now serves adults changing careers, not only young school leavers.", "answer": "G" },
+    { "text": "Shared training arrangements help small firms that cannot supervise alone.", "answer": "H" },
+    { "text": "Colleges and workplaces must communicate so that study matches the job.", "answer": "I" },
+    { "text": "Completion rates matter, but lasting use of the skill is the truer test.", "answer": "J" }
+  ]
+}

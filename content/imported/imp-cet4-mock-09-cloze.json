@@ -1,0 +1,84 @@
+{
+ "id": "imp-cet4-mock-09-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "Reading Section A 选词填空",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-mock-09",
+ "paperTitle": "大学英语四级标准模拟卷 09",
+ "paperLevel": "cet4",
+ "paperYear": "mock-09",
+ "sectionOrder": 2,
+ "passage": "Typing has become the {{1}} way for students to take notes, and many of them can barely read their own handwriting. Teachers report that most essays are now {{2}} on a screen, and that a page of cursive writing looks almost {{3}} to some teenagers.\n\nYet handwriting may still have something to {{4}}. Researchers who compare typing with writing by hand find a small but consistent {{5}}: students who write notes by hand tend to remember more, probably because they must {{6}} information and choose what matters, rather than copy every word.\n\nHandwriting is also {{7}} to memory in another way. The physical movement of the pen leaves a trace that the brain can later {{8}}. For young children, forming letters by hand seems to help them recognise words.\n\nFew people {{9}} that keyboards are here to stay. The question is whether schools should {{10}} a little time each week to the old skill. Doing so is cheap, and it may give students something that a screen cannot.",
+ "bank": [
+  "advantage",
+  "composed",
+  "devote",
+  "doubt",
+  "familiar",
+  "linked",
+  "maintain",
+  "offer",
+  "recall",
+  "remote",
+  "standard",
+  "summarise",
+  "unfamiliar",
+  "valuable",
+  "warning"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "standard",
+   "explain": "选 K. standard。the standard way 意为常规方式，说明打字已成为学生记笔记的主要方式；remote 意为偏远的，不能修饰 way。"
+  },
+  {
+   "n": 2,
+   "answer": "composed",
+   "explain": "选 B. composed。compose an essay 意为撰写文章，此处用被动语态表示论文在屏幕上完成；maintain 指维护，与 essay 搭配不当。"
+  },
+  {
+   "n": 3,
+   "answer": "unfamiliar",
+   "explain": "选 M. unfamiliar。look unfamiliar to sb 意为对某人来说很陌生，与许多青少年几乎读不懂自己字迹的描述一致；familiar 意思相反。"
+  },
+  {
+   "n": 4,
+   "answer": "offer",
+   "explain": "选 H. offer。have something to offer 意为仍有可取之处，引出下文手写对记忆的好处；maintain 不能用于该固定结构。"
+  },
+  {
+   "n": 5,
+   "answer": "advantage",
+   "explain": "选 A. advantage。a consistent advantage 意为持续的优势，冒号后正是这项优势的具体内容；warning 意为警告，与语境不符。"
+  },
+  {
+   "n": 6,
+   "answer": "summarise",
+   "explain": "选 L. summarise。summarise information 意为概括信息，与后面 choose what matters 对应；recall 指回忆，不能体现记笔记时的处理过程。"
+  },
+  {
+   "n": 7,
+   "answer": "linked",
+   "explain": "选 F. linked。be linked to 意为与……相关联，说明手写与记忆还有另一层联系；familiar 不能与 to memory 构成此义。"
+  },
+  {
+   "n": 8,
+   "answer": "recall",
+   "explain": "选 I. recall。recall a trace 意为回忆起痕迹，说明书写动作留下的记忆线索日后可被提取；maintain 意为维持，与 trace 搭配不当。"
+  },
+  {
+   "n": 9,
+   "answer": "doubt",
+   "explain": "选 D. doubt。Few people doubt that 意为很少有人怀疑，即大家普遍认可键盘不会消失；devote 后不能接 that 从句表达怀疑。"
+  },
+  {
+   "n": 10,
+   "answer": "devote",
+   "explain": "选 C. devote。devote time to sth 意为把时间用于某事，符合是否应每周留出一点时间练习书写的句意；offer 不能与 time to 构成此搭配。"
+  }
+ ]
+}

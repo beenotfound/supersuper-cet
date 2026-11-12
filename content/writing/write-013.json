@@ -1,0 +1,17 @@
+{
+  "id": "write-013",
+  "type": "writing",
+  "level": "cet6",
+  "title": "Should Museums Be Free?",
+  "difficulty": 3,
+  "source": "original",
+  "targetWords": ["admission", "access", "funding"],
+  "prompt": "Directions: For this part, you are allowed 30 minutes to write an essay on whether museums and art galleries should be free of charge. You should write at least 150 words but no more than 200 words.",
+  "reference": "Whether museums and art galleries should be free of charge is a question about who culture belongs to. In my opinion, the answer is yes, although the arrangement must be designed with care.\n\nThe case for free admission rests on the purpose of a public museum. A collection held in the name of the public should be open to the public, not only to those who can afford a ticket. A price on the door keeps out exactly those who might benefit most: students, large families and older visitors. Free entry turns a museum into an ordinary part of city life, a place people can drop into for half an hour rather than a special occasion that must be planned and paid for. Children who grow up visiting museums freely are more likely to keep the habit as adults.\n\nThe objections deserve a hearing. Free entry can lead to crowding, and museums still face the cost of staff, security and conservation. One solution is to keep permanent collections free, charge for special exhibitions and rely on public funding and donations.\n\nIn short, free admission is not a luxury but a sensible investment in a society's cultural life.",
+  "keyPoints": [
+    "开头把票价问题提升为“文化属于谁”的问题，立意更高。",
+    "用 students, large families and older visitors 具体说明受益人群。",
+    "第三段承认反对意见并给出折中方案（常设展免费、特展收费）。",
+    "结尾作出明确判断，呼应首段。"
+  ]
+}

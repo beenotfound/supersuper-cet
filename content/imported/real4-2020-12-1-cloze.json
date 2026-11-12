@@ -1,0 +1,83 @@
+{
+ "id": "real4-2020-12-1-cloze",
+ "type": "cloze",
+ "level": "cet4",
+ "title": "2020年12月大学英语四级真题（第1套）",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2020-12-1",
+ "paperTitle": "2020年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2020-12",
+ "passage": "Trust is fundamental to life. If you can't trust anything, life becomes intolerable. You can't have relationships without trust, let alone good ones. In the workplace, too, trust is {{1}}  . An organization without trust will be full of fear and {{2}}  . If you work for a boss who doesn't trust their employees to do things right, you'll have a {{3}}  time. They'll be checking up on you all the time, correcting \"mistakes\" and  {{4}} reminding you to do this or that. Colleagues who don't trust one another will need to spend more time {{5}}  their backs than doing any useful work. Organizations are always trying to cut costs. Think of all the additional tasks caused by lack of trust. Audit( 审计) departments only exist because of it. Companies keep large volumes of {{6}}  because they don't trust their suppliers, their contractors or their customers. Probably more than half of all administrative work is only there because of an ever-existing sense that \"you can't trust anyone these days.\" If even a small part of such valueless work could be {{7}}  , the savings would run into millions of dollars. All this is extra work we  {{8}} onto ourselves because we don't trust people—the checking, following through, doing things ourselves because we don't believe others will do them {{9}}  —or at all. If we took all that away, how much extra time would we suddenly find in our life? How much of our work {{10}}  would disappear?",
+ "bank": [
+  "constantly",
+  "credible",
+  "essential",
+  "exploring",
+  "gather",
+  "load",
+  "miserable",
+  "pressure",
+  "properly",
+  "records",
+  "removed",
+  "stacks",
+  "suspicion",
+  "tracked",
+  "watching"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "essential",
+   "explain": "系动词 is 后作表语，要形容词 呼应首句「信任是根本」，trust is essential＝信任不可或缺 第一段已定调 Trust is fundamental to life.，第二段 too 表示职场同理，所以这里说信任 「至关重要」最顺，essential 正是「必不可少」之意。 B) credible 语义错位：可信的对象是人/说法，不是「信任」本身 credible 意为「可信的」，说 trust is credible（…"
+  },
+  {
+   "n": 2,
+   "answer": "suspicion",
+   "explain": "and 并列 fear，要与之同为名词 「缺乏信任」最直接的结果就是猜疑 An organization without trust 没有信任，自然 full of fear and suspicion（充满恐惧与 猜疑），suspicion 与 trust 正是反义对子，语义最贴。 H) pressure 义偏：压力非「不信任」的直接对应，且另有专属空 pressure 指「压力」，与「没有信任」不构成直接因果；它真正对应第 35 空…"
+  },
+  {
+   "n": 3,
+   "answer": "miserable",
+   "explain": "在名词 time 前作定语，要形容词 在不信任你的老板手下，日子很难受 前提是 If you work for a boss who doesn't trust their employees，被处处盯防、纠错、 催促，have a miserable time（日子很难受）色彩与情境吻合。 B) credible 搭配＋色彩双错：credible time 不成立 credible「可信的」修饰 time 讲不通（没有「可信的时光」一…"
+  },
+  {
+   "n": 4,
+   "answer": "constantly",
+   "explain": "修饰现在分词 reminding，要副词 呼应「all the time」，描述不停地提醒 前句 They'll be checking up on you all the time 已说「一直盯着」，本句 constantly （不断地）reminding 与之同调，刻画不信任的老板没完没了地提醒。"
+  },
+  {
+   "n": 5,
+   "answer": "watching",
+   "explain": "spend time doing 结构，空填动名词 watch one's back＝提防背后、互相防备 上下文是互不信任的同事 Colleagues who don't trust one another，watching their backs（时刻提防）正刻画这种防备，比埋头干活还费时间，语义贴切。"
+  },
+  {
+   "n": 6,
+   "answer": "records",
+   "explain": "动词 keep 的宾语，且被 large volumes of 修饰，要名词 因不信任供应商客户而留存大量「记录/档案」 下文给出原因 because they don't trust their suppliers, their contractors or their customers——不信任就要留底，keep large volumes of records（保存大量记录）逻辑 最顺。 F) load 义不合：load 是「负…"
+  },
+  {
+   "n": 7,
+   "answer": "removed",
+   "explain": "could be ___ 被动语态，空填过去分词 无价值的工作被「去掉」，才能省下数百万 下文 the savings would run into millions of dollars——只有把 valueless work 去除 （removed）才能省钱，removed（被去除）与「省钱」因果直连。 N) tracked 逻辑反：追踪工作不会带来节省 tracked「被追踪」与下文「省下数百万」对不上——追踪只会增加工作而非减少…"
+  },
+  {
+   "n": 8,
+   "answer": "load",
+   "explain": "we ___ onto ourselves，主语 we 后缺谓语，要动词 load ... onto＝把（负担）加到……身上 本段说这些都是因不信任而 extra work we __(33)__ onto ourselves，load onto oneself （把额外活儿压到自己头上）是 load 作动词的典型搭配，语义贴切。"
+  },
+  {
+   "n": 9,
+   "answer": "properly",
+   "explain": "修饰动词 do them，要副词 与后文「or at all」对照，意为「把事做对/做好」 do them __(34)__—or at all 中 or at all 表「甚至根本不做」，前面应是「好好地做」， properly（妥当地、正确地）正好构成「做不好——甚至不做」的递进。 A) constantly 义不搭：此处讲「做得好不好」，不是「做得勤不勤」 constantly 意为「不断地」，与 or at all（根本不做）形…"
+  },
+  {
+   "n": 10,
+   "answer": "pressure",
+   "explain": "名词 work 后构成复合名词，作主语中心，要名词 work pressure＝工作压力，固定常见搭配 本段说去掉不信任带来的额外活儿后会怎样：How much of our work __(35)__ would disappear?，work pressure（工作压力）是地道搭配，且「压力消失」逻辑顺。 F) load 搭配略逊且本词另有更贴的空 load 也可作名词，但 work pressure 比 work load 在此更…"
+  }
+ ]
+}

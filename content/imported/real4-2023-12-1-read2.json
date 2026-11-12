@@ -1,0 +1,71 @@
+{
+ "id": "real4-2023-12-1-read2",
+ "type": "reading",
+ "level": "cet4",
+ "title": "2023年12月四级真题 第1套 阅读2",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "real4-2023-12-1",
+ "paperTitle": "2023年12月大学英语四级真题（第1套）",
+ "paperLevel": "cet4",
+ "paperYear": "2023-12",
+ "passage": "P1 Female employees consistently pay lower airfares than men do for the same flights because they tend to book earlier.\n\nP2 We compared the airfare paid by employees in the same position within a company for the same class of travel and used a common statistical technique to account for other factors that might affect differences in airfares. We found that women paid on average $18 less per ticket than their male colleagues. Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average.\n\nP3 We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late. None of these explained away the gender gap, so we applied data collected from surveys that express consumer preferences that play a central role in economic decisions, such as patience and risk avoidance.\n\nP4 We found that only the concept of \"negative reciprocity\"—in which an employee who feels unfairly treated engages in negative behaviors, such as spending their company's money less carefully— explains these differences. The surveys showed men tend to exhibit more of these negative behaviors than women. This isn't to say that all men engage in these behaviors—or that booking relatively late is a sign of abnormal behavior. It only means that the gender gap disappears when we plug in the negative reciprocity variable.\n\nP5 Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture.\n\nP6 Our results show another way these negative behaviors can manifest themselves, like in airline bookings, and add to evidence that women are less likely to engage in them.\n\nP7 Companies spend significant sums of money on business travel. While that $18 difference per ticket may seem small, it adds up. Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers.",
+ "questions": [
+  {
+   "q": "What did the author's team conclude about the gender difference in airfares from their further",
+   "options": [
+    "It is largely attributed to women booking earlier than men.",
+    "It is largely explained by women's choosing cheaper flights.",
+    "It is mainly accounted for by male employees' readiness to pay more.",
+    "It is due to the fact that women care more about their company's money."
+   ],
+   "answer": 0,
+   "explain": "题干 What did the author's team conclude 问作者团队得出了什么结论，是对文中已陈述 事实的提取，不需推断。 主干是 What did the author's team conclude about the gender difference in airfares，特殊疑问句，conclude 后接 about 引出结论的对象；句末 from their further investigation …"
+  },
+  {
+   "q": "What did the researchers want to determine by testing a variety of possible explanations?",
+   "options": [
+    "What made male frequent travelers book air tickets late.",
+    "What caused women to plan ahead in booking business trips.",
+    "What motivated women to book cheaper flights.",
+    "What accounted for the gender gap in airfares."
+   ],
+   "answer": 3,
+   "explain": "题干 What did the researchers want to determine 问研究者想弄清什么，答案是文中明 写的目的，属事实提取。 52. What did the researchers want to determine by testing a variety of possible explanations? A) What made male frequent travelers book air ticke…"
+  },
+  {
+   "q": "What happened when the negative reciprocity variable was taken into account?",
+   "options": [
+    "Both men and women were found to engage in negative behaviors.",
+    "Neither men nor women viewed booking late as a bad behavior.",
+    "The gender difference in airfare expenses no longer existed.",
+    "The gender gap tended to narrow to a significant degree."
+   ],
+   "answer": 2,
+   "explain": "题干 What happened when the negative reciprocity variable was taken into account 问“当变量被纳入后发生了什么”，结果文中明写，属细节。 主干 What happened when ...，when 引导时间状语从句，从句用被动 was taken into account；读懂“当负向回报这一变量被引入分析时”这个条件，结果句即答案。 53. What hap…"
+  },
+  {
+   "q": "What did prior research on negative reciprocity among workers find?",
+   "options": [
+    "It can do more harm to the workplace than to employees.",
+    "It contributes to the male-female divide in the workplace.",
+    "It proves to be counterproductive in a number of ways.",
+    "It can result in increasing labor-management conflicts."
+   ],
+   "answer": 2,
+   "explain": "题干 What did prior research ... find 问先前研究发现了什么，是文中已陈述的内容，属事 实提取。 主干 What did prior research on negative reciprocity among workers find，find 是问 点动词；among workers 限定研究对象，prior 限定时间，定位时认准“先前的、关于工人 的”那项研究。 Prior research on …"
+  },
+  {
+   "q": "What does the author emphasize about their analysis in the last paragraph?",
+   "options": [
+    "It can help companies increase their savings significantly.",
+    "It can duly contribute to companies' business performance.",
+    "It can translate women's booking practice into men's behavior.",
+    "It can enhance large multinational companies' competitiveness."
+   ],
+   "answer": 0,
+   "explain": "题干 What does the author emphasize about their analysis in the last paragraph 锁定 最后一段、问其强调点，答案在段内明写，属细节。 主干 What does the author emphasize about their analysis，emphasize 后 about 引出强调对象 their analysis；末尾 in the last paragr…"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "imp-cet4-real-2024-06-match",
+ "type": "matching",
+ "level": "cet4",
+ "title": "Reading Section B 长篇阅读匹配",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2024-06",
+ "paperTitle": "2024年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2024-06",
+ "sectionOrder": 3,
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Lectures are not disappearing Reports of the death of the lecture are premature. In most universities the large lecture hall is still used, and for good reasons. A single expert can introduce a whole field to four hundred students in an hour, and the shared experience of listening together is not easy to reproduce online. What has changed is the purpose: the lecture is now expected to introduce a topic and inspire interest, rather than to pass on information that students could read."
+  },
+  {
+   "label": "B",
+   "text": "The flipped classroom The most widespread change is the flipped classroom. Students read a chapter or watch a short video before the class, and the time with the teacher is used for problems, discussion and argument. Teachers who have tried it report that the first ten minutes are uncomfortable, because half the class has not prepared. After a few weeks, however, the proportion of prepared students rises sharply, and the questions become far better."
+  },
+  {
+   "label": "C",
+   "text": "Recording everything Almost every lecture is now recorded and posted online. The theory is attractive: students can pause, rewind and revise. The practice is more complicated. One study of engineering students found that although nearly everyone watched the recordings, most watched at double speed the night before the exam, and attendance in class fell by a third. The same study found that students who watched a recording twice and took notes did better than those who attended in person."
+  },
+  {
+   "label": "D",
+   "text": "A new kind of homework Homework has changed shape as well. Instead of writing a summary of a lecture, students are now asked to prepare a question, find a counter-example or explain a concept to a classmate. Some courses use short online quizzes that must be completed before the class begins. The quizzes are worth very little, but the answers tell the teacher exactly which ideas need more time, information that a lecture alone never provides."
+  },
+  {
+   "label": "E",
+   "text": "What students still need What students still need is harder to automate. They need someone to notice that they are struggling, to suggest a book that is not on the list, and to tell them honestly whether their essay is any good. Large lectures cannot do this, and neither can videos. Departments that have redesigned their courses usually say the same thing: the time saved by moving information online was most valuable when it was spent in small groups."
+  },
+  {
+   "label": "F",
+   "text": "The cost of change None of this is free. Preparing a good video takes a teacher perhaps eight hours, and redesigning a course can take a whole summer. Universities that expect the change to happen without support are often disappointed. A recent survey found that teachers who received help from a learning designer were twice as likely to say the new approach had improved their students' results."
+  }
+ ],
+ "statements": [
+  {
+   "text": "Recordings are popular, but many students watch them at high speed just before the exam.",
+   "answer": "C"
+  },
+  {
+   "text": "In some courses students must study the material before they come to class.",
+   "answer": "B"
+  },
+  {
+   "text": "Large lecture halls are still used and still have a purpose.",
+   "answer": "A"
+  },
+  {
+   "text": "Students still need personal attention that large lectures and videos cannot give.",
+   "answer": "E"
+  },
+  {
+   "text": "Redesigning a course takes a great deal of a teacher's time.",
+   "answer": "F"
+  }
+ ]
+}

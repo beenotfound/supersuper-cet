@@ -1,0 +1,83 @@
+{
+ "id": "imp6-r2025dec2-cloze",
+ "type": "cloze",
+ "level": "cet6",
+ "title": "2025年12月六级第二套",
+ "difficulty": 4,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "r2025dec2",
+ "paperTitle": "2025年12月大学英语六级第二套",
+ "paperLevel": "cet6",
+ "paperYear": "2025-12",
+ "passage": "We humans love to believe we are special, but science and technology have repeatedly proved this conviction wrong. People {{1}} thought that humans were the only animals capable of things like language, tool use, and culture, but science has shown that other animals do each of these things. Meanwhile, technology has quashed (使无效)，one by one, claims that {{2}} tasks require a human brain. The first adding machine was invented in 1623. This past year, a computer-generated work won an art contest. I believe the moment when computers meet and {{3}} human intelligence is on the horizon. than the brightest people? There will likely be a spectrum. In some {{4}} , people still value humans doing things, even if a computer can do it better. It’s been a quarter of a century since a computer beat world champion Garry Kasparov, but human chess hasn’t gone away. In other fields, human skill will seem costly and {{5}} . Take illustration for example: most readers don’t care whether the graphic {{6}} a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps {{7}} . And, of course, this question isn’t black or white. Many fields will be a {{8}} , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to {{9}} the machines. If history is any guide, it’s almost certain that advances in AI will cause more jobs to {{10}} , that creative technology will become the new ultra-rich.",
+ "bank": [
+  "A. accompanying",
+  "B. cognitive",
+  "C. domains",
+  "D. entertaining",
+  "E. evoking",
+  "F. hybrid",
+  "G. impetus",
+  "H. intuitive",
+  "I. once",
+  "J. oversee",
+  "K. redundant",
+  "L. stances",
+  "M. surpass",
+  "N. tentatively",
+  "O. vanish"
+ ],
+ "blanks": [
+  {
+   "n": 1,
+   "answer": "I. once",
+   "explain": ""
+  },
+  {
+   "n": 2,
+   "answer": "B. cognitive",
+   "explain": ""
+  },
+  {
+   "n": 3,
+   "answer": "M. surpass",
+   "explain": ""
+  },
+  {
+   "n": 4,
+   "answer": "C. domains",
+   "explain": ""
+  },
+  {
+   "n": 5,
+   "answer": "K. redundant",
+   "explain": ""
+  },
+  {
+   "n": 6,
+   "answer": "A. accompanying",
+   "explain": ""
+  },
+  {
+   "n": 7,
+   "answer": "D. entertaining",
+   "explain": ""
+  },
+  {
+   "n": 8,
+   "answer": "F. hybrid",
+   "explain": ""
+  },
+  {
+   "n": 9,
+   "answer": "J. oversee",
+   "explain": ""
+  },
+  {
+   "n": 10,
+   "answer": "O. vanish",
+   "explain": ""
+  }
+ ]
+}

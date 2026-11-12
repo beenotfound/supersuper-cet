@@ -1,0 +1,61 @@
+{
+ "id": "imp-cet4-real-2025-06-read1",
+ "type": "reading",
+ "level": "cet4",
+ "title": "Reading Section C 仔细阅读 1",
+ "difficulty": 3,
+ "source": "imported",
+ "targetWords": [],
+ "paperId": "cet4-real-2025-06",
+ "paperTitle": "2025年6月大学英语四级真题风格卷（原创题面）",
+ "paperLevel": "cet4",
+ "paperYear": "2025-06",
+ "sectionOrder": 4,
+ "passage": "Ask people to describe their ideal day and few will mention boredom. We treat it as a failure of planning, something to be removed with a phone, a game or another cup of coffee. Yet a growing number of psychologists argue that boredom is not an enemy at all. It may even be useful.\n\nIn a well-known experiment, volunteers were asked to spend fifteen minutes copying numbers from a telephone directory. Afterwards, they were given a test of creativity: they had to suggest as many uses as possible for a pair of plastic cups. The bored group produced far more original ideas than a control group who had spent the same time doing something pleasant. The researchers believe that when the mind is under-stimulated, it starts to search for new directions, connecting memories and ideas in ways that a busy mind cannot.\n\nBoredom also sends a signal. Just as hunger tells us to eat, boredom tells us that what we are doing is not meaningful, and it pushes us to change something: to call a friend, start a project or take a walk. People who never allow themselves to be bored may lose that signal, and with it the chance to notice what really matters to them.\n\nThe modern world, however, makes boredom almost impossible. Every spare minute can be filled with messages, videos and shopping. Some teachers therefore ask students to leave their phones at home for a day, and many report that the first hours are uncomfortable but that conversations become longer and homework gets finished faster. Perhaps the skill we need most is not entertainment, but the ability to sit with an empty moment and see what it brings.",
+ "questions": [
+  {
+   "q": "What do many psychologists now believe about boredom?",
+   "options": [
+    "It is mainly caused by poor planning.",
+    "It can be valuable to the mind.",
+    "It should be treated with coffee.",
+    "It is a sign of mental illness."
+   ],
+   "answer": 1,
+   "explain": "第一段说越来越多心理学家认为无聊根本不是敌人，甚至可能有用，故选 B。"
+  },
+  {
+   "q": "What did the telephone-directory experiment find?",
+   "options": [
+    "Bored people disliked the creativity test.",
+    "The control group was more creative.",
+    "Boredom made people feel tired quickly.",
+    "Bored people produced more original ideas."
+   ],
+   "answer": 3,
+   "explain": "第二段说抄号码簿而无聊的一组在随后的创造力测试中提出的原创想法远多于对照组，故选 D。"
+  },
+  {
+   "q": "What does the author compare boredom to?",
+   "options": [
+    "A game played on a phone.",
+    "A failure of daily planning.",
+    "A signal such as hunger.",
+    "A cup of coffee in the morning."
+   ],
+   "answer": 2,
+   "explain": "第三段把无聊比作饥饿：饥饿提醒我们进食，无聊提醒我们正在做的事没有意义，故选 C。"
+  },
+  {
+   "q": "What do some teachers ask their students to do?",
+   "options": [
+    "Leave their phones at home for a day.",
+    "Spend more time playing computer games.",
+    "Copy numbers from a directory every day.",
+    "Stop doing homework in the evening."
+   ],
+   "answer": 0,
+   "explain": "最后一段说一些老师要求学生一整天把手机留在家里，学生反映最初不适应，但交谈变长、作业完成得更快，故选 A。"
+  }
+ ]
+}
