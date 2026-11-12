@@ -344,7 +344,32 @@ python tools\deploy_all.py --github # 再补 GitHub Pages
 - GitHub Pages：`tools/deploy.py --lean` 走 Git Data API，只上传变化的 blob，跳过 >200KB 的原始 json
 - CI：`.github/workflows/deploy-cloudflare.yml`，需在仓库 Secrets 配 `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID`
 
-### 10.4 数据文件
+### 10.4 网络与传输（国内直连 GitHub）
+
+实测（2026-11，广州校园网）：
+
+| 项目 | 结果 |
+|---|---|
+| DNS（阿里/腾讯/Google） | 都解析到 20.205.243.166（新加坡），TCP 87ms、TLS 185ms |
+| 美国 140.82.x | 延迟 300ms+，codeload 仅 6KB/s，**不要用 hosts 指过去** |
+| api.github.com | 20/20 成功，平均 0.35s |
+| raw.githubusercontent.com | 能连但下载挂起，**禁用**（脚本统一走 API blob） |
+| git smart HTTP | 间歇性 0/5 全部 10s 超时，随后 3/3 成功 0.5s |
+| SSH ssh.github.com:443 | 握手正常（约 106ms） |
+
+**建议做法（不装任何软件）**：
+
+1. 用 Windows 自带 OpenSSH 走 **SSH over 443**：
+   - `ssh-keygen -t ed25519 -f %USERPROFILE%\.ssh\id_ed25519_github -N '""'`
+   - 公钥加到 GitHub → Settings → SSH and GPG keys
+   - `%USERPROFILE%\.ssh\config` 加 `Host github.com / HostName ssh.github.com / Port 443 / IdentityFile ~/.ssh/id_ed25519_github`
+   - `git remote set-url origin git@github.com:beenotfound/supersuper-cet.git`
+2. HTTPS 兜底：`http.version HTTP/1.1`、`http.postBuffer 512MB`、`http.lowSpeedLimit 1000`、`http.lowSpeedTime 60`（卡住快速失败）。
+3. 大提交用 `tools/git_push.ps1`（5 次指数退避）；体检用 `tools/net_check.ps1`。
+4. 不推荐改 hosts / DNS / MTU：当前解析已是最优，改美国 IP 反而更慢。
+5. 链路实在差时：日常推 Gitee，GitHub 用 Actions 定时同步（见 §10.3）。
+
+### 10.5 数据文件
 
 `site/data/` 下的 `.json.gz` 是运行时真正加载的文件（首次加载约 244 KB，题库懒加载约 700 KB，故事 62 KB）。原始 `.json` 仅作兼容回退，发布时可用 `--lean` 跳过上传。
 

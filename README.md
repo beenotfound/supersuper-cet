@@ -86,6 +86,13 @@ node tools\test_engine.mjs           # 校准 / 排期 / 队列的验收测试
 
 需要 Python 3.10+；`build_words.py` 首次需要 `data/source/` 里的原始数据（`tools/fetch_words.py` 下载）。
 
+## 国内网络
+
+- 发布不走 GitHub：`python tools\deploy_all.py` 直接传 Cloudflare（几秒到几十秒）。
+- 访问 GitHub 慢/断时，用 **SSH over 443**（Windows 自带 OpenSSH）：公钥加到 GitHub 后，`~/.ssh/config` 把 `github.com` 指向 `ssh.github.com:443`。
+- 体检：`powershell -File tools\net_check.ps1`；大提交：`powershell -File tools\git_push.ps1`。
+- 不要用 hosts 把 GitHub 指到美国 IP（实测更慢）；不要用 raw.githubusercontent.com（会挂起）。
+
 ## 发布
 
 主站是 Cloudflare Pages（国内打开更快），默认只发它：
