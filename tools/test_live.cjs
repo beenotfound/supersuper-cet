@@ -1,0 +1,22 @@
+﻿const PW = 'C:/Users/黄枫/Documents/deepseek-harness/default-workspace/mc_history/skills/garden-skills-main/skills/motion-showreel/scripts/node_modules/playwright';
+const { chromium } = require(PW);
+(async () => {
+  const browser = await chromium.launch({ channel: 'msedge', headless: true });
+  const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 }, serviceWorkers: 'block' });
+  const page = await ctx.newPage();
+  const errors = [];
+  page.on('pageerror', e => errors.push(e.message));
+  page.on('console', m => { const t=m.text(); if (m.type()==='error' && !t.includes('cloudflareinsights') && !t.includes('CORS') && !t.includes('ERR_FAILED')) errors.push(t); });
+  await page.goto('https://cet-prep-6ee.pages.dev/#/listening', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(1200);
+  const hint = await page.locator('text=按大题一题一题做').count();
+  const tones = await page.locator('.c-tag--violet').count();
+  const cards = await page.locator('.c-card').count();
+  await page.goto('https://cet-prep-6ee.pages.dev/#/listening/cet6-2024-12-01', { waitUntil: 'networkidle' });
+  await page.waitForTimeout(1200);
+  const players = await page.locator('audio').count();
+  const labels = await page.locator('.v-listening').innerText();
+  await page.screenshot({ path: 'shots/live-listening.png' });
+  console.log(JSON.stringify({ errors, hint, violetTags: tones, cards, players, segmentLabels: (labels.match(/第 \d \/ \d 段/g)||[]), firstChars: labels.slice(0,90) }, null, 2));
+  await browser.close();
+})();
