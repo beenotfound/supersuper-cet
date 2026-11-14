@@ -32,6 +32,8 @@ const SHELL = [
   './js/views/library.js',
   './js/views/listening.js',
   './js/views/report.js',
+  './js/views/records.js',
+  './js/domain/progress.js',
   './js/domain/report.js',
   './js/domain/pairing.js',
   './js/views/me.js',

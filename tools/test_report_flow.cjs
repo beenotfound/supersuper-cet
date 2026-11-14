@@ -37,9 +37,9 @@ const { chromium } = require(PW);
   const txt = await page.locator('#app').innerText();
   const state = await page.evaluate(() => {
     const s = JSON.parse(localStorage.getItem('cetcollage.v1') || '{}');
-    return { attempts: (s.examAttempts || []).length, last: (s.examAttempts || []).slice(-1)[0] || null };
+    return { attempts: (s.examAttempts || []).length, last: (s.examAttempts || []).slice(-1)[0] || null, wrongBook: (s.wrongBook || []).length, seen: Object.keys(s.practiceSeen || {}).length };
   });
   await page.screenshot({ path: 'shots/report-real.png' });
-  console.log(JSON.stringify({ errors, paperTitle: paperTitle.split('\n')[0], answered, hasReport: txt.includes('模考报告'), attempts: state.attempts, attemptKeys: state.last ? Object.keys(state.last) : [], attemptItems: state.last?.items?.length, writing: Boolean(state.last?.writing), translation: Boolean(state.last?.translation), snippet: txt.slice(0,180) }, null, 2));
+  console.log(JSON.stringify({ errors, paperTitle: paperTitle.split('\n')[0], answered, hasReport: txt.includes('模考报告'), attempts: state.attempts, attemptKeys: state.last ? Object.keys(state.last) : [], attemptItems: state.last?.items?.length, wrongBook: state.wrongBook, seen: state.seen, writing: Boolean(state.last?.writing), translation: Boolean(state.last?.translation), snippet: txt.slice(0,180) }, null, 2));
   await browser.close();
 })();
