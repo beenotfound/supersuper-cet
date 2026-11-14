@@ -135,7 +135,7 @@ docs/CONTENT_SCHEMA.md 题目 JSON 契约
 - 词频：hermitdave/FrequencyWords `en_50k`（MIT），用于估算难度
 - 题目：原创、程序生成，或来自公开整理仓库 [cypher-yht/dsh-plugins-exam-practice](https://github.com/cypher-yht/dsh-plugins-exam-practice)（MIT）、[Drhm1224/cet6-all-in-one](https://github.com/Drhm1224/cet6-all-in-one)、[123xzw999/cet4-exam-quiz](https://github.com/123xzw999/cet4-exam-quiz)（四级真题 2020–2026）；仅用于非商用学习
 - 文学角：Project Gutenberg / Wikisource 公版文本（作者去世 50 年以上），中文摘要由本站撰写
-- 听力：50 套真题听力（四级 23 / 六级 27，共 1158 小题），保留原始码率（128–320 kbps）与立体声，长音频按 ≤24 MiB 分段播放，总计约 1.08 GB；其中 7 个源文件本身是单声道。仅用于非商用学习；无标准答案的套卷支持自评
+- 听力：50 套真题听力（四级 23 / 六级 27，共 1158 小题），保留原始码率（128–320 kbps）与立体声，长音频按 ≤24 MiB 分段播放；音频托管在独立的 Cloudflare Pages 项目（https://cet-audio.pages.dev/），仓库只保留外链，不再包含音频文件。其中 7 个源文件本身是单声道。仅用于非商用学习；无标准答案的套卷支持自评
 
 ## 已知边界
 
