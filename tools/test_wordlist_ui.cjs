@@ -1,0 +1,36 @@
+﻿const PW = 'C:/Users/黄枫/Documents/deepseek-harness/default-workspace/mc_history/skills/garden-skills-main/skills/motion-showreel/scripts/node_modules/playwright';
+const { chromium } = require(PW);
+(async () => {
+  const browser = await chromium.launch({ channel: 'msedge', headless: true });
+  const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 }, serviceWorkers: 'block' });
+  const page = await ctx.newPage();
+  const errors = [];
+  page.on('pageerror', e => errors.push('PAGEERROR ' + e.message));
+  page.on('console', m => { const t=m.text(); if (m.type()==='error' && !t.includes('501') && !t.includes('ERR_FAILED') && !t.includes('cloudflareinsights')) errors.push('CONSOLE ' + t); });
+  await page.goto('http://127.0.0.1:8790/#/words', { waitUntil:'networkidle' });
+  await page.waitForTimeout(1200);
+  await page.getByRole('button', { name: '导入词表' }).click({ force: true });
+  await page.waitForTimeout(900);
+  const shortcutUrl = page.url();
+  const card = page.locator('.v-me__wordlist').first();
+  const shortcut = (await card.count()) === 1;
+  const ta = card.locator('textarea').first();
+  await ta.fill('abandon 放弃\nabide,忍受\ncampus\t校园\ndelicious 美味的');
+  await card.getByRole('button', { name: '导入单词表' }).click({ force: true });
+  await page.waitForTimeout(800);
+  const sheet = await page.locator('.c-sheet').innerText().catch(()=> '');
+  const close = page.getByRole('button', { name: '知道了' }).first();
+  if (await close.count()) await close.click({ force: true });
+  await page.waitForTimeout(400);
+  const state = await page.evaluate(() => {
+    const s = JSON.parse(localStorage.getItem('cetcollage.v1') || '{}');
+    const custom = s.custom || [];
+    return { custom: custom.length, spells: custom.filter(i=>i.type==='spell').length, w2m: custom.filter(i=>i.type==='w2m').length, first: custom[0] };
+  });
+  await page.goto('http://127.0.0.1:8790/#/exam', { waitUntil:'networkidle' });
+  await page.waitForTimeout(1000);
+  const tile = page.locator('.v-exam__tile', { hasText:'词汇速练' }).first();
+  const before = await page.evaluate(() => JSON.parse(localStorage.getItem('cetcollage.v1') || '{}').custom.length);
+  console.log(JSON.stringify({ errors, shortcutUrl, shortcut, sheet: sheet.slice(0,160), state, examLoaded: (await tile.count()) === 1, before }, null, 2));
+  await browser.close();
+})();
