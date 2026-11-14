@@ -231,7 +231,7 @@ A：阅读器底部再点一次「标记未读」即可，状态会在列表和�
 A：已针对 iOS WebKit 修过（16px 字号 + `min-width: 0` + 关闭原生外观）；仍异常请告诉我机型和浏览器。
 
 **Q：能看多少人访问吗？**
-A：能看聚合 PV/UV（Cloudflare Web Analytics），看不到具体是谁；统计从安装脚本那天开始，之前的数据无法回溯。
+A：能看聚合 PV/UV（Cloudflare Web Analytics）和匿名事件（`tools/analytics_report.py`：DAU、留存、校准/听力完成率）；看不到具体是谁，也不记录学习内容。
 
 **Q：能离线用吗？**
 A：可以。首次加载后词库、题库、阅读都会缓存；AI 需要联网。

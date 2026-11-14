@@ -1,0 +1,8 @@
+name = "cet-prep"
+pages_build_output_dir = "site"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cet_analytics"
+database_id = "6b8e6d42-7be7-45f5-ae5e-37aae6f4d7af"

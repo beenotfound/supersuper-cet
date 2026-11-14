@@ -87,6 +87,24 @@ node tools\test_engine.mjs           # 校准 / 排期 / 队列的验收测试
 
 需要 Python 3.10+；`build_words.py` 首次需要 `data/source/` 里的原始数据（`tools/fetch_words.py` 下载）。
 
+## 匿名统计（无账号、无第三方）
+
+站点只上报匿名事件到 Cloudflare Pages Function（`/api/e`），落库在 Cloudflare D1：
+
+- 只记录：随机匿名 ID（localStorage，仅本站）、事件名、页面路径、少量计数（如完成题数、评分档位）
+- 不记录：单词内容、答案文本、AI Key、任何个人信息
+- Service Worker 不含音频；统计请求不影响离线学习
+- 关闭方式：「我的 → 匿名统计 → 关闭」，或浏览器开启 DNT / GPC
+
+事件：`app_open`、`page_view`、`calibration_start/complete`、`recheck_start/complete`、`study_start/answer/finish`、`listening_start/submit`、`exam_start/finish`。
+
+看数据：
+
+```powershell
+$env:CLOUDFLARE_API_TOKEN = "..."
+python tools\analytics_report.py   # DAU、次日/7日留存、校准/学习/听力完成率
+```
+
 ## 国内网络
 
 - 发布不走 GitHub：`python tools\deploy_all.py` 直接传 Cloudflare（几秒到几十秒）。
