@@ -21,7 +21,7 @@
     "One wants the best food but their budget is limited."
    ],
    "answer": 3,
-   "explain": "What is the classic grocery store dilemma? 没有 infer/suggest/imply 等推断标记，而 是直接询问文中某一表述指什么。 What is the classic grocery store dilemma? 是一个简单的主系表疑问句，主干为 What is the dilemma，无否定、比较或从句陷阱。 On the one hand, your family dinner t…"
+   "explain": "【判型】What is the classic grocery store dilemma? 没有 infer/suggest/imply 等推断标记，而 是直接询问文中某一表述指什么。\n\n【拆句】What is the classic grocery store dilemma? 是一个简单的主系表疑问句，主干为 What is the dilemma，无否定、比较或从句陷阱。\n\n【定位】On the one hand, your family dinner table deserves only the best. On the other hand, your wallet can only stretch so far. 一方面，你家餐桌上的人只配吃最好的；另一方面，你的钱包只能撑到这么多。\n\n【选项】A) 偷换概念 A 项说'是否应该吃有机食品'，这是文章讨论的大话题，而非 the classic grocery store dilemma 所指的具体两难处境。 B) 以偏概全 B 项只提到'钱包能撑多远'，把原文预算受限的一面单独拿出来，却丢掉了'想要最好的食 物'这一面，不能完整解释 dilemma。 C) 无中生有 C 项说有机食品'当然更好吃'，但原文 P1 只提到' deserves only the best'，并未说明 best 指味道，更无 certainly tastes better 的依据。 D) ✓ 正确 your family dinner table deserves only the best ↔One wants the best food your wallet can only stretch so far ↔their budget is limited D 项把 On the one hand ... On the other hand ... 的两侧都概括进去，既提到'想要最 好的食物'，也提到'预算有限'。 46. What is the classic grocery store dilemma? A) Whether or not one should eat organic food. B) Whether or not one can stretch their wallet far. C) Organic food costs more but it certainly tastes better. D) One wants the best food but their budget is limited. 科学研究让我们了解到有机食品的哪些情况？ A) 它是否更好仍不确定。 B) 它是否更健康仍在研究之中。 C) 它是否比常规食品更有营养尚有争议。 D) 它是否会取代常规食品仍不清楚。"
   },
   {
    "q": "What do we learn about organic food from science?",
@@ -32,7 +32,7 @@
     "Whether it is going to replace conventional food is still unclear."
    ],
    "answer": 0,
-   "explain": "What do we learn about organic food from science? 用 learn 提问，表面像细节，实则 要求把科学观点概括后推出。 What do we learn about organic food from science? 主干为 What do we learn about A from B，about 引出对象，from 引出信息来源，无复杂从句。 Science won't give a…"
+   "explain": "【判型】What do we learn about organic food from science? 用 learn 提问，表面像细节，实则 要求把科学观点概括后推出。\n\n【拆句】What do we learn about organic food from science? 主干为 What do we learn about A from B，about 引出对象，from 引出信息来源，无复杂从句。\n\n【定位】Science won't give a clear-cut answer to the question of whether organic food is 'better'. 科学不会对'有机食品是否更好'这个问题给出一个明确的答案。\n\n【选项】A) ✓ 正确 Science won't give a clear-cut answer ↔Whether it is any better remains uncertain. whether organic food is 'better'] ↔Whether it is any better A 项 'Whether it is any better remains uncertain' 准确概括了 Science won't give a clear-cut answer to the question of whether organic food is 'better'. 的核心含义。 B) 偷换概念 B 项说'是否更健康仍在考虑中'，但原文说的是科学没有 clear-cut answer，而不是该问 题'正在考虑'。 C) 与原文相反 C 项说'是否更有营养还可争论'，但 Organic and conventionally grown food are equally nutritious. 已明确给出结论：两者营养相同，不存在可争论空间。 D) 无中生有 D 项说'是否会取代传统食品仍不清楚'，但全文没有讨论 organic food 取代 conventional food 的问题，属于无中生有。 47. What do we learn about organic food from science? A) Whether it is any better remains uncertain. B) Whether it is healthier is under consideration. C) Whether it is more nutritious than conventional food is arguable. D) Whether it is going to replace conventional food is still unclear. 就食品安全而言，文章对有机产品和非有机产品作何说明？ A) 二者的区别在于检测它们所采用的规范。 B) 二者在所残留农药的多少方面存在差异。 C) 一者依赖农药，而另一者不依赖农药。 D) 二者之间没有实质性差异。"
   },
   {
    "q": "What does the passage say about organic and non-organic products as far as food safety is",
@@ -43,7 +43,7 @@
     "There is no substantial difference between the two."
    ],
    "answer": 3,
-   "explain": "What does the passage say about organic and non-organic products as far as food safety is concerned? 要求找文章对某具体问题的明确说法。 What does the passage say about organic and non-organic products as far as food safety is concerned? …"
+   "explain": "【判型】What does the passage say about organic and non-organic products as far as food safety is concerned? 要求找文章对某具体问题的明确说法。\n\n【拆句】What does the passage say about organic and non-organic products as far as food safety is concerned? 中 as far as ... is concerned 是固定搭配，意为'就……而言'，把讨论 范围限定在食品安全。\n\n【定位】There is also no big difference between organic and non-organic products from a food- safety perspective. 从食品安全的角度来看，有机产品和非有机产品之间也没有很大差别。\n\n【选项】A) 偷换概念 A 项说'差异在于测试它们的惯例'，但原文 P5 没有任何关于 testing conventions 的讨 论，conventional 与 conventions 被强行混淆。 B) 与原文相反 B 项说'两者在农药残留量上有差异'，但 Testing shows little if any pesticide remains on conventionally grown products. 表明传统种植产品上的农药残留极少，且总体结 论是没有 big difference。 C) 与原文相反 C 项说'一种用农药，另一种不用'，但 Even organic growers use pesticides. 明确说明 有机种植者也使用农药。 D) ✓ 正确 no big difference ↔no substantial difference from a food-safety perspective ↔as far as food safety is concerned D 项 'There is no substantial difference between the two' 与 There is also no big difference between organic and non-organic products from a food-safety perspective. 几乎逐词对应。 48. What does the passage say about organic and non-organic products as far as food safety is concerned? A) Their difference is the conventions used to test them. B) They differ in how much pesticide remains on them. C) One relies on pesticides whereas the other does not. D) There is no substantial difference between the two. 作者如何评价有机农业？ A) 它可能要为全球蜜蜂数量的减少负责。 B) 它在经营过程中最大限度地减少有争议农药的使用。 C) 它对环境的影响可能小于传统农业。 D) 它对地下水造成的污染与传统农业一样严重。"
   },
   {
    "q": "What does the author say about organic farming?",
@@ -54,7 +54,7 @@
     "It contaminates groundwater as much as conventional farming."
    ],
    "answer": 2,
-   "explain": "What does the author say about organic farming? 问的是作者对有机农业的具体看法， 可在文中找到直接陈述。 What does the author say about organic farming? 为简单疑问句，about organic farming 限定话题范围，无否定或比较结构。 On the whole, organic agriculture may have a smal…"
+   "explain": "【判型】What does the author say about organic farming? 问的是作者对有机农业的具体看法， 可在文中找到直接陈述。\n\n【拆句】What does the author say about organic farming? 为简单疑问句，about organic farming 限定话题范围，无否定或比较结构。\n\n【定位】On the whole, organic agriculture may have a smaller environmental footprint. 总体而言，有机农业可能对环境的影响更小。\n\n【选项】A) 张冠李戴 A 项说'有机农业可能因全球蜜蜂数量减少而受指责'，但原文 Organic farmers never use neonics, the controversial pesticides that have been linked to shrinking bee populations worldwide. 说的是有机农业不用导致蜜蜂减少的农药，反而应是被肯 定的。 B) 以偏概全 B 项说'它在运营中最小化使用有争议的农药'，但原文只提到有机农民 'never use neonics'，并未说'最小化使用所有争议农药'，且 P5-P6 还指出有机农业使用更多天然 农药。 C) ✓ 正确 organic agriculture ↔organic farming have a smaller environmental footprint ↔ impact the environment less than conventional farming C 项 'It may impact the environment less than conventional farming' 与 On the whole, organic agriculture may have a smaller environmental footprint. 语义完全 对应。 D) 与原文相反 D 项说'它污染地下水程度与传统农业相当'，但 the risk of groundwater contamination from organic farming is lower 明确说有机农业地下水污染风险更低。 49. What does the author say about organic farming? A) It may be blamed for the shrinking bee populations in the world. B) It minimizes the use of controversial pesticides in its operations. C) It may impact the environment less than conventional farming. D) It contaminates groundwater as much as conventional farming. 有机农业的支持者就其产量和效率提出了什么观点？ A) 随着新技术的出现，它们会迅速提高。 B) 通过更多的研究和投资，它们会显著提高。 C) 它们会伴随着巨大的健康益处一同实现。 D) 它们会大幅降低对环境造成的成本。"
   },
   {
    "q": "What do advocates of organic farming argue about its yields and efficiency?",
@@ -65,7 +65,7 @@
     "They would considerably lower the cost to the environment."
    ],
    "answer": 1,
-   "explain": "What do advocates of organic farming argue about its yields and efficiency? 问支持 者对某具体问题的论点。 What do advocates of organic farming argue about its yields and efficiency? 主干为 What do advocates argue about A，advocates of org…"
+   "explain": "【判型】What do advocates of organic farming argue about its yields and efficiency? 问支持 者对某具体问题的论点。\n\n【拆句】What do advocates of organic farming argue about its yields and efficiency? 主干为 What do advocates argue about A，advocates of organic farming 是动作主体，its yields and efficiency 是讨论对象。\n\n【定位】On the other hand, advocates of organic farming argue yields and efficiency could be significantly improved if the food industry devoted as much research and money to organic farming as it does conventional agriculture. 另一方面，有机农业的支持者认为，如果食品行业像投入传统农业那样把同样多的研究和资 金投入到有机农业上，产量和效率可能会显著提高。\n\n【选项】A) 偷换概念 A 项说'随着新技术出现，产量和效率会快速提升'，但原文条件为 'research and money'，并非 new technologies。 B) ✓ 正确 devoted as much research and money to organic farming as it does conventional agriculture ↔ with more research and investment significantly improved ↔improve remarkably B 项 'They would improve remarkably with more research and investment' 准确对 应 yields and efficiency could be significantly improved if ... devoted as much research and money ... 的条件与结果。 C) 无中生有 C 项说'产量和效率会伴随着巨大健康收益而实现'，但原文支持者只讨论 yields and efficiency，未提及 health benefits。 D) 答非所问 D 项说'它们会大幅降低环境成本'，但题干问的是 advocates 对 yields and efficiency 的论点，而非环境影响。"
   }
  ]
 }

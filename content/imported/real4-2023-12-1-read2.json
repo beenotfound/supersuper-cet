@@ -21,7 +21,7 @@
     "It is due to the fact that women care more about their company's money."
    ],
    "answer": 0,
-   "explain": "题干 What did the author's team conclude 问作者团队得出了什么结论，是对文中已陈述 事实的提取，不需推断。 主干是 What did the author's team conclude about the gender difference in airfares，特殊疑问句，conclude 后接 about 引出结论的对象；句末 from their further investigation …"
+   "explain": "【判型】题干 What did the author's team conclude 问作者团队得出了什么结论，是对文中已陈述 事实的提取，不需推断。\n\n【拆句】主干是 What did the author's team conclude about the gender difference in airfares，特殊疑问句，conclude 后接 about 引出结论的对象；句末 from their further investigation 是状语，交代结论的来源，是关键定位信号，结构平铺、无陷阱。\n\n【定位】Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average. 进一步调查使我们得出结论：这一差距很大程度上可由女性比男性订得更早这一事实来解 释，平均早 1.8 天。\n\n【选项】A) ✓ 正确 this gap is largely explained by the fact that women tended to book earlier than men ↔ It is largely attributed to women booking earlier than men 选项 largely attributed to women booking earlier than men 与预判“价差主要因女性 订得更早”完全吻合，是定位句的同义替换。 B) 无中生有 原文将价差归因于订得早，从未说女性“选了更便宜的航班”；women's choosing cheaper flights 是文中没有的新说法。 C) 偷换概念 原文成因是订得早晚，并非男性“更愿意多付钱”；male employees' readiness to pay more 把订得晚导致票价高，曲解成男性主动愿意付高价。 D) 张冠李戴 “女性更在乎公司的钱”是第 4 段负向回报机制的延伸，不是本题进一步调查的结论； women care more about their company's money 张冠李戴到本题。 研究人员想通过测试各种可能的解释来确定什么? A) 是什么使得经常出差的男性晚预订机票。 B) 是什么导致女性在预订商务旅行时提前计划。 C) 是什么促使女性预订更便宜的航班。 D) 是什么造成了机票价格的性别差距。"
   },
   {
    "q": "What did the researchers want to determine by testing a variety of possible explanations?",
@@ -32,7 +32,7 @@
     "What accounted for the gender gap in airfares."
    ],
    "answer": 3,
-   "explain": "题干 What did the researchers want to determine 问研究者想弄清什么，答案是文中明 写的目的，属事实提取。 52. What did the researchers want to determine by testing a variety of possible explanations? A) What made male frequent travelers book air ticke…"
+   "explain": "【判型】题干 What did the researchers want to determine 问研究者想弄清什么，答案是文中明 写的目的，属事实提取。 52. What did the researchers want to determine by testing a variety of possible explanations? A) What made male frequent travelers book air tickets late. B) What caused women to plan ahead in booking business trips. C) What motivated women to book cheaper flights. D) What accounted for the gender gap in airfares.\n\n【拆句】主干 What did the researchers want to determine，后接介词短语 by testing a variety of possible explanations 作方式状语，by 表手段；理清“通过检验多种解释”是手段、“想 弄清什么”才是问点，避免把手段当答案。\n\n【定位】We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late. 我们想弄清是什么造成了订商务差旅中的这些性别差异，于是检验了多种可能的解释，比如 女性选择提前规划，或男性常旅客倾向于晚订。\n\n【选项】A) 以偏概全 What made male frequent travelers book air tickets late 取自文中举例的待检解释 male frequent travelers being inclined to book late，是被检验的假设之一，不是研 究总目的。 B) 以偏概全 What caused women to plan ahead in booking business trips 同样取自待检举例 women choosing to plan ahead，是子假设而非研究要弄清的总问题。 C) 无中生有 What motivated women to book cheaper flights 中“女性订更便宜的航班”文中从未 出现，价差源于订得早而非选便宜航班。 D) ✓ 正确 what was causing these gender differences in booking business trips ↔ What accounted for the gender gap in airfares What accounted for the gender gap in airfares 正是预判“弄清性别价差成因”的同义 表达，锁定该项。 当消极互惠变量被考虑在内时发生了什么? A) 男性和女性都被发现有消极行为。 B) 男性和女性都不认为晚预订是一种不良行为。 C) 机票费用的性别差异不再存在。 D) 性别差距倾向于显著缩小。"
   },
   {
    "q": "What happened when the negative reciprocity variable was taken into account?",
@@ -43,7 +43,7 @@
     "The gender gap tended to narrow to a significant degree."
    ],
    "answer": 2,
-   "explain": "题干 What happened when the negative reciprocity variable was taken into account 问“当变量被纳入后发生了什么”，结果文中明写，属细节。 主干 What happened when ...，when 引导时间状语从句，从句用被动 was taken into account；读懂“当负向回报这一变量被引入分析时”这个条件，结果句即答案。 53. What hap…"
+   "explain": "【判型】题干 What happened when the negative reciprocity variable was taken into account 问“当变量被纳入后发生了什么”，结果文中明写，属细节。\n\n【拆句】主干 What happened when ...，when 引导时间状语从句，从句用被动 was taken into account；读懂“当负向回报这一变量被引入分析时”这个条件，结果句即答案。 53. What happened when the negative reciprocity variable was taken into account? A) Both men and women were found to engage in negative behaviors. B) Neither men nor women viewed booking late as a bad behavior. C) The gender difference in airfare expenses no longer existed. D) The gender gap tended to narrow to a significant degree.\n\n【定位】It only means that the gender gap disappears when we plug in the negative reciprocity variable. 它只是意味着，当我们把负向回报这一变量代入后，性别差距就消失了。\n\n【选项】A) 与原文相反 原文称男性比女性更常有此类行为 men tend to exhibit more of these negative behaviors than women，并非“男女都有”；Both men and women were found to engage in negative behaviors 与原文相悖，且非“代入变量后”的结果。 B) 偷换概念 原文只说晚订不必然是异常行为 booking relatively late is a sign of abnormal behavior 的免责说明，并非“男女都不视晚订为坏行为”，更不是代入变量后的结果。 C) ✓ 正确 the gender gap disappears ↔The gender difference in airfare expenses no longer existed The gender difference in airfare expenses no longer existed 与预判“性别差距消失” 完全对应，锁定该项。 D) 偷换概念 原文是差距“消失” the gender gap disappears，The gender gap tended to narrow to a significant degree 说成“显著缩小”，程度被改弱，与原文不符。 先前关于员工消极互惠的研究发现了什么? A) 它对工作场所的危害可能比对员工的危害更大。 B) 它加剧了工作场所的男女分化。 C) 它在多个方面被证明是适得其反的。 D) 它可能导致劳资冲突的增加。"
   },
   {
    "q": "What did prior research on negative reciprocity among workers find?",
@@ -54,7 +54,7 @@
     "It can result in increasing labor-management conflicts."
    ],
    "answer": 2,
-   "explain": "题干 What did prior research ... find 问先前研究发现了什么，是文中已陈述的内容，属事 实提取。 主干 What did prior research on negative reciprocity among workers find，find 是问 点动词；among workers 限定研究对象，prior 限定时间，定位时认准“先前的、关于工人 的”那项研究。 Prior research on …"
+   "explain": "【判型】题干 What did prior research ... find 问先前研究发现了什么，是文中已陈述的内容，属事 实提取。\n\n【拆句】主干 What did prior research on negative reciprocity among workers find，find 是问 点动词；among workers 限定研究对象，prior 限定时间，定位时认准“先前的、关于工人 的”那项研究。\n\n【定位】Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture. 先前关于工人负向回报的研究发现，它会导致员工积极性、业绩、职场士气与文化的下降。 54. What did prior research on negative reciprocity among workers find? A) It can do more harm to the workplace than to employees. B) It contributes to the male-female divide in the workplace. C) It proves to be counterproductive in a number of ways. D) It can result in increasing labor-management conflicts.\n\n【选项】A) 无中生有 原文未比较“对职场”与“对员工”谁伤害更大；do more harm to the workplace than to employees 凭空造出一个原文没有的比较。 B) 张冠李戴 “造成职场男女分化”是后文 P6 对本研究结果的引申，不是先前研究的发现； contributes to the male-female divide in the workplace 张冠李戴。 C) ✓ 正确 it can result in lower employee motivation, business performance and workplace morale(士气) and culture ↔It proves to be counterproductive in a number of ways counterproductive in a number of ways 正是预判“多方面负面下降”的抽象概括，锁 定该项。 D) 无中生有 原文后果是积极性、业绩、士气、文化下降，无“劳资冲突加剧”；increasing labor- management conflicts 是文中没有的新后果。 作者在最后一段强调了他们分析的什么内容? A) 它可以帮助公司显著增加节省。 B) 它可以适当地促进公司的业务绩效。 C) 它可以将女性的预订做法转化为男性的行为。 D) 它可以增强大型跨国公司的竞争力。"
   },
   {
    "q": "What does the author emphasize about their analysis in the last paragraph?",
@@ -65,7 +65,7 @@
     "It can enhance large multinational companies' competitiveness."
    ],
    "answer": 0,
-   "explain": "题干 What does the author emphasize about their analysis in the last paragraph 锁定 最后一段、问其强调点，答案在段内明写，属细节。 主干 What does the author emphasize about their analysis，emphasize 后 about 引出强调对象 their analysis；末尾 in the last paragr…"
+   "explain": "【判型】题干 What does the author emphasize about their analysis in the last paragraph 锁定 最后一段、问其强调点，答案在段内明写，属细节。\n\n【拆句】主干 What does the author emphasize about their analysis，emphasize 后 about 引出强调对象 their analysis；末尾 in the last paragraph 限定到最后一段，定位即在该 段内。\n\n【定位】Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers. 我们的分析表明，女性的早订每年可为一家拥有两万名常旅客的大型跨国公司带来一百万美 元的节省。 55. What does the author emphasize about their analysis in the last paragraph? A) It can help companies increase their savings significantly. B) It can duly contribute to companies' business performance. C) It can translate women's booking practice into men's behavior. D) It can enhance large multinational companies' competitiveness.\n\n【选项】A) ✓ 正确 early booking by women can translate into savings of $1 million a year ↔ It can help companies increase their savings significantly help companies increase their savings significantly 正是预判“早订为公司省大钱”的 概括，锁定该项。 B) 张冠李戴 “提升业绩”是第 5 段先前研究提到的 business performance，不是末段分析所强调的内 容；contribute to companies' business performance 张冠李戴到本段。 C) 偷换概念 原文 translate into 的宾语是 savings（节省），不是“把女性的做法变成男性的行为”； translate women's booking practice into men's behavior 借同一动词曲解原意。 D) 过度推断 原文只谈为公司省钱，未涉及“提升竞争力”；enhance large multinational companies' competitiveness 是过度引申出的新结论。"
   }
  ]
 }

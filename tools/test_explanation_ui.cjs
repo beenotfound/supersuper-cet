@@ -1,0 +1,26 @@
+﻿const PW='C:/Users/黄枫/Documents/deepseek-harness/default-workspace/mc_history/skills/garden-skills-main/skills/motion-showreel/scripts/node_modules/playwright';
+const {chromium}=require(PW);
+(async()=>{
+ const browser=await chromium.launch({channel:'msedge',headless:true});
+ const ctx=await browser.newContext({viewport:{width:1280,height:900},serviceWorkers:'block'});
+ const page=await ctx.newPage(); const errors=[]; let failures=0;
+ const check=(name,ok,detail='')=>{ console.log(`${ok?'PASS':'FAIL'}  ${name}${detail?'  '+detail:''}`); if(!ok) failures++; };
+ page.on('pageerror',e=>errors.push('PAGEERROR '+e.message));
+ page.on('console',m=>{const t=m.text(); if(m.type()==='error'&&!t.includes('ERR_FAILED')&&!t.includes('501')&&!t.includes('cloudflareinsights')) errors.push('CONSOLE '+t);});
+ await page.goto('http://127.0.0.1:8790/#/exam',{waitUntil:'networkidle'}); await page.waitForTimeout(700);
+ await page.evaluate(()=>{const s=JSON.parse(localStorage.getItem('cetcollage.v1')||'{}'); s.profile=s.profile||{}; s.profile.onboarded=true; s.profile.level='cet4'; s.theta=0; s.stats=s.stats||{streak:0}; localStorage.setItem('cetcollage.v1',JSON.stringify(s));});
+ await page.reload({waitUntil:'networkidle'}); await page.waitForTimeout(1100);
+ const tile=page.locator('.v-exam__tile',{hasText:'仔细阅读'}).first();
+ await tile.getByRole('button',{name:'开始'}).click({force:true}); await page.waitForTimeout(600);
+ const opt=page.locator('.v-exam__option').first(); if(await opt.count()) await opt.click({force:true});
+ const submit=page.getByRole('button',{name:'提交答案'}).first(); if(await submit.count()) await submit.click({force:true}); await page.waitForTimeout(500);
+ const texts=await page.locator('.v-exam__explain').allInnerTexts().catch(()=>[]);
+ const joined=texts.join('\n');
+ check('解析已渲染', texts.length>0, String(texts.length));
+ check('解析不是空内容', joined.trim().length>0);
+ check('解析明显长于旧 220 字上限', joined.length>300, String(joined.length));
+ check('解析没有被 220 字截断', !/^.{0,260}…$/s.test(joined));
+ check('无页面 JS 错误', errors.length===0, errors.join(' | '));
+ console.log(failures?`\n${failures} failed`:'\nALL PASS');
+ await browser.close(); process.exit(failures?1:0);
+})();

@@ -40,11 +40,14 @@ function hash(text) {
 
 function flatExplain(explain) {
   if (!explain) return '';
-  const raw = typeof explain === 'string'
-    ? explain
-    : Object.values(explain).filter((v) => typeof v === 'string' && v.trim()).join(' ');
-  const text = raw.replace(/\s+/g, ' ').trim();
-  return text.length > 220 ? `${text.slice(0, 220)}…` : text;
+  const clean = (value) => String(value).replace(/\s+/g, ' ').trim();
+  if (typeof explain === 'string') return clean(explain);
+  // The source uses a structured {判型, 拆句, 定位, 信号, 替换, 选项} explanation.
+  // Keep every section (the old importer cut this at 220 chars with an ellipsis).
+  return Object.entries(explain)
+    .filter(([, value]) => typeof value === 'string' && value.trim())
+    .map(([label, value]) => `【${label}】${clean(value)}`)
+    .join('\n\n');
 }
 
 // ---- load all source papers
